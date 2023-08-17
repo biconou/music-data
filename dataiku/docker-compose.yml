@@ -1,0 +1,18 @@
+version: '2'
+
+
+services:
+
+  dataiku:
+    image: dataiku/dss
+    ports:
+      - "10000:10000"
+    networks:
+      - dataiku
+    volumes:
+     - ${PWD}/run:/home/dataiku/dss
+
+networks:
+
+  dataiku:
+    driver: bridge

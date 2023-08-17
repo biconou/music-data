@@ -1,0 +1,7 @@
+bundledCondaEnvPath=org_knime_pythonscripting
+eclipse.preferences.version=1
+python2CondaEnvironmentDirectoryPath=C\:\\ProgramData\\anaconda3
+python2Path=python
+python3CondaEnvironmentDirectoryPath=C\:\\Users\\rcocula\\.conda\\envs\\music-data
+python3Path=python3
+pythonEnvironmentType=conda

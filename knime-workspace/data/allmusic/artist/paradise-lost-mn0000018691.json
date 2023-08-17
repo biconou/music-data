@@ -1,0 +1,97 @@
+{
+  "id" : "paradise-lost-mn0000018691",
+  "name" : "Paradise Lost",
+  "basicInfo" : "['\\n', <h2>Paradise Lost - Artist Details</h2>, '\\n', <div class=\"active-dates\">\n<h3>Active</h3>\n<div>1980s - 2020s</div>\n</div>, '\\n', <div class=\"birth\">\n<h3>\n                Formed            </h3>\n<div>\n<a href=\"/birthdate/1988\">1988</a>                 in <a href=\"/birthplace/halifax-west-yorkshire-england-mz0000180600\">Halifax, West Yorkshire, England</a> </div>\n</div>, '\\n', <div class=\"genre\">\n<h3>Genre</h3>\n<div>\n<a href=\"https://www.allmusic.com/genre/pop-rock-ma0000002613\">Pop/Rock</a> </div>\n</div>, '\\n', <div class=\"styles\">\n<h3>Styles</h3>\n<div>\n<a href=\"https://www.allmusic.com/style/doom-metal-ma0000004496\">Doom Metal</a> <a href=\"https://www.allmusic.com/style/goth-metal-ma0000011855\">Goth Metal</a> <a href=\"https://www.allmusic.com/style/hard-rock-ma0000002636\">Hard Rock</a> <a href=\"https://www.allmusic.com/style/heavy-metal-ma0000002721\">Heavy Metal</a> <a href=\"https://www.allmusic.com/style/death-metal-ma0000002547\">Death Metal</a> </div>\n</div>, '\\n', <div class=\"group-members\">\n<h3>Group Members</h3>\n<div>\n<a data-tooltip='{\"id\":\"MN0000771328\",\"thumbnail\":true}' href=\"/artist/aaron-aedy-mn0000771328\" title=\"Aaron Aedy\">\n<span>\n                            Aaron Aedy                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000156981\",\"thumbnail\":true}' href=\"/artist/gregor-mackintosh-mn0000156981\" title=\"Gregor Mackintosh\">\n<span>\n                            Gregor Mackintosh                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000770974\",\"thumbnail\":true}' href=\"/artist/matthew-archer-mn0000770974\" title=\"Matthew Archer\">\n<span>\n                            Matthew Archer                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0001432908\",\"thumbnail\":true}' href=\"/artist/nick-holmes-mn0001432908\" title=\"Nick Holmes\">\n<span>\n                            Nick Holmes                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000034825\",\"thumbnail\":true}' href=\"/artist/steve-edmonson-mn0000034825\" title=\"Steve Edmonson\">\n<span>\n                            Steve Edmonson                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000337285\",\"thumbnail\":true}' href=\"/artist/nick-holmes-mn0000337285\" title=\"Nick Holmes\">\n<span>\n                            Nick Holmes                        </span>\n</a>\n</div>\n</div>, '\\n', <a class=\"submit-corrections\" href=\"https://www.allmusic.com/artist/paradise-lost-mn0000018691/corrections\" rel=\"noindex\">Submit Corrections</a>, '\\n']",
+  "styles" : [ {
+    "name" : "Doom Metal",
+    "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
+  }, {
+    "name" : "Goth Metal",
+    "url" : "https://www.allmusic.com/style/goth-metal-ma0000011855"
+  }, {
+    "name" : "Hard Rock",
+    "url" : "https://www.allmusic.com/style/hard-rock-ma0000002636"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  }, {
+    "name" : "Death Metal",
+    "url" : "https://www.allmusic.com/style/death-metal-ma0000002547"
+  } ],
+  "discography" : [ {
+    "albumYear" : "1990",
+    "albumTitle" : "Lost Paradise"
+  }, {
+    "albumYear" : "1991",
+    "albumTitle" : "Gothic"
+  }, {
+    "albumYear" : "1992",
+    "albumTitle" : "Shades of God"
+  }, {
+    "albumYear" : "1993",
+    "albumTitle" : "Icon"
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "Draconian Times"
+  }, {
+    "albumYear" : "1997",
+    "albumTitle" : "One Second"
+  }, {
+    "albumYear" : "1999",
+    "albumTitle" : "Host"
+  }, {
+    "albumYear" : "1999",
+    "albumTitle" : "Permanent Solution"
+  }, {
+    "albumYear" : "2001",
+    "albumTitle" : "Believe in Nothing"
+  }, {
+    "albumYear" : "2002",
+    "albumTitle" : "Symbol of Life"
+  }, {
+    "albumYear" : "2005",
+    "albumTitle" : "Paradise Lost"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "The Anatomy of Melancholy"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "In Requiem"
+  }, {
+    "albumYear" : "2008",
+    "albumTitle" : "The Anatomy of Melancholy"
+  }, {
+    "albumYear" : "2009",
+    "albumTitle" : "Faith Divides Us -- Death Unites Us"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "Tragic Idol"
+  }, {
+    "albumYear" : "2015",
+    "albumTitle" : "The Plague Within"
+  }, {
+    "albumYear" : "2017",
+    "albumTitle" : "Medusa"
+  }, {
+    "albumYear" : "2020",
+    "albumTitle" : "Obsidian"
+  }, {
+    "albumYear" : "2021",
+    "albumTitle" : "At the Mill"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Say Just Words"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Lost & the Painless"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Draconian Times: Legacy Edition"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Live at the Roundhouse"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Draconian Times: 25th Anniversary Edition"
+  } ]
+}

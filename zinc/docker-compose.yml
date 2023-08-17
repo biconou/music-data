@@ -1,0 +1,14 @@
+version: '2'
+
+services:
+
+  zinc:
+    image: public.ecr.aws/zinclabs/zinc:latest
+    restart: unless-stopped
+    environment:
+      ZINC_FIRST_ADMIN_USER: admin
+      ZINC_FIRST_ADMIN_PASSWORD: Complexpass#123
+    volumes:
+      - /mnt/DATA/develop/music-data/data/zinc:/data
+    ports:
+      - "4080:4080"

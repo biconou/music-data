@@ -1,0 +1,49 @@
+version: '3'
+
+services:
+  redis:
+    image: redis:alpine
+    environment:
+      - DOMAIN_NAME=redis.${BASEHOST:-pimcore.docker}
+    network_mode: bridge
+
+  mysql:
+    image: docker.io/library/mysql:${MYSQLVERSION:-8}
+    environment:
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD:-toor}
+      - DOMAIN_NAME=mysql.${BASEHOST:-pimcore.docker}
+    command: --innodb-doublewrite=0 --lower-case-table-names=1 --innodb-page-size=32K
+    network_mode: bridge
+
+  mailcatcher:
+    image: mailhog/mailhog
+    environment:
+      - VIRTUAL_HOST=mailcatcher.${BASEHOST:-pimcore.docker}
+      - VIRTUAL_PORT=8025
+    network_mode: bridge
+
+  application:
+    image: dockerwest/php-pimcore:${PHPVERSION:-8.0}
+    environment:
+      - C_UID=${C_UID:-1000}
+      - C_GID=${C_GID:-1000}
+      - DEVELOPMENT=${DEVELOPMENT:-1}
+    volumes:
+      - ${APPLICATION:-../pimcore}:/phpapp
+    links:
+      - mysql
+      - redis
+      - mailcatcher
+    network_mode: bridge
+
+  nginx:
+    image: dockerwest/nginx-pimcore${PIMCOREVERSION:-5}:${NGINXVERSION:-stable}
+    environment:
+      - VIRTUAL_HOST=${BASEHOST:-pimcore.docker},${EXTRAHOSTS}
+      - VIRTUAL_PORT=80
+    volumes:
+      - ${APPLICATION:-../pimcore}:/phpapp
+    links:
+      - application
+    network_mode: bridge
+

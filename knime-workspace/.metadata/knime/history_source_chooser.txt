@@ -1,0 +1,7 @@
+data/allmusic/artist/search
+data/allmusic/artist
+data/allmusic/artist/search/results
+C:\DATA\develop\music-data\data\allmusic\artist\artists.txt
+c:/DATA/develop/music-data/data/allmusic/artist/artists.txt
+/mnt/DATA/develop/music-data/data/allmusic/artist/artists.txt
+/mnt/DATA/develop/music-data/data/allmusic/artist/celtic-frost-mn0000191063

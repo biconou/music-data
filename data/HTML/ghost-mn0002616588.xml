@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+    <head>
+        <script>/**/window.location.href.indexOf(".allmusic.com")==-1&amp;&amp;window.stop();
+/**/</script>
+        <title>Ghost Songs, Albums, Reviews, Bio &amp; More | AllMusic</title>
+        <meta charset="utf-8">
+        </meta>
+        <meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible">
+        </meta>
+        <!-- iOS metadata -->
+        <meta content="no" name="apple-mobile-web-app-capable">
+        </meta>
+        <meta content="width=device-width" name="viewport">
+        </meta>
+        <!-- preload and load google font-->
+        <link href="https://fonts.googleapis.com" rel="preconnect">
+        </link>
+        <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+        </link>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,400&amp;display=swap" rel="stylesheet">
+        </link>
+        <!-- preload page css -->
+        <link as="style" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/css/pages/artist/artist-999666733e.css" rel="preload">
+        </link>
+        <!-- preload setup (header) js -->
+        <link as="script" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/js/setup-34ed2bfa61.js" rel="preload">
+        </link>
+        <!-- preload global (footer) js -->
+        <link as="script" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/js/global-47f27bd399.js" rel="preload">
+        </link>
+        <!-- preload page js -->
+        <link as="script" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/js/artist-a9eae95117.overview.js" rel="preload">
+        </link>
+        <!-- prefetch global -->
+        <link as="image" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/images/header/gear_off.svg" rel="preload">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/header/gear_on.svg" rel="prefetch">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/header/flag_off.svg" rel="prefetch">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/header/flag_on.svg" rel="prefetch">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/header/hamburger.svg" rel="prefetch">
+        </link>
+        <link as="image" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/images/header/looking-glass.svg" rel="preload">
+        </link>
+        <link as="image" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/images/social/facebook_off.svg" rel="preload">
+        </link>
+        <link as="image" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/images/social/twitter_off.svg" rel="preload">
+        </link>
+        <link as="image" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/images/social/tumblr_off.svg" rel="preload">
+        </link>
+        <link as="image" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/images/social/rss_off.svg" rel="preload">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/social/facebook_on.svg" rel="prefetch">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/social/twitter_on.svg" rel="prefetch">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/social/tumblr_on.svg" rel="prefetch">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/social/rss_on.svg" rel="prefetch">
+        </link>
+        <!-- preload page-level assets -->
+        <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=y8T96YL5KsFc1e9JdsCDOVWnbEN5fCjifro6xhIBuB4=&amp;f=4" rel="preload">
+        </link>
+        <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=MT8JinAL6ueAfcC4FdZw4VWnbEN5fCjifro6xhIBuB4=&amp;f=4" rel="preload">
+        </link>
+        <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=ZvtWmZM2eyQiz-Qex_CfAlWnbEN5fCjifro6xhIBuB4=&amp;f=4" rel="preload">
+        </link>
+        <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=df3vbDSA1Ab9j7GBciAcJ9_M69_UI9rrJSVvWL2-yAg=&amp;f=4" rel="preload">
+        </link>
+        <!-- android homescreen specific favicon -->
+        <link href="https://cdn-gce.allmusic.com/images/favicon/favicon-196x196.png?v=47BXOjEqB" rel="icon" sizes="196x196" type="image/png">
+        </link>
+        <!-- general favicon -->
+        <link href="https://cdn-gce.allmusic.com/images/favicon/favicon-96x96.png?v=47BXOjEqB" rel="icon" sizes="96x96" type="image/png">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/favicon/favicon-32x32.png?v=47BXOjEqB" rel="icon" sizes="32x32" type="image/png">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/favicon/favicon-16x16.png?v=47BXOjEqB" rel="icon" sizes="16x16" type="image/png">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/favicon/favicon.ico?v=47BXOjEqB" rel="shortcut icon" type="image/x-icon">
+        </link>
+        <!-- iOS specific favicons -->
+        <link href="https://cdn-gce.allmusic.com/images/favicon/ios/apple-touch-icon-120x120.png?v=47BXOjEqB" rel="apple-touch-icon-precomposed" sizes="120x120">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/favicon/ios/apple-touch-icon-76x76.png?v=47BXOjEqB" rel="apple-touch-icon-precomposed" sizes="76x76">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/favicon/ios/apple-touch-icon-152x152.png?v=47BXOjEqB" rel="apple-touch-icon-precomposed" sizes="152x152">
+        </link>
+        <link href="https://cdn-gce.allmusic.com/images/favicon/ios/apple-touch-icon-180x180.png?v=47BXOjEqB" rel="apple-touch-icon-precomposed" sizes="180x180">
+        </link>
+        <meta content="AllMusic" name="apple-mobile-web-app-title">
+        </meta>
+        <meta content="AllMusic" name="application-name">
+        </meta>
+        <link href="/rss" rel="alternate" title="RSS" type="application/rss+xml">
+        </link>
+        <link href="https://chrome.google.com/webstore/detail/kffpbhfpflaacppoegnbknokchggcoao" rel="chrome-webstore-item">
+        </link>
+        <meta content="Ghost Songs, Albums, Reviews, Bio &amp; More | AllMusic" name="title">
+        </meta>
+        <meta content="Prequelle,Impera,Opus Eponymous" name="keywords">
+        </meta>
+        <meta content="Explore Ghost's discography including top tracks, albums, and reviews. Learn all about Ghost on AllMusic." name="description">
+        </meta>
+        <meta content="https://rovimusic.rovicorp.com/image.jpg?c=y8T96YL5KsFc1e9JdsCDOVWnbEN5fCjifro6xhIBuB4=&amp;f=4" name="image">
+        </meta>
+        <meta content="AllMusic" property="og:site_name">
+        </meta>
+        <meta content="415271808519760" property="fb:app_id">
+        </meta>
+        <meta content="Ghost Songs, Albums, Reviews, Bio &amp; More | AllMusic" property="og:title">
+        </meta>
+        <meta content="Ghost Songs, Albums, Reviews, Bio &amp; More | AllMusic" name="twitter:title">
+        </meta>
+        <meta content="Explore Ghost's discography including top tracks, albums, and reviews. Learn all about Ghost on AllMusic." property="og:description">
+        </meta>
+        <meta content="Explore Ghost's discography including top tracks, albums, and reviews. Learn all about Ghost on AllMusic." name="twitter:description">
+        </meta>
+        <meta content="https://rovimusic.rovicorp.com/image.jpg?c=y8T96YL5KsFc1e9JdsCDOVWnbEN5fCjifro6xhIBuB4=&amp;f=4" property="og:image">
+        </meta>
+        <meta content="summary" name="twitter:card">
+        </meta>
+        <meta content="https://rovimusic.rovicorp.com/image.jpg?c=y8T96YL5KsFc1e9JdsCDOVWnbEN5fCjifro6xhIBuB4=&amp;f=4" name="twitter:image">
+        </meta>
+        <meta content="profile" property="og:type">
+        </meta>
+        <meta content="https://cdn-gce.allmusic.com/images/allmusic_facebook_share.png" property="og:image">
+        </meta>
+        <meta content="https://www.allmusic.com/artist/ghost-mn0002616588" property="og:url">
+        </meta>
+        <meta content="disable-all" name="spotim-ads">
+        </meta>
+        <link href="https://www.allmusic.com/artist/ghost-mn0002616588" rel="canonical">
+        </link>
+        <link crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/css/pages/artist/artist-999666733e.css" rel="stylesheet" type="text/css">
+        </link>
+        <!-- Alexa tag -->
+        <meta content="SfgYrX5roRNK_iy-Mr_tFkRlY7M" name="alexaVerifyID">
+        </meta>
+        <script crossorigin="anonymous" src="https://cdn-gce.allmusic.com/cache/dist/js/setup-34ed2bfa61.js">/**//**/</script>
+        <!-- GA4 block -->
+        <script>/**/
+			// set default values for data layer variables
+			var loggedInUser = 'notLoggedIn';
+			var subscribedUser = 'notSubscribed';
+			var adblockStatus = 'notAdblocking';
+			// override login and subscribed if logged in and/or subscribed
+			if(User.loggedIn) {
+			loggedInUser = 'isLoggedIn';
+			}
+			// override adblocker state, then push
+			async function setGA4() {
+			const googleAdUrl = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+			window.dataLayer = window.dataLayer || [];
+			var promise = await fetch(new Request(googleAdUrl))
+			.then(function() {
+			adblockStatus = 'notAdblocking';
+			}, function() {
+			adblockStatus = 'isAdblocking';
+			})
+			.finally(function() {
+			// check in Ad Blocker Nag needed
+			if( adblockStatus === 'isAdblocking' &amp;&amp; !Cookie.read('adblock_dismiss') ) {
+			$.ajax({
+			url: protocol + urlSubdomain + '.allmusic.com/blocker_check',
+			type: 'GET',
+			cache: false,
+			success: function (data) {
+			// append to body
+			$(document).find('body').append(data);
+			// lock body
+			$(document).find('body').addClass('noscroll');
+			document.getElementById('cmn-toolbar-wrap').style.zIndex = 20000;
+			}
+			});
+			}
+			dataLayer = [{'event': 'userData','loggedInUser': loggedInUser,'subscribedUser': subscribedUser,'adblockStatus': adblockStatus}];
+			&lt;!-- Google Tag Manager --&gt;
+			(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+			'gtm.start':
+			new Date().getTime(), event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s), dl = l != 'dataLayer' ? '&amp;l=' + l : '';
+			j.async = true;
+			j.src =
+			'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-M9HWTFG');
+			&lt;!-- End Google Tag Manager --&gt;
+			})
+			}
+			setGA4();
+		
+/**/</script>
+        <!-- UA block -->
+        <script>/**/
+			(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+			})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+			ga('create', 'UA-7096127-1', 'auto');
+			ga('send', 'pageview', 'artist/ghost-mn0002616588');
+			setTimeout("ga('send','event','adjusted bounce rate','page visit 15 seconds or more')", 15000);
+			if (loggedInUser === 'isLoggedIn') {
+			ga('set', 'dimension1', 'Yes');
+			ga('set', 'dimension3', 'No');
+			} else {
+			ga('set', 'dimension1', 'No');
+			}
+			// if adblocking, fire some UA custom dimensions
+			if(adblockStatus === 'isAdblocking') {
+			ga('send', 'event', 'setCustomDimension', 1, {
+			'dimension2': 'is_adblocking',
+			'nonInteraction': true
+			});
+			// fire ad block detected GA event
+			allmovie.gaTrackEvent({data: ["AdBlock", "Interaction", "User Has Adblock Enabled"]});
+			if (!Cookie.read('adblock_dismiss')) {
+			// fire ad block modal fires GA event
+			allmovie.gaTrackEvent({data: ["AdBlock", "Interaction", "AdBlock Modal Fires"]});
+			} else {
+			allmovie.gaTrackEvent({data: ["AdBlock", "Interaction", "User Has AdBlock Dismiss Cookie"]});
+			}
+			} else {
+			ga('send', 'event', 'setCustomDimension', 1, {
+			'dimension2': 'not_adblocking',
+			'nonInteraction': true
+			});
+			}
+		
+/**/</script>
+        <script type="text/javascript">/**/
+			window.ramp = window.ramp || {};
+			window.ramp.que = window.ramp.que || [];
+			window.ramp.passiveMode = true;
+			window.ramp.isMobile = isMobile_AllMusic;
+			window.ramp.forcePath = 'xfree-content'
+		/**/</script>
+        <script aysnc="true" src="//cdn.intergient.com/1024482/73599/ramp.js" type="text/javascript">/**//**/</script>
+        <script type="text/javascript">/**/
+			window._pwGA4PageviewId = ''.concat(Date.now());
+			window.dataLayer = window.dataLayer || [];
+			window.gtag = window.gtag || function () {
+			dataLayer.push(arguments);
+			};
+			gtag('js', new Date());
+			gtag('config', 'G-TL1KX27J9Z', { 'send_page_view': false });
+			gtag(
+			'event',
+			'ramp_js',
+			{
+			'send_to': 'G-TL1KX27J9Z',
+			'pageview_id': window._pwGA4PageviewId
+			}
+			);
+		/**/</script>
+        <script type="text/javascript">/**/
+			if (scroll_v7 == "no-scroll") {
+			if ( isMobile_AllMusic ) {
+			var pwUnits = [
+			{selectorId: 'AllMusic_LB_Top',type: 'leaderboard_atf'},{selectorId: 'AllMusic_R1',type: 'med_rect_atf'},{selectorId: 'AllMusic_LB_Foot',type: 'leaderboard_btf'},{type: 'bottom_rail'}
+			]
+			} else {
+			var pwUnits = [
+			{selectorId: 'AllMusic_LB_Top',type: 'leaderboard_atf'},{selectorId: 'AllMusic_R1',type: 'med_rect_atf'},{selectorId: 'AllMusic_R2',type: 'med_rect_btf'},{selectorId: 'AllMusic_LB_Foot',type: 'leaderboard_btf'},{type: 'bottom_rail'}
+			]
+			}
+			if ( screen.width &gt;= 970 ) {
+			pwUnits.push({type: 'flex_leaderboard'});
+			}
+			var init = function () {
+			ramp
+			.addUnits(pwUnits)
+			.then(() =&gt; {
+			ramp.displayUnits()
+			}).catch( (e) =&gt;{
+			ramp.displayUnits()
+			console.log(e)
+			});
+			}
+			ramp.onReady = function() {
+			console.log('Ads API is initialized')
+			if ( isMobile_AllMusic ) {
+			ramp.settings.device = 'mobile';
+			} else {
+			ramp.settings.device = 'desktop';
+			}
+			init();
+			}
+			}
+		/**/</script>
+        <script>/**/
+			if (scroll_v7 == "no-scroll") {
+			document.write("\x3Cscript data-cfasync='false'&gt;");
+			document.write("(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: '4.0', q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); ");
+			document.write("var b=c.createElement(s); b.src=u; b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//d3lcz8vpax4lo2.cloudfront.net/ads-code/11e3c341-3d2a-4da2-b79b-6c11421637a3.js')");
+			document.write("\x3C/script&gt;");
+			}
+		
+/**/</script>
+        <!-- Complex Video -->
+        <script>/**/
+!function(n){if(!window.cnxps){window.cnxps={},window.cnxps.cmd=[];var t=n.createElement('iframe');t.src='javascript:false'; t.display='none',t.onload=function(){var n=t.contentWindow.document,c=n.createElement('script');c.src='//cd.connatix.com/connatix.playspace.js?cid=cae9de00-2d08-4a2e-b32e-6898a4829ff6',c.setAttribute('async','1'),c.setAttribute('type','text/javascript'),n.body.appendChild(c)},n.head.appendChild(t)}}(document);
+/**/</script>
+        <script type="application/ld+json">/**/
+			{
+			"@context": "http://schema.org",
+			"@type": "MusicGroup",
+			"url": "https://www.allmusic.com/artist/ghost-mn0002616588",
+			"name": "Ghost",
+			"image": "https://rovimusic.rovicorp.com/image.jpg?c=y8T96YL5KsFc1e9JdsCDOVWnbEN5fCjifro6xhIBuB4=&amp;f=4",
+			"description": "Swedish hard rock band noted for hooky melodies, Satanism, outlandish costumes, and provocative stage shows.",
+			"member": [
+			{
+			"@type": "Person",
+			"name": "Papa Emeritus",
+			"url": "https://www.allmusic.com/artist/papa-emeritus-mn0003261730"
+			},
+			{
+			"@type": "Person",
+			"name": "Nameless Ghouls",
+			"url": "https://www.allmusic.com/artist/nameless-ghouls-mn0003099966"
+			}
+			],
+			"album": [
+			{
+			"@type": "MusicAlbum",
+			"url": "https://www.allmusic.com/album/prequelle-mw0003171742",
+			"name": "Prequelle",
+			"datePublished": "2018"
+			},
+			{
+			"@type": "MusicAlbum",
+			"url": "https://www.allmusic.com/album/impera-mw0003655260",
+			"name": "Impera",
+			"datePublished": "2022"
+			},
+			{
+			"@type": "MusicAlbum",
+			"url": "https://www.allmusic.com/album/opus-eponymous-mw0002056284",
+			"name": "Opus Eponymous",
+			"datePublished": "2010"
+			}
+			]
+			}
+		
+/**/</script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+		<html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+        <!--[if IE 7]>
+		<html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+        <!--[if IE 8]>
+		<html lang="en" class="no-js lt-ie9"> <![endif]-->
+        <!--[if gt IE 8]><!-->
+        <!--<![endif]-->
+        <noscript>
+            <div class="javascript-disabled" id="no-js">
+				AllMusic relies heavily on JavaScript.
+				<br>
+                </br>
+				Please enable JavaScript in your browser to use the site fully.
+			</div>
+        </noscript>
+        <!-- Google Tag Manager (noscript) QunatCast-->
+        <noscript>
+            <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-M9HWTFG" style="display:none;visibility:hidden" width="0">
+            </iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <div class="overflow-container artist">
+            <div class="stripe-container header-main-nav clearfix">
+                <div class="max-header">
+                    <div class="main-nav">
+                        <div class="logo-container">
+                            <a class="logo no-snap" href="/">
+                                <p class="logo-img">AllMusic</p>
+                            </a>
+                        </div>
+                        <nav aria-label="Toggle menu" class="mobile-menu">
+                        </nav>
+                        <div class="search-container">
+                            <form action="/search" class="site-search" method="post" name="site-search">
+                                <input aria-label="Search" autocomplete="off" class="site-search-input" name="term" placeholder="Search" type="search">
+                                </input>
+                                <input aria-label="Submit search" class="site-search-button" name="submit" type="submit" value="">
+                                </input>
+                            </form>
+                        </div>
+                        <nav class="site-nav">
+                            <div class="nav-contain">
+                                <div class="new-releases top-nav-item">
+                                    <a href="/newreleases">New Releases</a>
+                                    <div class="sub-nav-outer-container">
+                                        <div class="sub-nav-container">
+                                            <div class="sub-nav-columns">
+                                                <div class="new-releases-subnav left">
+                                                    <ul class="new-releases-nav">
+                                                        <li class="nr-featured">
+                                                            <a href="/newreleases">Featured New Releases</a>
+                                                        </li>
+                                                        <li class="nr-editorschoice">
+                                                            <a href="/newreleases/editorschoice">Editors' Choice</a>
+                                                        </li>
+                                                        <li class="nr-all">
+                                                            <a href="/newreleases/all">All New Releases</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="new-releases-subnav right">
+                                                    <div class="sub-nav-content">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="discover top-nav-item">
+                                    <a href="/discover">Discover</a>
+                                    <div class="sub-nav-outer-container">
+                                        <div class="sub-nav-container">
+                                            <div class="sub-nav-columns left">
+                                                <ul class="discover-nav">
+                                                    <li class="discover-drop-trigger active" id="discover-genres">
+                                                        <a href="/genres">
+															Genres
+															<span class="genres-arrow" style="display:none">  ›</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="discover-drop-trigger" id="discover-moods">
+                                                        <a href="/moods">
+															Moods
+															<span class="moods-arrow" style="display:none">  ›</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="discover-drop-trigger" id="discover-themes">
+                                                        <a href="/themes">
+															Themes
+															<span class="themes-arrow" style="display:none">  ›</span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="sub-nav-columns right">
+                                                <div class="discover-genre-secondary">
+                                                    <div class="genre-column">
+                                                        <!-- spacer to prevent hover weirdness -->
+                                                    </div>
+                                                    <div class="genre-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/genre/blues-ma0000002467">Blues</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/genre/classical-ma0000002521">Classical</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/genre/country-ma0000002532">Country</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="genre-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/genre/electronic-ma0000002572">Electronic</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/genre/folk-ma0000002592">Folk</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/genre/international-ma0000002660">International</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="genre-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/genre/jazz-ma0000002674">Jazz</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/genre/latin-ma0000002692">Latin</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/genre/new-age-ma0000002745">New Age</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="genre-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/genre/pop-rock-ma0000002613">Pop/Rock</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/genre/rap-ma0000002816">Rap</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/genre/r-b-ma0000002809">R&amp;B</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="genre-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/genre/reggae-ma0000002820">Reggae</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/genre/stage-screen-ma0000004432">Stage &amp; Screen</a>
+                                                            </li>
+                                                            <li class="last">
+                                                                <a href="/genres">All Genres</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="discover-mood-secondary" style="display:none;">
+                                                    <div class="mood-column">
+                                                        <!-- spacer to prevent hover weirdness -->
+                                                    </div>
+                                                    <div class="mood-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/mood/aggressive-xa0000000694">Aggressive</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/mood/bittersweet-xa0000000946">Bittersweet</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/mood/druggy-xa0000000979">Druggy</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="mood-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/mood/energetic-xa0000000990">Energetic</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/mood/happy-xa0000001016">Happy</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/mood/hypnotic-xa0000000719">Hypnotic</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="mood-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/mood/laid-back-mellow-xa0000001032">Laid Back/Mellow</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/mood/melancholy-xa0000000734">Melancholy</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/mood/passionate-xa0000001062">Passionate</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="mood-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/mood/romantic-xa0000000758">Romantic</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/mood/sad-xa0000000761">Sad</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/mood/sentimental-xa0000000765">Sentimental</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="mood-column">
+                                                        <ul>
+                                                            <li>
+                                                                <a href="/mood/sexy-xa0000000770">Sexy</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/mood/trippy-xa0000000749">Trippy</a>
+                                                            </li>
+                                                            <li class="last">
+                                                                <a href="/moods">All Moods</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="discover-theme-secondary" style="display:none;">
+                                                    <div class="theme-column">
+                                                        <!-- spacer to prevent hover weirdness -->
+                                                    </div>
+                                                    <div class="theme-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/theme/background-music-ma0000006329">Background Music</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/theme/celebration-ma0000005042">Celebration</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/theme/cool-cocky-ma0000006328">Cool &amp; Cocky</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="theme-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/theme/drinking-ma0000004252">Drinking</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/theme/hanging-out-ma0000006297">Hanging Out</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/theme/in-love-ma0000005076">In Love</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="theme-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/theme/introspection-ma0000006318">Introspection</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/theme/late-night-ma0000006321">Late Night</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/theme/partying-ma0000004272">Partying</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="theme-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/theme/rainy-day-ma0000005096">Rainy Day</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/theme/relaxation-ma0000006314">Relaxation</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/theme/road-trip-ma0000006287">Road Trip</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="theme-column">
+                                                        <ul>
+                                                            <li class="individual">
+                                                                <a href="/theme/romantic-evening-ma0000006312">Romantic Evening</a>
+                                                            </li>
+                                                            <li class="individual">
+                                                                <a href="/theme/sex-ma0000005107">Sex</a>
+                                                            </li>
+                                                            <li class="last">
+                                                                <a href="/themes">All Themes</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="blog top-nav-item">
+                                    <a href="/blog">Articles</a>
+                                    <div class="sub-nav-outer-container">
+                                        <div class="sub-nav-container clearfix">
+                                            <div class="sub-nav-columns">
+                                                <div class="blog-list">
+                                                    <ul>
+                                                        <li class="blog-features">
+                                                            <a href="/blog/features">Features</a>
+                                                        </li>
+                                                        <li class="blog-interviews">
+                                                            <a href="/blog/interviews-14">Interviews</a>
+                                                        </li>
+                                                        <li class="blog-lists">
+                                                            <a href="/blog/lists">Lists</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="blog-list">
+                                                    <ul>
+                                                        <li class="blog-stream">
+                                                            <a href="/blog/stream-and-download">Streams</a>
+                                                        </li>
+                                                        <li class="blog-promotions">
+                                                            <a href="/blog/videos-11">Videos</a>
+                                                        </li>
+                                                        <li class="blog-all">
+                                                            <a href="/blog">All Posts</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="blog-subnav right">
+                                                    <div class="sub-nav-blog-content">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="recommendations top-nav-item">
+                                    <a href="/recommendations">Recommendations</a>
+                                </div>
+                                <div class="my-profile top-nav-item">
+                                    <span aria-label="My Profile" class="my-profile-link">My Profile</span>
+                                </div>
+                                <div class="advanced-search top-nav-item">
+                                    <a class="advanced-search-link" href="/advanced-search">Advanced Search</a>
+                                </div>
+                            </div>
+                        </nav>
+                        <div class="user-social-nav">
+                            <nav class="social-nav">
+                                <ul>
+                                    <li class="facebook">
+                                        <a href="https://www.facebook.com/AllMusicDotCom" title="Like us on Facebook">Facebook</a>
+                                    </li>
+                                    <li class="twitter">
+                                        <a href="https://twitter.com/allmusic" title="Follow us on Twitter">Twitter</a>
+                                    </li>
+                                    <li class="tumblr">
+                                        <a href="https://allmusic.tumblr.com" title="Follow us on Tumblr">Tumblr</a>
+                                    </li>
+                                    <li class="rss">
+                                        <a href="/rss" target="_blank" title="Subscribe to our RSS feed">RSS</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                            <nav class="user-notifications">
+                                <ul>
+                                    <li class="user-notification-icon">
+                                    </li>
+                                </ul>
+                            </nav>
+                            <nav class="user-nav">
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="stripe-container header-leaderboard">
+                <div class="advertising leaderboard">
+                    <div id="AllMusic_LB_Top">
+                    </div>
+                </div>
+            </div>
+            <div id="cmn_wrap">
+                <div class="black-background-fixed">
+                </div>
+                <div class="content-container">
+                    <div class="content">
+                        <header>
+                            <div class="artist-bio-container">
+                                <div class="follow_container">
+                                    <hgroup>
+                                        <h1 class="artist-name">Ghost</h1>
+                                    </hgroup>
+                                    <button aria-label="Follow this artist" class="artist-follow customBtn" data-id="MN0002616588">
+                                        <p>Follow Artist +</p>
+                                    </button>
+                                </div>
+                            </div>
+                            <p class="biography">
+                                <span>Swedish hard rock band noted for hooky melodies, Satanism, outlandish costumes, and provocative stage shows.</span>
+                                <br>
+                                </br>
+                                <a href="https://www.allmusic.com/artist/ghost-mn0002616588/biography">Read Full Biography</a>
+                            </p>
+                        </header>
+                        <ul class="tabs overview">
+                            <li class="tab overview" data-sections="moods,themes">
+                                <a href="/artist/ghost-mn0002616588" title="Overview">
+									Overview
+									<span class="arrow">↓</span>
+                                </a>
+                            </li>
+                            <li class="tab biography">
+                                <a href="/artist/ghost-mn0002616588/biography" title="Biography">
+									Biography
+									<span class="arrow">↓</span>
+                                </a>
+                            </li>
+                            <li class="tab discography">
+                                <a href="/artist/ghost-mn0002616588/discography" title="Discography">
+									Discography
+									<span class="arrow">↓</span>
+                                </a>
+                            </li>
+                            <li class="tab songs">
+                                <a href="/artist/ghost-mn0002616588/songs" title="Songs">
+									Songs
+									<span class="arrow">↓</span>
+                                </a>
+                            </li>
+                            <li class="tab credits">
+                                <a href="/artist/ghost-mn0002616588/credits" title="Credits">
+									Credits
+									<span class="arrow">↓</span>
+                                </a>
+                            </li>
+                            <li class="tab awards">
+                                <a href="/artist/ghost-mn0002616588/awards" title="Awards">
+									Awards
+									<span class="arrow">↓</span>
+                                </a>
+                            </li>
+                            <li class="tab related">
+                                <a href="/artist/ghost-mn0002616588/related" title="Related">
+									Related
+									<span class="arrow">↓</span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="allmusic-share" data-sharemessage="Check out Ghost - Biography, Discography, Credits and Similar Artists - AllMusic -">
+                            <p>Share on</p>
+                            <ul class="share-menu">
+                                <li>
+                                    <a class="share-button facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.allmusic.com%2Fartist%2Fghost-mn0002616588" title="Share on Facebook">facebook</a>
+                                </li>
+                                <li>
+                                    <a class="share-button twitter" href="https://twitter.com/share?url=https%3A%2F%2Fwww.allmusic.com%2Fartist%2Fghost-mn0002616588&amp;text=Check+out+Ghost+-+Biography%2C+Discography%2C+Credits+and+Similar+Artists+-+AllMusic+-+&amp;counturl=https%3A%2F%2Fwww.allmusic.com%2Fartist%2Fghost-mn0002616588" title="Share on Twitter">twitter</a>
+                                </li>
+                                <li>
+                                    <a class="share-button tumblr" href="https://www.tumblr.com/share?s=&amp;v=3&amp;t=AllMusic+%7C+Music+Search%2C+Recommendations%2C+Videos+and+Review&amp;u=https%3A%2F%2Fwww.allmusic.com%2Fartist%2Fghost-mn0002616588" title="Share on Tumblr">tumblr</a>
+                                </li>
+                            </ul>
+                            <div class="share-modal">
+                                <span class="close-button">
+                                </span>
+                                <div class="share-frame">
+                                </div>
+                            </div>
+                        </div>
+                        <section class="album-highlights">
+                            <h3 class="headline">Album Highlights</h3>
+                            <ul>
+                                <li class="info-grid" data-linkurl="/album/prequelle-mw0003171742">
+                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MW0003171742&quot;}" href="/album/prequelle-mw0003171742" title="Prequelle">
+                                        <img alt="Prequelle" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=MT8JinAL6ueAfcC4FdZw4VWnbEN5fCjifro6xhIBuB4=&amp;f=4">
+                                        </img>
+                                    </a>
+                                    <div class="info">
+                                        <div class="artist">
+                                            <a href="https://www.allmusic.com/artist/ghost-mn0002616588">Ghost</a>
+                                        </div>
+                                        <div class="title">
+                                            <a href="https://www.allmusic.com/album/prequelle-mw0003171742">Prequelle</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="info-grid" data-linkurl="/album/impera-mw0003655260">
+                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MW0003655260&quot;}" href="/album/impera-mw0003655260" title="Impera">
+                                        <img alt="Impera" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=ZvtWmZM2eyQiz-Qex_CfAlWnbEN5fCjifro6xhIBuB4=&amp;f=4">
+                                        </img>
+                                    </a>
+                                    <div class="info">
+                                        <div class="artist">
+                                            <a href="https://www.allmusic.com/artist/ghost-mn0002616588">Ghost</a>
+                                        </div>
+                                        <div class="title">
+                                            <a href="https://www.allmusic.com/album/impera-mw0003655260">Impera</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="info-grid" data-linkurl="/album/opus-eponymous-mw0002056284">
+                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MW0002056284&quot;}" href="/album/opus-eponymous-mw0002056284" title="Opus Eponymous">
+                                        <img alt="Opus Eponymous" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=df3vbDSA1Ab9j7GBciAcJ9_M69_UI9rrJSVvWL2-yAg=&amp;f=4">
+                                        </img>
+                                    </a>
+                                    <div class="info">
+                                        <div class="artist">
+                                            <a href="https://www.allmusic.com/artist/ghost-mn0002616588">Ghost</a>
+                                        </div>
+                                        <div class="title">
+                                            <a href="https://www.allmusic.com/album/opus-eponymous-mw0002056284">Opus Eponymous</a>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                            <a href="https://www.allmusic.com/artist/ghost-mn0002616588/discography" id="seeFullDiscoLink">See Full Discography</a>
+                        </section>
+                        <div class="complex_suitcase">
+                            <!-- Complex Video -->
+                            <script id="6da80473507642439b32dbd880c8e0d4">/**/
+								(new Image()).src = 'https://capi.connatix.com/tr/si?token=879daa99-b822-4d7c-a5e6-f43411c11539&amp;cid=cae9de00-2d08-4a2e-b32e-6898a4829ff6';
+								cnxps.cmd.push(function () {
+								cnxps({playerId: "879daa99-b822-4d7c-a5e6-f43411c11539"}).render("6da80473507642439b32dbd880c8e0d4");
+								});
+							
+/**/</script>
+                        </div>
+                        <section class="insticator_ct">
+                            <h3 class="headline">AllMusic Quiz</h3>
+                            <!-- Insticator API Embed -->
+                            <div class="embedid-68073c06-4a0a-4d0d-87f9-2ddd27b57e67" id="insticator-container">
+                                <script>/**/
+									if (scroll_v7 == "no-scroll") {
+									document.write("
+									&lt;div id='div-insticator-ad-1'&gt;
+									&lt;/div&gt;");
+									document.write("
+									&lt;div id='insticator-embed'&gt;
+									&lt;/div&gt;");
+									document.write("
+									&lt;div id='div-insticator-ad-2'&gt;
+									&lt;/div&gt;");
+									document.write("\x3Cscript data-cfasync='false'&gt;");
+									document.write("Insticator.ad.loadAd('div-insticator-ad-1');Insticator.ad.loadAd('div-insticator-ad-2');Insticator.load('em',{id : '68073c06-4a0a-4d0d-87f9-2ddd27b57e67'});");
+									document.write("\x3C/script&gt;");
+									}
+								
+/**/</script>
+                            </div>
+                            <!-- End Insticator API Embed -->
+                        </section>
+                        <section class="related-artists">
+                            <h3 class="headline">Related Artists</h3>
+                            <ul>
+                                <li class="info-grid" data-linkurl="/artist/witchcraft-mn0000164592">
+                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MN0000164592&quot;}" href="/artist/witchcraft-mn0000164592" title="Witchcraft">
+                                        <img alt="Witchcraft" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/no-image.jpg'" src="https://rovimusic.rovicorp.com/image.jpg?c=fjQfwrBBxdgeQXOhjDxlehyhM-OFI8zG4l-qVpXXB1I=&amp;f=5">
+                                        </img>
+                                    </a>
+                                    <div class="info">
+                                        <div class="relation">Similar to</div>
+                                        <div class="artist">
+                                            <a href="/artist/witchcraft-mn0000164592" title="Witchcraft">Witchcraft</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="info-grid" data-linkurl="/artist/skeletonwitch-mn0000609732">
+                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MN0000609732&quot;}" href="/artist/skeletonwitch-mn0000609732" title="Skeletonwitch">
+                                        <img alt="Skeletonwitch" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/no-image.jpg'" src="https://rovimusic.rovicorp.com/image.jpg?c=SMBElymf7F2ykEyQ2Lzq5Q4Q1ghY8VaPylnm7PwcKNY=&amp;f=5">
+                                        </img>
+                                    </a>
+                                    <div class="info">
+                                        <div class="relation">Similar to</div>
+                                        <div class="artist">
+                                            <a href="/artist/skeletonwitch-mn0000609732" title="Skeletonwitch">Skeletonwitch</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="info-grid" data-linkurl="/artist/avatar-mn0000761167">
+                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MN0000761167&quot;}" href="/artist/avatar-mn0000761167" title="Avatar">
+                                        <img alt="Avatar" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/no-image.jpg'" src="https://rovimusic.rovicorp.com/image.jpg?c=SWOE9kHbRC0kMG-J51opGypQg_7iAU1wjqLgK_xGXts=&amp;f=5">
+                                        </img>
+                                    </a>
+                                    <div class="info">
+                                        <div class="relation">Similar to</div>
+                                        <div class="artist">
+                                            <a href="/artist/avatar-mn0000761167" title="Avatar">Avatar</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="info-grid" data-linkurl="/artist/kvelertak-mn0002526582">
+                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MN0002526582&quot;}" href="/artist/kvelertak-mn0002526582" title="Kvelertak">
+                                        <img alt="Kvelertak" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/no-image.jpg'" src="https://rovimusic.rovicorp.com/image.jpg?c=1bwtT0vKcNUsJ-lFL5ghLg4Q1ghY8VaPylnm7PwcKNY=&amp;f=5">
+                                        </img>
+                                    </a>
+                                    <div class="info">
+                                        <div class="relation">Similar to</div>
+                                        <div class="artist">
+                                            <a href="/artist/kvelertak-mn0002526582" title="Kvelertak">Kvelertak</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="info-grid" data-linkurl="/artist/electric-wizard-mn0000164175">
+                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MN0000164175&quot;}" href="/artist/electric-wizard-mn0000164175" title="Electric Wizard">
+                                        <img alt="Electric Wizard" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/no-image.jpg'" src="https://rovimusic.rovicorp.com/image.jpg?c=g9ty7rGk-Tcjypy0HfUjaoAf7E_1E-2MlBBPmPAXRBU=&amp;f=5">
+                                        </img>
+                                    </a>
+                                    <div class="info">
+                                        <div class="relation">Similar to</div>
+                                        <div class="artist">
+                                            <a href="/artist/electric-wizard-mn0000164175" title="Electric Wizard">Electric Wizard</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="info-grid" data-linkurl="/artist/cathedral-mn0000179809">
+                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MN0000179809&quot;}" href="/artist/cathedral-mn0000179809" title="Cathedral">
+                                        <img alt="Cathedral" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/no-image.jpg'" src="https://rovimusic.rovicorp.com/image.jpg?c=deS60gntDaMWy8vMcU2alh_TZlp6n_cq-Emr2zx15tU=&amp;f=5">
+                                        </img>
+                                    </a>
+                                    <div class="info">
+                                        <div class="relation">Similar to</div>
+                                        <div class="artist">
+                                            <a href="/artist/cathedral-mn0000179809" title="Cathedral">Cathedral</a>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                            <a href="https://www.allmusic.com/artist/ghost-mn0002616588/related">See All Related Artists</a>
+                        </section>
+                        <section class="moods">
+                            <h3 class="headline">Artists Moods</h3>
+                            <ul>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/aggressive-xa0000000694">Aggressive</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/dark-xa0000000970">Dark</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/demonic-xa0000000973">Demonic</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/driving-xa0000000978">Driving</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/fiery-xa0000001002">Fiery</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/gloomy-xa0000000714">Gloomy</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/macabre-xa0000001039">Macabre</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/malevolent-xa0000001041">Malevolent</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/mysterious-xa0000000738">Mysterious</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/nocturnal-xa0000001054">Nocturnal</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/ominous-xa0000001055">Ominous</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/provocative-xa0000001070">Provocative</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/understated-xa0000001130">Understated</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/mood/wintry-xa0000001141">Wintry</a>
+                                </li>
+                            </ul>
+                        </section>
+                        <section class="themes">
+                            <h3 class="headline">Artists Themes</h3>
+                            <ul>
+                                <li>
+                                    <a href="https://www.allmusic.com/theme/anger-hostility-ma0000005031">Anger/Hostility</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/theme/religion-ma0000005098">Religion</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.allmusic.com/theme/scary-music-ma0000005070">Scary Music</a>
+                                </li>
+                            </ul>
+                        </section>
+                    </div>
+                    <div class="sidebar">
+                        <div aria-label="View gallery for this artist" class="artist-image gallery-launch">
+                            <div class="artist-contain" title="Ghost">
+                                <img alt="Ghost" class="cropped-image media-gallery-image" height="300" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/no-image.jpg'" src="https://rovimusic.rovicorp.com/image.jpg?c=y8T96YL5KsFc1e9JdsCDOVWnbEN5fCjifro6xhIBuB4=&amp;f=4" width="302">
+                                </img>
+                                <div class="credit">Credit: Mikael Eriksson</div>
+                            </div>
+                        </div>
+                        <script>/**/var imageGallery = [{"override":false,"musicSort":"0","height":500,"width":500,"formatid":16,"author":"","copyrightOwner":"Mikael Eriksson","imageTypeId":0,"zoomLevel":null,"url":"https:\/\/rovimusic.rovicorp.com\/image.jpg?c=y8T96YL5KsFc1e9JdsCDOVWnbEN5fCjifro6xhIBuB4=&amp;f=5","title":"Ghost"},{"override":false,"musicSort":"1","height":500,"width":500,"formatid":16,"author":"","copyrightOwner":null,"imageTypeId":0,"zoomLevel":null,"url":"https:\/\/rovimusic.rovicorp.com\/image.jpg?c=Tex091ug0zzR6Wd4k8V31YAf7E_1E-2MlBBPmPAXRBU=&amp;f=5","title":"Ghost"},{"override":false,"musicSort":"1","height":281,"width":500,"formatid":16,"author":"","copyrightOwner":null,"imageTypeId":0,"zoomLevel":null,"url":"https:\/\/rovimusic.rovicorp.com\/image.jpg?c=TMdEZrLsHDjdRohW8Ea6mFWnbEN5fCjifro6xhIBuB4=&amp;f=5","title":"Ghost"},{"override":false,"musicSort":"1","height":333,"width":500,"formatid":16,"author":"","copyrightOwner":null,"imageTypeId":0,"zoomLevel":null,"url":"https:\/\/rovimusic.rovicorp.com\/image.jpg?c=W6h2uA57rSqllJL8BcQcR5hUoDg0hsvx4F4sL4oO-nA=&amp;f=5","title":"Ghost"},{"override":false,"musicSort":"1","height":334,"width":500,"formatid":16,"author":"","copyrightOwner":null,"imageTypeId":0,"zoomLevel":null,"url":"https:\/\/rovimusic.rovicorp.com\/image.jpg?c=3VDLI8AANdp5pfTuiHPBgw4Q1ghY8VaPylnm7PwcKNY=&amp;f=5","title":"Ghost"},{"override":false,"musicSort":"1","height":500,"width":333,"formatid":16,"author":"","copyrightOwner":null,"imageTypeId":0,"zoomLevel":null,"url":"https:\/\/rovimusic.rovicorp.com\/image.jpg?c=3VDLI8AANdp5pfTuiHPBgxyhM-OFI8zG4l-qVpXXB1I=&amp;f=5","title":"Ghost"},{"override":false,"musicSort":"2","height":500,"width":500,"formatid":16,"author":"","copyrightOwner":null,"imageTypeId":0,"zoomLevel":null,"url":"https:\/\/rovimusic.rovicorp.com\/image.jpg?c=TMdEZrLsHDjdRohW8Ea6mJhUoDg0hsvx4F4sL4oO-nA=&amp;f=5","title":"Ghost"},{"override":false,"musicSort":"2","height":333,"width":500,"formatid":16,"author":"","copyrightOwner":null,"imageTypeId":0,"zoomLevel":null,"url":"https:\/\/rovimusic.rovicorp.com\/image.jpg?c=RBgxrmUWekKD3xYWYHhRFVWnbEN5fCjifro6xhIBuB4=&amp;f=5","title":"Ghost"},{"override":false,"musicSort":"2","height":500,"width":333,"formatid":16,"author":"","copyrightOwner":null,"imageTypeId":0,"zoomLevel":null,"url":"https:\/\/rovimusic.rovicorp.com\/image.jpg?c=3VDLI8AANdp5pfTuiHPBg9_M69_UI9rrJSVvWL2-yAg=&amp;f=5","title":"Ghost"},{"override":false,"musicSort":"2","height":334,"width":500,"formatid":16,"author":"","copyrightOwner":null,"imageTypeId":0,"zoomLevel":null,"url":"https:\/\/rovimusic.rovicorp.com\/image.jpg?c=3VDLI8AANdp5pfTuiHPBg4Af7E_1E-2MlBBPmPAXRBU=&amp;f=5","title":"Ghost"}];
+/**/</script>
+                        <div class="streams bit" style="padding: 10px 0;">
+                            <script>/**/
+								/* TFP - allmusic.com - white bg */
+								(function() {
+								var opts = {
+								artist: "Ghost",
+								song: "",
+								adunit_id: 100000769,
+								div_id: "cf_async_" + Math.floor((Math.random() * 999999999))
+								};
+								if (isMobile_AllMusic) {
+								opts.adunit_id = 100000766;
+								}
+								document.write('
+								&lt;div id="'+opts.div_id+'"&gt;
+								&lt;/div&gt;');var c=function(){cf.showAsyncAd(opts)};if(typeof window.cf !== 'undefined')c();else{cf_async=!0;var r=document.createElement("script"),s=document.getElementsByTagName("script")[0];r.async=!0;r.src="//srv.tunefindforfans.com/fruits/apricots.js";r.readyState?r.onreadystatechange=function(){if("loaded"==r.readyState||"complete"==r.readyState)r.onreadystatechange=null,c()}:r.onload=c;s.parentNode.insertBefore(r,s)};
+								})();
+							
+/**/</script>
+                        </div>
+                        <aside class="aside_top">
+                            <div class="advertising medium-rectangle medium-rectangle-atf">
+                                <div id="AllMusic_R1">
+                                </div>
+                            </div>
+                            <section class="basic-info">
+                                <h2>Ghost - Artist Details</h2>
+                                <div class="active-dates">
+                                    <h3>Active</h3>
+                                    <div>2000s - 2020s</div>
+                                </div>
+                                <div class="birth">
+                                    <h3>Formed</h3>
+                                    <div>
+                                        <a href="/birthdate/2006">2006</a>
+										in
+										<a href="/birthplace/link%C3%B6ping-sweden-mz0000011177">Linköping, Sweden</a>
+                                    </div>
+                                </div>
+                                <div class="genre">
+                                    <h3>Genre</h3>
+                                    <div>
+                                        <a href="https://www.allmusic.com/genre/pop-rock-ma0000002613">Pop/Rock</a>
+                                    </div>
+                                </div>
+                                <div class="styles">
+                                    <h3>Styles</h3>
+                                    <div>
+                                        <a href="https://www.allmusic.com/style/doom-metal-ma0000004496">Doom Metal</a>
+                                        <a href="https://www.allmusic.com/style/heavy-metal-ma0000002721">Heavy Metal</a>
+                                        <a href="https://www.allmusic.com/style/black-metal-ma0000002463">Black Metal</a>
+                                        <a href="https://www.allmusic.com/style/goth-metal-ma0000011855">Goth Metal</a>
+                                        <a href="https://www.allmusic.com/style/pop-metal-ma0000002785">Pop-Metal</a>
+                                        <a href="https://www.allmusic.com/style/hard-rock-ma0000002636">Hard Rock</a>
+                                    </div>
+                                </div>
+                                <div class="aliases">
+                                    <h3>Also Known As</h3>
+                                    <div>
+                                        <div>Ghost B.C.</div>
+                                    </div>
+                                </div>
+                                <div class="group-members">
+                                    <h3>Group Members</h3>
+                                    <div>
+                                        <a data-tooltip="{&quot;id&quot;:&quot;MN0003261730&quot;,&quot;thumbnail&quot;:true}" href="/artist/papa-emeritus-mn0003261730" title="Papa Emeritus">
+                                            <span>Papa Emeritus</span>
+                                        </a>
+                                        <a data-tooltip="{&quot;id&quot;:&quot;MN0003099966&quot;,&quot;thumbnail&quot;:true}" href="/artist/nameless-ghouls-mn0003099966" title="Nameless Ghouls">
+                                            <span>Nameless Ghouls</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <a class="submit-corrections" href="https://www.allmusic.com/artist/ghost-mn0002616588/corrections" rel="noindex">Submit Corrections</a>
+                            </section>
+                        </aside>
+                        <aside class="aside_bottom">
+                            <div class="advertising medium-rectangle-btf">
+                                <div id="AllMusic_R2">
+                                </div>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+            <!-- end cmn_wrap -->
+            <div class="stripe-container footer-leaderboard">
+                <div class="advertising leaderboard">
+                    <div id="AllMusic_LB_Foot">
+                    </div>
+                </div>
+            </div>
+            <script crossorigin="anonymous" src="https://cdn-gce.allmusic.com/cache/dist/js/global-47f27bd399.js">/**//**/</script>
+            <script crossorigin="anonymous" src="https://cdn-gce.allmusic.com/cache/dist/js/artist-a9eae95117.overview.js">/**//**/</script>
+            <!-- Begin comScore Tag -->
+            <script>/**/
+				var _comscore = _comscore || [];
+				_comscore.push({ c1: "2", c2: "6685975" });
+				(function() {
+				var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+				})();
+			/**/</script>
+            <noscript>
+                <img alt="scorecard pixel" src="//b.scorecardresearch.com/p?c1=2&amp;c2=6685975&amp;cv=2.0&amp;cj=1">
+                </img>
+            </noscript>
+            <!-- End comScore Tag -->
+            <footer>
+                <div id="footer-wrapper">
+                    <div id="footer-grid">
+                        <img id="footer-logo" src="https://cdn-gce.allmusic.com/images/logo_tower_whiteonblack.svg">
+                        </img>
+                        <div class="footer-column" id="column1">
+                            <div id="properties">
+                                <h3>Our Properties</h3>
+                                <ul>
+                                    <li>
+                                        <p>
+                                            <a href="https://www.allmusic.com" title="AllMusic">AllMusic</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="https://www.allmovie.com" title="AllMovie">AllMovie</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="https://www.sidereel.com" title="SideReel">SideReel</a>
+                                        </p>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="footer-column" id="site-overview">
+                                <h3>Site Overview</h3>
+                                <ul>
+                                    <li>
+                                        <p>
+                                            <a href="/newreleases" title="New Releases">New Releases</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="/discover" title="Discover">Discover</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="/blog" title="Articles">Articles</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="/recommendations" title="Recommendations">Recommendations</a>
+                                        </p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="footer-column" id="column2">
+                            <div id="about">
+                                <h3>About</h3>
+                                <ul>
+                                    <li>
+                                        <p>
+                                            <a href="/about" title="What is AllMusic?">What is AllMusic?</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="/copyright-policy" title="Copyright Policy">Copyright Policy</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="/privacy-notice" title="Privacy Policy">Privacy Policy</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="/terms-of-service" title="Terms of Service">Terms of Service</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="/advertise" title="Advertise on AllMusic">Advertise</a>
+                                        </p>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div id="questions-contact">
+                                <h3>Questions and Contact</h3>
+                                <ul>
+                                    <li>
+                                        <p>
+                                            <a href="/faq" title="FAQ">FAQ</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="https://allmedianetwork.helprace.com/s1-allmusic" target="_blank" title="Feedback">Feedback</a>
+                                        </p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="footer-column" id="column3">
+                            <div id="your-account">
+                                <h3>Your AllMusic Account</h3>
+                                <ul>
+                                    <li>
+                                        <p>
+                                            <a aria-label="My profile" class="my-profile-link" href="javascript:void(0);" title="My Profile">My Profile</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="/user/profile" title="Account Settings">Account Settings</a>
+                                        </p>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div id="remove-ads">
+                                <h3>Remove Ads</h3>
+                                <ul>
+                                    <li>
+                                        <p>
+                                            <a href="/subscribe" title="Subscribe to AllMusic">Subscribe to AllMusic</a>
+                                        </p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="footer-column" id="column4">
+                            <div id="follow-us">
+                                <h3>Follow Us</h3>
+                                <ul>
+                                    <li>
+                                        <p>
+                                            <a href="https://www.facebook.com/AllMusicDotCom" target="_blank" title="Like us on Facebook">Facebook</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="https://twitter.com/allmusic" target="_blank" title="Follow us on Twitter">Twitter</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="https://allmusic.tumblr.com" target="_blank" title="Follow us on Tumblr">Tumblr</a>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <a href="https://www.pinterest.com/allmusicdotcom" target="_blank" title="Follow us on Pinterest">Pinterest</a>
+                                        </p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="footer-column" id="newsletter-signup">
+                            <h3>Sign Up For Our Weekly New Releases Newsletter</h3>
+                            <form id="footerNewsletterSignupForm">
+                                <div id="signup">
+                                    <input aria-label="Email Signup" id="newsletterEmailSignup" name="newsletterEmail" placeholder="name@domain.com" required="required" type="email">
+                                    </input>
+                                    <input aria-label="Sign up" id="newsletterSubmitBtn" name="newsletterSubmit" type="submit" value="Sign Up">
+                                    </input>
+                                </div>
+                                <div id="failMsgEmail" style="display:none;">
+                                    <h3>Please enter a valid email address.</h3>
+                                </div>
+                                <div id="failMsgSg" style="display:none;">
+                                    <h3>There was a problem subscribing you. Please try again.</h3>
+                                </div>
+                                <div id="successMsg" style="display:none">
+                                    <h3>
+										Thank You for subscribing to the
+										<a href="/newreleases" title="AllMusic New Releases">AllMusic New Releases Newsletter</a>
+										.
+									</h3>
+                                </div>
+                            </form>
+                        </div>
+                        <div id="copyright">
+                            <h3>©2023 ALLMUSIC, NETAKTION LLC - ALL RIGHTS RESERVED</h3>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        <!-- end .overflow-container -->
+        <!-- Double Verify -->
+        <script>/**/
+			if (scroll_v7 == "no-scroll") {
+			document.write('
+			&lt;img src="https://tps30.doubleverify.com/visit.jpg?ctx=2908533&amp;cmp=2736444&amp;sid=24324&amp;plc=DV-RTHM20170324001&amp;advid=2908534&amp;region=30&amp;btadsrv=rhythmone&amp;app=appid&amp;sup=sspid&amp;DVP_DV_TT=2&amp;DVP_DV_CT=1&amp;DVP_APPID=NotApplicable&amp;DVP_SSPID=NotApplicable&amp;DVP_PUBID=NotApplicable&amp;DVP_PP_BUNDLE_ID=NotApplicable&amp;DVP_RO_SSPID=NotApplicable&amp;DVP_PP_ORTB_PUB_ID=NotApplicable&amp;DVP_RO_SITEID=NotApplicable&amp;DVP_RO_TRAFFIC=NotApplicable&amp;DVP_PP_DEAL_ID=NotApplicable&amp;DVPX_PP_IMP_ID=NotApplicable&amp;DVPX_PP_UID=NotApplicable&amp;DVP_RO_CDID=NotApplicable&amp;DVPX_PP_AUCTION_UA=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10.15%3B+rv%3A109.0%29+Gecko%2F20100101+Firefox%2F112.0&amp;DVP_PP_AUCTION_IP=10.128.2.35&amp;turl=AllMusic.com&amp;dvtagver=6.1.img" alt="" width="0" height="0" alt="double verify pixel"&gt;');
+			}
+		/**/</script>
+        <!-- End Double Verify -->
+    </body>
+</html>
