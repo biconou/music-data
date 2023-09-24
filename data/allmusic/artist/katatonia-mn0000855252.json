@@ -1,0 +1,85 @@
+{
+  "id" : "katatonia-mn0000855252",
+  "name" : "Katatonia",
+  "basicInfo" : "['\\n', <h2>Katatonia - Artist Details</h2>, '\\n', <div class=\"active-dates\">\n<h3>Active</h3>\n<div>1990s - 2020s</div>\n</div>, '\\n', <div class=\"birth\">\n<h3>\n                Formed            </h3>\n<div>\n<a href=\"/birthdate/1991\">1991</a>                 in <a href=\"/birthplace/stockholm-sweden-mz0000000121\">Stockholm, Sweden</a> </div>\n</div>, '\\n', <div class=\"genre\">\n<h3>Genre</h3>\n<div>\n<a href=\"https://www.allmusic.com/genre/pop-rock-ma0000002613\">Pop/Rock</a> </div>\n</div>, '\\n', <div class=\"styles\">\n<h3>Styles</h3>\n<div>\n<a href=\"https://www.allmusic.com/style/doom-metal-ma0000004496\">Doom Metal</a> <a href=\"https://www.allmusic.com/style/heavy-metal-ma0000002721\">Heavy Metal</a> <a href=\"https://www.allmusic.com/style/scandinavian-metal-ma0000012324\">Scandinavian Metal</a> <a href=\"https://www.allmusic.com/style/symphonic-black-metal-ma0000012290\">Symphonic Black Metal</a> <a href=\"https://www.allmusic.com/style/progressive-metal-ma0000002797\">Progressive Metal</a> <a href=\"https://www.allmusic.com/style/death-metal-ma0000002547\">Death Metal</a> </div>\n</div>, '\\n', <div class=\"group-members\">\n<h3>Group Members</h3>\n<div>\n<a data-tooltip='{\"id\":\"MN0000026554\",\"thumbnail\":true}' href=\"/artist/anders-nystr%C3%B6m-mn0000026554\" title=\"Anders Nyström\">\n<span>\n                            Anders Nyström                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0002981960\",\"thumbnail\":true}' href=\"/artist/niklas-sandin-mn0002981960\" title=\"Niklas Sandin\">\n<span>\n                            Niklas Sandin                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000715132\",\"thumbnail\":true}' href=\"/artist/blakkheim-mn0000715132\" title=\"Blakkheim\">\n<span>\n                            Blakkheim                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000622612\",\"thumbnail\":true}' href=\"/artist/daniel-liljekvist-mn0000622612\" title=\"Daniel Liljekvist\">\n<span>\n                            Daniel Liljekvist                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000939826\",\"thumbnail\":true}' href=\"/artist/fredrik-norrman-mn0000939826\" title=\"Fredrik Norrman\">\n<span>\n                            Fredrik Norrman                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000263026\",\"thumbnail\":true}' href=\"/artist/jonas-renkse-mn0000263026\" title=\"Jonas Renkse\">\n<span>\n                            Jonas Renkse                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000520123\",\"thumbnail\":true}' href=\"/artist/mattias-norrman-mn0000520123\" title=\"Mattias Norrman\">\n<span>\n                            Mattias Norrman                        </span>\n</a>\n</div>\n</div>, '\\n', <a class=\"submit-corrections\" href=\"https://www.allmusic.com/artist/katatonia-mn0000855252/corrections\" rel=\"noindex\">Submit Corrections</a>, '\\n']",
+  "styles" : [ {
+    "name" : "Doom Metal",
+    "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  }, {
+    "name" : "Scandinavian Metal",
+    "url" : "https://www.allmusic.com/style/scandinavian-metal-ma0000012324"
+  }, {
+    "name" : "Symphonic Black Metal",
+    "url" : "https://www.allmusic.com/style/symphonic-black-metal-ma0000012290"
+  }, {
+    "name" : "Progressive Metal",
+    "url" : "https://www.allmusic.com/style/progressive-metal-ma0000002797"
+  }, {
+    "name" : "Death Metal",
+    "url" : "https://www.allmusic.com/style/death-metal-ma0000002547"
+  } ],
+  "discography" : [ {
+    "albumYear" : "1993",
+    "albumTitle" : "Dance of December Souls"
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "For Funerals to Come"
+  }, {
+    "albumYear" : "1997",
+    "albumTitle" : "Brave Murder Day"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Discouraged Ones"
+  }, {
+    "albumYear" : "1999",
+    "albumTitle" : "Tonight's Decision"
+  }, {
+    "albumYear" : "2001",
+    "albumTitle" : "Last Fair Deal Gone Down"
+  }, {
+    "albumYear" : "2003",
+    "albumTitle" : "Viva Emptiness"
+  }, {
+    "albumYear" : "2006",
+    "albumTitle" : "The Great Cold Distance"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "Live Consternation"
+  }, {
+    "albumYear" : "2009",
+    "albumTitle" : "Night Is the New Day"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "Dead End Kings"
+  }, {
+    "albumYear" : "2013",
+    "albumTitle" : "Dethroned & Uncrowned"
+  }, {
+    "albumYear" : "2014",
+    "albumTitle" : "Last Fair Day Gone Night"
+  }, {
+    "albumYear" : "2015",
+    "albumTitle" : "Sanctitude"
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "The Fall of Hearts"
+  }, {
+    "albumYear" : "2020",
+    "albumTitle" : "City Burials"
+  }, {
+    "albumYear" : "2020",
+    "albumTitle" : "Dead Air"
+  }, {
+    "albumYear" : "2023",
+    "albumTitle" : "Sky Void of Stars"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Mnemosynean"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Jhva Elohim Meth"
+  } ]
+}

@@ -2,6 +2,6 @@
 {
     "knime.var.DATA_DIR": {
         "type": "string",
-        "default": "C:\\DATA\\develop\\music-data\\data"
+        "default": "C:\\DATA\\develop\\music-data\\data\\allmusic\\artist\\search"
     }
 }

@@ -23,7 +23,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,400&amp;display=swap" rel="stylesheet">
         </link>
         <!-- preload page css -->
-        <link as="style" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/css/pages/artist/artist-999666733e.css" rel="preload">
+        <link as="style" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/css/pages/artist/artist-bfb73a632f.css" rel="preload">
         </link>
         <!-- preload setup (header) js -->
         <link as="script" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/js/setup-34ed2bfa61.js" rel="preload">
@@ -32,7 +32,7 @@
         <link as="script" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/js/global-47f27bd399.js" rel="preload">
         </link>
         <!-- preload page js -->
-        <link as="script" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/js/artist-a9eae95117.overview.js" rel="preload">
+        <link as="script" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/js/artist-17ecd3163d.overview.js" rel="preload">
         </link>
         <!-- prefetch global -->
         <link as="image" crossorigin="anonymous" href="https://cdn-gce.allmusic.com/images/header/gear_off.svg" rel="preload">
@@ -66,17 +66,17 @@
         <!-- preload page-level assets -->
         <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=XCxcDimE_E97EhG9w-Pg4xyhM-OFI8zG4l-qVpXXB1I=&amp;f=4" rel="preload">
         </link>
+        <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=MxQvSB9qyfnuESGWfyKYkASijaXJlYnq0St31qpAJWo=&amp;f=4" rel="preload">
+        </link>
         <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=ycrwsXqvK1a3WVbKBqAQ3RyhM-OFI8zG4l-qVpXXB1I=&amp;f=4" rel="preload">
         </link>
         <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=BxRwupDmOROtVoBueGWvnYAf7E_1E-2MlBBPmPAXRBU=&amp;f=4" rel="preload">
         </link>
         <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=2cZXvYzLEKX3k0x1DLO8h5hUoDg0hsvx4F4sL4oO-nA=&amp;f=4" rel="preload">
         </link>
-        <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=s3W-H0YwG7euQ5J-lPx20RyhM-OFI8zG4l-qVpXXB1I=&amp;f=4" rel="preload">
-        </link>
-        <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=MxQvSB9qyfnuESGWfyKYkASijaXJlYnq0St31qpAJWo=&amp;f=4" rel="preload">
-        </link>
         <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=wzJ93fQrK_qwFy0ynTJp5hyhM-OFI8zG4l-qVpXXB1I=&amp;f=4" rel="preload">
+        </link>
+        <link as="image" href="https://rovimusic.rovicorp.com/image.jpg?c=s3W-H0YwG7euQ5J-lPx20RyhM-OFI8zG4l-qVpXXB1I=&amp;f=4" rel="preload">
         </link>
         <!-- android homescreen specific favicon -->
         <link href="https://cdn-gce.allmusic.com/images/favicon/favicon-196x196.png?v=47BXOjEqB" rel="icon" sizes="196x196" type="image/png">
@@ -109,9 +109,11 @@
         </link>
         <meta content="Celtic Frost Songs, Albums, Reviews, Bio &amp; More | AllMusic" name="title">
         </meta>
-        <meta content="Monotheist,To Mega Therion,Into the Pandemonium,Vanity/Nemesis,Parched With Thirst Am I and Dying,Morbid Tales" name="keywords">
+        <meta content="Parched With Thirst Am I and Dying,Monotheist,To Mega Therion,Into the Pandemonium,Morbid Tales,Vanity/Nemesis" name="keywords">
         </meta>
         <meta content="Explore Celtic Frost's discography including top tracks, albums, and reviews. Learn all about Celtic Frost on AllMusic." name="description">
+        </meta>
+        <meta content="Pop/Rock,Death Metal,Heavy Metal,Black Metal,Symphonic Black Metal" name="notification-tags">
         </meta>
         <meta content="https://rovimusic.rovicorp.com/image.jpg?c=XCxcDimE_E97EhG9w-Pg4xyhM-OFI8zG4l-qVpXXB1I=&amp;f=4" name="image">
         </meta>
@@ -143,7 +145,7 @@
         </meta>
         <link href="https://www.allmusic.com/artist/celtic-frost-mn0000191063" rel="canonical">
         </link>
-        <link crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/css/pages/artist/artist-999666733e.css" rel="stylesheet" type="text/css">
+        <link crossorigin="anonymous" href="https://cdn-gce.allmusic.com/cache/dist/css/pages/artist/artist-bfb73a632f.css" rel="stylesheet" type="text/css">
         </link>
         <!-- Alexa tag -->
         <meta content="SfgYrX5roRNK_iy-Mr_tFkRlY7M" name="alexaVerifyID">
@@ -255,7 +257,7 @@
 			window.ramp.que = window.ramp.que || [];
 			window.ramp.passiveMode = true;
 			window.ramp.isMobile = isMobile_AllMusic;
-			window.ramp.forcePath = 'xfree-content'
+			window.ramp.forcePath = 'ros';
 		/**/</script>
         <script aysnc="true" src="//cdn.intergient.com/1024482/73599/ramp.js" type="text/javascript">/**//**/</script>
         <script type="text/javascript">/**/
@@ -279,11 +281,11 @@
 			if (scroll_v7 == "no-scroll") {
 			if ( isMobile_AllMusic ) {
 			var pwUnits = [
-			{selectorId: 'AllMusic_LB_Top',type: 'leaderboard_atf'},{selectorId: 'AllMusic_R1',type: 'med_rect_atf'},{selectorId: 'AllMusic_LB_Foot',type: 'leaderboard_btf'},{type: 'bottom_rail'}
+			{selectorId: 'AllMusic_LB_Top',type: 'leaderboard_atf'},{selectorId: 'AllMusic_R1',type: 'med_rect_atf'},{selectorId: 'AllMusic_LB_Foot',type: 'leaderboard_btf'},{type: 'trendi_video'},{type: 'bottom_rail'}
 			]
 			} else {
 			var pwUnits = [
-			{selectorId: 'AllMusic_LB_Top',type: 'leaderboard_atf'},{selectorId: 'AllMusic_R1',type: 'med_rect_atf'},{selectorId: 'AllMusic_R2',type: 'med_rect_btf'},{selectorId: 'AllMusic_LB_Foot',type: 'leaderboard_btf'},{type: 'bottom_rail'}
+			{selectorId: 'AllMusic_LB_Top',type: 'leaderboard_atf'},{selectorId: 'AllMusic_R1',type: 'med_rect_atf'},{selectorId: 'AllMusic_R2',type: 'med_rect_btf'},{selectorId: 'AllMusic_LB_Foot',type: 'leaderboard_btf'},{type: 'trendi_video'},{type: 'bottom_rail'}
 			]
 			}
 			if ( screen.width &gt;= 970 ) {
@@ -310,6 +312,10 @@
 			}
 			}
 		/**/</script>
+        <link as="script" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" rel="preload">
+        </link>
+        <link as="script" href="https://d3lcz8vpax4lo2.cloudfront.net/ads-code/11e3c341-3d2a-4da2-b79b-6c11421637a3.js" rel="preload">
+        </link>
         <script>/**/
 			if (scroll_v7 == "no-scroll") {
 			document.write("\x3Cscript data-cfasync='false'&gt;");
@@ -318,10 +324,6 @@
 			document.write("\x3C/script&gt;");
 			}
 		
-/**/</script>
-        <!-- Complex Video -->
-        <script>/**/
-!function(n){if(!window.cnxps){window.cnxps={},window.cnxps.cmd=[];var t=n.createElement('iframe');t.src='javascript:false'; t.display='none',t.onload=function(){var n=t.contentWindow.document,c=n.createElement('script');c.src='//cd.connatix.com/connatix.playspace.js?cid=cae9de00-2d08-4a2e-b32e-6898a4829ff6',c.setAttribute('async','1'),c.setAttribute('type','text/javascript'),n.body.appendChild(c)},n.head.appendChild(t)}}(document);
 /**/</script>
         <script type="application/ld+json">/**/
 			{
@@ -356,6 +358,12 @@
 			"album": [
 			{
 			"@type": "MusicAlbum",
+			"url": "https://www.allmusic.com/album/parched-with-thirst-am-i-and-dying-mw0000274947",
+			"name": "Parched With Thirst Am I and Dying",
+			"datePublished": "1997"
+			},
+			{
+			"@type": "MusicAlbum",
 			"url": "https://www.allmusic.com/album/monotheist-mw0000441586",
 			"name": "Monotheist",
 			"datePublished": "2006"
@@ -374,24 +382,30 @@
 			},
 			{
 			"@type": "MusicAlbum",
-			"url": "https://www.allmusic.com/album/vanity-nemesis-mw0000308232",
-			"name": "Vanity/Nemesis",
-			"datePublished": "1989"
-			},
-			{
-			"@type": "MusicAlbum",
-			"url": "https://www.allmusic.com/album/parched-with-thirst-am-i-and-dying-mw0000274947",
-			"name": "Parched With Thirst Am I and Dying",
-			"datePublished": "1997"
-			},
-			{
-			"@type": "MusicAlbum",
 			"url": "https://www.allmusic.com/album/morbid-tales-mw0001966052",
 			"name": "Morbid Tales",
 			"datePublished": "1984"
+			},
+			{
+			"@type": "MusicAlbum",
+			"url": "https://www.allmusic.com/album/vanity-nemesis-mw0000308232",
+			"name": "Vanity/Nemesis",
+			"datePublished": "1989"
 			}
 			]
 			}
+		
+/**/</script>
+        <script src="https://cdn.p-n.io/pushly-sdk.min.js?domain_key=NPUNDdsWw1O7c8IPEUmVhdRTDmw56YlvT2LV">/**/
+" async&gt;
+/**/</script>
+        <script>/**/
+			var PushlySDK = window.PushlySDK || [];
+			function pushly() { PushlySDK.push(arguments) }
+			pushly('load', {
+			domainKey: 'NPUNDdsWw1O7c8IPEUmVhdRTDmw56YlvT2LV',
+			sw: '/js/common/pushly-sdk-worker.js'
+			});
 		
 /**/</script>
     </head>
@@ -875,6 +889,20 @@
                         <section class="album-highlights">
                             <h3 class="headline">Album Highlights</h3>
                             <ul>
+                                <li class="info-grid" data-linkurl="/album/parched-with-thirst-am-i-and-dying-mw0000274947">
+                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MW0000274947&quot;}" href="/album/parched-with-thirst-am-i-and-dying-mw0000274947" title="Parched With Thirst Am I and Dying">
+                                        <img alt="Parched With Thirst Am I and Dying" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=MxQvSB9qyfnuESGWfyKYkASijaXJlYnq0St31qpAJWo=&amp;f=4">
+                                        </img>
+                                    </a>
+                                    <div class="info">
+                                        <div class="artist">
+                                            <a href="https://www.allmusic.com/artist/celtic-frost-mn0000191063">Celtic Frost</a>
+                                        </div>
+                                        <div class="title">
+                                            <a href="https://www.allmusic.com/album/parched-with-thirst-am-i-and-dying-mw0000274947">Parched With Thirst Am …</a>
+                                        </div>
+                                    </div>
+                                </li>
                                 <li class="info-grid" data-linkurl="/album/monotheist-mw0000441586">
                                     <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MW0000441586&quot;}" href="/album/monotheist-mw0000441586" title="Monotheist">
                                         <img alt="Monotheist" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=ycrwsXqvK1a3WVbKBqAQ3RyhM-OFI8zG4l-qVpXXB1I=&amp;f=4">
@@ -917,34 +945,6 @@
                                         </div>
                                     </div>
                                 </li>
-                                <li class="info-grid" data-linkurl="/album/vanity-nemesis-mw0000308232">
-                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MW0000308232&quot;}" href="/album/vanity-nemesis-mw0000308232" title="Vanity/Nemesis">
-                                        <img alt="Vanity/Nemesis" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=s3W-H0YwG7euQ5J-lPx20RyhM-OFI8zG4l-qVpXXB1I=&amp;f=4">
-                                        </img>
-                                    </a>
-                                    <div class="info">
-                                        <div class="artist">
-                                            <a href="https://www.allmusic.com/artist/celtic-frost-mn0000191063">Celtic Frost</a>
-                                        </div>
-                                        <div class="title">
-                                            <a href="https://www.allmusic.com/album/vanity-nemesis-mw0000308232">Vanity/Nemesis</a>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="info-grid" data-linkurl="/album/parched-with-thirst-am-i-and-dying-mw0000274947">
-                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MW0000274947&quot;}" href="/album/parched-with-thirst-am-i-and-dying-mw0000274947" title="Parched With Thirst Am I and Dying">
-                                        <img alt="Parched With Thirst Am I and Dying" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=MxQvSB9qyfnuESGWfyKYkASijaXJlYnq0St31qpAJWo=&amp;f=4">
-                                        </img>
-                                    </a>
-                                    <div class="info">
-                                        <div class="artist">
-                                            <a href="https://www.allmusic.com/artist/celtic-frost-mn0000191063">Celtic Frost</a>
-                                        </div>
-                                        <div class="title">
-                                            <a href="https://www.allmusic.com/album/parched-with-thirst-am-i-and-dying-mw0000274947">Parched With Thirst Am …</a>
-                                        </div>
-                                    </div>
-                                </li>
                                 <li class="info-grid" data-linkurl="/album/morbid-tales-mw0001966052">
                                     <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MW0001966052&quot;}" href="/album/morbid-tales-mw0001966052" title="Morbid Tales">
                                         <img alt="Morbid Tales" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=wzJ93fQrK_qwFy0ynTJp5hyhM-OFI8zG4l-qVpXXB1I=&amp;f=4">
@@ -959,19 +959,23 @@
                                         </div>
                                     </div>
                                 </li>
+                                <li class="info-grid" data-linkurl="/album/vanity-nemesis-mw0000308232">
+                                    <a class="cropped-image-link" data-tooltip="{&quot;id&quot;:&quot;MW0000308232&quot;}" href="/album/vanity-nemesis-mw0000308232" title="Vanity/Nemesis">
+                                        <img alt="Vanity/Nemesis" class="cropped-image" loading="lazy" onerror="this.src='https://cdn-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=s3W-H0YwG7euQ5J-lPx20RyhM-OFI8zG4l-qVpXXB1I=&amp;f=4">
+                                        </img>
+                                    </a>
+                                    <div class="info">
+                                        <div class="artist">
+                                            <a href="https://www.allmusic.com/artist/celtic-frost-mn0000191063">Celtic Frost</a>
+                                        </div>
+                                        <div class="title">
+                                            <a href="https://www.allmusic.com/album/vanity-nemesis-mw0000308232">Vanity/Nemesis</a>
+                                        </div>
+                                    </div>
+                                </li>
                             </ul>
                             <a href="https://www.allmusic.com/artist/celtic-frost-mn0000191063/discography" id="seeFullDiscoLink">See Full Discography</a>
                         </section>
-                        <div class="complex_suitcase">
-                            <!-- Complex Video -->
-                            <script id="6da80473507642439b32dbd880c8e0d4">/**/
-								(new Image()).src = 'https://capi.connatix.com/tr/si?token=879daa99-b822-4d7c-a5e6-f43411c11539&amp;cid=cae9de00-2d08-4a2e-b32e-6898a4829ff6';
-								cnxps.cmd.push(function () {
-								cnxps({playerId: "879daa99-b822-4d7c-a5e6-f43411c11539"}).render("6da80473507642439b32dbd880c8e0d4");
-								});
-							
-/**/</script>
-                        </div>
                         <section class="insticator_ct">
                             <h3 class="headline">AllMusic Quiz</h3>
                             <!-- Insticator API Embed -->
@@ -1224,7 +1228,7 @@
                 </div>
             </div>
             <script crossorigin="anonymous" src="https://cdn-gce.allmusic.com/cache/dist/js/global-47f27bd399.js">/**//**/</script>
-            <script crossorigin="anonymous" src="https://cdn-gce.allmusic.com/cache/dist/js/artist-a9eae95117.overview.js">/**//**/</script>
+            <script crossorigin="anonymous" src="https://cdn-gce.allmusic.com/cache/dist/js/artist-17ecd3163d.overview.js">/**//**/</script>
             <!-- Begin comScore Tag -->
             <script>/**/
 				var _comscore = _comscore || [];

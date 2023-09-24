@@ -14,7 +14,7 @@
             <config key="file_system_chooser__Internals">
                 <entry key="has_fs_port" type="xboolean" value="false"/>
                 <entry key="overwritten_by_variable" type="xboolean" value="false"/>
-                <entry key="convenience_fs_category" type="xstring" value="RELATIVE"/>
+                <entry key="convenience_fs_category" type="xstring" value="MOUNTPOINT"/>
                 <entry key="relative_to" type="xstring" value="knime.mountpoint"/>
                 <entry key="mountpoint" type="xstring" value="LOCAL"/>
                 <entry key="spaceId" type="xstring" value=""/>
@@ -23,8 +23,8 @@
             </config>
             <config key="path">
                 <entry key="location_present" type="xboolean" value="true"/>
-                <entry key="file_system_type" type="xstring" value="RELATIVE"/>
-                <entry key="file_system_specifier" type="xstring" value="knime.mountpoint"/>
+                <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
+                <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
                 <entry key="path" type="xstring" value="data/allmusic/artist/search/results"/>
             </config>
             <config key="filter_mode_Internals">
@@ -90,12 +90,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 4, Cols: 9"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 5, Cols: 9"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e7eb074f-8175-45f1-abaa-3250c9f34a84"/>
+        <entry key="file_store_id" type="xstring" value="1c3f1262-e6bf-4495-ac38-b5869c133892"/>
     </config>
 </config>
