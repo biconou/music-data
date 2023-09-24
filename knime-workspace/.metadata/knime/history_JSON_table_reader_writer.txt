@@ -1,2 +1,0 @@
-C:\DATA\develop\music-data\data\allmusic\artist
-/mnt/DATA/develop/music-data/data/allmusic/artist

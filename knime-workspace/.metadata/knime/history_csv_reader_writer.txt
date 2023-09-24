@@ -1,4 +1,0 @@
-search/results.csv
-$DATA_DIR
-/mnt/DATA/develop/knime-workspace/allmusic-artist/output/out2.csv
-/mnt/DATA/develop/knime-workspace/allmusic-artist/output/out.csv

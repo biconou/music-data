@@ -1,2 +1,0 @@
-http://localhost:4080/api/artist/_doc/celtic-frost-mn0000191063
-http://localhost:4080/api2/artist/_doc/celtic-frost-mn0000191063

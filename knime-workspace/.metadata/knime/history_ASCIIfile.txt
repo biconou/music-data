@@ -1,2 +1,0 @@
-knime://knime.workflow/data.all
-/mnt/DATA/develop/music-data/data/allmusic/artist/celtic-frost-mn0000191063
