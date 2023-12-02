@@ -6,7 +6,7 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="script" type="xstring" value="import knime.scripting.io as knio%%00010import pandas as pd%%00010import json%%00010from allmusicgrabber.artist import *%%00010# https://docs.knime.com/latest/python_installation_guide/#_introduction%%00010# This example script simply outputs the node's input table.%%00010%%00010df = knio.input_tables[0].to_pandas()%%00010%%00010df = df.assign(artistDiscography='')%%00010df2 = pd.DataFrame()%%00010for ind in df.index:%%00010    discography=parseDiscographyFromHtmlContent(df['artistId'][ind],df['artistDiscographyHTML'][ind])%%00010    df['artistDiscography'][ind] = json.dumps(discography['discography'])%%00010%%00010knio.output_tables[0] = knio.Table.from_pandas(df)"/>
+        <entry key="script" type="xstring" value="import knime.scripting.io as knio%%00010import pandas as pd%%00010import json%%00010from allmusicgrabber.artist import *%%00010# https://docs.knime.com/latest/python_installation_guide/#_introduction%%00010# This example script simply outputs the node's input table.%%00010%%00010df = knio.input_tables[0].to_pandas()%%00010%%00010df = df.assign(artistDiscography='')%%00010df2 = pd.DataFrame()%%00010for ind in df.index:%%00010    discography=parseDiscographyFromHtmlContent(df['artistId'][ind],df['discographyXHTMLString'][ind])%%00010    df['artistDiscography'][ind] = json.dumps(discography['discography'])%%00010%%00010knio.output_tables[0] = knio.Table.from_pandas(df)"/>
         <entry key="python3_command" type="xstring" value=""/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
@@ -16,11 +16,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Python 3 - Scripting Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.python3.scripting.nodes"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.7.1.v202301311311"/>
+    <entry key="node-bundle-version" type="xstring" value="5.1.0.v202303131237"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Python Integration"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.python3.scripting.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.7.2.v202303231026"/>
+    <entry key="node-feature-version" type="xstring" value="5.1.2.v202310091339"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="Input object (pickled)"/>
@@ -45,12 +45,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 5, Cols: 10"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 6, Cols: 8"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="b9fad5e0-1757-4de2-88bb-92ab5656dc02"/>
+        <entry key="file_store_id" type="xstring" value="8e3acd2d-7f3a-4187-a180-a39438302cdd"/>
     </config>
 </config>

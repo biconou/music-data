@@ -5,18 +5,18 @@ rootDataDirectory = '../data'
 
 allmusicArtistBaseUrl = 'https://www.allmusic.com/artist/'
 
-rawHTMLFileNameSuffix = '.raw.html'
+rawHTMLFileNameSuffix = '.xml'
 
 # Artist main page
 def computeArtistRawHTMLFileName(artistId):
-    return rootDataDirectory + '/allmusic/artist/' + artistId + rawHTMLFileNameSuffix
+    return rootDataDirectory + '/allmusic/artist/HTML/' + artistId + rawHTMLFileNameSuffix
 
 def computeArtistFileName(artistId):
     return os.path.abspath(rootDataDirectory + '/allmusic/artist/' + artistId + '.json')
 
 # Discography
-def computeRelatedRawHTMLFileName(artistId):
-    return rootDataDirectory + '/allmusic/discography/' + artistId + rawHTMLFileNameSuffix
+def computeDiscographyRawHTMLFileName(artistId):
+    return rootDataDirectory + '/allmusic/discography/HTML/' + artistId + rawHTMLFileNameSuffix
 
 def computeDiscographyFileName(artistId):
     return rootDataDirectory + '/allmusic/discography/' + artistId

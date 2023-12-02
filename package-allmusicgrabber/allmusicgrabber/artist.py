@@ -9,10 +9,13 @@ def parseArtistFromHtmlContent(artistId,htmlContent):
     artist = {}
     artist['id'] = artistId
 
-    artistName = soup.select("h1.artist-name")[0].string.strip()
+    artistName = soup.select("h1#artistName")[0].string.strip()
     artist['name'] = artistName
 
-    artist['basicInfo'] = str(soup.select("section.basic-info")[0].contents)
+    #artist['basicInfo'] = str(soup.select("#basicInfoMeta")[0].contents)
+    artist['activeDates'] = str(soup.select("#basicInfoMeta > div.activeDates > div")[0].text)
+    artist['birthDate'] = str(soup.select("#basicInfoMeta > div.birth > div > a")[0].text)
+    artist['birthPlace'] = str(soup.select("#basicInfoMeta > div.birth > div > a")[1].text)
  
     artist['styles'] = []
     styles = soup.select("div.styles > div > a")
@@ -36,7 +39,7 @@ def parseDiscographyFromHtmlContent(artistId,htmlContent):
     artist = {}
     artist['id'] = artistId
 
-    discographyList = soup.select("section.discography > table > tbody > tr")
+    discographyList = soup.select("#discographyResults > table > tbody > tr")
     list = []
     for u in discographyList:
         albumYear = u.select("td.year")[0].string.strip()

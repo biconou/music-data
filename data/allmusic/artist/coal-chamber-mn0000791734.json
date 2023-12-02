@@ -1,7 +1,9 @@
 {
   "id" : "coal-chamber-mn0000791734",
   "name" : "Coal Chamber",
-  "basicInfo" : "['\\n', <h2>Coal Chamber - Artist Details</h2>, '\\n', <div class=\"active-dates\">\n<h3>Active</h3>\n<div>1990s - 2010s</div>\n</div>, '\\n', <div class=\"birth\">\n<h3>\n                Formed            </h3>\n<div>\n<a href=\"/birthdate/1993\">1993</a>                 in <a href=\"/birthplace/los-angeles-ca-mz0000002565\">Los Angeles, CA</a> </div>\n</div>, '\\n', <div class=\"genre\">\n<h3>Genre</h3>\n<div>\n<a href=\"https://www.allmusic.com/genre/pop-rock-ma0000002613\">Pop/Rock</a> </div>\n</div>, '\\n', <div class=\"styles\">\n<h3>Styles</h3>\n<div>\n<a href=\"https://www.allmusic.com/style/alternative-metal-ma0000012328\">Alternative Metal</a> <a href=\"https://www.allmusic.com/style/heavy-metal-ma0000002721\">Heavy Metal</a> <a href=\"https://www.allmusic.com/style/post-grunge-ma0000005020\">Post-Grunge</a> <a href=\"https://www.allmusic.com/style/goth-metal-ma0000011855\">Goth Metal</a> <a href=\"https://www.allmusic.com/style/rap-metal-ma0000002817\">Rap-Metal</a> </div>\n</div>, '\\n', <div class=\"group-members\">\n<h3>Group Members</h3>\n<div>\n<a data-tooltip='{\"id\":\"MN0000231463\",\"thumbnail\":true}' href=\"/artist/miguel-meegs-rascon-mn0000231463\" title='Miguel \"Meegs\" Rascon'>\n<span>\n                            Miguel \"Meegs\" Rascon                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0001929529\",\"thumbnail\":true}' href=\"/artist/mikey-mn0001929529\" title=\"Mikey\">\n<span>\n                            Mikey                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000254904\",\"thumbnail\":true}' href=\"/artist/dez-fafara-mn0000254904\" title=\"Dez Fafara\">\n<span>\n                            Dez Fafara                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000282473\",\"thumbnail\":true}' href=\"/artist/nadja-peulen-mn0000282473\" title=\"Nadja Peulen\">\n<span>\n                            Nadja Peulen                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000063402\",\"thumbnail\":true}' href=\"/artist/b-dez-fafara-mn0000063402\" title=\"B. Dez Fafara\">\n<span>\n                            B. Dez Fafara                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000420163\",\"thumbnail\":true}' href=\"/artist/rayna-foss-mn0000420163\" title=\"Rayna Foss\">\n<span>\n                            Rayna Foss                        </span>\n</a>\n</div>\n</div>, '\\n', <a class=\"submit-corrections\" href=\"https://www.allmusic.com/artist/coal-chamber-mn0000791734/corrections\" rel=\"noindex\">Submit Corrections</a>, '\\n']",
+  "activeDates" : "1990s - 2010s",
+  "birthDate" : "1993",
+  "birthPlace" : "Los Angeles, CA",
   "styles" : [ {
     "name" : "Alternative Metal",
     "url" : "https://www.allmusic.com/style/alternative-metal-ma0000012328"
@@ -18,23 +20,5 @@
     "name" : "Rap-Metal",
     "url" : "https://www.allmusic.com/style/rap-metal-ma0000002817"
   } ],
-  "discography" : [ {
-    "albumYear" : "1997",
-    "albumTitle" : "Coal Chamber"
-  }, {
-    "albumYear" : "1999",
-    "albumTitle" : "Chamber Music"
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "Dark Days"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "Giving the Devil His Due"
-  }, {
-    "albumYear" : "2015",
-    "albumTitle" : "Rivals"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Dramatic"
-  } ]
+  "discography" : [ ]
 }

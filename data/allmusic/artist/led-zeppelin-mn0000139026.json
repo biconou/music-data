@@ -1,7 +1,9 @@
 {
   "id" : "led-zeppelin-mn0000139026",
   "name" : "Led Zeppelin",
-  "basicInfo" : "['\\n', <h2>Led Zeppelin - Artist Details</h2>, '\\n', <div class=\"active-dates\">\n<h3>Active</h3>\n<div>1960s - 2000s</div>\n</div>, '\\n', <div class=\"birth\">\n<h3>\n                Formed            </h3>\n<div>\n<a href=\"/birthdate/1968-07\">July, 1968</a>                 in <a href=\"/birthplace/england-mz0000006000\">England</a> </div>\n</div>, '\\n', <div class=\"death\">\n<h3>\n                Disbanded            </h3>\n<div>\n<a href=\"/deathdate/1980\">1980</a>                in <a href=\"/deathplace/london-england-mz0000001334\">London, England</a> </div>\n</div>, '\\n', <div class=\"genre\">\n<h3>Genre</h3>\n<div>\n<a href=\"https://www.allmusic.com/genre/pop-rock-ma0000002613\">Pop/Rock</a> <a href=\"https://www.allmusic.com/genre/blues-ma0000002467\">Blues</a> </div>\n</div>, '\\n', <div class=\"styles\">\n<h3>Styles</h3>\n<div>\n<a href=\"https://www.allmusic.com/style/album-rock-ma0000004459\">Album Rock</a> <a href=\"https://www.allmusic.com/style/arena-rock-ma0000012329\">Arena Rock</a> <a href=\"https://www.allmusic.com/style/blues-rock-ma0000002468\">Blues-Rock</a> <a href=\"https://www.allmusic.com/style/british-blues-ma0000002482\">British Blues</a> <a href=\"https://www.allmusic.com/style/british-metal-ma0000012103\">British Metal</a> <a href=\"https://www.allmusic.com/style/hard-rock-ma0000002636\">Hard Rock</a> <a href=\"https://www.allmusic.com/style/regional-blues-ma0000002821\">Regional Blues</a> <a href=\"https://www.allmusic.com/style/heavy-metal-ma0000002721\">Heavy Metal</a> </div>\n</div>, '\\n', <div class=\"group-members\">\n<h3>Group Members</h3>\n<div>\n<a data-tooltip='{\"id\":\"MN0000830538\",\"thumbnail\":true}' href=\"/artist/robert-plant-mn0000830538\" title=\"Robert Plant\">\n<span>\n                            Robert Plant                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000089021\",\"thumbnail\":true}' href=\"/artist/jimmy-page-mn0000089021\" title=\"Jimmy Page\">\n<span>\n                            Jimmy Page                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000218777\",\"thumbnail\":true}' href=\"/artist/john-bonham-mn0000218777\" title=\"John Bonham\">\n<span>\n                            John Bonham                        </span>\n</a>\n<a data-tooltip='{\"id\":\"MN0000231997\",\"thumbnail\":true}' href=\"/artist/john-paul-jones-mn0000231997\" title=\"John Paul Jones\">\n<span>\n                            John Paul Jones                        </span>\n</a>\n</div>\n</div>, '\\n', <a class=\"submit-corrections\" href=\"https://www.allmusic.com/artist/led-zeppelin-mn0000139026/corrections\" rel=\"noindex\">Submit Corrections</a>, '\\n']",
+  "activeDates" : "1960s - 2000s",
+  "birthDate" : "July, 1968",
+  "birthPlace" : "England",
   "styles" : [ {
     "name" : "Album Rock",
     "url" : "https://www.allmusic.com/style/album-rock-ma0000004459"
@@ -27,41 +29,5 @@
     "name" : "Heavy Metal",
     "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
   } ],
-  "discography" : [ {
-    "albumYear" : "1969",
-    "albumTitle" : "Led Zeppelin"
-  }, {
-    "albumYear" : "1969",
-    "albumTitle" : "Led Zeppelin II"
-  }, {
-    "albumYear" : "1970",
-    "albumTitle" : "Led Zeppelin III"
-  }, {
-    "albumYear" : "1971",
-    "albumTitle" : "Led Zeppelin IV"
-  }, {
-    "albumYear" : "1973",
-    "albumTitle" : "Houses of the Holy"
-  }, {
-    "albumYear" : "1975",
-    "albumTitle" : "Physical Graffiti"
-  }, {
-    "albumYear" : "1976",
-    "albumTitle" : "Presence"
-  }, {
-    "albumYear" : "1976",
-    "albumTitle" : "The Song Remains the Same"
-  }, {
-    "albumYear" : "1979",
-    "albumTitle" : "In Through the Out Door"
-  }, {
-    "albumYear" : "1982",
-    "albumTitle" : "Coda"
-  }, {
-    "albumYear" : "2012",
-    "albumTitle" : "Celebration Day"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Before Led Zeppelin"
-  } ]
+  "discography" : [ ]
 }
