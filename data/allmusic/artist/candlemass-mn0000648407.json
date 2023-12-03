@@ -16,67 +16,109 @@
   } ],
   "discography" : [ {
     "albumYear" : "1986",
-    "albumTitle" : "Epicus Doomicus Metallicus"
+    "albumTitle" : "Epicus Doomicus Metallicus",
+    "musicRating" : "8",
+    "avgRating" : "10-442"
   }, {
     "albumYear" : "1987",
-    "albumTitle" : "Nightfall"
+    "albumTitle" : "Nightfall",
+    "musicRating" : "8",
+    "avgRating" : "10-446"
   }, {
     "albumYear" : "1988",
-    "albumTitle" : "Ancient Dreams"
+    "albumTitle" : "Ancient Dreams",
+    "musicRating" : "5",
+    "avgRating" : "8-242"
   }, {
     "albumYear" : "1989",
-    "albumTitle" : "Tales of Creation"
+    "albumTitle" : "Tales of Creation",
+    "musicRating" : "4",
+    "avgRating" : "10-306"
   }, {
     "albumYear" : "1991",
-    "albumTitle" : "Live"
+    "albumTitle" : "Live",
+    "musicRating" : "5",
+    "avgRating" : "9-34"
   }, {
     "albumYear" : "1995",
-    "albumTitle" : "Chapter VI"
+    "albumTitle" : "Chapter VI",
+    "musicRating" : "3",
+    "avgRating" : "4-82"
   }, {
     "albumYear" : "1998",
-    "albumTitle" : "Dactylis Glomerata"
+    "albumTitle" : "Dactylis Glomerata",
+    "musicRating" : "",
+    "avgRating" : "4-50"
   }, {
     "albumYear" : "1999",
-    "albumTitle" : "From the 13th Sun"
+    "albumTitle" : "From the 13th Sun",
+    "musicRating" : "5",
+    "avgRating" : "4-56"
   }, {
     "albumYear" : "2003",
-    "albumTitle" : "Doomed for Live: Reunion 2002"
+    "albumTitle" : "Doomed for Live: Reunion 2002",
+    "musicRating" : "",
+    "avgRating" : "10-21"
   }, {
     "albumYear" : "2003",
-    "albumTitle" : "Diamonds of Doom"
+    "albumTitle" : "Diamonds of Doom",
+    "musicRating" : "",
+    "avgRating" : "7-3"
   }, {
     "albumYear" : "2006",
-    "albumTitle" : "Candlemass"
+    "albumTitle" : "Candlemass",
+    "musicRating" : "7",
+    "avgRating" : "7-150"
   }, {
     "albumYear" : "2007",
-    "albumTitle" : "The King of the Grey Islands"
+    "albumTitle" : "The King of the Grey Islands",
+    "musicRating" : "5",
+    "avgRating" : "8-216"
   }, {
     "albumYear" : "2008",
-    "albumTitle" : "Lucifer Rising"
+    "albumTitle" : "Lucifer Rising",
+    "musicRating" : "",
+    "avgRating" : "7-28"
   }, {
     "albumYear" : "2009",
-    "albumTitle" : "Death Magic Doom"
+    "albumTitle" : "Death Magic Doom",
+    "musicRating" : "7",
+    "avgRating" : "8-216"
   }, {
     "albumYear" : "2010",
-    "albumTitle" : "Doomology [Box Set]"
+    "albumTitle" : "Doomology [Box Set]",
+    "musicRating" : "",
+    "avgRating" : "9-4"
   }, {
     "albumYear" : "2010",
-    "albumTitle" : "Ashes to Ashes Live"
+    "albumTitle" : "Ashes to Ashes Live",
+    "musicRating" : "",
+    "avgRating" : "9-11"
   }, {
     "albumYear" : "2012",
-    "albumTitle" : "Psalms for the Dead"
+    "albumTitle" : "Psalms for the Dead",
+    "musicRating" : "5",
+    "avgRating" : "5-94"
   }, {
     "albumYear" : "2019",
-    "albumTitle" : "The Door to Doom"
+    "albumTitle" : "The Door to Doom",
+    "musicRating" : "",
+    "avgRating" : "8-186"
   }, {
     "albumYear" : "2022",
-    "albumTitle" : "Don't Fear the Reaper"
+    "albumTitle" : "Don't Fear the Reaper",
+    "musicRating" : "",
+    "avgRating" : "10-1"
   }, {
     "albumYear" : "2022",
-    "albumTitle" : "Sweet Evil Sun"
+    "albumTitle" : "Sweet Evil Sun",
+    "musicRating" : "",
+    "avgRating" : "6-30"
   }, {
     "albumYear" : "",
-    "albumTitle" : "No Sleep Till Athens: Live"
+    "albumTitle" : "No Sleep Till Athens: Live",
+    "musicRating" : "",
+    "avgRating" : "9-2"
   } ],
   "related" : {
     "similars" : [ {

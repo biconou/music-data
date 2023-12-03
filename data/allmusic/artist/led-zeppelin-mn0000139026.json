@@ -31,40 +31,64 @@
   } ],
   "discography" : [ {
     "albumYear" : "1969",
-    "albumTitle" : "Led Zeppelin"
+    "albumTitle" : "Led Zeppelin",
+    "musicRating" : "9",
+    "avgRating" : "10-8690"
   }, {
     "albumYear" : "1969",
-    "albumTitle" : "Led Zeppelin II"
+    "albumTitle" : "Led Zeppelin II",
+    "musicRating" : "9",
+    "avgRating" : "10-8688"
   }, {
     "albumYear" : "1970",
-    "albumTitle" : "Led Zeppelin III"
+    "albumTitle" : "Led Zeppelin III",
+    "musicRating" : "9",
+    "avgRating" : "10-8198"
   }, {
     "albumYear" : "1971",
-    "albumTitle" : "Led Zeppelin IV"
+    "albumTitle" : "Led Zeppelin IV",
+    "musicRating" : "9",
+    "avgRating" : "10-9596"
   }, {
     "albumYear" : "1973",
-    "albumTitle" : "Houses of the Holy"
+    "albumTitle" : "Houses of the Holy",
+    "musicRating" : "9",
+    "avgRating" : "10-7504"
   }, {
     "albumYear" : "1975",
-    "albumTitle" : "Physical Graffiti"
+    "albumTitle" : "Physical Graffiti",
+    "musicRating" : "9",
+    "avgRating" : "10-6417"
   }, {
     "albumYear" : "1976",
-    "albumTitle" : "Presence"
+    "albumTitle" : "Presence",
+    "musicRating" : "6",
+    "avgRating" : "8-3568"
   }, {
     "albumYear" : "1976",
-    "albumTitle" : "The Song Remains the Same"
+    "albumTitle" : "The Song Remains the Same",
+    "musicRating" : "5",
+    "avgRating" : "8-4536"
   }, {
     "albumYear" : "1979",
-    "albumTitle" : "In Through the Out Door"
+    "albumTitle" : "In Through the Out Door",
+    "musicRating" : "6",
+    "avgRating" : "8-3250"
   }, {
     "albumYear" : "1982",
-    "albumTitle" : "Coda"
+    "albumTitle" : "Coda",
+    "musicRating" : "6",
+    "avgRating" : "7-2577"
   }, {
     "albumYear" : "2012",
-    "albumTitle" : "Celebration Day"
+    "albumTitle" : "Celebration Day",
+    "musicRating" : "7",
+    "avgRating" : "9-3102"
   }, {
     "albumYear" : "",
-    "albumTitle" : "Before Led Zeppelin"
+    "albumTitle" : "Before Led Zeppelin",
+    "musicRating" : "",
+    "avgRating" : "7-7"
   } ],
   "related" : {
     "similars" : [ {

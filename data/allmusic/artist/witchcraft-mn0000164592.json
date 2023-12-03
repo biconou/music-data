@@ -16,25 +16,39 @@
   } ],
   "discography" : [ {
     "albumYear" : "2004",
-    "albumTitle" : "Witchcraft"
+    "albumTitle" : "Witchcraft",
+    "musicRating" : "7",
+    "avgRating" : "9-97"
   }, {
     "albumYear" : "2005",
-    "albumTitle" : "Firewood"
+    "albumTitle" : "Firewood",
+    "musicRating" : "6",
+    "avgRating" : "8-41"
   }, {
     "albumYear" : "2007",
-    "albumTitle" : "The Alchemist"
+    "albumTitle" : "The Alchemist",
+    "musicRating" : "6",
+    "avgRating" : "8-91"
   }, {
     "albumYear" : "2007",
-    "albumTitle" : "The Sword/Witchcraft [Split]"
+    "albumTitle" : "The Sword/Witchcraft [Split]",
+    "musicRating" : "",
+    "avgRating" : "7-9"
   }, {
     "albumYear" : "2012",
-    "albumTitle" : "Legend"
+    "albumTitle" : "Legend",
+    "musicRating" : "6",
+    "avgRating" : "9-91"
   }, {
     "albumYear" : "2016",
-    "albumTitle" : "Nucleus"
+    "albumTitle" : "Nucleus",
+    "musicRating" : "",
+    "avgRating" : "7-26"
   }, {
     "albumYear" : "",
-    "albumTitle" : "Sworn to Despise"
+    "albumTitle" : "Sworn to Despise",
+    "musicRating" : "",
+    "avgRating" : "3-1"
   } ],
   "related" : {
     "similars" : [ {

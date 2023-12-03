@@ -22,37 +22,59 @@
   } ],
   "discography" : [ {
     "albumYear" : "1984",
-    "albumTitle" : "Saint Vitus"
+    "albumTitle" : "Saint Vitus",
+    "musicRating" : "5",
+    "avgRating" : "8-81"
   }, {
     "albumYear" : "1985",
-    "albumTitle" : "Hallow's Victim"
+    "albumTitle" : "Hallow's Victim",
+    "musicRating" : "6",
+    "avgRating" : "9-40"
   }, {
     "albumYear" : "1986",
-    "albumTitle" : "Born Too Late"
+    "albumTitle" : "Born Too Late",
+    "musicRating" : "7",
+    "avgRating" : "9-143"
   }, {
     "albumYear" : "1988",
-    "albumTitle" : "Mournful Cries"
+    "albumTitle" : "Mournful Cries",
+    "musicRating" : "6",
+    "avgRating" : "9-49"
   }, {
     "albumYear" : "1990",
-    "albumTitle" : "V"
+    "albumTitle" : "V",
+    "musicRating" : "6",
+    "avgRating" : "8-39"
   }, {
     "albumYear" : "1992",
-    "albumTitle" : "C.O.D."
+    "albumTitle" : "C.O.D.",
+    "musicRating" : "2",
+    "avgRating" : "7-26"
   }, {
     "albumYear" : "1995",
-    "albumTitle" : "Die Healing"
+    "albumTitle" : "Die Healing",
+    "musicRating" : "4",
+    "avgRating" : "8-36"
   }, {
     "albumYear" : "2001",
-    "albumTitle" : "Little Motor Mouth"
+    "albumTitle" : "Little Motor Mouth",
+    "musicRating" : "",
+    "avgRating" : "6-2"
   }, {
     "albumYear" : "2005",
-    "albumTitle" : "Live"
+    "albumTitle" : "Live",
+    "musicRating" : "8",
+    "avgRating" : "9-32"
   }, {
     "albumYear" : "2012",
-    "albumTitle" : "Lillie: F-65"
+    "albumTitle" : "Lillie: F-65",
+    "musicRating" : "5",
+    "avgRating" : "8-38"
   }, {
     "albumYear" : "2016",
-    "albumTitle" : "Live, Vol. 2"
+    "albumTitle" : "Live, Vol. 2",
+    "musicRating" : "",
+    "avgRating" : "9-7"
   } ],
   "related" : {
     "similars" : [ {

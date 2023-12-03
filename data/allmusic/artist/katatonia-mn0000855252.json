@@ -25,64 +25,104 @@
   } ],
   "discography" : [ {
     "albumYear" : "1993",
-    "albumTitle" : "Dance of December Souls"
+    "albumTitle" : "Dance of December Souls",
+    "musicRating" : "5",
+    "avgRating" : "8-101"
   }, {
     "albumYear" : "1995",
-    "albumTitle" : "For Funerals to Come"
+    "albumTitle" : "For Funerals to Come",
+    "musicRating" : "3",
+    "avgRating" : "7-38"
   }, {
     "albumYear" : "1997",
-    "albumTitle" : "Brave Murder Day"
+    "albumTitle" : "Brave Murder Day",
+    "musicRating" : "7",
+    "avgRating" : "9-131"
   }, {
     "albumYear" : "1998",
-    "albumTitle" : "Discouraged Ones"
+    "albumTitle" : "Discouraged Ones",
+    "musicRating" : "8",
+    "avgRating" : "9-122"
   }, {
     "albumYear" : "1999",
-    "albumTitle" : "Tonight's Decision"
+    "albumTitle" : "Tonight's Decision",
+    "musicRating" : "7",
+    "avgRating" : "8-117"
   }, {
     "albumYear" : "2001",
-    "albumTitle" : "Last Fair Deal Gone Down"
+    "albumTitle" : "Last Fair Deal Gone Down",
+    "musicRating" : "8",
+    "avgRating" : "9-194"
   }, {
     "albumYear" : "2003",
-    "albumTitle" : "Viva Emptiness"
+    "albumTitle" : "Viva Emptiness",
+    "musicRating" : "8",
+    "avgRating" : "9-187"
   }, {
     "albumYear" : "2006",
-    "albumTitle" : "The Great Cold Distance"
+    "albumTitle" : "The Great Cold Distance",
+    "musicRating" : "7",
+    "avgRating" : "9-227"
   }, {
     "albumYear" : "2007",
-    "albumTitle" : "Live Consternation"
+    "albumTitle" : "Live Consternation",
+    "musicRating" : "6",
+    "avgRating" : "8-23"
   }, {
     "albumYear" : "2009",
-    "albumTitle" : "Night Is the New Day"
+    "albumTitle" : "Night Is the New Day",
+    "musicRating" : "6",
+    "avgRating" : "9-146"
   }, {
     "albumYear" : "2012",
-    "albumTitle" : "Dead End Kings"
+    "albumTitle" : "Dead End Kings",
+    "musicRating" : "7",
+    "avgRating" : "8-197"
   }, {
     "albumYear" : "2013",
-    "albumTitle" : "Dethroned & Uncrowned"
+    "albumTitle" : "Dethroned & Uncrowned",
+    "musicRating" : "",
+    "avgRating" : "8-45"
   }, {
     "albumYear" : "2014",
-    "albumTitle" : "Last Fair Day Gone Night"
+    "albumTitle" : "Last Fair Day Gone Night",
+    "musicRating" : "6",
+    "avgRating" : "7-25"
   }, {
     "albumYear" : "2015",
-    "albumTitle" : "Sanctitude"
+    "albumTitle" : "Sanctitude",
+    "musicRating" : "",
+    "avgRating" : "9-31"
   }, {
     "albumYear" : "2016",
-    "albumTitle" : "The Fall of Hearts"
+    "albumTitle" : "The Fall of Hearts",
+    "musicRating" : "7",
+    "avgRating" : "9-128"
   }, {
     "albumYear" : "2020",
-    "albumTitle" : "City Burials"
+    "albumTitle" : "City Burials",
+    "musicRating" : "7",
+    "avgRating" : "8-81"
   }, {
     "albumYear" : "2020",
-    "albumTitle" : "Dead Air"
+    "albumTitle" : "Dead Air",
+    "musicRating" : "",
+    "avgRating" : "9-14"
   }, {
     "albumYear" : "2023",
-    "albumTitle" : "Sky Void of Stars"
+    "albumTitle" : "Sky Void of Stars",
+    "musicRating" : "",
+    "avgRating" : "8-29"
   }, {
     "albumYear" : "",
-    "albumTitle" : "Mnemosynean"
+    "albumTitle" : "Mnemosynean",
+    "musicRating" : "",
+    "avgRating" : "8-7"
   }, {
     "albumYear" : "",
-    "albumTitle" : "Jhva Elohim Meth"
+    "albumTitle" : "Jhva Elohim Meth",
+    "musicRating" : "",
+    "avgRating" : "8-2"
   } ],
   "related" : {
     "similars" : [ {

@@ -42,13 +42,19 @@ def parseDiscographyFromHtmlContent(artistId,htmlContent):
     discographyList = soup.select("#discographyResults > table > tbody > tr")
     list = []
     for u in discographyList:
+        # Year
         albumYear = u.select("td.year")[0].string
         if (albumYear) != None :
             albumYear = albumYear.strip()
         logging.debug(albumYear)
+        # Title
         albumTitle = u.select("td.meta")[0]['data-text']
         logging.debug(albumTitle)
-        list.append({'albumYear': albumYear, 'albumTitle': albumTitle})
+        # Ratings
+        musicRating = u.select("td.musicRating")[0]['data-text']
+        avgRating = u.select("td.avgRating")[0]['data-text']
+        #
+        list.append({'albumYear': albumYear, 'albumTitle': albumTitle, 'musicRating': musicRating, 'avgRating': avgRating})
     artist['discography'] = list
 
     return artist
@@ -84,6 +90,5 @@ def parseRelatedFromHtmlContent(artistId,htmlContent):
     for u in associatedwithList:
         list.append({'artist': u['title'], 'ArtistId': u['href'].replace("/artist/","")})
     artist['related']['associatedwith'] = list
-
 
     return artist

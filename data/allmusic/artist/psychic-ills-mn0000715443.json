@@ -16,22 +16,34 @@
   } ],
   "discography" : [ {
     "albumYear" : "2006",
-    "albumTitle" : "Dins"
+    "albumTitle" : "Dins",
+    "musicRating" : "6",
+    "avgRating" : "8-77"
   }, {
     "albumYear" : "2009",
-    "albumTitle" : "Mirror Eye"
+    "albumTitle" : "Mirror Eye",
+    "musicRating" : "7",
+    "avgRating" : "7-172"
   }, {
     "albumYear" : "2011",
-    "albumTitle" : "Telesthetic Tape"
+    "albumTitle" : "Telesthetic Tape",
+    "musicRating" : "",
+    "avgRating" : "9-1"
   }, {
     "albumYear" : "2011",
-    "albumTitle" : "Hazed Dream"
+    "albumTitle" : "Hazed Dream",
+    "musicRating" : "6",
+    "avgRating" : "8-127"
   }, {
     "albumYear" : "2013",
-    "albumTitle" : "One Track Mind"
+    "albumTitle" : "One Track Mind",
+    "musicRating" : "6",
+    "avgRating" : "8-109"
   }, {
     "albumYear" : "2016",
-    "albumTitle" : "Inner Journey Out"
+    "albumTitle" : "Inner Journey Out",
+    "musicRating" : "6",
+    "avgRating" : "9-40"
   } ],
   "related" : {
     "similars" : [ {

@@ -19,34 +19,54 @@
   } ],
   "discography" : [ {
     "albumYear" : "1985",
-    "albumTitle" : "Relentless"
+    "albumTitle" : "Relentless",
+    "musicRating" : "4",
+    "avgRating" : "9-97"
   }, {
     "albumYear" : "1987",
-    "albumTitle" : "Day of Reckoning"
+    "albumTitle" : "Day of Reckoning",
+    "musicRating" : "8",
+    "avgRating" : "9-104"
   }, {
     "albumYear" : "1995",
-    "albumTitle" : "Be Forewarned"
+    "albumTitle" : "Be Forewarned",
+    "musicRating" : "5",
+    "avgRating" : "9-48"
   }, {
     "albumYear" : "1999",
-    "albumTitle" : "Review Your Choices"
+    "albumTitle" : "Review Your Choices",
+    "musicRating" : "5",
+    "avgRating" : "8-30"
   }, {
     "albumYear" : "2001",
-    "albumTitle" : "Sub-Basement"
+    "albumTitle" : "Sub-Basement",
+    "musicRating" : "4",
+    "avgRating" : "8-22"
   }, {
     "albumYear" : "2002",
-    "albumTitle" : "Keg Full of Dynamite"
+    "albumTitle" : "Keg Full of Dynamite",
+    "musicRating" : "",
+    "avgRating" : "9-8"
   }, {
     "albumYear" : "2004",
-    "albumTitle" : "Show 'Em How"
+    "albumTitle" : "Show 'Em How",
+    "musicRating" : "6",
+    "avgRating" : "8-20"
   }, {
     "albumYear" : "2011",
-    "albumTitle" : "Last Rites"
+    "albumTitle" : "Last Rites",
+    "musicRating" : "6",
+    "avgRating" : "7-103"
   }, {
     "albumYear" : "2011",
-    "albumTitle" : "When the Screams Come"
+    "albumTitle" : "When the Screams Come",
+    "musicRating" : "",
+    "avgRating" : "10-3"
   }, {
     "albumYear" : "",
-    "albumTitle" : "Curious Volume"
+    "albumTitle" : "Curious Volume",
+    "musicRating" : "",
+    "avgRating" : "8-23"
   } ],
   "related" : {
     "similars" : [ {

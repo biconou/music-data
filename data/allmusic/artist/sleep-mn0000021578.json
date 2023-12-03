@@ -13,19 +13,29 @@
   } ],
   "discography" : [ {
     "albumYear" : "1991",
-    "albumTitle" : "Volume One"
+    "albumTitle" : "Volume One",
+    "musicRating" : "5",
+    "avgRating" : "8-67"
   }, {
     "albumYear" : "1993",
-    "albumTitle" : "Sleep's Holy Mountain"
+    "albumTitle" : "Sleep's Holy Mountain",
+    "musicRating" : "7",
+    "avgRating" : "9-494"
   }, {
     "albumYear" : "1999",
-    "albumTitle" : "Jerusalem"
+    "albumTitle" : "Jerusalem",
+    "musicRating" : "7",
+    "avgRating" : "9-198"
   }, {
     "albumYear" : "2003",
-    "albumTitle" : "Dopesmoker"
+    "albumTitle" : "Dopesmoker",
+    "musicRating" : "8",
+    "avgRating" : "9-515"
   }, {
     "albumYear" : "2018",
-    "albumTitle" : "The Sciences"
+    "albumTitle" : "The Sciences",
+    "musicRating" : "8",
+    "avgRating" : "9-240"
   } ],
   "related" : {
     "similars" : [ {

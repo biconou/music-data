@@ -22,34 +22,54 @@
   } ],
   "discography" : [ {
     "albumYear" : "1994",
-    "albumTitle" : "Electric Wizard"
+    "albumTitle" : "Electric Wizard",
+    "musicRating" : "7",
+    "avgRating" : "9-149"
   }, {
     "albumYear" : "1996",
-    "albumTitle" : "Come My Fanatics"
+    "albumTitle" : "Come My Fanatics",
+    "musicRating" : "8",
+    "avgRating" : "9-197"
   }, {
     "albumYear" : "1998",
-    "albumTitle" : "Supercoven"
+    "albumTitle" : "Supercoven",
+    "musicRating" : "6",
+    "avgRating" : "8-22"
   }, {
     "albumYear" : "2000",
-    "albumTitle" : "Dopethrone"
+    "albumTitle" : "Dopethrone",
+    "musicRating" : "9",
+    "avgRating" : "10-587"
   }, {
     "albumYear" : "2002",
-    "albumTitle" : "Let Us Prey"
+    "albumTitle" : "Let Us Prey",
+    "musicRating" : "6",
+    "avgRating" : "8-86"
   }, {
     "albumYear" : "2004",
-    "albumTitle" : "We Live"
+    "albumTitle" : "We Live",
+    "musicRating" : "6",
+    "avgRating" : "8-71"
   }, {
     "albumYear" : "2007",
-    "albumTitle" : "Witchcult Today"
+    "albumTitle" : "Witchcult Today",
+    "musicRating" : "5",
+    "avgRating" : "9-168"
   }, {
     "albumYear" : "2010",
-    "albumTitle" : "Black Masses"
+    "albumTitle" : "Black Masses",
+    "musicRating" : "6",
+    "avgRating" : "8-343"
   }, {
     "albumYear" : "2014",
-    "albumTitle" : "Time to Die"
+    "albumTitle" : "Time to Die",
+    "musicRating" : "5",
+    "avgRating" : "8-95"
   }, {
     "albumYear" : "2017",
-    "albumTitle" : "Wizard Bloody Wizard"
+    "albumTitle" : "Wizard Bloody Wizard",
+    "musicRating" : "6",
+    "avgRating" : "8-104"
   } ],
   "related" : {
     "similars" : [ {

@@ -22,22 +22,34 @@
   } ],
   "discography" : [ {
     "albumYear" : "1997",
-    "albumTitle" : "Coal Chamber"
+    "albumTitle" : "Coal Chamber",
+    "musicRating" : "5",
+    "avgRating" : "6-367"
   }, {
     "albumYear" : "1999",
-    "albumTitle" : "Chamber Music"
+    "albumTitle" : "Chamber Music",
+    "musicRating" : "7",
+    "avgRating" : "7-119"
   }, {
     "albumYear" : "2002",
-    "albumTitle" : "Dark Days"
+    "albumTitle" : "Dark Days",
+    "musicRating" : "3",
+    "avgRating" : "7-57"
   }, {
     "albumYear" : "2003",
-    "albumTitle" : "Giving the Devil His Due"
+    "albumTitle" : "Giving the Devil His Due",
+    "musicRating" : "3",
+    "avgRating" : "6-20"
   }, {
     "albumYear" : "2015",
-    "albumTitle" : "Rivals"
+    "albumTitle" : "Rivals",
+    "musicRating" : "",
+    "avgRating" : "7-56"
   }, {
     "albumYear" : "",
-    "albumTitle" : "Dramatic"
+    "albumTitle" : "Dramatic",
+    "musicRating" : "",
+    "avgRating" : "6-2"
   } ],
   "related" : {
     "similars" : [ {

@@ -22,79 +22,129 @@
   } ],
   "discography" : [ {
     "albumYear" : "1990",
-    "albumTitle" : "Lost Paradise"
+    "albumTitle" : "Lost Paradise",
+    "musicRating" : "3",
+    "avgRating" : "7-86"
   }, {
     "albumYear" : "1991",
-    "albumTitle" : "Gothic"
+    "albumTitle" : "Gothic",
+    "musicRating" : "5",
+    "avgRating" : "8-149"
   }, {
     "albumYear" : "1992",
-    "albumTitle" : "Shades of God"
+    "albumTitle" : "Shades of God",
+    "musicRating" : "7",
+    "avgRating" : "9-142"
   }, {
     "albumYear" : "1993",
-    "albumTitle" : "Icon"
+    "albumTitle" : "Icon",
+    "musicRating" : "8",
+    "avgRating" : "9-250"
   }, {
     "albumYear" : "1995",
-    "albumTitle" : "Draconian Times"
+    "albumTitle" : "Draconian Times",
+    "musicRating" : "8",
+    "avgRating" : "9-256"
   }, {
     "albumYear" : "1997",
-    "albumTitle" : "One Second"
+    "albumTitle" : "One Second",
+    "musicRating" : "7",
+    "avgRating" : "8-289"
   }, {
     "albumYear" : "1999",
-    "albumTitle" : "Host"
+    "albumTitle" : "Host",
+    "musicRating" : "5",
+    "avgRating" : "7-103"
   }, {
     "albumYear" : "1999",
-    "albumTitle" : "Permanent Solution"
+    "albumTitle" : "Permanent Solution",
+    "musicRating" : "",
+    "avgRating" : "5-2"
   }, {
     "albumYear" : "2001",
-    "albumTitle" : "Believe in Nothing"
+    "albumTitle" : "Believe in Nothing",
+    "musicRating" : "5",
+    "avgRating" : "8-92"
   }, {
     "albumYear" : "2002",
-    "albumTitle" : "Symbol of Life"
+    "albumTitle" : "Symbol of Life",
+    "musicRating" : "5",
+    "avgRating" : "8-101"
   }, {
     "albumYear" : "2005",
-    "albumTitle" : "Paradise Lost"
+    "albumTitle" : "Paradise Lost",
+    "musicRating" : "",
+    "avgRating" : "8-73"
   }, {
     "albumYear" : "2007",
-    "albumTitle" : "The Anatomy of Melancholy"
+    "albumTitle" : "The Anatomy of Melancholy",
+    "musicRating" : "",
+    "avgRating" : "8-16"
   }, {
     "albumYear" : "2007",
-    "albumTitle" : "In Requiem"
+    "albumTitle" : "In Requiem",
+    "musicRating" : "5",
+    "avgRating" : "8-106"
   }, {
     "albumYear" : "2008",
-    "albumTitle" : "The Anatomy of Melancholy"
+    "albumTitle" : "The Anatomy of Melancholy",
+    "musicRating" : "",
+    "avgRating" : "7-3"
   }, {
     "albumYear" : "2009",
-    "albumTitle" : "Faith Divides Us -- Death Unites Us"
+    "albumTitle" : "Faith Divides Us -- Death Unites Us",
+    "musicRating" : "6",
+    "avgRating" : "8-106"
   }, {
     "albumYear" : "2012",
-    "albumTitle" : "Tragic Idol"
+    "albumTitle" : "Tragic Idol",
+    "musicRating" : "6",
+    "avgRating" : "8-120"
   }, {
     "albumYear" : "2015",
-    "albumTitle" : "The Plague Within"
+    "albumTitle" : "The Plague Within",
+    "musicRating" : "",
+    "avgRating" : "9-128"
   }, {
     "albumYear" : "2017",
-    "albumTitle" : "Medusa"
+    "albumTitle" : "Medusa",
+    "musicRating" : "",
+    "avgRating" : "8-64"
   }, {
     "albumYear" : "2020",
-    "albumTitle" : "Obsidian"
+    "albumTitle" : "Obsidian",
+    "musicRating" : "7",
+    "avgRating" : "9-86"
   }, {
     "albumYear" : "2021",
-    "albumTitle" : "At the Mill"
+    "albumTitle" : "At the Mill",
+    "musicRating" : "",
+    "avgRating" : "8-2"
   }, {
     "albumYear" : "",
-    "albumTitle" : "Say Just Words"
+    "albumTitle" : "Say Just Words",
+    "musicRating" : "",
+    "avgRating" : ""
   }, {
     "albumYear" : "",
-    "albumTitle" : "Lost & the Painless"
+    "albumTitle" : "Lost & the Painless",
+    "musicRating" : "",
+    "avgRating" : ""
   }, {
     "albumYear" : "",
-    "albumTitle" : "Draconian Times: Legacy Edition"
+    "albumTitle" : "Draconian Times: Legacy Edition",
+    "musicRating" : "",
+    "avgRating" : "8-10"
   }, {
     "albumYear" : "",
-    "albumTitle" : "Live at the Roundhouse"
+    "albumTitle" : "Live at the Roundhouse",
+    "musicRating" : "",
+    "avgRating" : ""
   }, {
     "albumYear" : "",
-    "albumTitle" : "Draconian Times: 25th Anniversary Edition"
+    "albumTitle" : "Draconian Times: 25th Anniversary Edition",
+    "musicRating" : "",
+    "avgRating" : "10-2"
   } ],
   "related" : {
     "similars" : [ {

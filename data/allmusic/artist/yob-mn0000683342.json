@@ -19,31 +19,49 @@
   } ],
   "discography" : [ {
     "albumYear" : "2002",
-    "albumTitle" : "Elaborations of Carbon"
+    "albumTitle" : "Elaborations of Carbon",
+    "musicRating" : "",
+    "avgRating" : "6-3"
   }, {
     "albumYear" : "2003",
-    "albumTitle" : "Catharsis"
+    "albumTitle" : "Catharsis",
+    "musicRating" : "5",
+    "avgRating" : "7-38"
   }, {
     "albumYear" : "2004",
-    "albumTitle" : "The Illusion of Motion"
+    "albumTitle" : "The Illusion of Motion",
+    "musicRating" : "6",
+    "avgRating" : "8-42"
   }, {
     "albumYear" : "2005",
-    "albumTitle" : "The Unreal Never Lived"
+    "albumTitle" : "The Unreal Never Lived",
+    "musicRating" : "7",
+    "avgRating" : "9-63"
   }, {
     "albumYear" : "2009",
-    "albumTitle" : "The Great Cessation"
+    "albumTitle" : "The Great Cessation",
+    "musicRating" : "6",
+    "avgRating" : "8-65"
   }, {
     "albumYear" : "2011",
-    "albumTitle" : "Atma"
+    "albumTitle" : "Atma",
+    "musicRating" : "5",
+    "avgRating" : "9-84"
   }, {
     "albumYear" : "2014",
-    "albumTitle" : "Clearing the Path To Ascend"
+    "albumTitle" : "Clearing the Path To Ascend",
+    "musicRating" : "7",
+    "avgRating" : "9-113"
   }, {
     "albumYear" : "2018",
-    "albumTitle" : "Our Raw Heart"
+    "albumTitle" : "Our Raw Heart",
+    "musicRating" : "8",
+    "avgRating" : "9-113"
   }, {
     "albumYear" : "",
-    "albumTitle" : "Live at Roadburn 2010"
+    "albumTitle" : "Live at Roadburn 2010",
+    "musicRating" : "",
+    "avgRating" : "6-4"
   } ],
   "related" : {
     "similars" : [ {

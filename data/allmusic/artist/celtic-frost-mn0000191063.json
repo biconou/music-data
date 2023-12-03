@@ -19,25 +19,39 @@
   } ],
   "discography" : [ {
     "albumYear" : "1984",
-    "albumTitle" : "Morbid Tales"
+    "albumTitle" : "Morbid Tales",
+    "musicRating" : "8",
+    "avgRating" : "9-250"
   }, {
     "albumYear" : "1985",
-    "albumTitle" : "To Mega Therion"
+    "albumTitle" : "To Mega Therion",
+    "musicRating" : "9",
+    "avgRating" : "10-530"
   }, {
     "albumYear" : "1987",
-    "albumTitle" : "Into the Pandemonium"
+    "albumTitle" : "Into the Pandemonium",
+    "musicRating" : "8",
+    "avgRating" : "9-302"
   }, {
     "albumYear" : "1988",
-    "albumTitle" : "Cold Lake"
+    "albumTitle" : "Cold Lake",
+    "musicRating" : "5",
+    "avgRating" : "5-114"
   }, {
     "albumYear" : "1989",
-    "albumTitle" : "Vanity/Nemesis"
+    "albumTitle" : "Vanity/Nemesis",
+    "musicRating" : "7",
+    "avgRating" : "7-103"
   }, {
     "albumYear" : "2006",
-    "albumTitle" : "Monotheist"
+    "albumTitle" : "Monotheist",
+    "musicRating" : "6",
+    "avgRating" : "8-282"
   }, {
     "albumYear" : "",
-    "albumTitle" : "Live at the Hammersmith Odeon"
+    "albumTitle" : "Live at the Hammersmith Odeon",
+    "musicRating" : "3",
+    "avgRating" : "6-15"
   } ],
   "related" : {
     "similars" : [ {
