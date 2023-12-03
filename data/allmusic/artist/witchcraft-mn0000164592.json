@@ -1,0 +1,105 @@
+{
+  "id" : "witchcraft-mn0000164592",
+  "name" : "Witchcraft",
+  "activeDates" : "2000s - 2020s",
+  "birthDate" : "2000",
+  "birthPlace" : "Örebro, Sweden",
+  "styles" : [ {
+    "name" : "Hard Rock",
+    "url" : "https://www.allmusic.com/style/hard-rock-ma0000002636"
+  }, {
+    "name" : "Doom Metal",
+    "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  } ],
+  "discography" : [ {
+    "albumYear" : "2004",
+    "albumTitle" : "Witchcraft"
+  }, {
+    "albumYear" : "2005",
+    "albumTitle" : "Firewood"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "The Alchemist"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "The Sword/Witchcraft [Split]"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "Legend"
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "Nucleus"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Sworn to Despise"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Acid King",
+      "ArtistId" : "acid-king-mn0000925244"
+    }, {
+      "artist" : "Electric Wizard",
+      "ArtistId" : "electric-wizard-mn0000164175"
+    }, {
+      "artist" : "Graveyard",
+      "ArtistId" : "graveyard-mn0000727256"
+    }, {
+      "artist" : "High on Fire",
+      "ArtistId" : "high-on-fire-mn0000676530"
+    }, {
+      "artist" : "Orange Goblin",
+      "ArtistId" : "orange-goblin-mn0000406390"
+    }, {
+      "artist" : "Sleep",
+      "ArtistId" : "sleep-mn0000021578"
+    }, {
+      "artist" : "The Sword",
+      "ArtistId" : "the-sword-mn0000915835"
+    }, {
+      "artist" : "Blood Ceremony",
+      "ArtistId" : "blood-ceremony-mn0001008443"
+    }, {
+      "artist" : "Wolfmother",
+      "ArtistId" : "wolfmother-mn0000086250"
+    }, {
+      "artist" : "Cathedral",
+      "ArtistId" : "cathedral-mn0000179809"
+    }, {
+      "artist" : "Birds of Avalon",
+      "ArtistId" : "birds-of-avalon-mn0000457153"
+    }, {
+      "artist" : "Green Lung",
+      "ArtistId" : "green-lung-mn0003825109"
+    }, {
+      "artist" : "Red Fang",
+      "ArtistId" : "red-fang-mn0001055671"
+    } ],
+    "influencers" : [ {
+      "artist" : "Black Sabbath",
+      "ArtistId" : "black-sabbath-mn0000771438"
+    }, {
+      "artist" : "Pentagram",
+      "ArtistId" : "pentagram-mn0000308932"
+    }, {
+      "artist" : "Roky Erickson",
+      "ArtistId" : "roky-erickson-mn0000307025"
+    }, {
+      "artist" : "Cream",
+      "ArtistId" : "cream-mn0000112462"
+    }, {
+      "artist" : "Deep Purple",
+      "ArtistId" : "deep-purple-mn0000192382"
+    }, {
+      "artist" : "Jethro Tull",
+      "ArtistId" : "jethro-tull-mn0000850692"
+    }, {
+      "artist" : "Jimi Hendrix",
+      "ArtistId" : "jimi-hendrix-mn0000354105"
+    } ],
+    "followers" : [ ],
+    "associatedwith" : [ ]
+  }
+}

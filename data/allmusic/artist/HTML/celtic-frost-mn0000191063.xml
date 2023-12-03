@@ -55,7 +55,7 @@
         <link as="style" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/css/pages/artist/artist-8d3f6d0438.css" rel="preload">
         </link>
         <!-- preload setup (header) js -->
-        <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/setup-7181f23e55.js" rel="preload">
+        <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/setup-7c231c9509.js" rel="preload">
         </link>
         <!-- preload global (footer) js -->
         <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/global-f853a0affe.js" rel="preload">
@@ -162,7 +162,7 @@
         <!-- Alexa tag -->
         <meta content="SfgYrX5roRNK_iy-Mr_tFkRlY7M" name="alexaVerifyID">
         </meta>
-        <script crossorigin="anonymous" src="https://fastly-gce.allmusic.com/dist/js/setup-7181f23e55.js">/**//**/</script>
+        <script crossorigin="anonymous" src="https://fastly-gce.allmusic.com/dist/js/setup-7c231c9509.js">/**//**/</script>
         <!-- GA4 block -->
         <script>/**/
 			// set default values for data layer variables
@@ -571,6 +571,12 @@
                         </div>
                         <div class="subGridContainer">
                             <div class="subGridSingle">
+                                <a href="/album/to-mega-therion-mw0000651214" title="To Mega Therion">
+                                    <img alt="To Mega Therion" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=BxRwupDmOROtVoBueGWvnYAf7E_1E-2MlBBPmPAXRBU=&amp;f=4">
+                                    </img>
+                                </a>
+                            </div>
+                            <div class="subGridSingle">
                                 <a href="/album/monotheist-mw0000441586" title="Monotheist">
                                     <img alt="Monotheist" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=ycrwsXqvK1a3WVbKBqAQ3RyhM-OFI8zG4l-qVpXXB1I=&amp;f=4">
                                     </img>
@@ -579,18 +585,6 @@
                             <div class="subGridSingle">
                                 <a href="/album/morbid-tales-mw0001966052" title="Morbid Tales">
                                     <img alt="Morbid Tales" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=wzJ93fQrK_qwFy0ynTJp5hyhM-OFI8zG4l-qVpXXB1I=&amp;f=4">
-                                    </img>
-                                </a>
-                            </div>
-                            <div class="subGridSingle">
-                                <a href="/album/vanity-nemesis-mw0000308232" title="Vanity/Nemesis">
-                                    <img alt="Vanity/Nemesis" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=s3W-H0YwG7euQ5J-lPx20RyhM-OFI8zG4l-qVpXXB1I=&amp;f=4">
-                                    </img>
-                                </a>
-                            </div>
-                            <div class="subGridSingle">
-                                <a href="/album/to-mega-therion-mw0000651214" title="To Mega Therion">
-                                    <img alt="To Mega Therion" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=BxRwupDmOROtVoBueGWvnYAf7E_1E-2MlBBPmPAXRBU=&amp;f=4">
                                     </img>
                                 </a>
                             </div>
@@ -606,8 +600,14 @@
                                     </img>
                                 </a>
                             </div>
+                            <div class="subGridSingle">
+                                <a href="/album/vanity-nemesis-mw0000308232" title="Vanity/Nemesis">
+                                    <img alt="Vanity/Nemesis" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=s3W-H0YwG7euQ5J-lPx20RyhM-OFI8zG4l-qVpXXB1I=&amp;f=4">
+                                    </img>
+                                </a>
+                            </div>
                         </div>
-                        <a class="viewFullDiscography mobileOnly" href="/artist/parched-with-thirst-am-i-and-dying-mw0000274947" title="See Full Discography">See Full Discography</a>
+                        <a class="viewFullDiscography mobileOnly" href="/artist/vanity-nemesis-mw0000308232" title="See Full Discography">See Full Discography</a>
                     </div>
                     <div class="artistContentSubModule index" id="relatedArtists">
                         <div class="subHeadline">

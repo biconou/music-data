@@ -42,11 +42,48 @@ def parseDiscographyFromHtmlContent(artistId,htmlContent):
     discographyList = soup.select("#discographyResults > table > tbody > tr")
     list = []
     for u in discographyList:
-        albumYear = u.select("td.year")[0].string.strip()
+        albumYear = u.select("td.year")[0].string
+        if (albumYear) != None :
+            albumYear = albumYear.strip()
         logging.debug(albumYear)
-        albumTitle = u.select("td.title")[0]['data-sort-value']
+        albumTitle = u.select("td.meta")[0]['data-text']
         logging.debug(albumTitle)
         list.append({'albumYear': albumYear, 'albumTitle': albumTitle})
     artist['discography'] = list
+
+    return artist
+
+def parseRelatedFromHtmlContent(artistId,htmlContent):
+
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+
+    artist = {}
+    artist['id'] = artistId
+    artist['related'] = {}
+    # Similars
+    similarsList = soup.select("div.similars > a")
+    list = []
+    for u in similarsList:
+        list.append({'artist': u['title'], 'ArtistId': u['href'].replace("/artist/","")})
+    artist['related']['similars'] = list
+    # influencers
+    influencersList = soup.select("div.influencers > a")
+    list = []
+    for u in influencersList:
+        list.append({'artist': u['title'], 'ArtistId': u['href'].replace("/artist/","")})
+    artist['related']['influencers'] = list
+    # followers
+    followersList = soup.select("div.followers > a")
+    list = []
+    for u in followersList:
+        list.append({'artist': u['title'], 'ArtistId': u['href'].replace("/artist/","")})
+    artist['related']['followers'] = list
+    # associatedwith
+    associatedwithList = soup.select("div.associatedwith > a")
+    list = []
+    for u in associatedwithList:
+        list.append({'artist': u['title'], 'ArtistId': u['href'].replace("/artist/","")})
+    artist['related']['associatedwith'] = list
+
 
     return artist

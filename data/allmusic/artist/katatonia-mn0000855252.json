@@ -23,5 +23,164 @@
     "name" : "Death Metal",
     "url" : "https://www.allmusic.com/style/death-metal-ma0000002547"
   } ],
-  "discography" : [ ]
+  "discography" : [ {
+    "albumYear" : "1993",
+    "albumTitle" : "Dance of December Souls"
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "For Funerals to Come"
+  }, {
+    "albumYear" : "1997",
+    "albumTitle" : "Brave Murder Day"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Discouraged Ones"
+  }, {
+    "albumYear" : "1999",
+    "albumTitle" : "Tonight's Decision"
+  }, {
+    "albumYear" : "2001",
+    "albumTitle" : "Last Fair Deal Gone Down"
+  }, {
+    "albumYear" : "2003",
+    "albumTitle" : "Viva Emptiness"
+  }, {
+    "albumYear" : "2006",
+    "albumTitle" : "The Great Cold Distance"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "Live Consternation"
+  }, {
+    "albumYear" : "2009",
+    "albumTitle" : "Night Is the New Day"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "Dead End Kings"
+  }, {
+    "albumYear" : "2013",
+    "albumTitle" : "Dethroned & Uncrowned"
+  }, {
+    "albumYear" : "2014",
+    "albumTitle" : "Last Fair Day Gone Night"
+  }, {
+    "albumYear" : "2015",
+    "albumTitle" : "Sanctitude"
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "The Fall of Hearts"
+  }, {
+    "albumYear" : "2020",
+    "albumTitle" : "City Burials"
+  }, {
+    "albumYear" : "2020",
+    "albumTitle" : "Dead Air"
+  }, {
+    "albumYear" : "2023",
+    "albumTitle" : "Sky Void of Stars"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Mnemosynean"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Jhva Elohim Meth"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Anathema",
+      "ArtistId" : "anathema-mn0000749333"
+    }, {
+      "artist" : "My Dying Bride",
+      "ArtistId" : "my-dying-bride-mn0000617901"
+    }, {
+      "artist" : "Paradise Lost",
+      "ArtistId" : "paradise-lost-mn0000018691"
+    }, {
+      "artist" : "Amorphis",
+      "ArtistId" : "amorphis-mn0000022590"
+    }, {
+      "artist" : "Candlemass",
+      "ArtistId" : "candlemass-mn0000648407"
+    }, {
+      "artist" : "Fredrik Norrman",
+      "ArtistId" : "fredrik-norrman-mn0000939826"
+    }, {
+      "artist" : "Novembers Doom",
+      "ArtistId" : "novembers-doom-mn0000458812"
+    }, {
+      "artist" : "Opeth",
+      "ArtistId" : "opeth-mn0000400717"
+    }, {
+      "artist" : "Porcupine Tree",
+      "ArtistId" : "porcupine-tree-mn0000854203"
+    }, {
+      "artist" : "The Pineapple Thief",
+      "ArtistId" : "the-pineapple-thief-mn0000347161"
+    }, {
+      "artist" : "Foscor",
+      "ArtistId" : "foscor-mn0001933160"
+    }, {
+      "artist" : "Gazpacho",
+      "ArtistId" : "gazpacho-mn0000162220"
+    }, {
+      "artist" : "Iamthemorning",
+      "ArtistId" : "iamthemorning-mn0003095245"
+    }, {
+      "artist" : "Soilwork",
+      "ArtistId" : "soilwork-mn0000039406"
+    }, {
+      "artist" : "Bewitched",
+      "ArtistId" : "bewitched-mn0000052895"
+    }, {
+      "artist" : "Celtic Frost",
+      "ArtistId" : "celtic-frost-mn0000191063"
+    }, {
+      "artist" : "Cynic",
+      "ArtistId" : "cynic-mn0001866758"
+    }, {
+      "artist" : "Daylight Dies",
+      "ArtistId" : "daylight-dies-mn0000232597"
+    }, {
+      "artist" : "Elder",
+      "ArtistId" : "elder-mn0003703529"
+    }, {
+      "artist" : "Ghost Brigade",
+      "ArtistId" : "ghost-brigade-mn0000980278"
+    }, {
+      "artist" : "Green Carnation",
+      "ArtistId" : "green-carnation-mn0000799574"
+    }, {
+      "artist" : "Soen",
+      "ArtistId" : "soen-mn0002858295"
+    }, {
+      "artist" : "Ulver",
+      "ArtistId" : "ulver-mn0000179632"
+    }, {
+      "artist" : "Woods of Ypres",
+      "ArtistId" : "woods-of-ypres-mn0000662478"
+    } ],
+    "influencers" : [ ],
+    "followers" : [ ],
+    "associatedwith" : [ {
+      "artist" : "Lord Seth",
+      "ArtistId" : "lord-seth-mn0001350650"
+    }, {
+      "artist" : "Bloodbath",
+      "ArtistId" : "bloodbath-mn0000044820"
+    }, {
+      "artist" : "October Tide",
+      "ArtistId" : "october-tide-mn0000465526"
+    }, {
+      "artist" : "Dan Swanö",
+      "ArtistId" : "dan-swan%C3%B6-mn0000668986"
+    }, {
+      "artist" : "Guillaume Le Huche",
+      "ArtistId" : "guillaume-le-huche-mn0002315974"
+    }, {
+      "artist" : "Mikael Åkerfeldt",
+      "ArtistId" : "mikael-%C3kerfeldt-mn0000402515"
+    }, {
+      "artist" : "Mikael Oretoft",
+      "ArtistId" : "mikael-oretoft-mn0001555725"
+    } ]
+  }
 }

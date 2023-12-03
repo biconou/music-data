@@ -10,7 +10,7 @@
         <entry key="remove.input.column" type="xboolean" value="false"/>
         <entry key="new.column.name" type="xstring" value="artist"/>
         <entry key="patch.type" type="xstring" value="patch"/>
-        <entry key="json.patch" type="xstring" value="[%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/discography&quot;, &quot;value&quot;:  $artistDiscography$}%%00010]"/>
+        <entry key="json.patch" type="xstring" value="[%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/discography&quot;, &quot;value&quot;:  $artistDiscography$},%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/related&quot;, &quot;value&quot;: $artistRelated$ }%%00010%%00010]"/>
         <entry key="keep original when test fails" type="xboolean" value="false"/>
     </config>
     <config key="nodeAnnotation">
@@ -49,12 +49,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 6, Cols: 17"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 15, Cols: 29"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="7e93780d-69ef-4a72-860c-a521a4ce0c74"/>
+        <entry key="file_store_id" type="xstring" value="8cd72ffd-d4a8-4725-a95c-df290acd1e77"/>
     </config>
 </config>

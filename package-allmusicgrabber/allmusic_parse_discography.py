@@ -18,8 +18,8 @@ def parseDiscography(artistId):
 def main():
     logging.basicConfig(filename='example.log',level=logging.DEBUG)
     artistId = 'celtic-frost-mn0000191063'
-    artist = parseDiscography(artistId)
-    print(json.dumps(artist, sort_keys=False, indent=4))
+    disco = parseDiscography(artistId)
+    print(json.dumps(disco, sort_keys=False, indent=4))
   #  with open(computeArtistFileName(artistId), 'w') as f:
   #      f.write(json.dumps(artist, sort_keys=False, indent=4))
 

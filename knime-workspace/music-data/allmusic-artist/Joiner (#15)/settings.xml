@@ -95,13 +95,15 @@
         <config key="leftColumnSelectionConfig">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
-                <entry key="array-size" type="xint" value="6"/>
-                <entry key="0" type="xstring" value="artistId"/>
-                <entry key="1" type="xstring" value="artistUri"/>
-                <entry key="2" type="xstring" value="Status"/>
-                <entry key="3" type="xstring" value="Content type"/>
-                <entry key="4" type="xstring" value="artistMainHTML"/>
-                <entry key="5" type="xstring" value="artistMain"/>
+                <entry key="array-size" type="xint" value="8"/>
+                <entry key="0" type="xstring" value="name"/>
+                <entry key="1" type="xstring" value="url"/>
+                <entry key="2" type="xstring" value="artistId"/>
+                <entry key="3" type="xstring" value="genres"/>
+                <entry key="4" type="xstring" value="decades"/>
+                <entry key="5" type="xstring" value="artistUri"/>
+                <entry key="6" type="xstring" value="artistXHTMLString"/>
+                <entry key="7" type="xstring" value="artistMain"/>
             </config>
             <config key="excluded_names">
                 <entry key="array-size" type="xint" value="0"/>
@@ -116,9 +118,9 @@
             <config key="datatype">
                 <config key="typelist">
                     <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.json.JSONValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
@@ -128,13 +130,17 @@
         <config key="rightColumnSelectionConfig">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
-                <entry key="array-size" type="xint" value="6"/>
-                <entry key="0" type="xstring" value="artistId"/>
-                <entry key="1" type="xstring" value="artistDiscographyUri"/>
-                <entry key="2" type="xstring" value="Status"/>
-                <entry key="3" type="xstring" value="Content type"/>
-                <entry key="4" type="xstring" value="artistDiscographyHTML"/>
-                <entry key="5" type="xstring" value="artistDiscography"/>
+                <entry key="array-size" type="xint" value="10"/>
+                <entry key="0" type="xstring" value="name"/>
+                <entry key="1" type="xstring" value="url"/>
+                <entry key="2" type="xstring" value="artistId"/>
+                <entry key="3" type="xstring" value="genres"/>
+                <entry key="4" type="xstring" value="decades"/>
+                <entry key="5" type="xstring" value="artistDiscographyUri"/>
+                <entry key="6" type="xstring" value="Status"/>
+                <entry key="7" type="xstring" value="Content type"/>
+                <entry key="8" type="xstring" value="discographyXHTMLString"/>
+                <entry key="9" type="xstring" value="artistDiscography"/>
             </config>
             <config key="excluded_names">
                 <entry key="array-size" type="xint" value="0"/>
@@ -180,7 +186,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 6, Cols: 16"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 15, Cols: 28"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">
@@ -204,6 +210,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="27616b83-d65b-4ad4-8984-ddd84e7e17a2"/>
+        <entry key="file_store_id" type="xstring" value="ebaada7c-d65d-4f36-aa4f-d4f096107435"/>
     </config>
 </config>

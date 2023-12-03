@@ -12,7 +12,7 @@
         <entry key="newColName" type="xstring" value="artistDiscographyUri"/>
         <entry key="pattern" type="xstring" value="(.+)"/>
         <entry key="replaceAllOccurences" type="xboolean" value="false"/>
-        <entry key="replacement" type="xstring" value="https://www.allmusic.com/artist/$1/discography"/>
+        <entry key="replacement" type="xstring" value="https://www.allmusic.com/artist/$1/discographyAjax"/>
         <entry key="enableEscaping" type="xboolean" value="false"/>
         <entry key="findPattern" type="xboolean" value="true"/>
         <entry key="patternIsRegex" type="xboolean" value="true"/>
@@ -53,12 +53,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 6, Cols: 6"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 15, Cols: 6"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="dd6bfd16-824e-4bda-abb6-bd0e3c6e0f46"/>
+        <entry key="file_store_id" type="xstring" value="697566aa-7eb2-43a0-97f5-32297c2e55c5"/>
     </config>
 </config>

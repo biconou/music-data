@@ -47,7 +47,7 @@
         <link as="style" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/css/pages/search/search-e315d3aa33.css" rel="preload">
         </link>
         <!-- preload setup (header) js -->
-        <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/setup-7181f23e55.js" rel="preload">
+        <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/setup-7c231c9509.js" rel="preload">
         </link>
         <!-- preload global (footer) js -->
         <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/global-f853a0affe.js" rel="preload">
@@ -154,7 +154,7 @@
         <!-- Alexa tag -->
         <meta content="SfgYrX5roRNK_iy-Mr_tFkRlY7M" name="alexaVerifyID">
         </meta>
-        <script crossorigin="anonymous" src="https://fastly-gce.allmusic.com/dist/js/setup-7181f23e55.js">/**//**/</script>
+        <script crossorigin="anonymous" src="https://fastly-gce.allmusic.com/dist/js/setup-7c231c9509.js">/**//**/</script>
         <!-- GA4 block -->
         <script>/**/
 			// set default values for data layer variables
@@ -1103,7 +1103,7 @@
         </noscript>
         <!-- End comScore Tag -->
         <!-- Double Verify -->
-        <script>/**/document.write('&lt;img src="https://tps30.doubleverify.com/visit.jpg?ctx=2908533&amp;cmp=2736444&amp;sid=24324&amp;plc=DV-RTHM20170324001&amp;advid=2908534&amp;region=30&amp;btadsrv=rhythmone&amp;app=appid&amp;sup=sspid&amp;DVP_DV_TT=2&amp;DVP_DV_CT=1&amp;DVP_APPID=NotApplicable&amp;DVP_SSPID=NotApplicable&amp;DVP_PUBID=NotApplicable&amp;DVP_PP_BUNDLE_ID=NotApplicable&amp;DVP_RO_SSPID=NotApplicable&amp;DVP_PP_ORTB_PUB_ID=NotApplicable&amp;DVP_RO_SITEID=NotApplicable&amp;DVP_RO_TRAFFIC=NotApplicable&amp;DVP_PP_DEAL_ID=NotApplicable&amp;DVPX_PP_IMP_ID=NotApplicable&amp;DVPX_PP_UID=NotApplicable&amp;DVP_RO_CDID=NotApplicable&amp;DVPX_PP_AUCTION_UA=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10.10%3B+rv%3A40.0%29+Gecko%2F20100101+Firefox%2F40.0&amp;DVP_PP_AUCTION_IP=10.128.2.45&amp;turl=AllMusic.com&amp;dvtagver=6.1.img" alt="" width="0" height="0" alt="double verify pixel"&gt;');/**/</script>
+        <script>/**/document.write('&lt;img src="https://tps30.doubleverify.com/visit.jpg?ctx=2908533&amp;cmp=2736444&amp;sid=24324&amp;plc=DV-RTHM20170324001&amp;advid=2908534&amp;region=30&amp;btadsrv=rhythmone&amp;app=appid&amp;sup=sspid&amp;DVP_DV_TT=2&amp;DVP_DV_CT=1&amp;DVP_APPID=NotApplicable&amp;DVP_SSPID=NotApplicable&amp;DVP_PUBID=NotApplicable&amp;DVP_PP_BUNDLE_ID=NotApplicable&amp;DVP_RO_SSPID=NotApplicable&amp;DVP_PP_ORTB_PUB_ID=NotApplicable&amp;DVP_RO_SITEID=NotApplicable&amp;DVP_RO_TRAFFIC=NotApplicable&amp;DVP_PP_DEAL_ID=NotApplicable&amp;DVPX_PP_IMP_ID=NotApplicable&amp;DVPX_PP_UID=NotApplicable&amp;DVP_RO_CDID=NotApplicable&amp;DVPX_PP_AUCTION_UA=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10.10%3B+rv%3A40.0%29+Gecko%2F20100101+Firefox%2F40.0&amp;DVP_PP_AUCTION_IP=10.128.2.63&amp;turl=AllMusic.com&amp;dvtagver=6.1.img" alt="" width="0" height="0" alt="double verify pixel"&gt;');/**/</script>
         <!-- End Double Verify -->
     </body>
 </html>

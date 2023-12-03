@@ -55,7 +55,7 @@
         <link as="style" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/css/pages/artist/artist-8d3f6d0438.css" rel="preload">
         </link>
         <!-- preload setup (header) js -->
-        <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/setup-7181f23e55.js" rel="preload">
+        <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/setup-7c231c9509.js" rel="preload">
         </link>
         <!-- preload global (footer) js -->
         <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/global-f853a0affe.js" rel="preload">
@@ -162,7 +162,7 @@
         <!-- Alexa tag -->
         <meta content="SfgYrX5roRNK_iy-Mr_tFkRlY7M" name="alexaVerifyID">
         </meta>
-        <script crossorigin="anonymous" src="https://fastly-gce.allmusic.com/dist/js/setup-7181f23e55.js">/**//**/</script>
+        <script crossorigin="anonymous" src="https://fastly-gce.allmusic.com/dist/js/setup-7c231c9509.js">/**//**/</script>
         <!-- GA4 block -->
         <script>/**/
 			// set default values for data layer variables
@@ -595,14 +595,20 @@
                         </div>
                         <div class="subGridContainer">
                             <div class="subGridSingle">
-                                <a href="/album/powerslave-mw0000190289" title="Powerslave">
-                                    <img alt="Powerslave" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=YohTfpoEBwj8Z63jG1wXUT6KsMttLlyBmmVTZ6_CLs0=&amp;f=4">
+                                <a href="/album/the-best-of-the-beast-mw0000082114" title="The Best of the Beast">
+                                    <img alt="The Best of the Beast" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=A8pVNp1SrYbc0HFaLv3EsR_TZlp6n_cq-Emr2zx15tU=&amp;f=4">
                                     </img>
                                 </a>
                             </div>
                             <div class="subGridSingle">
-                                <a href="/album/live-after-death-mw0000650284" title="Live After Death">
-                                    <img alt="Live After Death" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=Aim4ca1izXQAZZiifjpbKRyhM-OFI8zG4l-qVpXXB1I=&amp;f=4">
+                                <a href="/album/piece-of-mind-mw0000045853" title="Piece of Mind">
+                                    <img alt="Piece of Mind" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=uwRgwINUV5i5f5Hxy0ln0j6KsMttLlyBmmVTZ6_CLs0=&amp;f=4">
+                                    </img>
+                                </a>
+                            </div>
+                            <div class="subGridSingle">
+                                <a href="/album/dance-of-death-mw0000598895" title="Dance of Death">
+                                    <img alt="Dance of Death" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=KkDbzBcY2Vd9Ym0MY6dDn5hUoDg0hsvx4F4sL4oO-nA=&amp;f=4">
                                     </img>
                                 </a>
                             </div>
@@ -613,25 +619,19 @@
                                 </a>
                             </div>
                             <div class="subGridSingle">
-                                <a href="/album/the-best-of-the-beast-mw0000082114" title="The Best of the Beast">
-                                    <img alt="The Best of the Beast" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=A8pVNp1SrYbc0HFaLv3EsR_TZlp6n_cq-Emr2zx15tU=&amp;f=4">
+                                <a href="/album/a-real-live-one-mw0000095205" title="A Real Live One">
+                                    <img alt="A Real Live One" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=C8zCDndjVak7npwRO4vZSxyhM-OFI8zG4l-qVpXXB1I=&amp;f=4">
                                     </img>
                                 </a>
                             </div>
                             <div class="subGridSingle">
-                                <a href="/album/iron-maiden-mw0000198284" title="Iron Maiden">
-                                    <img alt="Iron Maiden" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=NclYwiQaUFj52rpVdmJIEJhUoDg0hsvx4F4sL4oO-nA=&amp;f=4">
-                                    </img>
-                                </a>
-                            </div>
-                            <div class="subGridSingle">
-                                <a href="/album/piece-of-mind-mw0000045853" title="Piece of Mind">
-                                    <img alt="Piece of Mind" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=uwRgwINUV5i5f5Hxy0ln0j6KsMttLlyBmmVTZ6_CLs0=&amp;f=4">
+                                <a href="/album/killers-mw0000601464" title="Killers">
+                                    <img alt="Killers" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=21d37Yt6pI4P6CRQlmSAnIAf7E_1E-2MlBBPmPAXRBU=&amp;f=4">
                                     </img>
                                 </a>
                             </div>
                         </div>
-                        <a class="viewFullDiscography mobileOnly" href="/artist/piece-of-mind-mw0000045853" title="See Full Discography">See Full Discography</a>
+                        <a class="viewFullDiscography mobileOnly" href="/artist/killers-mw0000601464" title="See Full Discography">See Full Discography</a>
                     </div>
                     <div class="artistContentSubModule index" id="relatedArtists">
                         <div class="subHeadline">
@@ -1090,7 +1090,7 @@
         </noscript>
         <!-- End comScore Tag -->
         <!-- Double Verify -->
-        <script>/**/document.write('&lt;img src="https://tps30.doubleverify.com/visit.jpg?ctx=2908533&amp;cmp=2736444&amp;sid=24324&amp;plc=DV-RTHM20170324001&amp;advid=2908534&amp;region=30&amp;btadsrv=rhythmone&amp;app=appid&amp;sup=sspid&amp;DVP_DV_TT=2&amp;DVP_DV_CT=1&amp;DVP_APPID=NotApplicable&amp;DVP_SSPID=NotApplicable&amp;DVP_PUBID=NotApplicable&amp;DVP_PP_BUNDLE_ID=NotApplicable&amp;DVP_RO_SSPID=NotApplicable&amp;DVP_PP_ORTB_PUB_ID=NotApplicable&amp;DVP_RO_SITEID=NotApplicable&amp;DVP_RO_TRAFFIC=NotApplicable&amp;DVP_PP_DEAL_ID=NotApplicable&amp;DVPX_PP_IMP_ID=NotApplicable&amp;DVPX_PP_UID=NotApplicable&amp;DVP_RO_CDID=NotApplicable&amp;DVPX_PP_AUCTION_UA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F110.0.0.0+Safari%2F537.36+Edg%2F110.0.1587.50&amp;DVP_PP_AUCTION_IP=10.128.2.63&amp;turl=AllMusic.com&amp;dvtagver=6.1.img" alt="" width="0" height="0" alt="double verify pixel"&gt;');/**/</script>
+        <script>/**/document.write('&lt;img src="https://tps30.doubleverify.com/visit.jpg?ctx=2908533&amp;cmp=2736444&amp;sid=24324&amp;plc=DV-RTHM20170324001&amp;advid=2908534&amp;region=30&amp;btadsrv=rhythmone&amp;app=appid&amp;sup=sspid&amp;DVP_DV_TT=2&amp;DVP_DV_CT=1&amp;DVP_APPID=NotApplicable&amp;DVP_SSPID=NotApplicable&amp;DVP_PUBID=NotApplicable&amp;DVP_PP_BUNDLE_ID=NotApplicable&amp;DVP_RO_SSPID=NotApplicable&amp;DVP_PP_ORTB_PUB_ID=NotApplicable&amp;DVP_RO_SITEID=NotApplicable&amp;DVP_RO_TRAFFIC=NotApplicable&amp;DVP_PP_DEAL_ID=NotApplicable&amp;DVPX_PP_IMP_ID=NotApplicable&amp;DVPX_PP_UID=NotApplicable&amp;DVP_RO_CDID=NotApplicable&amp;DVPX_PP_AUCTION_UA=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+K%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F119.0.0.0+Mobile+Safari%2F537.36&amp;DVP_PP_AUCTION_IP=10.128.2.45&amp;turl=AllMusic.com&amp;dvtagver=6.1.img" alt="" width="0" height="0" alt="double verify pixel"&gt;');/**/</script>
         <!-- End Double Verify -->
         <div id="correctionsModal">
             <div id="correctionsModalClose">

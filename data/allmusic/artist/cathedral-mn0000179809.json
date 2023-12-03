@@ -1,0 +1,210 @@
+{
+  "id" : "cathedral-mn0000179809",
+  "name" : "Cathedral",
+  "activeDates" : "1990s - 2020s",
+  "birthDate" : "1989",
+  "birthPlace" : "Coventry, West Midlands, England",
+  "styles" : [ {
+    "name" : "Doom Metal",
+    "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  } ],
+  "discography" : [ {
+    "albumYear" : "1991",
+    "albumTitle" : "Forest of Equilibrium"
+  }, {
+    "albumYear" : "1993",
+    "albumTitle" : "The Ethereal Mirror"
+  }, {
+    "albumYear" : "1994",
+    "albumTitle" : "In Memoriam [Zomba]"
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "The Carnival Bizarre"
+  }, {
+    "albumYear" : "1996",
+    "albumTitle" : "Supernatural Birth Machine"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Caravan Beyond Redemption"
+  }, {
+    "albumYear" : "2001",
+    "albumTitle" : "Endtyme"
+  }, {
+    "albumYear" : "2002",
+    "albumTitle" : "The Seventh Coming"
+  }, {
+    "albumYear" : "2006",
+    "albumTitle" : "The Garden of Unearthly Delights"
+  }, {
+    "albumYear" : "2006",
+    "albumTitle" : "Ensemble for the Midevil"
+  }, {
+    "albumYear" : "2010",
+    "albumTitle" : "The Guessing Game"
+  }, {
+    "albumYear" : "2011",
+    "albumTitle" : "Anniversary"
+  }, {
+    "albumYear" : "2013",
+    "albumTitle" : "The Last Spire"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "The VIIth Coming"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Forest of Equilibrium/Soul Sacrifice"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Candlemass",
+      "ArtistId" : "candlemass-mn0000648407"
+    }, {
+      "artist" : "Paradise Lost",
+      "ArtistId" : "paradise-lost-mn0000018691"
+    }, {
+      "artist" : "Pentagram",
+      "ArtistId" : "pentagram-mn0000308932"
+    }, {
+      "artist" : "Saint Vitus",
+      "ArtistId" : "saint-vitus-mn0000287259"
+    }, {
+      "artist" : "Cemetary",
+      "ArtistId" : "cemetary-mn0000188790"
+    }, {
+      "artist" : "Memento Mori",
+      "ArtistId" : "memento-mori-mn0000351358"
+    }, {
+      "artist" : "Trouble",
+      "ArtistId" : "trouble-mn0000747243"
+    }, {
+      "artist" : "Acrimony",
+      "ArtistId" : "acrimony-mn0001250337"
+    }, {
+      "artist" : "Anathema",
+      "ArtistId" : "anathema-mn0000749333"
+    }, {
+      "artist" : "Blind Dog",
+      "ArtistId" : "blind-dog-mn0000049811"
+    }, {
+      "artist" : "Electric Wizard",
+      "ArtistId" : "electric-wizard-mn0000164175"
+    }, {
+      "artist" : "Goatsnake",
+      "ArtistId" : "goatsnake-mn0000667225"
+    }, {
+      "artist" : "Katatonia",
+      "ArtistId" : "katatonia-mn0000855252"
+    }, {
+      "artist" : "Lake of Tears",
+      "ArtistId" : "lake-of-tears-mn0000124554"
+    }, {
+      "artist" : "My Dying Bride",
+      "ArtistId" : "my-dying-bride-mn0000617901"
+    }, {
+      "artist" : "Penance",
+      "ArtistId" : "penance-mn0000838637"
+    }, {
+      "artist" : "Pyogenesis",
+      "ArtistId" : "pyogenesis-mn0000373061"
+    }, {
+      "artist" : "Sheavy",
+      "ArtistId" : "sheavy-mn0000013891"
+    }, {
+      "artist" : "Solitude Aeturnus",
+      "ArtistId" : "solitude-aeturnus-mn0000031211"
+    }, {
+      "artist" : "Solstice",
+      "ArtistId" : "solstice-mn0001787837"
+    }, {
+      "artist" : "Sons of Otis",
+      "ArtistId" : "sons-of-otis-mn0000037617"
+    }, {
+      "artist" : "Spiritual Beggars",
+      "ArtistId" : "spiritual-beggars-mn0000014408"
+    }, {
+      "artist" : "The Obsessed",
+      "ArtistId" : "the-obsessed-mn0000485881"
+    }, {
+      "artist" : "Theatre of Tragedy",
+      "ArtistId" : "theatre-of-tragedy-mn0000924630"
+    }, {
+      "artist" : "Witchfinder General",
+      "ArtistId" : "witchfinder-general-mn0000671244"
+    }, {
+      "artist" : "Shallow",
+      "ArtistId" : "shallow-mn0001903454"
+    }, {
+      "artist" : "Crowbar",
+      "ArtistId" : "crowbar-mn0000109421"
+    } ],
+    "influencers" : [ {
+      "artist" : "Black Sabbath",
+      "ArtistId" : "black-sabbath-mn0000771438"
+    }, {
+      "artist" : "Candlemass",
+      "ArtistId" : "candlemass-mn0000648407"
+    }, {
+      "artist" : "Celtic Frost",
+      "ArtistId" : "celtic-frost-mn0000191063"
+    }, {
+      "artist" : "Discharge",
+      "ArtistId" : "discharge-mn0000156043"
+    }, {
+      "artist" : "Iron Maiden",
+      "ArtistId" : "iron-maiden-mn0000098465"
+    }, {
+      "artist" : "Mercyful Fate",
+      "ArtistId" : "mercyful-fate-mn0000343954"
+    }, {
+      "artist" : "Minor Threat",
+      "ArtistId" : "minor-threat-mn0000422947"
+    }, {
+      "artist" : "Pentagram",
+      "ArtistId" : "pentagram-mn0000308932"
+    }, {
+      "artist" : "Saint Vitus",
+      "ArtistId" : "saint-vitus-mn0000287259"
+    }, {
+      "artist" : "UFO",
+      "ArtistId" : "ufo-mn0000809999"
+    }, {
+      "artist" : "Venom",
+      "ArtistId" : "venom-mn0000315403"
+    }, {
+      "artist" : "Witchfinder General",
+      "ArtistId" : "witchfinder-general-mn0000671244"
+    } ],
+    "followers" : [ {
+      "artist" : "Bongzilla",
+      "ArtistId" : "bongzilla-mn0000085271"
+    }, {
+      "artist" : "Electric Wizard",
+      "ArtistId" : "electric-wizard-mn0000164175"
+    }, {
+      "artist" : "High on Fire",
+      "ArtistId" : "high-on-fire-mn0000676530"
+    }, {
+      "artist" : "Isis",
+      "ArtistId" : "isis-mn0000108468"
+    }, {
+      "artist" : "Spirit Caravan",
+      "ArtistId" : "spirit-caravan-mn0000014177"
+    }, {
+      "artist" : "Sunn O)))",
+      "ArtistId" : "sunn-o-mn0000924250"
+    }, {
+      "artist" : "YOB",
+      "ArtistId" : "yob-mn0000683342"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Firebird",
+      "ArtistId" : "firebird-mn0000795448"
+    }, {
+      "artist" : "Napalm Death",
+      "ArtistId" : "napalm-death-mn0000371258"
+    } ]
+  }
+}

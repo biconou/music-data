@@ -1,0 +1,225 @@
+{
+  "id" : "candlemass-mn0000648407",
+  "name" : "Candlemass",
+  "activeDates" : "1980s - 2020s",
+  "birthDate" : "1984",
+  "birthPlace" : "Stockholm, Sweden",
+  "styles" : [ {
+    "name" : "Doom Metal",
+    "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  }, {
+    "name" : "Scandinavian Metal",
+    "url" : "https://www.allmusic.com/style/scandinavian-metal-ma0000012324"
+  } ],
+  "discography" : [ {
+    "albumYear" : "1986",
+    "albumTitle" : "Epicus Doomicus Metallicus"
+  }, {
+    "albumYear" : "1987",
+    "albumTitle" : "Nightfall"
+  }, {
+    "albumYear" : "1988",
+    "albumTitle" : "Ancient Dreams"
+  }, {
+    "albumYear" : "1989",
+    "albumTitle" : "Tales of Creation"
+  }, {
+    "albumYear" : "1991",
+    "albumTitle" : "Live"
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "Chapter VI"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Dactylis Glomerata"
+  }, {
+    "albumYear" : "1999",
+    "albumTitle" : "From the 13th Sun"
+  }, {
+    "albumYear" : "2003",
+    "albumTitle" : "Doomed for Live: Reunion 2002"
+  }, {
+    "albumYear" : "2003",
+    "albumTitle" : "Diamonds of Doom"
+  }, {
+    "albumYear" : "2006",
+    "albumTitle" : "Candlemass"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "The King of the Grey Islands"
+  }, {
+    "albumYear" : "2008",
+    "albumTitle" : "Lucifer Rising"
+  }, {
+    "albumYear" : "2009",
+    "albumTitle" : "Death Magic Doom"
+  }, {
+    "albumYear" : "2010",
+    "albumTitle" : "Doomology [Box Set]"
+  }, {
+    "albumYear" : "2010",
+    "albumTitle" : "Ashes to Ashes Live"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "Psalms for the Dead"
+  }, {
+    "albumYear" : "2019",
+    "albumTitle" : "The Door to Doom"
+  }, {
+    "albumYear" : "2022",
+    "albumTitle" : "Don't Fear the Reaper"
+  }, {
+    "albumYear" : "2022",
+    "albumTitle" : "Sweet Evil Sun"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "No Sleep Till Athens: Live"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Cathedral",
+      "ArtistId" : "cathedral-mn0000179809"
+    }, {
+      "artist" : "Trouble",
+      "ArtistId" : "trouble-mn0000747243"
+    }, {
+      "artist" : "Cemetary",
+      "ArtistId" : "cemetary-mn0000188790"
+    }, {
+      "artist" : "My Dying Bride",
+      "ArtistId" : "my-dying-bride-mn0000617901"
+    }, {
+      "artist" : "Paradise Lost",
+      "ArtistId" : "paradise-lost-mn0000018691"
+    }, {
+      "artist" : "Reverend Bizarre",
+      "ArtistId" : "reverend-bizarre-mn0000534206"
+    }, {
+      "artist" : "Saint Vitus",
+      "ArtistId" : "saint-vitus-mn0000287259"
+    }, {
+      "artist" : "Solitude Aeturnus",
+      "ArtistId" : "solitude-aeturnus-mn0000031211"
+    }, {
+      "artist" : "Anathema",
+      "ArtistId" : "anathema-mn0000749333"
+    }, {
+      "artist" : "Atheist",
+      "ArtistId" : "atheist-mn0000931546"
+    }, {
+      "artist" : "Cancer",
+      "ArtistId" : "cancer-mn0000652713"
+    }, {
+      "artist" : "Church of Misery",
+      "ArtistId" : "church-of-misery-mn0000127724"
+    }, {
+      "artist" : "Cradle of Filth",
+      "ArtistId" : "cradle-of-filth-mn0000779670"
+    }, {
+      "artist" : "Electric Wizard",
+      "ArtistId" : "electric-wizard-mn0000164175"
+    }, {
+      "artist" : "Godflesh",
+      "ArtistId" : "godflesh-mn0000561715"
+    }, {
+      "artist" : "Katatonia",
+      "ArtistId" : "katatonia-mn0000855252"
+    }, {
+      "artist" : "Lake of Tears",
+      "ArtistId" : "lake-of-tears-mn0000124554"
+    }, {
+      "artist" : "Las Cruces",
+      "ArtistId" : "las-cruces-mn0000781797"
+    }, {
+      "artist" : "Megadeth",
+      "ArtistId" : "megadeth-mn0000406294"
+    }, {
+      "artist" : "Memory Garden",
+      "ArtistId" : "memory-garden-mn0000354382"
+    }, {
+      "artist" : "Pyogenesis",
+      "ArtistId" : "pyogenesis-mn0000373061"
+    }, {
+      "artist" : "Samhain",
+      "ArtistId" : "samhain-mn0000832888"
+    }, {
+      "artist" : "Solstice",
+      "ArtistId" : "solstice-mn0001787837"
+    }, {
+      "artist" : "The Obsessed",
+      "ArtistId" : "the-obsessed-mn0000485881"
+    }, {
+      "artist" : "Witchfinder General",
+      "ArtistId" : "witchfinder-general-mn0000671244"
+    }, {
+      "artist" : "Dwarr",
+      "ArtistId" : "dwarr-mn0002512644"
+    }, {
+      "artist" : "Excel",
+      "ArtistId" : "excel-mn0000132617"
+    }, {
+      "artist" : "Grand Magus",
+      "ArtistId" : "grand-magus-mn0000740486"
+    }, {
+      "artist" : "Manilla Road",
+      "ArtistId" : "manilla-road-mn0000943132"
+    } ],
+    "influencers" : [ {
+      "artist" : "Black Sabbath",
+      "ArtistId" : "black-sabbath-mn0000771438"
+    }, {
+      "artist" : "Blue Cheer",
+      "ArtistId" : "blue-cheer-mn0000059537"
+    }, {
+      "artist" : "Deep Purple",
+      "ArtistId" : "deep-purple-mn0000192382"
+    }, {
+      "artist" : "Led Zeppelin",
+      "ArtistId" : "led-zeppelin-mn0000139026"
+    }, {
+      "artist" : "Witchfinder General",
+      "ArtistId" : "witchfinder-general-mn0000671244"
+    } ],
+    "followers" : [ {
+      "artist" : "Anathema",
+      "ArtistId" : "anathema-mn0000749333"
+    }, {
+      "artist" : "Cathedral",
+      "ArtistId" : "cathedral-mn0000179809"
+    }, {
+      "artist" : "Kyuss",
+      "ArtistId" : "kyuss-mn0000776011"
+    }, {
+      "artist" : "My Dying Bride",
+      "ArtistId" : "my-dying-bride-mn0000617901"
+    }, {
+      "artist" : "Solitude Aeturnus",
+      "ArtistId" : "solitude-aeturnus-mn0000031211"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Arch Enemy",
+      "ArtistId" : "arch-enemy-mn0000597314"
+    }, {
+      "artist" : "Carcass",
+      "ArtistId" : "carcass-mn0000794926"
+    }, {
+      "artist" : "Michael Amott",
+      "ArtistId" : "michael-amott-mn0000384701"
+    }, {
+      "artist" : "Spiritual Beggars",
+      "ArtistId" : "spiritual-beggars-mn0000014408"
+    }, {
+      "artist" : "Memento Mori",
+      "ArtistId" : "memento-mori-mn0000351358"
+    }, {
+      "artist" : "Abstrakt Algebra",
+      "ArtistId" : "abstrakt-algebra-mn0000642256"
+    }, {
+      "artist" : "Krux",
+      "ArtistId" : "krux-mn0000979500"
+    } ]
+  }
+}

@@ -47,7 +47,7 @@
         <link as="style" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/css/pages/search/search-e315d3aa33.css" rel="preload">
         </link>
         <!-- preload setup (header) js -->
-        <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/setup-7181f23e55.js" rel="preload">
+        <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/setup-7c231c9509.js" rel="preload">
         </link>
         <!-- preload global (footer) js -->
         <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/global-f853a0affe.js" rel="preload">
@@ -154,7 +154,7 @@
         <!-- Alexa tag -->
         <meta content="SfgYrX5roRNK_iy-Mr_tFkRlY7M" name="alexaVerifyID">
         </meta>
-        <script crossorigin="anonymous" src="https://fastly-gce.allmusic.com/dist/js/setup-7181f23e55.js">/**//**/</script>
+        <script crossorigin="anonymous" src="https://fastly-gce.allmusic.com/dist/js/setup-7c231c9509.js">/**//**/</script>
         <!-- GA4 block -->
         <script>/**/
 			// set default values for data layer variables
@@ -491,7 +491,7 @@
                 </div>
                 <div id="pageContent">
                     <div id="resultsContainer">
-                        <h1>343 artist search results for iron maiden</h1>
+                        <h1>344 artist search results for iron maiden</h1>
                         <div id="scrollGridContainer">
                             <div class="mobile-filters" data-term="iron maiden">
                                 <span>Filter By</span>
@@ -660,7 +660,6 @@
                                     <div class="name">
                                         <a href="https://www.allmusic.com/artist/iron-savior-mn0000083505">Iron Savior</a>
                                     </div>
-                                    <div class="genres">Pop/Rock</div>
                                     <div class="decades">1990s - 2020s</div>
                                 </div>
                                 <div class="photo">
@@ -794,7 +793,7 @@
                                 <h3>
                                     <a href="/search/artists/iron+maiden" title="View all Artists results">
 										Artists
-										<span class="count">(343)</span>
+										<span class="count">(344)</span>
                                     </a>
                                 </h3>
                             </div>

@@ -55,7 +55,7 @@
         <link as="style" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/css/pages/artist/artist-8d3f6d0438.css" rel="preload">
         </link>
         <!-- preload setup (header) js -->
-        <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/setup-7181f23e55.js" rel="preload">
+        <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/setup-7c231c9509.js" rel="preload">
         </link>
         <!-- preload global (footer) js -->
         <link as="script" crossorigin="anonymous" href="https://fastly-gce.allmusic.com/dist/js/global-f853a0affe.js" rel="preload">
@@ -162,7 +162,7 @@
         <!-- Alexa tag -->
         <meta content="SfgYrX5roRNK_iy-Mr_tFkRlY7M" name="alexaVerifyID">
         </meta>
-        <script crossorigin="anonymous" src="https://fastly-gce.allmusic.com/dist/js/setup-7181f23e55.js">/**//**/</script>
+        <script crossorigin="anonymous" src="https://fastly-gce.allmusic.com/dist/js/setup-7c231c9509.js">/**//**/</script>
         <!-- GA4 block -->
         <script>/**/
 			// set default values for data layer variables
@@ -577,8 +577,8 @@
                         </div>
                         <div class="subGridContainer">
                             <div class="subGridSingle">
-                                <a href="/album/tragic-idol-mw0002332032" title="Tragic Idol">
-                                    <img alt="Tragic Idol" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=pBFBq3Y6aHs4Oy7hdLAOjx_TZlp6n_cq-Emr2zx15tU=&amp;f=4">
+                                <a href="/album/gothic-mw0000096112" title="Gothic">
+                                    <img alt="Gothic" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=VWGMk-XHJ0SkOxooZ4sWfYAf7E_1E-2MlBBPmPAXRBU=&amp;f=4">
                                     </img>
                                 </a>
                             </div>
@@ -589,31 +589,31 @@
                                 </a>
                             </div>
                             <div class="subGridSingle">
-                                <a href="/album/one-second-mw0000024990" title="One Second">
-                                    <img alt="One Second" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://fastly-s3.allmusic.com/release-covers/400/0001/233/0001233002.jpg">
-                                    </img>
-                                </a>
-                            </div>
-                            <div class="subGridSingle">
                                 <a href="/album/reflection-mw0000044602" title="Reflection">
                                     <img alt="Reflection" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=HUCUsMLXXs4_b80ztjHGRD6KsMttLlyBmmVTZ6_CLs0=&amp;f=4">
                                     </img>
                                 </a>
                             </div>
                             <div class="subGridSingle">
-                                <a href="/album/icon-mw0000107875" title="Icon">
-                                    <img alt="Icon" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=FVAcx-zGVSRjoFnt9bADrIAf7E_1E-2MlBBPmPAXRBU=&amp;f=4">
+                                <a href="/album/believe-in-nothing-mw0000222282" title="Believe in Nothing">
+                                    <img alt="Believe in Nothing" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=1BQMMBeuBlrU_tC5zq4FmASijaXJlYnq0St31qpAJWo=&amp;f=4">
                                     </img>
                                 </a>
                             </div>
                             <div class="subGridSingle">
-                                <a href="/album/gothic-mw0000096112" title="Gothic">
-                                    <img alt="Gothic" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=VWGMk-XHJ0SkOxooZ4sWfYAf7E_1E-2MlBBPmPAXRBU=&amp;f=4">
+                                <a href="/album/tragic-idol-mw0002332032" title="Tragic Idol">
+                                    <img alt="Tragic Idol" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://rovimusic.rovicorp.com/image.jpg?c=pBFBq3Y6aHs4Oy7hdLAOjx_TZlp6n_cq-Emr2zx15tU=&amp;f=4">
+                                    </img>
+                                </a>
+                            </div>
+                            <div class="subGridSingle">
+                                <a href="/album/one-second-mw0000024990" title="One Second">
+                                    <img alt="One Second" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'" src="https://fastly-s3.allmusic.com/release-covers/400/0001/233/0001233002.jpg">
                                     </img>
                                 </a>
                             </div>
                         </div>
-                        <a class="viewFullDiscography mobileOnly" href="/artist/gothic-mw0000096112" title="See Full Discography">See Full Discography</a>
+                        <a class="viewFullDiscography mobileOnly" href="/artist/one-second-mw0000024990" title="See Full Discography">See Full Discography</a>
                     </div>
                     <div class="artistContentSubModule index" id="relatedArtists">
                         <div class="subHeadline">
@@ -1072,7 +1072,7 @@
         </noscript>
         <!-- End comScore Tag -->
         <!-- Double Verify -->
-        <script>/**/document.write('&lt;img src="https://tps30.doubleverify.com/visit.jpg?ctx=2908533&amp;cmp=2736444&amp;sid=24324&amp;plc=DV-RTHM20170324001&amp;advid=2908534&amp;region=30&amp;btadsrv=rhythmone&amp;app=appid&amp;sup=sspid&amp;DVP_DV_TT=2&amp;DVP_DV_CT=1&amp;DVP_APPID=NotApplicable&amp;DVP_SSPID=NotApplicable&amp;DVP_PUBID=NotApplicable&amp;DVP_PP_BUNDLE_ID=NotApplicable&amp;DVP_RO_SSPID=NotApplicable&amp;DVP_PP_ORTB_PUB_ID=NotApplicable&amp;DVP_RO_SITEID=NotApplicable&amp;DVP_RO_TRAFFIC=NotApplicable&amp;DVP_PP_DEAL_ID=NotApplicable&amp;DVPX_PP_IMP_ID=NotApplicable&amp;DVPX_PP_UID=NotApplicable&amp;DVP_RO_CDID=NotApplicable&amp;DVPX_PP_AUCTION_UA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A120.0%29+Gecko%2F20100101+Firefox%2F120.0&amp;DVP_PP_AUCTION_IP=10.128.2.63&amp;turl=AllMusic.com&amp;dvtagver=6.1.img" alt="" width="0" height="0" alt="double verify pixel"&gt;');/**/</script>
+        <script>/**/document.write('&lt;img src="https://tps30.doubleverify.com/visit.jpg?ctx=2908533&amp;cmp=2736444&amp;sid=24324&amp;plc=DV-RTHM20170324001&amp;advid=2908534&amp;region=30&amp;btadsrv=rhythmone&amp;app=appid&amp;sup=sspid&amp;DVP_DV_TT=2&amp;DVP_DV_CT=1&amp;DVP_APPID=NotApplicable&amp;DVP_SSPID=NotApplicable&amp;DVP_PUBID=NotApplicable&amp;DVP_PP_BUNDLE_ID=NotApplicable&amp;DVP_RO_SSPID=NotApplicable&amp;DVP_PP_ORTB_PUB_ID=NotApplicable&amp;DVP_RO_SITEID=NotApplicable&amp;DVP_RO_TRAFFIC=NotApplicable&amp;DVP_PP_DEAL_ID=NotApplicable&amp;DVPX_PP_IMP_ID=NotApplicable&amp;DVPX_PP_UID=NotApplicable&amp;DVP_RO_CDID=NotApplicable&amp;DVPX_PP_AUCTION_UA=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10.10%3B+rv%3A40.0%29+Gecko%2F20100101+Firefox%2F40.0&amp;DVP_PP_AUCTION_IP=10.128.2.45&amp;turl=AllMusic.com&amp;dvtagver=6.1.img" alt="" width="0" height="0" alt="double verify pixel"&gt;');/**/</script>
         <!-- End Double Verify -->
         <div id="correctionsModal">
             <div id="correctionsModalClose">

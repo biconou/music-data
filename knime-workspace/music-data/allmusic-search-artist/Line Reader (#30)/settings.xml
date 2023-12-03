@@ -7,6 +7,10 @@
     </config>
     <config key="model">
         <config key="settings">
+            <entry key="fail_on_different_specs" type="xboolean" value="true"/>
+            <entry key="row_header_prefix" type="xstring" value="Row"/>
+            <entry key="use_column_header" type="xboolean" value="false"/>
+            <entry key="custom_col_header" type="xstring" value="artist"/>
             <config key="file_selection_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_ReaderFileChooser"/>
                 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -55,10 +59,6 @@
                     </config>
                 </config>
             </config>
-            <entry key="fail_on_different_specs" type="xboolean" value="true"/>
-            <entry key="row_header_prefix" type="xstring" value="Row"/>
-            <entry key="use_column_header" type="xboolean" value="false"/>
-            <entry key="custom_col_header" type="xstring" value="artist"/>
         </config>
         <config key="advanced_settings">
             <entry key="append_path_column_Internals" type="xboolean" value="false"/>
@@ -99,12 +99,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 6, Cols: 1"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 17, Cols: 1"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="0ecf5193-a542-486b-823f-329ecd5a7e3d"/>
+        <entry key="file_store_id" type="xstring" value="7108dadd-3d02-45b6-a554-e17a1da4db18"/>
     </config>
 </config>
