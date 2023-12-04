@@ -208,6 +208,7 @@
 			);
 		/**/</script>
         <script type="text/javascript">/**/
+			if (scroll_v7 === "no-scroll") {
 			!(function(o,_name){o[_name]=o[_name]||function n(){(n.q=n.q||[]).push(arguments)},o[_name].v=o[_name].v||2;!(function(o,t,n,f,e,i)
 			{function c(f,e){(f=(function(t,n){try{if(n=(t=o.localStorage).getItem("_aQS02Mzg3RDEwMjU5NjBGOUQ0REY5Q0YwOTEtMTM"))return JSON.parse(n).lgk||[];
 			if((t.getItem("v4ac1eiZr0")||"").split(",")[4]&gt;0)return[[_name+"-engaged","true"]]}catch(f){}})())
@@ -216,6 +217,7 @@
 			(window,"googletag","function");})(window,String.fromCharCode(97,100,109,105,114,97,108));!(function(t,c,i)
 			{i=t.createElement(c),t=t.getElementsByTagName(c)[0],i.async=1,
 			i.src="https://scaredsong.com/build/f81bfe3ecabe144bd6e7628d225e7af69eca.js",t.parentNode.insertBefore(i,t)})(document,"script");
+			}
 		/**/</script>
         <script type="text/javascript">/**/
 			if (scroll_v7 === "no-scroll") {
@@ -491,7 +493,7 @@
                 </div>
                 <div id="pageContent">
                     <div id="resultsContainer">
-                        <h1>184 artist search results for Yob</h1>
+                        <h1>185 artist search results for Yob</h1>
                         <div id="scrollGridContainer">
                             <div class="mobile-filters" data-term="Yob">
                                 <span>Filter By</span>
@@ -742,7 +744,7 @@
                                 <h3>
                                     <a href="/search/all/Yob" title="View all All results">
 										All
-										<span class="count">(922)</span>
+										<span class="count">(923)</span>
                                     </a>
                                 </h3>
                             </div>
@@ -750,7 +752,7 @@
                                 <h3>
                                     <a href="/search/artists/Yob" title="View all Artists results">
 										Artists
-										<span class="count">(184)</span>
+										<span class="count">(185)</span>
                                     </a>
                                 </h3>
                             </div>

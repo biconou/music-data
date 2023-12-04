@@ -7,9 +7,9 @@
     </config>
     <config key="model">
         <entry key="caseSensitive" type="xboolean" value="false"/>
-        <entry key="colName" type="xstring" value="artist"/>
+        <entry key="colName" type="xstring" value="artistURLEncode"/>
         <entry key="createNewCol" type="xboolean" value="true"/>
-        <entry key="newColName" type="xstring" value="searchArtistUri"/>
+        <entry key="newColName" type="xstring" value="allmusicSearchArtistUri"/>
         <entry key="pattern" type="xstring" value="(.+)"/>
         <entry key="replaceAllOccurences" type="xboolean" value="false"/>
         <entry key="replacement" type="xstring" value="https://www.allmusic.com/search/artists/$1"/>
@@ -53,12 +53,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 17, Cols: 2"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 48, Cols: 4"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="b3408ab7-d9e1-44dd-828d-e2148fdf0e12"/>
+        <entry key="file_store_id" type="xstring" value="a031c45d-15e6-45f2-ae8c-9c6c2358da98"/>
     </config>
 </config>

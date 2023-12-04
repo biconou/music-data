@@ -38,7 +38,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="json_column" type="xstring" value="artistMain"/>
+        <entry key="json_column" type="xstring" value="allmusicArtistMain"/>
         <config key="remove_json_column_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -56,7 +56,7 @@
         </config>
         <config key="filename_column">
             <entry key="useRowID" type="xboolean" value="false"/>
-            <entry key="columnName" type="xstring" value="artistId"/>
+            <entry key="columnName" type="xstring" value="allmusicArtistId"/>
         </config>
         <config key="compress_json_files_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
@@ -65,11 +65,7 @@
         <entry key="compress_json_files" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Skipped 1 row(s) due to missing values."/>
-    </config>
+    <entry key="state" type="xstring" value="CONFIGURED"/>
     <entry key="factory" type="xstring" value="org.knime.json.node.filehandling.writer.JSONWriterNodeFactory2"/>
     <entry key="node-name" type="xstring" value="JSON Writer"/>
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
@@ -87,19 +83,16 @@
         <config key="Output Table"/>
     </config>
     <entry key="name" type="xstring" value="JSON Writer"/>
-    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 17, Cols: 9"/>
-            <entry key="port_dir_location" type="xstring" value="port_1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="027fcb60-abb6-42dc-bc13-7854dced305c"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>

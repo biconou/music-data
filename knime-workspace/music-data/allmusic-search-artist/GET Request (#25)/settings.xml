@@ -8,7 +8,7 @@
     <config key="model">
         <entry key="Use constant URI" type="xboolean" value="false"/>
         <entry key="Constant URI" type="xstring" value="https://www.allmusic.com/artist/celtic-frost-mn0000191063"/>
-        <entry key="URI column" type="xstring" value="searchArtistUri"/>
+        <entry key="URI column" type="xstring" value="allmusicSearchArtistUri"/>
         <entry key="delay_enabled" type="xboolean" value="false"/>
         <entry key="delay" type="xlong" value="0"/>
         <entry key="concurrency" type="xint" value="1"/>
@@ -46,7 +46,7 @@
                 <entry key="is_null" type="xboolean" value="false"/>
             </config>
         </config>
-        <entry key="Body column name" type="xstring" value="searchArtistMainHTML"/>
+        <entry key="Body column name" type="xstring" value="allMusicSearchArtistMainHTML"/>
         <config key="None"/>
         <entry key="None_enabled" type="xboolean" value="true"/>
         <config key="Basic">
@@ -158,12 +158,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 17, Cols: 5"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 48, Cols: 7"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="6f230c7c-5446-4b31-aac1-00c100d9a4d5"/>
+        <entry key="file_store_id" type="xstring" value="9d64b6e8-5b32-48d8-8348-2a849709d822"/>
     </config>
 </config>
