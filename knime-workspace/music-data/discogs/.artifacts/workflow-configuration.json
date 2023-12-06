@@ -1,0 +1,15 @@
+
+{
+    "knime.var.artist": {
+        "type": "string",
+        "default": "nirvana"
+    },
+    "knime.var.discogs.key": {
+        "type": "string",
+        "default": "BIqHCSNxDnaIPhqCiZoc"
+    },
+    "knime.var.discogs.secret": {
+        "type": "string",
+        "default": "xYpdaTwFFISNXwMOlvuGVossTaRtnkHs"
+    }
+}
