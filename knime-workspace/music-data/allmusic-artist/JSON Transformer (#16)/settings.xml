@@ -10,11 +10,12 @@
         <entry key="remove.input.column" type="xboolean" value="false"/>
         <entry key="new.column.name" type="xstring" value="artist"/>
         <entry key="patch.type" type="xstring" value="patch"/>
-        <entry key="json.patch" type="xstring" value="[%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/discography&quot;, &quot;value&quot;:  $artistDiscography$}%%00010]"/>
+        <entry key="json.patch" type="xstring" value="[%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/discography&quot;, &quot;value&quot;:  $artistDiscography$},%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/related&quot;, &quot;value&quot;: $artistRelated$ }%%00010%%00010]"/>
         <entry key="keep original when test fails" type="xboolean" value="false"/>
     </config>
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="merge artist%%00010and discography"/>
+        <entry key="contentType" type="xstring" value="text/plain"/>
         <entry key="bgcolor" type="xint" value="16777215"/>
         <entry key="x-coordinate" type="xint" value="807"/>
         <entry key="y-coordinate" type="xint" value="319"/>
@@ -28,17 +29,17 @@
         <config key="styles"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="CONFIGURED"/>
+    <entry key="state" type="xstring" value="IDLE"/>
     <entry key="factory" type="xstring" value="org.knime.json.node.patch.apply.JSONPatchApplyNodeFactory"/>
     <entry key="node-name" type="xstring" value="JSON Transformer"/>
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.json"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.7.0.v202211141626"/>
+    <entry key="node-bundle-version" type="xstring" value="5.1.0.v202307131156"/>
     <entry key="node-feature-name" type="xstring" value="KNIME JSON-Processing"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.json.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.7.0.v202212030000"/>
+    <entry key="node-feature-version" type="xstring" value="5.1.0.v202307131156"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="JSON Transformer"/>
     <entry key="hasContent" type="xboolean" value="false"/>

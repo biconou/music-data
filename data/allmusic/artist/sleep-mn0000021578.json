@@ -1,0 +1,289 @@
+{
+  "id" : "sleep-mn0000021578",
+  "name" : "Sleep",
+  "activeDates" : "1990s - 2020s",
+  "birthDate" : "1990",
+  "birthPlace" : "San Jose, CA",
+  "styles" : [ {
+    "name" : "Doom Metal",
+    "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  } ],
+  "discography" : [ {
+    "albumYear" : "1991",
+    "albumTitle" : "Volume One",
+    "musicRating" : "5",
+    "avgRating" : "8-67"
+  }, {
+    "albumYear" : "1993",
+    "albumTitle" : "Sleep's Holy Mountain",
+    "musicRating" : "7",
+    "avgRating" : "9-494"
+  }, {
+    "albumYear" : "1999",
+    "albumTitle" : "Jerusalem",
+    "musicRating" : "7",
+    "avgRating" : "9-198"
+  }, {
+    "albumYear" : "2003",
+    "albumTitle" : "Dopesmoker",
+    "musicRating" : "8",
+    "avgRating" : "9-515"
+  }, {
+    "albumYear" : "2018",
+    "albumTitle" : "The Sciences",
+    "musicRating" : "8",
+    "avgRating" : "9-240"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Fu Manchu",
+      "ArtistId" : "fu-manchu-mn0000988529"
+    }, {
+      "artist" : "Kyuss",
+      "ArtistId" : "kyuss-mn0000776011"
+    }, {
+      "artist" : "Monster Magnet",
+      "ArtistId" : "monster-magnet-mn0000495455"
+    }, {
+      "artist" : "Pentagram",
+      "ArtistId" : "pentagram-mn0000308932"
+    }, {
+      "artist" : "The Obsessed",
+      "ArtistId" : "the-obsessed-mn0000485881"
+    }, {
+      "artist" : "Trouble",
+      "ArtistId" : "trouble-mn0000747243"
+    }, {
+      "artist" : "Acid King",
+      "ArtistId" : "acid-king-mn0000925244"
+    }, {
+      "artist" : "Acrimony",
+      "ArtistId" : "acrimony-mn0001250337"
+    }, {
+      "artist" : "Blind Dog",
+      "ArtistId" : "blind-dog-mn0000049811"
+    }, {
+      "artist" : "Boris",
+      "ArtistId" : "boris-mn0000075383"
+    }, {
+      "artist" : "Cathedral",
+      "ArtistId" : "cathedral-mn0000179809"
+    }, {
+      "artist" : "Crowbar",
+      "ArtistId" : "crowbar-mn0000109421"
+    }, {
+      "artist" : "Elder",
+      "ArtistId" : "elder-mn0003703529"
+    }, {
+      "artist" : "Electric Wizard",
+      "ArtistId" : "electric-wizard-mn0000164175"
+    }, {
+      "artist" : "Fireball Ministry",
+      "ArtistId" : "fireball-ministry-mn0000176458"
+    }, {
+      "artist" : "Goatsnake",
+      "ArtistId" : "goatsnake-mn0000667225"
+    }, {
+      "artist" : "Grotus",
+      "ArtistId" : "grotus-mn0000942777"
+    }, {
+      "artist" : "Harvey Milk",
+      "ArtistId" : "harvey-milk-mn0000951658"
+    }, {
+      "artist" : "Las Cruces",
+      "ArtistId" : "las-cruces-mn0000781797"
+    }, {
+      "artist" : "Masters of Reality",
+      "ArtistId" : "masters-of-reality-mn0000385180"
+    }, {
+      "artist" : "Ocean",
+      "ArtistId" : "ocean-mn0000848758"
+    }, {
+      "artist" : "Penance",
+      "ArtistId" : "penance-mn0000838637"
+    }, {
+      "artist" : "Solitude Aeturnus",
+      "ArtistId" : "solitude-aeturnus-mn0000031211"
+    }, {
+      "artist" : "Sons of Otis",
+      "ArtistId" : "sons-of-otis-mn0000037617"
+    }, {
+      "artist" : "Soundgarden",
+      "ArtistId" : "soundgarden-mn0000001098"
+    }, {
+      "artist" : "Spiritual Beggars",
+      "ArtistId" : "spiritual-beggars-mn0000014408"
+    }, {
+      "artist" : "Sunn O)))",
+      "ArtistId" : "sunn-o-mn0000924250"
+    }, {
+      "artist" : "Unearth",
+      "ArtistId" : "unearth-mn0000175379"
+    }, {
+      "artist" : "Willard",
+      "ArtistId" : "willard-mn0002286075"
+    }, {
+      "artist" : "Witchfinder General",
+      "ArtistId" : "witchfinder-general-mn0000671244"
+    }, {
+      "artist" : "Uncle Acid & the Deadbeats",
+      "ArtistId" : "uncle-acid-the-deadbeats-mn0002822383"
+    }, {
+      "artist" : "Clutch",
+      "ArtistId" : "clutch-mn0000154417"
+    }, {
+      "artist" : "Dead Meadow",
+      "ArtistId" : "dead-meadow-mn0000223523"
+    }, {
+      "artist" : "Dommengang",
+      "ArtistId" : "dommengang-mn0003386508"
+    }, {
+      "artist" : "Dylan Carlson",
+      "ArtistId" : "dylan-carlson-mn0000201263"
+    }, {
+      "artist" : "Earth",
+      "ArtistId" : "earth-mn0000160867"
+    }, {
+      "artist" : "Eyehategod",
+      "ArtistId" : "eyehategod-mn0000127103"
+    }, {
+      "artist" : "Fear Factory",
+      "ArtistId" : "fear-factory-mn0000167320"
+    }, {
+      "artist" : "Fostermother",
+      "ArtistId" : "fostermother-mn0004172054"
+    }, {
+      "artist" : "Fudge Tunnel",
+      "ArtistId" : "fudge-tunnel-mn0000662652"
+    }, {
+      "artist" : "Ghost",
+      "ArtistId" : "ghost-mn0002616588"
+    }, {
+      "artist" : "Harsh Toke",
+      "ArtistId" : "harsh-toke-mn0003175115"
+    }, {
+      "artist" : "JOY",
+      "ArtistId" : "joy-mn0003279366"
+    }, {
+      "artist" : "Kadavar",
+      "ArtistId" : "kadavar-mn0002937733"
+    }, {
+      "artist" : "Khemmis",
+      "ArtistId" : "khemmis-mn0003401932"
+    }, {
+      "artist" : "Kowloon Walled City",
+      "ArtistId" : "kowloon-walled-city-mn0002942880"
+    }, {
+      "artist" : "Melvins",
+      "ArtistId" : "melvins-mn0000349157"
+    }, {
+      "artist" : "Monolord",
+      "ArtistId" : "monolord-mn0003230307"
+    }, {
+      "artist" : "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+      "ArtistId" : "pigs-pigs-pigs-pigs-pigs-pigs-pigs-mn0003578941"
+    }, {
+      "artist" : "Pike vs. The Automaton",
+      "ArtistId" : "pike-vs-the-automaton-mn0004169790"
+    }, {
+      "artist" : "Telekinetic Yeti",
+      "ArtistId" : "telekinetic-yeti-mn0003611865"
+    }, {
+      "artist" : "Weedeater",
+      "ArtistId" : "weedeater-mn0000239768"
+    }, {
+      "artist" : "YOB",
+      "ArtistId" : "yob-mn0000683342"
+    } ],
+    "influencers" : [ {
+      "artist" : "Black Flag",
+      "ArtistId" : "black-flag-mn0000091650"
+    }, {
+      "artist" : "Black Sabbath",
+      "ArtistId" : "black-sabbath-mn0000771438"
+    }, {
+      "artist" : "Saint Vitus",
+      "ArtistId" : "saint-vitus-mn0000287259"
+    }, {
+      "artist" : "Blue Cheer",
+      "ArtistId" : "blue-cheer-mn0000059537"
+    }, {
+      "artist" : "Celtic Frost",
+      "ArtistId" : "celtic-frost-mn0000191063"
+    }, {
+      "artist" : "Hawkwind",
+      "ArtistId" : "hawkwind-mn0000672011"
+    }, {
+      "artist" : "Jimi Hendrix",
+      "ArtistId" : "jimi-hendrix-mn0000354105"
+    }, {
+      "artist" : "Led Zeppelin",
+      "ArtistId" : "led-zeppelin-mn0000139026"
+    }, {
+      "artist" : "Melvins",
+      "ArtistId" : "melvins-mn0000349157"
+    }, {
+      "artist" : "Metallica",
+      "ArtistId" : "metallica-mn0000446509"
+    }, {
+      "artist" : "Pentagram",
+      "ArtistId" : "pentagram-mn0000308932"
+    }, {
+      "artist" : "Pink Floyd",
+      "ArtistId" : "pink-floyd-mn0000346336"
+    } ],
+    "followers" : [ {
+      "artist" : "Boris",
+      "ArtistId" : "boris-mn0000075383"
+    }, {
+      "artist" : "Dead Meadow",
+      "ArtistId" : "dead-meadow-mn0000223523"
+    }, {
+      "artist" : "Electric Wizard",
+      "ArtistId" : "electric-wizard-mn0000164175"
+    }, {
+      "artist" : "Goatwhore",
+      "ArtistId" : "goatwhore-mn0000664864"
+    }, {
+      "artist" : "Mastodon",
+      "ArtistId" : "mastodon-mn0000382565"
+    }, {
+      "artist" : "Nebula",
+      "ArtistId" : "nebula-mn0000384356"
+    }, {
+      "artist" : "Orange Goblin",
+      "ArtistId" : "orange-goblin-mn0000406390"
+    }, {
+      "artist" : "Silver Snakes",
+      "ArtistId" : "silver-snakes-mn0002992247"
+    }, {
+      "artist" : "The Sword",
+      "ArtistId" : "the-sword-mn0000915835"
+    }, {
+      "artist" : "Witch",
+      "ArtistId" : "witch-mn0000550940"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "High on Fire",
+      "ArtistId" : "high-on-fire-mn0000676530"
+    }, {
+      "artist" : "Asbestosdeath",
+      "ArtistId" : "asbestosdeath-mn0000644353"
+    }, {
+      "artist" : "Kalas",
+      "ArtistId" : "kalas-mn0000583894"
+    }, {
+      "artist" : "Om",
+      "ArtistId" : "om-mn0002009000"
+    }, {
+      "artist" : "Pike vs. The Automaton",
+      "ArtistId" : "pike-vs-the-automaton-mn0004169790"
+    }, {
+      "artist" : "The Sabians",
+      "ArtistId" : "the-sabians-mn0000420421"
+    } ]
+  }
+}

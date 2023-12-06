@@ -1,0 +1,123 @@
+{
+  "id" : "yob-mn0000683342",
+  "name" : "YOB",
+  "activeDates" : "1990s - 2020s",
+  "birthDate" : "1996",
+  "birthPlace" : "Eugene, OR",
+  "styles" : [ {
+    "name" : "Doom Metal",
+    "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
+  }, {
+    "name" : "Stoner Metal",
+    "url" : "https://www.allmusic.com/style/stoner-metal-ma0000011961"
+  }, {
+    "name" : "Sludge Metal",
+    "url" : "https://www.allmusic.com/style/sludge-metal-ma0000012161"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  } ],
+  "discography" : [ {
+    "albumYear" : "2002",
+    "albumTitle" : "Elaborations of Carbon",
+    "musicRating" : "",
+    "avgRating" : "6-3"
+  }, {
+    "albumYear" : "2003",
+    "albumTitle" : "Catharsis",
+    "musicRating" : "5",
+    "avgRating" : "7-38"
+  }, {
+    "albumYear" : "2004",
+    "albumTitle" : "The Illusion of Motion",
+    "musicRating" : "6",
+    "avgRating" : "8-42"
+  }, {
+    "albumYear" : "2005",
+    "albumTitle" : "The Unreal Never Lived",
+    "musicRating" : "7",
+    "avgRating" : "9-63"
+  }, {
+    "albumYear" : "2009",
+    "albumTitle" : "The Great Cessation",
+    "musicRating" : "6",
+    "avgRating" : "8-65"
+  }, {
+    "albumYear" : "2011",
+    "albumTitle" : "Atma",
+    "musicRating" : "5",
+    "avgRating" : "9-84"
+  }, {
+    "albumYear" : "2014",
+    "albumTitle" : "Clearing the Path To Ascend",
+    "musicRating" : "7",
+    "avgRating" : "9-113"
+  }, {
+    "albumYear" : "2018",
+    "albumTitle" : "Our Raw Heart",
+    "musicRating" : "8",
+    "avgRating" : "9-113"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Live at Roadburn 2010",
+    "musicRating" : "",
+    "avgRating" : "6-4"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "High on Fire",
+      "ArtistId" : "high-on-fire-mn0000676530"
+    }, {
+      "artist" : "Neurosis",
+      "ArtistId" : "neurosis-mn0000388198"
+    }, {
+      "artist" : "Boris",
+      "ArtistId" : "boris-mn0000075383"
+    }, {
+      "artist" : "Electric Wizard",
+      "ArtistId" : "electric-wizard-mn0000164175"
+    }, {
+      "artist" : "Sleep",
+      "ArtistId" : "sleep-mn0000021578"
+    }, {
+      "artist" : "UFOmammut",
+      "ArtistId" : "ufomammut-mn0000122770"
+    }, {
+      "artist" : "Aseethe",
+      "ArtistId" : "aseethe-mn0003562697"
+    }, {
+      "artist" : "The Atlas Moth",
+      "ArtistId" : "the-atlas-moth-mn0001089726"
+    }, {
+      "artist" : "The Kiss of Death",
+      "ArtistId" : "the-kiss-of-death-mn0000772935"
+    }, {
+      "artist" : "Black Cobra",
+      "ArtistId" : "black-cobra-mn0000983802"
+    }, {
+      "artist" : "Church of Misery",
+      "ArtistId" : "church-of-misery-mn0000127724"
+    }, {
+      "artist" : "Khemmis",
+      "ArtistId" : "khemmis-mn0003401932"
+    }, {
+      "artist" : "Lord Dying",
+      "ArtistId" : "lord-dying-mn0003109220"
+    }, {
+      "artist" : "Pallbearer",
+      "ArtistId" : "pallbearer-mn0002843741"
+    }, {
+      "artist" : "Pike vs. The Automaton",
+      "ArtistId" : "pike-vs-the-automaton-mn0004169790"
+    }, {
+      "artist" : "With the Dead",
+      "ArtistId" : "with-the-dead-mn0003425936"
+    } ],
+    "influencers" : [ ],
+    "followers" : [ ],
+    "associatedwith" : [ {
+      "artist" : "Middian",
+      "ArtistId" : "middian-mn0000939807"
+    } ]
+  }
+}

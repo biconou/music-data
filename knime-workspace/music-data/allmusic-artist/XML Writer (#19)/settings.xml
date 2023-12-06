@@ -25,7 +25,7 @@
                 <entry key="location_present" type="xboolean" value="true"/>
                 <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
                 <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-                <entry key="path" type="xstring" value="data/HTML"/>
+                <entry key="path" type="xstring" value="/data/allmusic/artist/HTML"/>
             </config>
             <config key="filter_mode_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -38,7 +38,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="xml_column" type="xstring" value="artistXHTML"/>
+        <entry key="xml_column" type="xstring" value="artistXHTMLString"/>
         <config key="remove_xml_column_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -71,11 +71,11 @@
     <entry key="node-bundle-name" type="xstring" value="XML related functionality for KNIME"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.xml.filehandling"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.7.0.v202211082337"/>
+    <entry key="node-bundle-version" type="xstring" value="5.1.0.v202303061418"/>
     <entry key="node-feature-name" type="xstring" value="KNIME XML-Processing"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.xml.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.7.0.v202211082337"/>
+    <entry key="node-feature-version" type="xstring" value="5.1.0.v202303061418"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="File System Connection"/>

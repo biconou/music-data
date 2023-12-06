@@ -20,12 +20,12 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="output" type="xstring" value="artistXHTML"/>
+        <entry key="output" type="xstring" value="artistXHTMLString"/>
         <config key="xml_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="xml" type="xboolean" value="true"/>
+        <entry key="xml" type="xboolean" value="false"/>
         <config key="userAgent_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -49,11 +49,11 @@
     <entry key="node-bundle-name" type="xstring" value="MMI Data Analytics Node extensions for KNIME Workbench"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="com.mmiagency.knime.nodes"/>
     <entry key="node-bundle-vendor" type="xstring" value="MMI Agency"/>
-    <entry key="node-bundle-version" type="xstring" value="0.0.15.qualifier"/>
+    <entry key="node-bundle-version" type="xstring" value="0.0.16.v202311120437"/>
     <entry key="node-feature-name" type="xstring" value="MMI Data Analytics Nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="com.mmiagency.knime.feature.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="MMI Agency"/>
-    <entry key="node-feature-version" type="xstring" value="1.0.100.qualifier"/>
+    <entry key="node-feature-version" type="xstring" value="1.0.100.v202311120437"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Clean HTML Retriever"/>
     <entry key="hasContent" type="xboolean" value="false"/>

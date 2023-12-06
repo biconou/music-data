@@ -92,7 +92,6 @@
         <config key="Kerberos"/>
         <entry key="Kerberos_enabled" type="xboolean" value="false"/>
         <entry key="follow redirects" type="xboolean" value="true"/>
-        <entry key="use async client" type="xboolean" value="false"/>
         <entry key="timeout" type="xint" value="2"/>
         <config key="delayPolicy">
             <entry key="delayRetryBase" type="xlong" value="1"/>
@@ -105,23 +104,40 @@
         <entry key="failOnClientError" type="xboolean" value="true"/>
         <entry key="outputErrorCause" type="xboolean" value="false"/>
         <entry key="allowChunking" type="xboolean" value="true"/>
+        <entry key="failOnMissingHeaders" type="xboolean" value="false"/>
+        <config key="Proxy auth_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_authentication"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <config key="Proxy auth">
+            <entry key="credentials" type="xstring" value=""/>
+            <entry key="username" type="xstring" value=""/>
+            <entry key="password" type="xpassword" isnull="true" value=""/>
+            <entry key="selectedType" type="xstring" value="USER_PWD"/>
+        </config>
+        <entry key="Proxy_enabled" type="xboolean" value="true"/>
         <entry key="Use constant request body" type="xboolean" value="false"/>
         <entry key="Constant request body" type="xstring" value=""/>
         <entry key="Request body column" type="xstring" value="artist"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="CONFIGURED"/>
+    <entry key="state" type="xstring" value="IDLE"/>
     <entry key="factory" type="xstring" value="org.knime.rest.nodes.put.RestPutNodeFactory"/>
     <entry key="node-name" type="xstring" value="PUT Request"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME REST Client Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.rest"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.7.0.v202210211111"/>
+    <entry key="node-bundle-version" type="xstring" value="5.1.2.v202310111345"/>
     <entry key="node-feature-name" type="xstring" value="KNIME REST Client Extension"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.rest.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.7.0.v202210211111"/>
+    <entry key="node-feature-version" type="xstring" value="5.1.2.v202310111345"/>
     <config key="factory_settings"/>
+    <config key="node_creation_config">
+        <config key="Table"/>
+        <config key="Credential"/>
+        <config key="GET results"/>
+    </config>
     <entry key="name" type="xstring" value="PUT Request"/>
     <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>

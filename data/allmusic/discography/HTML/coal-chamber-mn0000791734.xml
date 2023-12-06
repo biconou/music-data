@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>            &lt;div class="advertising inContentLeaderboard"&gt;
+            &lt;div id="discoLB"&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id="discography" class="artistContentSubModule"&gt;
+        &lt;div id="discographyFilters"&gt;
+            &lt;div&gt;
+                &lt;select id="releaseType"&gt;
+                                            &lt;option value="main"&gt;Main Albums&lt;/option&gt;                                            &lt;option value="compilations"&gt;Compilations&lt;/option&gt;                                            &lt;option value="singles"&gt;Singles &amp; EPs&lt;/option&gt;                                            &lt;option value="video"&gt;Videos&lt;/option&gt;                                        &lt;option value="all"&gt;All&lt;/option&gt;
+                &lt;/select&gt;
+            &lt;/div&gt;
+            &lt;div&gt;
+                &lt;select id="sortByType"&gt;
+                    &lt;option value="[1,0]"&gt;Year &lt;span&gt;(Oldest to Newest)&lt;/span&gt;&lt;/option&gt;
+                    &lt;option value="[1,1]"&gt;Year &lt;span&gt;(Newest to Oldest)&lt;/span&gt;&lt;/option&gt;
+                    &lt;option value="[3,1]"&gt;AllMusic Rating &lt;span&gt;(Highest to Lowest)&lt;/span&gt;&lt;/option&gt;
+                    &lt;option value="[3,0]"&gt;AllMusic Rating &lt;span&gt;(Lowest to Highest)&lt;/span&gt;&lt;/option&gt;
+                    &lt;option value="[4,1]"&gt;User Ratings &lt;span&gt;(Highest to Lowest)&lt;/span&gt;&lt;/option&gt;
+                    &lt;option value="[4,0]"&gt;User Ratings &lt;span&gt;(Lowest to Highest)&lt;/span&gt;&lt;/option&gt;
+                    &lt;option value="[2,0]"&gt;Album Title &lt;span&gt;(A-Z)&lt;/span&gt;&lt;/option&gt;
+                    &lt;option value="[2,1]"&gt;Album Title &lt;span&gt;(Z-A)&lt;/span&gt;&lt;/option&gt;
+                &lt;/select&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div id="discographyResults"&gt;
+            &lt;table class="discographyTable"&gt;
+    &lt;thead&gt;
+    &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;Year&lt;/th&gt;
+        &lt;th&gt;Credit&lt;/th&gt;
+        &lt;th&gt;AllMusic Rating&lt;/th&gt;
+        &lt;th&gt;User Rating&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+            &lt;tr &gt;
+            &lt;td class="cover"&gt;
+                                &lt;a href="/album/coal-chamber-mw0001958518"
+                   title="Coal Chamber"&gt;&lt;img src="https://rovimusic.rovicorp.com/image.jpg?c=YucB0S2OJuQs99SkRytHlhyhM-OFI8zG4l-qVpXXB1I=&amp;f=2"
+                                                                       alt="Coal Chamber"
+                                                                       onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"&gt;&lt;/a&gt;
+            &lt;/td&gt;
+            &lt;td class="year"
+                data-text="1997-02-11-Coal Chamber"&gt;
+                1997            &lt;/td&gt;
+            &lt;td class="meta" data-text="Coal Chamber"&gt;
+                &lt;span class="title"&gt;
+                    &lt;a href="https://www.allmusic.com/album/coal-chamber-mw0001958518"&gt;Coal Chamber&lt;/a&gt;                                            &lt;a href="/album/coal-chamber-mw0001958518"
+                           class="hasReviewLink"
+                           title="Album Review"&gt;
+                                    &lt;span class="hasReview" aria-label="Read album review"&gt;&lt;/span&gt;
+                                &lt;/a&gt;
+                                    &lt;/span&gt;
+                                    &lt;span class="label"&gt;
+                                &lt;a href="//www.allmusic.com/search/labels/Roadrunner+Records" title="Roadrunner Records"&gt;Roadrunner Records&lt;/a&gt;                            &lt;/span&gt;
+                            &lt;/td&gt;
+            &lt;td class="musicRating" data-text="5"&gt;
+                &lt;div class="allmusicRating ratingAllmusic5" title="AllMusic Rating"&gt;&lt;/div&gt;
+            &lt;/td&gt;
+                        &lt;td class="avgRating" data-text="6-367"&gt;
+                &lt;div class="averageUserRating ratingAverage06"
+                     data-avg-rating-id="MW0001958518" title="Average User Rating"&gt;&lt;/div&gt;
+                &lt;span class="count"&gt;(&lt;span class="averageRatingCount"&gt;0&lt;/span&gt;)&lt;/span&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+            &lt;tr class="pick"&gt;
+            &lt;td class="cover"&gt;
+                                &lt;a href="/album/chamber-music-mw0000248183"
+                   title="Chamber Music"&gt;&lt;img src="https://rovimusic.rovicorp.com/image.jpg?c=bVC7uziiFhYKuir_Q3J0VVWnbEN5fCjifro6xhIBuB4=&amp;f=2"
+                                                                       alt="Chamber Music"
+                                                                       onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"&gt;&lt;/a&gt;
+            &lt;/td&gt;
+            &lt;td class="year"
+                data-text="1999-09-07-Chamber Music"&gt;
+                1999            &lt;/td&gt;
+            &lt;td class="meta" data-text="Chamber Music"&gt;
+                &lt;span class="title"&gt;
+                    &lt;a href="https://www.allmusic.com/album/chamber-music-mw0000248183"&gt;Chamber Music&lt;/a&gt;                                            &lt;a href="/album/chamber-music-mw0000248183"
+                           class="hasReviewLink"
+                           title="Album Review"&gt;
+                                    &lt;span class="hasReview" aria-label="Read album review"&gt;&lt;/span&gt;
+                                &lt;/a&gt;
+                                    &lt;/span&gt;
+                                    &lt;span class="label"&gt;
+                                &lt;a href="//www.allmusic.com/search/labels/Roadrunner+Records" title="Roadrunner Records"&gt;Roadrunner Records&lt;/a&gt;                            &lt;/span&gt;
+                            &lt;/td&gt;
+            &lt;td class="musicRating" data-text="7"&gt;
+                &lt;div class="allmusicRating ratingAllmusic7" title="AllMusic Rating"&gt;&lt;/div&gt;
+            &lt;/td&gt;
+                        &lt;td class="avgRating" data-text="7-119"&gt;
+                &lt;div class="averageUserRating ratingAverage07"
+                     data-avg-rating-id="MW0000248183" title="Average User Rating"&gt;&lt;/div&gt;
+                &lt;span class="count"&gt;(&lt;span class="averageRatingCount"&gt;0&lt;/span&gt;)&lt;/span&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+            &lt;tr &gt;
+            &lt;td class="cover"&gt;
+                                &lt;a href="/album/dark-days-mw0000217934"
+                   title="Dark Days"&gt;&lt;img src="https://rovimusic.rovicorp.com/image.jpg?c=0vVmJeSc-k9rcMvPOV58Qw4Q1ghY8VaPylnm7PwcKNY=&amp;f=2"
+                                                                       alt="Dark Days"
+                                                                       onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"&gt;&lt;/a&gt;
+            &lt;/td&gt;
+            &lt;td class="year"
+                data-text="2002-05-07-Dark Days"&gt;
+                2002            &lt;/td&gt;
+            &lt;td class="meta" data-text="Dark Days"&gt;
+                &lt;span class="title"&gt;
+                    &lt;a href="https://www.allmusic.com/album/dark-days-mw0000217934"&gt;Dark Days&lt;/a&gt;                                            &lt;a href="/album/dark-days-mw0000217934"
+                           class="hasReviewLink"
+                           title="Album Review"&gt;
+                                    &lt;span class="hasReview" aria-label="Read album review"&gt;&lt;/span&gt;
+                                &lt;/a&gt;
+                                    &lt;/span&gt;
+                                    &lt;span class="label"&gt;
+                                &lt;a href="//www.allmusic.com/search/labels/Roadrunner+Records" title="Roadrunner Records"&gt;Roadrunner Records&lt;/a&gt;                            &lt;/span&gt;
+                            &lt;/td&gt;
+            &lt;td class="musicRating" data-text="3"&gt;
+                &lt;div class="allmusicRating ratingAllmusic3" title="AllMusic Rating"&gt;&lt;/div&gt;
+            &lt;/td&gt;
+                        &lt;td class="avgRating" data-text="7-57"&gt;
+                &lt;div class="averageUserRating ratingAverage07"
+                     data-avg-rating-id="MW0000217934" title="Average User Rating"&gt;&lt;/div&gt;
+                &lt;span class="count"&gt;(&lt;span class="averageRatingCount"&gt;0&lt;/span&gt;)&lt;/span&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+            &lt;tr &gt;
+            &lt;td class="cover"&gt;
+                                &lt;a href="/album/giving-the-devil-his-due-mw0000027757"
+                   title="Giving the Devil His Due"&gt;&lt;img src="https://rovimusic.rovicorp.com/image.jpg?c=xhTv8qYFgsP2JGuh_MRNWB_TZlp6n_cq-Emr2zx15tU=&amp;f=2"
+                                                                       alt="Giving the Devil His Due"
+                                                                       onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"&gt;&lt;/a&gt;
+            &lt;/td&gt;
+            &lt;td class="year"
+                data-text="2003-08-19-Giving the Devil His Due"&gt;
+                2003            &lt;/td&gt;
+            &lt;td class="meta" data-text="Giving the Devil His Due"&gt;
+                &lt;span class="title"&gt;
+                    &lt;a href="https://www.allmusic.com/album/giving-the-devil-his-due-mw0000027757"&gt;Giving the Devil His Due&lt;/a&gt;                                    &lt;/span&gt;
+                                    &lt;span class="label"&gt;
+                                &lt;a href="//www.allmusic.com/search/labels/Roadrunner+Records" title="Roadrunner Records"&gt;Roadrunner Records&lt;/a&gt;                            &lt;/span&gt;
+                            &lt;/td&gt;
+            &lt;td class="musicRating" data-text="3"&gt;
+                &lt;div class="allmusicRating ratingAllmusic3" title="AllMusic Rating"&gt;&lt;/div&gt;
+            &lt;/td&gt;
+                        &lt;td class="avgRating" data-text="6-20"&gt;
+                &lt;div class="averageUserRating ratingAverage06"
+                     data-avg-rating-id="MW0000027757" title="Average User Rating"&gt;&lt;/div&gt;
+                &lt;span class="count"&gt;(&lt;span class="averageRatingCount"&gt;0&lt;/span&gt;)&lt;/span&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+            &lt;tr &gt;
+            &lt;td class="cover"&gt;
+                                &lt;a href="/album/rivals-mw0002834838"
+                   title="Rivals"&gt;&lt;img src="https://rovimusic.rovicorp.com/image.jpg?c=M9G8DTL6miM1m7pjNTkd7ZhUoDg0hsvx4F4sL4oO-nA=&amp;f=2"
+                                                                       alt="Rivals"
+                                                                       onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"&gt;&lt;/a&gt;
+            &lt;/td&gt;
+            &lt;td class="year"
+                data-text="2015-05-19-Rivals"&gt;
+                2015            &lt;/td&gt;
+            &lt;td class="meta" data-text="Rivals"&gt;
+                &lt;span class="title"&gt;
+                    &lt;a href="https://www.allmusic.com/album/rivals-mw0002834838"&gt;Rivals&lt;/a&gt;                                            &lt;a href="/album/rivals-mw0002834838"
+                           class="hasReviewLink"
+                           title="Album Review"&gt;
+                                    &lt;span class="hasReview" aria-label="Read album review"&gt;&lt;/span&gt;
+                                &lt;/a&gt;
+                                    &lt;/span&gt;
+                                    &lt;span class="label"&gt;
+                                &lt;a href="//www.allmusic.com/search/labels/Napalm+Records" title="Napalm Records"&gt;Napalm Records&lt;/a&gt;                            &lt;/span&gt;
+                            &lt;/td&gt;
+            &lt;td class="musicRating" data-text=""&gt;
+                &lt;div class="allmusicRating ratingAllmusic0" title="AllMusic Rating"&gt;&lt;/div&gt;
+            &lt;/td&gt;
+                        &lt;td class="avgRating" data-text="7-56"&gt;
+                &lt;div class="averageUserRating ratingAverage07"
+                     data-avg-rating-id="MW0002834838" title="Average User Rating"&gt;&lt;/div&gt;
+                &lt;span class="count"&gt;(&lt;span class="averageRatingCount"&gt;0&lt;/span&gt;)&lt;/span&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+            &lt;tr &gt;
+            &lt;td class="cover"&gt;
+                                &lt;a href="/album/dramatic-mw0000472393"
+                   title="Dramatic"&gt;&lt;img src="https://rovimusic.rovicorp.com/image.jpg?c=NNzu4xliGQrb4g0POwuPyQSijaXJlYnq0St31qpAJWo=&amp;f=2"
+                                                                       alt="Dramatic"
+                                                                       onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"&gt;&lt;/a&gt;
+            &lt;/td&gt;
+            &lt;td class="year"
+                data-text=""&gt;
+                            &lt;/td&gt;
+            &lt;td class="meta" data-text="Dramatic"&gt;
+                &lt;span class="title"&gt;
+                    &lt;a href="https://www.allmusic.com/album/dramatic-mw0000472393"&gt;Dramatic&lt;/a&gt;                                    &lt;/span&gt;
+                                    &lt;span class="label"&gt;
+                                &lt;a href="//www.allmusic.com/search/labels/Apolon" title="Apolon"&gt;Apolon&lt;/a&gt;                            &lt;/span&gt;
+                            &lt;/td&gt;
+            &lt;td class="musicRating" data-text=""&gt;
+                &lt;div class="allmusicRating ratingAllmusic0" title="AllMusic Rating"&gt;&lt;/div&gt;
+            &lt;/td&gt;
+                        &lt;td class="avgRating" data-text="6-2"&gt;
+                &lt;div class="averageUserRating ratingAverage06"
+                     data-avg-rating-id="MW0000472393" title="Average User Rating"&gt;&lt;/div&gt;
+                &lt;span class="count"&gt;(&lt;span class="averageRatingCount"&gt;0&lt;/span&gt;)&lt;/span&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+&lt;/table&gt;
+        &lt;/div&gt;
+        &lt;div id="albumPickMsg"&gt;
+            &lt;a href="/faq/topic/albumtrackpicks" title="About album picks"&gt;blue highlight denotes album pick&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+</div>

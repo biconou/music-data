@@ -35,7 +35,7 @@
                     <entry key="location_present" type="xboolean" value="true"/>
                     <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
                     <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-                    <entry key="path" type="xstring" value="data/allmusic/artist/search/results"/>
+                    <entry key="path" type="xstring" value="/data/allmusic/artist/search/results/json"/>
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -78,11 +78,11 @@
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.json.filehandling"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.7.0.v202211082358"/>
+    <entry key="node-bundle-version" type="xstring" value="5.1.0.v202305161236"/>
     <entry key="node-feature-name" type="xstring" value="KNIME JSON-Processing"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.json.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.7.0.v202212030000"/>
+    <entry key="node-feature-version" type="xstring" value="5.1.0.v202307131156"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="File System Connection"/>
@@ -96,12 +96,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 5, Cols: 1"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 37, Cols: 1"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="55356646-c7dd-4df6-bdbb-f581c91a82bc"/>
+        <entry key="file_store_id" type="xstring" value="74aa61b2-bc1a-430f-a3ff-fc9c75dd85f3"/>
     </config>
 </config>

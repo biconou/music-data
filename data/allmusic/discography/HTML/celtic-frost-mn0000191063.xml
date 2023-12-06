@@ -1,0 +1,233 @@
+<div class="advertising inContentLeaderboard">
+    <div id="discoLB"></div>
+</div>
+<div id="discography" class="artistContentSubModule">
+    <div id="discographyFilters">
+        <div>
+            <select id="releaseType">
+                <option value="main">Main Albums</option>
+                <option value="compilations">Compilations</option>
+                <option value="singles">Singles & EPs</option>
+                <option value="video">Videos</option>
+                <option value="all">All</option>
+            </select>
+        </div>
+        <div>
+            <select id="sortByType">
+                <option value="[1,0]">Year <span>(Oldest to Newest)</span>
+                </option>
+                <option value="[1,1]">Year <span>(Newest to Oldest)</span>
+                </option>
+                <option value="[3,1]">AllMusic Rating <span>(Highest to Lowest)</span>
+                </option>
+                <option value="[3,0]">AllMusic Rating <span>(Lowest to Highest)</span>
+                </option>
+                <option value="[4,1]">User Ratings <span>(Highest to Lowest)</span>
+                </option>
+                <option value="[4,0]">User Ratings <span>(Lowest to Highest)</span>
+                </option>
+                <option value="[2,0]">Album Title <span>(A-Z)</span>
+                </option>
+                <option value="[2,1]">Album Title <span>(Z-A)</span>
+                </option>
+            </select>
+        </div>
+    </div>
+    <div id="discographyResults">
+        <table class="discographyTable">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Year</th>
+                    <th>Credit</th>
+                    <th>AllMusic Rating</th>
+                    <th>User Rating</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr >
+                    <td class="cover">
+                        <a href="/album/morbid-tales-mw0001966052" title="Morbid Tales">
+                            <img src="https://rovimusic.rovicorp.com/image.jpg?c=wzJ93fQrK_qwFy0ynTJp5hyhM-OFI8zG4l-qVpXXB1I=&f=2" alt="Morbid Tales" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"></a>
+                        </td>
+                        <td class="year" data-text="1984-06-??-Morbid Tales"> 1984 </td>
+                        <td class="meta" data-text="Morbid Tales">
+                            <span class="title">
+                                <a href="https://www.allmusic.com/album/morbid-tales-mw0001966052">Morbid Tales</a>
+                                <a href="/album/morbid-tales-mw0001966052" class="hasReviewLink" title="Album Review">
+                                    <span class="hasReview" aria-label="Read album review"></span>
+                                </a>
+                            </span>
+                            <span class="label">
+                                <a href="//www.allmusic.com/search/labels/BMG" title="BMG">BMG</a> /                                <a href="//www.allmusic.com/search/labels/Noise" title="Noise">Noise</a> /                                <a href="//www.allmusic.com/search/labels/Sony+BMG" title="Sony BMG">Sony BMG</a>
+                            </span>
+                        </td>
+                        <td class="musicRating" data-text="8">
+                            <div class="allmusicRating ratingAllmusic8" title="AllMusic Rating"></div>
+                        </td>
+                        <td class="avgRating" data-text="9-250">
+                            <div class="averageUserRating ratingAverage09" data-avg-rating-id="MW0001966052" title="Average User Rating"></div>
+                            <span class="count">(                                <span class="averageRatingCount">0</span>)
+                            </span>
+                        </td>
+                    </tr>
+                    <tr >
+                        <td class="cover">
+                            <a href="/album/to-mega-therion-mw0000651214" title="To Mega Therion">
+                                <img src="https://rovimusic.rovicorp.com/image.jpg?c=BxRwupDmOROtVoBueGWvnYAf7E_1E-2MlBBPmPAXRBU=&f=2" alt="To Mega Therion" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"></a>
+                            </td>
+                            <td class="year" data-text="1985-??-??-To Mega Therion"> 1985 </td>
+                            <td class="meta" data-text="To Mega Therion">
+                                <span class="title">
+                                    <a href="https://www.allmusic.com/album/to-mega-therion-mw0000651214">To Mega Therion</a>
+                                    <a href="/album/to-mega-therion-mw0000651214" class="hasReviewLink" title="Album Review">
+                                        <span class="hasReview" aria-label="Read album review"></span>
+                                    </a>
+                                </span>
+                                <span class="label">
+                                    <a href="//www.allmusic.com/search/labels/BMG" title="BMG">BMG</a> /                                    <a href="//www.allmusic.com/search/labels/Noise" title="Noise">Noise</a>
+                                </span>
+                            </td>
+                            <td class="musicRating" data-text="9">
+                                <div class="allmusicRating ratingAllmusic9" title="AllMusic Rating"></div>
+                            </td>
+                            <td class="avgRating" data-text="10-530">
+                                <div class="averageUserRating ratingAverage10" data-avg-rating-id="MW0000651214" title="Average User Rating"></div>
+                                <span class="count">(                                    <span class="averageRatingCount">0</span>)
+                                </span>
+                            </td>
+                        </tr>
+                        <tr class="pick">
+                            <td class="cover">
+                                <a href="/album/into-the-pandemonium-mw0000193017" title="Into the Pandemonium">
+                                    <img src="https://rovimusic.rovicorp.com/image.jpg?c=2cZXvYzLEKX3k0x1DLO8h5hUoDg0hsvx4F4sL4oO-nA=&f=2" alt="Into the Pandemonium" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"></a>
+                                </td>
+                                <td class="year" data-text="1987-??-??-Into the Pandemonium"> 1987 </td>
+                                <td class="meta" data-text="Into the Pandemonium">
+                                    <span class="title">
+                                        <a href="https://www.allmusic.com/album/into-the-pandemonium-mw0000193017">Into the Pandemonium</a>
+                                        <a href="/album/into-the-pandemonium-mw0000193017" class="hasReviewLink" title="Album Review">
+                                            <span class="hasReview" aria-label="Read album review"></span>
+                                        </a>
+                                    </span>
+                                    <span class="label">
+                                        <a href="//www.allmusic.com/search/labels/Sanctuary" title="Sanctuary">Sanctuary</a>
+                                    </span>
+                                </td>
+                                <td class="musicRating" data-text="8">
+                                    <div class="allmusicRating ratingAllmusic8" title="AllMusic Rating"></div>
+                                </td>
+                                <td class="avgRating" data-text="9-302">
+                                    <div class="averageUserRating ratingAverage09" data-avg-rating-id="MW0000193017" title="Average User Rating"></div>
+                                    <span class="count">(                                        <span class="averageRatingCount">0</span>)
+                                    </span>
+                                </td>
+                            </tr>
+                            <tr >
+                                <td class="cover">
+                                    <a href="/album/cold-lake-mw0000198238" title="Cold Lake">
+                                        <img src="https://rovimusic.rovicorp.com/image.jpg?c=X8lgTvndXgrUxjCd9WYWXw4Q1ghY8VaPylnm7PwcKNY=&f=2" alt="Cold Lake" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"></a>
+                                    </td>
+                                    <td class="year" data-text="1988-??-??-Cold Lake"> 1988 </td>
+                                    <td class="meta" data-text="Cold Lake">
+                                        <span class="title">
+                                            <a href="https://www.allmusic.com/album/cold-lake-mw0000198238">Cold Lake</a>
+                                            <a href="/album/cold-lake-mw0000198238" class="hasReviewLink" title="Album Review">
+                                                <span class="hasReview" aria-label="Read album review"></span>
+                                            </a>
+                                        </span>
+                                        <span class="label">
+                                            <a href="//www.allmusic.com/search/labels/Noise" title="Noise">Noise</a>
+                                        </span>
+                                    </td>
+                                    <td class="musicRating" data-text="5">
+                                        <div class="allmusicRating ratingAllmusic5" title="AllMusic Rating"></div>
+                                    </td>
+                                    <td class="avgRating" data-text="5-114">
+                                        <div class="averageUserRating ratingAverage05" data-avg-rating-id="MW0000198238" title="Average User Rating"></div>
+                                        <span class="count">(                                            <span class="averageRatingCount">0</span>)
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr >
+                                    <td class="cover">
+                                        <a href="/album/vanity-nemesis-mw0000308232" title="Vanity/Nemesis">
+                                            <img src="https://rovimusic.rovicorp.com/image.jpg?c=s3W-H0YwG7euQ5J-lPx20RyhM-OFI8zG4l-qVpXXB1I=&f=2" alt="Vanity/Nemesis" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"></a>
+                                        </td>
+                                        <td class="year" data-text="1989-??-??-Vanity/Nemesis"> 1989 </td>
+                                        <td class="meta" data-text="Vanity/Nemesis">
+                                            <span class="title">
+                                                <a href="https://www.allmusic.com/album/vanity-nemesis-mw0000308232">Vanity/Nemesis</a>
+                                                <a href="/album/vanity-nemesis-mw0000308232" class="hasReviewLink" title="Album Review">
+                                                    <span class="hasReview" aria-label="Read album review"></span>
+                                                </a>
+                                            </span>
+                                            <span class="label">
+                                                <a href="//www.allmusic.com/search/labels/BMG" title="BMG">BMG</a> /                                                <a href="//www.allmusic.com/search/labels/Sanctuary" title="Sanctuary">Sanctuary</a> /                                                <a href="//www.allmusic.com/search/labels/Sanctuary+Records" title="Sanctuary Records">Sanctuary Records</a> /                                                <a href="//www.allmusic.com/search/labels/Sony+BMG" title="Sony BMG">Sony BMG</a>
+                                            </span>
+                                        </td>
+                                        <td class="musicRating" data-text="7">
+                                            <div class="allmusicRating ratingAllmusic7" title="AllMusic Rating"></div>
+                                        </td>
+                                        <td class="avgRating" data-text="7-103">
+                                            <div class="averageUserRating ratingAverage07" data-avg-rating-id="MW0000308232" title="Average User Rating"></div>
+                                            <span class="count">(                                                <span class="averageRatingCount">0</span>)
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr >
+                                        <td class="cover">
+                                            <a href="/album/monotheist-mw0000441586" title="Monotheist">
+                                                <img src="https://rovimusic.rovicorp.com/image.jpg?c=ycrwsXqvK1a3WVbKBqAQ3RyhM-OFI8zG4l-qVpXXB1I=&f=2" alt="Monotheist" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"></a>
+                                            </td>
+                                            <td class="year" data-text="2006-05-30-Monotheist"> 2006 </td>
+                                            <td class="meta" data-text="Monotheist">
+                                                <span class="title">
+                                                    <a href="https://www.allmusic.com/album/monotheist-mw0000441586">Monotheist</a>
+                                                    <a href="/album/monotheist-mw0000441586" class="hasReviewLink" title="Album Review">
+                                                        <span class="hasReview" aria-label="Read album review"></span>
+                                                    </a>
+                                                </span>
+                                                <span class="label">
+                                                    <a href="//www.allmusic.com/search/labels/Century+Media" title="Century Media">Century Media</a>
+                                                </span>
+                                            </td>
+                                            <td class="musicRating" data-text="6">
+                                                <div class="allmusicRating ratingAllmusic6" title="AllMusic Rating"></div>
+                                            </td>
+                                            <td class="avgRating" data-text="8-282">
+                                                <div class="averageUserRating ratingAverage08" data-avg-rating-id="MW0000441586" title="Average User Rating"></div>
+                                                <span class="count">(                                                    <span class="averageRatingCount">0</span>)
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr >
+                                            <td class="cover">
+                                                <a href="/album/live-at-the-hammersmith-odeon-mw0000837939" title="Live at the Hammersmith Odeon">
+                                                    <img src="https://fastly-gce.allmusic.com/images/no_image/album_100x100.png" alt="Live at the Hammersmith Odeon" onerror="this.src='https://fastly-gce.allmusic.com/images/no_image/album_300x300.png'"></a>
+                                                </td>
+                                                <td class="year" data-text=""></td>
+                                                <td class="meta" data-text="Live at the Hammersmith Odeon">
+                                                    <span class="title">
+                                                        <a href="https://www.allmusic.com/album/live-at-the-hammersmith-odeon-mw0000837939">Live at the Hammersmith Odeon</a>
+                                                    </span>
+                                                    <span class="label">
+                                                        <a href="//www.allmusic.com/search/labels/Strand" title="Strand">Strand</a>
+                                                    </span>
+                                                </td>
+                                                <td class="musicRating" data-text="3">
+                                                    <div class="allmusicRating ratingAllmusic3" title="AllMusic Rating"></div>
+                                                </td>
+                                                <td class="avgRating" data-text="6-15">
+                                                    <div class="averageUserRating ratingAverage06" data-avg-rating-id="MW0000837939" title="Average User Rating"></div>
+                                                    <span class="count">(                                                        <span class="averageRatingCount">0</span>)
+                                                    </span>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div id="albumPickMsg">
+                                    <a href="/faq/topic/albumtrackpicks" title="About album picks">blue highlight denotes album pick</a>
+                                </div>
+                            </div>

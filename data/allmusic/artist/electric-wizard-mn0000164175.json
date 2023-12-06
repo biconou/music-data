@@ -1,0 +1,212 @@
+{
+  "id" : "electric-wizard-mn0000164175",
+  "name" : "Electric Wizard",
+  "activeDates" : "1990s - 2010s",
+  "birthDate" : "1993",
+  "birthPlace" : "Dorset, England",
+  "styles" : [ {
+    "name" : "Alternative Metal",
+    "url" : "https://www.allmusic.com/style/alternative-metal-ma0000012328"
+  }, {
+    "name" : "Doom Metal",
+    "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  }, {
+    "name" : "Stoner Metal",
+    "url" : "https://www.allmusic.com/style/stoner-metal-ma0000011961"
+  }, {
+    "name" : "Sludge Metal",
+    "url" : "https://www.allmusic.com/style/sludge-metal-ma0000012161"
+  } ],
+  "discography" : [ {
+    "albumYear" : "1994",
+    "albumTitle" : "Electric Wizard",
+    "musicRating" : "7",
+    "avgRating" : "9-149"
+  }, {
+    "albumYear" : "1996",
+    "albumTitle" : "Come My Fanatics",
+    "musicRating" : "8",
+    "avgRating" : "9-197"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Supercoven",
+    "musicRating" : "6",
+    "avgRating" : "8-22"
+  }, {
+    "albumYear" : "2000",
+    "albumTitle" : "Dopethrone",
+    "musicRating" : "9",
+    "avgRating" : "10-587"
+  }, {
+    "albumYear" : "2002",
+    "albumTitle" : "Let Us Prey",
+    "musicRating" : "6",
+    "avgRating" : "8-86"
+  }, {
+    "albumYear" : "2004",
+    "albumTitle" : "We Live",
+    "musicRating" : "6",
+    "avgRating" : "8-71"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "Witchcult Today",
+    "musicRating" : "5",
+    "avgRating" : "9-168"
+  }, {
+    "albumYear" : "2010",
+    "albumTitle" : "Black Masses",
+    "musicRating" : "6",
+    "avgRating" : "8-343"
+  }, {
+    "albumYear" : "2014",
+    "albumTitle" : "Time to Die",
+    "musicRating" : "5",
+    "avgRating" : "8-95"
+  }, {
+    "albumYear" : "2017",
+    "albumTitle" : "Wizard Bloody Wizard",
+    "musicRating" : "6",
+    "avgRating" : "8-104"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Cathedral",
+      "ArtistId" : "cathedral-mn0000150670"
+    }, {
+      "artist" : "Kyuss",
+      "ArtistId" : "kyuss-mn0000776011"
+    }, {
+      "artist" : "Memento Mori",
+      "ArtistId" : "memento-mori-mn0000351358"
+    }, {
+      "artist" : "Orange Goblin",
+      "ArtistId" : "orange-goblin-mn0000406390"
+    }, {
+      "artist" : "Saint Vitus",
+      "ArtistId" : "saint-vitus-mn0000287259"
+    }, {
+      "artist" : "Sleep",
+      "ArtistId" : "sleep-mn0000021578"
+    }, {
+      "artist" : "The Obsessed",
+      "ArtistId" : "the-obsessed-mn0000485881"
+    }, {
+      "artist" : "Acid King",
+      "ArtistId" : "acid-king-mn0000925244"
+    }, {
+      "artist" : "Acrimony",
+      "ArtistId" : "acrimony-mn0001250337"
+    }, {
+      "artist" : "Candlemass",
+      "ArtistId" : "candlemass-mn0000648407"
+    }, {
+      "artist" : "Cemetary",
+      "ArtistId" : "cemetary-mn0000188790"
+    }, {
+      "artist" : "Church of Misery",
+      "ArtistId" : "church-of-misery-mn0000127724"
+    }, {
+      "artist" : "Farflung",
+      "ArtistId" : "farflung-mn0000174071"
+    }, {
+      "artist" : "Fireball Ministry",
+      "ArtistId" : "fireball-ministry-mn0000176458"
+    }, {
+      "artist" : "Firebird",
+      "ArtistId" : "firebird-mn0000795448"
+    }, {
+      "artist" : "Pentagram",
+      "ArtistId" : "pentagram-mn0000308932"
+    }, {
+      "artist" : "Sheavy",
+      "ArtistId" : "sheavy-mn0000013891"
+    }, {
+      "artist" : "Solarized",
+      "ArtistId" : "solarized-mn0000043114"
+    }, {
+      "artist" : "Solitude Aeturnus",
+      "ArtistId" : "solitude-aeturnus-mn0000031211"
+    }, {
+      "artist" : "Sons of Otis",
+      "ArtistId" : "sons-of-otis-mn0000037617"
+    }, {
+      "artist" : "Spiritual Beggars",
+      "ArtistId" : "spiritual-beggars-mn0000014408"
+    }, {
+      "artist" : "The Sabians",
+      "ArtistId" : "the-sabians-mn0000420421"
+    }, {
+      "artist" : "Trouble",
+      "ArtistId" : "trouble-mn0000747243"
+    }, {
+      "artist" : "Witchcraft",
+      "ArtistId" : "witchcraft-mn0000164592"
+    }, {
+      "artist" : "Dwarr",
+      "ArtistId" : "dwarr-mn0002512644"
+    }, {
+      "artist" : "Eyehategod",
+      "ArtistId" : "eyehategod-mn0000127103"
+    }, {
+      "artist" : "Harsh Toke",
+      "ArtistId" : "harsh-toke-mn0003175115"
+    }, {
+      "artist" : "Melvins",
+      "ArtistId" : "melvins-mn0000349157"
+    }, {
+      "artist" : "Oozing Wound",
+      "ArtistId" : "oozing-wound-mn0003156197"
+    }, {
+      "artist" : "Shallow",
+      "ArtistId" : "shallow-mn0001903454"
+    }, {
+      "artist" : "Telekinetic Yeti",
+      "ArtistId" : "telekinetic-yeti-mn0003611865"
+    }, {
+      "artist" : "Uncle Acid & the Deadbeats",
+      "ArtistId" : "uncle-acid-the-deadbeats-mn0002822383"
+    }, {
+      "artist" : "With the Dead",
+      "ArtistId" : "with-the-dead-mn0003425936"
+    }, {
+      "artist" : "YOB",
+      "ArtistId" : "yob-mn0000683342"
+    } ],
+    "influencers" : [ {
+      "artist" : "Black Sabbath",
+      "ArtistId" : "black-sabbath-mn0000771438"
+    }, {
+      "artist" : "Blue Cheer",
+      "ArtistId" : "blue-cheer-mn0000059537"
+    }, {
+      "artist" : "Candlemass",
+      "ArtistId" : "candlemass-mn0000648407"
+    }, {
+      "artist" : "Deep Purple",
+      "ArtistId" : "deep-purple-mn0000192382"
+    }, {
+      "artist" : "Led Zeppelin",
+      "ArtistId" : "led-zeppelin-mn0000139026"
+    }, {
+      "artist" : "Melvins",
+      "ArtistId" : "melvins-mn0000349157"
+    }, {
+      "artist" : "Pentagram",
+      "ArtistId" : "pentagram-mn0000308932"
+    }, {
+      "artist" : "Saint Vitus",
+      "ArtistId" : "saint-vitus-mn0000287259"
+    }, {
+      "artist" : "The Obsessed",
+      "ArtistId" : "the-obsessed-mn0000485881"
+    } ],
+    "followers" : [ {
+      "artist" : "Coffin Carousel",
+      "ArtistId" : "coffin-carousel-mn0003539139"
+    } ],
+    "associatedwith" : [ ]
+  }
+}
