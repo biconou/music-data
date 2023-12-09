@@ -1,0 +1,344 @@
+{
+  "id" : "angela-hewitt-mn0001331366",
+  "name" : "Angela Hewitt",
+  "activeDates" : "1980s - 2020s",
+  "birthDate" : "July 26, 1958",
+  "birthPlace" : "Ottawa, Ontario, Canada",
+  "styles" : [ {
+    "name" : "Keyboard",
+    "url" : "https://www.allmusic.com/style/keyboard-ma0000011828"
+  }, {
+    "name" : "Concerto",
+    "url" : "https://www.allmusic.com/style/concerto-ma0000012338"
+  }, {
+    "name" : "Chamber Music",
+    "url" : "https://www.allmusic.com/style/chamber-music-ma0000004500"
+  } ],
+  "discography" : [ {
+    "albumYear" : "1987",
+    "albumTitle" : "Bach: Piano Concerti BWV 1052, 1953 & 1056",
+    "musicRating" : "",
+    "avgRating" : "9-2"
+  }, {
+    "albumYear" : "1994",
+    "albumTitle" : "Bach: Fantasia in C minor; Two-Part Inventions; Three-Part Inventions; Chromatic Fantasia & Fugue",
+    "musicRating" : "",
+    "avgRating" : "9-4"
+  }, {
+    "albumYear" : "1994",
+    "albumTitle" : "Enrique Granados: Danzas españolas",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "Bach: French Suites; Little Preludes",
+    "musicRating" : "",
+    "avgRating" : "9-3"
+  }, {
+    "albumYear" : "1997",
+    "albumTitle" : "Bach: The Six Partitas [1996-97 Recording]",
+    "musicRating" : "",
+    "avgRating" : "10-3"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Angela Hewitt plays Messiaen",
+    "musicRating" : "",
+    "avgRating" : "6-2"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Bach: The Well-Tempered Clavier, Book 1",
+    "musicRating" : "",
+    "avgRating" : "10-4"
+  }, {
+    "albumYear" : "1999",
+    "albumTitle" : "Bach: The Well-Tempered Clavier, Book 2",
+    "musicRating" : "",
+    "avgRating" : "10-4"
+  }, {
+    "albumYear" : "2000",
+    "albumTitle" : "Bach: Goldberg Variations",
+    "musicRating" : "",
+    "avgRating" : "10-4"
+  }, {
+    "albumYear" : "2001",
+    "albumTitle" : "Bach: Italian Concerto; French Overture; Four Duets; Two Capriccios",
+    "musicRating" : "",
+    "avgRating" : "10-2"
+  }, {
+    "albumYear" : "2001",
+    "albumTitle" : "Bach Arrangements",
+    "musicRating" : "",
+    "avgRating" : "10-4"
+  }, {
+    "albumYear" : "2002",
+    "albumTitle" : "Ravel: The Complete Solo Piano Music",
+    "musicRating" : "",
+    "avgRating" : "9-3"
+  }, {
+    "albumYear" : "2002",
+    "albumTitle" : "Bach: The Toccatas",
+    "musicRating" : "",
+    "avgRating" : "10-4"
+  }, {
+    "albumYear" : "2003",
+    "albumTitle" : "François Couperin: Keyboard Music, Vol. 1",
+    "musicRating" : "",
+    "avgRating" : "9-7"
+  }, {
+    "albumYear" : "2003",
+    "albumTitle" : "Bach: The English Suites",
+    "musicRating" : "9",
+    "avgRating" : "10-5"
+  }, {
+    "albumYear" : "2004",
+    "albumTitle" : "François Couperin: Keyboard Music, Vol. 2",
+    "musicRating" : "8",
+    "avgRating" : "7-2"
+  }, {
+    "albumYear" : "2004",
+    "albumTitle" : "Bach: Fantasia and Fugue in A minor; Aria Variata; Sonata in D major; Suite in F minor",
+    "musicRating" : "9",
+    "avgRating" : "9-2"
+  }, {
+    "albumYear" : "2004",
+    "albumTitle" : "Chopin: Nocturnes",
+    "musicRating" : "7",
+    "avgRating" : "8-3"
+  }, {
+    "albumYear" : "2005",
+    "albumTitle" : "Bach: The Keyboard Concertos, Vol. 1",
+    "musicRating" : "8",
+    "avgRating" : "10-9"
+  }, {
+    "albumYear" : "2005",
+    "albumTitle" : "Bach: The Keyboard Concertos, Vol. 2",
+    "musicRating" : "9",
+    "avgRating" : "10-4"
+  }, {
+    "albumYear" : "2005",
+    "albumTitle" : "François Couperin: Keyboard Music, Vol. 3",
+    "musicRating" : "8",
+    "avgRating" : "8-2"
+  }, {
+    "albumYear" : "2006",
+    "albumTitle" : "Bach: Keyboard Concertos",
+    "musicRating" : "7",
+    "avgRating" : "9-3"
+  }, {
+    "albumYear" : "2006",
+    "albumTitle" : "Piano Music by Emmanuel Chabrier",
+    "musicRating" : "7",
+    "avgRating" : "9-3"
+  }, {
+    "albumYear" : "2006",
+    "albumTitle" : "Beethoven: Piano Sonatas, Opp. 57 \"Appassionata,\" 10/3, 7",
+    "musicRating" : "6",
+    "avgRating" : "9-3"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "Rameau: Keyboard Suites",
+    "musicRating" : "7",
+    "avgRating" : "9-1"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "Beethoven: Piano Sonatas Op. 2/3, Op. 13 & Op. 28",
+    "musicRating" : "8",
+    "avgRating" : "9-2"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "Bach: Gamba Sonatas",
+    "musicRating" : "8",
+    "avgRating" : "10-4"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "Bach: The Well-Tempered Clavier [1997 Recording]",
+    "musicRating" : "9",
+    "avgRating" : "10-2"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "Schumann: Humoresque; Sonata in F sharp minor",
+    "musicRating" : "7",
+    "avgRating" : "10-1"
+  }, {
+    "albumYear" : "2008",
+    "albumTitle" : "Beethoven: Cello Sonatas, Vol. 1",
+    "musicRating" : "8",
+    "avgRating" : "10-2"
+  }, {
+    "albumYear" : "2009",
+    "albumTitle" : "Bach: The Well-Tempered Clavier [2008 Recording]",
+    "musicRating" : "9",
+    "avgRating" : "10-5"
+  }, {
+    "albumYear" : "2009",
+    "albumTitle" : "Angela Hewitt plays Handel & Haydn",
+    "musicRating" : "8",
+    "avgRating" : "10-2"
+  }, {
+    "albumYear" : "2010",
+    "albumTitle" : "Beethoven: Cello Sonatas, Vol. 2",
+    "musicRating" : "7",
+    "avgRating" : "10-2"
+  }, {
+    "albumYear" : "2010",
+    "albumTitle" : "Beethoven: Piano Sonatas, Opp. 10/2, 26, 27/2 & 90",
+    "musicRating" : "7",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "2010",
+    "albumTitle" : "Schumann: Davidsbündlertänze; Kinderszenen; Sonata in G minor",
+    "musicRating" : "",
+    "avgRating" : "10-2"
+  }, {
+    "albumYear" : "2011",
+    "albumTitle" : "Mozart: Piano Concertos Nos. 6, 8 & 9",
+    "musicRating" : "8",
+    "avgRating" : "10-2"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "Schumann: Piano Concerto",
+    "musicRating" : "7",
+    "avgRating" : "9-2"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "Debussy: Suite bergamasque; Children's Corner; Pour le piano; Masques; L'isle joyeuse; Deux Arabesques",
+    "musicRating" : "6",
+    "avgRating" : "7-4"
+  }, {
+    "albumYear" : "2013",
+    "albumTitle" : "Bach: Flute Sonatas",
+    "musicRating" : "8",
+    "avgRating" : "10-4"
+  }, {
+    "albumYear" : "2013",
+    "albumTitle" : "Mozart: Piano Concertos No. 17 K 453, No. 27 K595",
+    "musicRating" : "8",
+    "avgRating" : "10-2"
+  }, {
+    "albumYear" : "2013",
+    "albumTitle" : "Fauré: Piano Music",
+    "musicRating" : "9",
+    "avgRating" : "8-5"
+  }, {
+    "albumYear" : "2013",
+    "albumTitle" : "Beethoven: Piano Sonatas Op. 22, Op. 31 No. 3, Op. 101",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "2014",
+    "albumTitle" : "Messiaen: Turangalîla-Symphonie",
+    "musicRating" : "9",
+    "avgRating" : "10-8"
+  }, {
+    "albumYear" : "2014",
+    "albumTitle" : "Mozart: Piano Concertos Nos. 22 & 24",
+    "musicRating" : "8",
+    "avgRating" : "9-3"
+  }, {
+    "albumYear" : "2014",
+    "albumTitle" : "Bach: The Art of Fugue",
+    "musicRating" : "9",
+    "avgRating" : "10-5"
+  }, {
+    "albumYear" : "2015",
+    "albumTitle" : "Liszt: Piano Sonata; Dante Sonata; Petrarch Sonnets",
+    "musicRating" : "7",
+    "avgRating" : "10-2"
+  }, {
+    "albumYear" : "2015",
+    "albumTitle" : "Beethoven: Piano Sonatas, Op. 2 No. 2, Op. 10 No. 1, Op. 78, Op. 110",
+    "musicRating" : "7",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "Domenico Scarlatti: Sonatas",
+    "musicRating" : "9",
+    "avgRating" : "9-10"
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "Beethoven: Piano Sonatas Op. 14/1, Op. 49, Op. 31/1, Op. 81a",
+    "musicRating" : "8",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "Johann Sebastian Bach: Goldberg Variations [2015 Recording]",
+    "musicRating" : "9",
+    "avgRating" : "9-4"
+  }, {
+    "albumYear" : "2017",
+    "albumTitle" : "Chopin: Sonata b-moll; Nokturn Fis-dur; Mazurki, Op. 50; Fantazja f-moll; Etiudy; Preludia",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "2017",
+    "albumTitle" : "Domenico Scarlatti: Sonatas, Vol. 2",
+    "musicRating" : "8",
+    "avgRating" : "10-8"
+  }, {
+    "albumYear" : "2018",
+    "albumTitle" : "Beethoven: Piano Sonatas Op. 27 No. 1, Op. 31 No. 2, Op. 79, Op. 109",
+    "musicRating" : "8",
+    "avgRating" : "10-2"
+  }, {
+    "albumYear" : "2018",
+    "albumTitle" : "J.S. Bach: English Suite, BWV 811; 4 Duets, BWV 802-805; Italian Concerto, BWV 971; Toccata, BWV 911",
+    "musicRating" : "",
+    "avgRating" : "8-2"
+  }, {
+    "albumYear" : "2019",
+    "albumTitle" : "Beethoven: Piano Sonatas Op. 2 No. 1, Op. 14 No. 2, Op. 53 'Waldstein', Op. 54",
+    "musicRating" : "8",
+    "avgRating" : "10-2"
+  }, {
+    "albumYear" : "2019",
+    "albumTitle" : "Bach: The Six Partitas [2018 Recording]",
+    "musicRating" : "8",
+    "avgRating" : "10-7"
+  }, {
+    "albumYear" : "2020",
+    "albumTitle" : "Beethoven: Variations",
+    "musicRating" : "7",
+    "avgRating" : "9-1"
+  }, {
+    "albumYear" : "2021",
+    "albumTitle" : "Love Songs",
+    "musicRating" : "7",
+    "avgRating" : "8-1"
+  }, {
+    "albumYear" : "2022",
+    "albumTitle" : "Beethoven: Piano Sonatas Op. 106 'Hammerklavier', Op. 111",
+    "musicRating" : "8",
+    "avgRating" : "9-3"
+  }, {
+    "albumYear" : "2022",
+    "albumTitle" : "Mozart: Piano Sonatas K279-K284, K309",
+    "musicRating" : "8",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "2023",
+    "albumTitle" : "Mozart: Piano Sonatas K310-K311, K330-K333",
+    "musicRating" : "8",
+    "avgRating" : ""
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Alexandre Tharaud",
+      "ArtistId" : "alexandre-tharaud-mn0000318781"
+    }, {
+      "artist" : "Angela Cheng",
+      "ArtistId" : "angela-cheng-mn0001401167"
+    }, {
+      "artist" : "Jenö Jandó",
+      "ArtistId" : "jen%C3%B6-jand%C3%B3-mn0000809452"
+    }, {
+      "artist" : "Juana Zayas",
+      "ArtistId" : "juana-zayas-mn0001294040"
+    }, {
+      "artist" : "Margarita Höhenrieder",
+      "ArtistId" : "margarita-h%C3%B6henrieder-mn0002173519"
+    } ],
+    "influencers" : [ ],
+    "followers" : [ ],
+    "associatedwith" : [ ]
+  }
+}

@@ -12,7 +12,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="48"/>
+                <entry key="array-size" type="xint" value="49"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -124,178 +124,184 @@
                 <config key="18">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="&quot;Eine Geschichte der Barockmusik&quot;"/>
+                        <entry key="StringCell" type="xstring" value="arcade fire"/>
                     </config>
                 </config>
                 <config key="19">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="...And You Will Know Us By The Trail Of Dead"/>
+                        <entry key="StringCell" type="xstring" value="&quot;Eine Geschichte der Barockmusik&quot;"/>
                     </config>
                 </config>
                 <config key="20">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="1.3 Jazz"/>
+                        <entry key="StringCell" type="xstring" value="...And You Will Know Us By The Trail Of Dead"/>
                     </config>
                 </config>
                 <config key="21">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="1.341 Be-bop"/>
+                        <entry key="StringCell" type="xstring" value="1.3 Jazz"/>
                     </config>
                 </config>
                 <config key="22">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="2.65 Noisy pop, noisy rock, indie rock"/>
+                        <entry key="StringCell" type="xstring" value="1.341 Be-bop"/>
                     </config>
                 </config>
                 <config key="23">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="3.98 Période postérieure à 1945"/>
+                        <entry key="StringCell" type="xstring" value="2.65 Noisy pop, noisy rock, indie rock"/>
                     </config>
                 </config>
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="4.3 House"/>
+                        <entry key="StringCell" type="xstring" value="3.98 Période postérieure à 1945"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="4.41 Techno, Electro"/>
+                        <entry key="StringCell" type="xstring" value="4.3 House"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="7 Hurtz"/>
+                        <entry key="StringCell" type="xstring" value="4.41 Techno, Electro"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="9.1 Afrique"/>
+                        <entry key="StringCell" type="xstring" value="7 Hurtz"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="16 Horsepower"/>
+                        <entry key="StringCell" type="xstring" value="9.1 Afrique"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="A Perfect Circle"/>
+                        <entry key="StringCell" type="xstring" value="16 Horsepower"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="A Place to Bury Strangers"/>
+                        <entry key="StringCell" type="xstring" value="A Perfect Circle"/>
                     </config>
                 </config>
                 <config key="31">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="A-Ha"/>
+                        <entry key="StringCell" type="xstring" value="A Place to Bury Strangers"/>
                     </config>
                 </config>
                 <config key="32">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="AC/DC"/>
+                        <entry key="StringCell" type="xstring" value="A-Ha"/>
                     </config>
                 </config>
                 <config key="33">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="ADULT."/>
+                        <entry key="StringCell" type="xstring" value="AC/DC"/>
                     </config>
                 </config>
                 <config key="34">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="ASC"/>
+                        <entry key="StringCell" type="xstring" value="ADULT."/>
                     </config>
                 </config>
                 <config key="35">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Adams"/>
+                        <entry key="StringCell" type="xstring" value="ASC"/>
                     </config>
                 </config>
                 <config key="36">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Add N to (X)"/>
+                        <entry key="StringCell" type="xstring" value="Adams"/>
                     </config>
                 </config>
                 <config key="37">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Adrian Utley’s Guitar Orchestra / Terry Riley"/>
+                        <entry key="StringCell" type="xstring" value="Add N to (X)"/>
                     </config>
                 </config>
                 <config key="38">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Adult."/>
+                        <entry key="StringCell" type="xstring" value="Adrian Utley’s Guitar Orchestra / Terry Riley"/>
                     </config>
                 </config>
                 <config key="39">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Aerosmith"/>
+                        <entry key="StringCell" type="xstring" value="Adult."/>
                     </config>
                 </config>
                 <config key="40">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Agela Hewitt"/>
+                        <entry key="StringCell" type="xstring" value="Aerosmith"/>
                     </config>
                 </config>
                 <config key="41">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Ahmed, Mahmoud - Éthiopiques Vol. 7"/>
+                        <entry key="StringCell" type="xstring" value="Agela Hewitt"/>
                     </config>
                 </config>
                 <config key="42">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Airborn Audio"/>
+                        <entry key="StringCell" type="xstring" value="Ahmed, Mahmoud - Éthiopiques Vol. 7"/>
                     </config>
                 </config>
                 <config key="43">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Akira Uchida"/>
+                        <entry key="StringCell" type="xstring" value="Airborn Audio"/>
                     </config>
                 </config>
                 <config key="44">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Alain Bashung"/>
+                        <entry key="StringCell" type="xstring" value="Akira Uchida"/>
                     </config>
                 </config>
                 <config key="45">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Alain Souchon"/>
+                        <entry key="StringCell" type="xstring" value="Alain Bashung"/>
                     </config>
                 </config>
                 <config key="46">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Alban Berg Quartet"/>
+                        <entry key="StringCell" type="xstring" value="Alain Souchon"/>
                     </config>
                 </config>
                 <config key="47">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Alban Berg Quartet"/>
+                    </config>
+                </config>
+                <config key="48">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="Alberto Ponce, Isabel Garcisanz"/>
@@ -338,7 +344,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="48"/>
+                <entry key="array-size" type="xint" value="49"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -450,178 +456,184 @@
                 <config key="18">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="%22Eine+Geschichte+der+Barockmusik%22"/>
+                        <entry key="StringCell" type="xstring" value="arcade+fire"/>
                     </config>
                 </config>
                 <config key="19">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="...And+You+Will+Know+Us+By+The+Trail+Of+Dead"/>
+                        <entry key="StringCell" type="xstring" value="%22Eine+Geschichte+der+Barockmusik%22"/>
                     </config>
                 </config>
                 <config key="20">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="1.3+Jazz"/>
+                        <entry key="StringCell" type="xstring" value="...And+You+Will+Know+Us+By+The+Trail+Of+Dead"/>
                     </config>
                 </config>
                 <config key="21">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="1.341+Be-bop"/>
+                        <entry key="StringCell" type="xstring" value="1.3+Jazz"/>
                     </config>
                 </config>
                 <config key="22">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="2.65+Noisy+pop%2C+noisy+rock%2C+indie+rock"/>
+                        <entry key="StringCell" type="xstring" value="1.341+Be-bop"/>
                     </config>
                 </config>
                 <config key="23">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="3.98+P%C3%A9riode+post%C3%A9rieure+%C3%A0+1945"/>
+                        <entry key="StringCell" type="xstring" value="2.65+Noisy+pop%2C+noisy+rock%2C+indie+rock"/>
                     </config>
                 </config>
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="4.3+House"/>
+                        <entry key="StringCell" type="xstring" value="3.98+P%C3%A9riode+post%C3%A9rieure+%C3%A0+1945"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="4.41+Techno%2C+Electro"/>
+                        <entry key="StringCell" type="xstring" value="4.3+House"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="7+Hurtz"/>
+                        <entry key="StringCell" type="xstring" value="4.41+Techno%2C+Electro"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="9.1+Afrique"/>
+                        <entry key="StringCell" type="xstring" value="7+Hurtz"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="16+Horsepower"/>
+                        <entry key="StringCell" type="xstring" value="9.1+Afrique"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="A+Perfect+Circle"/>
+                        <entry key="StringCell" type="xstring" value="16+Horsepower"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="A+Place+to+Bury+Strangers"/>
+                        <entry key="StringCell" type="xstring" value="A+Perfect+Circle"/>
                     </config>
                 </config>
                 <config key="31">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="A-Ha"/>
+                        <entry key="StringCell" type="xstring" value="A+Place+to+Bury+Strangers"/>
                     </config>
                 </config>
                 <config key="32">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="AC%2FDC"/>
+                        <entry key="StringCell" type="xstring" value="A-Ha"/>
                     </config>
                 </config>
                 <config key="33">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="ADULT."/>
+                        <entry key="StringCell" type="xstring" value="AC%2FDC"/>
                     </config>
                 </config>
                 <config key="34">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="ASC"/>
+                        <entry key="StringCell" type="xstring" value="ADULT."/>
                     </config>
                 </config>
                 <config key="35">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Adams"/>
+                        <entry key="StringCell" type="xstring" value="ASC"/>
                     </config>
                 </config>
                 <config key="36">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Add+N+to+%28X%29"/>
+                        <entry key="StringCell" type="xstring" value="Adams"/>
                     </config>
                 </config>
                 <config key="37">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Adrian+Utley%E2%80%99s+Guitar+Orchestra+%2F+Terry+Riley"/>
+                        <entry key="StringCell" type="xstring" value="Add+N+to+%28X%29"/>
                     </config>
                 </config>
                 <config key="38">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Adult."/>
+                        <entry key="StringCell" type="xstring" value="Adrian+Utley%E2%80%99s+Guitar+Orchestra+%2F+Terry+Riley"/>
                     </config>
                 </config>
                 <config key="39">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Aerosmith"/>
+                        <entry key="StringCell" type="xstring" value="Adult."/>
                     </config>
                 </config>
                 <config key="40">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Agela+Hewitt"/>
+                        <entry key="StringCell" type="xstring" value="Aerosmith"/>
                     </config>
                 </config>
                 <config key="41">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Ahmed%2C+Mahmoud+-+%C3%89thiopiques+Vol.+7"/>
+                        <entry key="StringCell" type="xstring" value="Agela+Hewitt"/>
                     </config>
                 </config>
                 <config key="42">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Airborn+Audio"/>
+                        <entry key="StringCell" type="xstring" value="Ahmed%2C+Mahmoud+-+%C3%89thiopiques+Vol.+7"/>
                     </config>
                 </config>
                 <config key="43">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Akira+Uchida"/>
+                        <entry key="StringCell" type="xstring" value="Airborn+Audio"/>
                     </config>
                 </config>
                 <config key="44">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Alain+Bashung"/>
+                        <entry key="StringCell" type="xstring" value="Akira+Uchida"/>
                     </config>
                 </config>
                 <config key="45">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Alain+Souchon"/>
+                        <entry key="StringCell" type="xstring" value="Alain+Bashung"/>
                     </config>
                 </config>
                 <config key="46">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Alban+Berg+Quartet"/>
+                        <entry key="StringCell" type="xstring" value="Alain+Souchon"/>
                     </config>
                 </config>
                 <config key="47">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Alban+Berg+Quartet"/>
+                    </config>
+                </config>
+                <config key="48">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="Alberto+Ponce%2C+Isabel+Garcisanz"/>
@@ -642,7 +654,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="48"/>
+                <entry key="array-size" type="xint" value="49"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -754,178 +766,184 @@
                 <config key="18">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/%22Eine+Geschichte+der+Barockmusik%22"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/arcade+fire"/>
                     </config>
                 </config>
                 <config key="19">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/...And+You+Will+Know+Us+By+The+Trail+Of+Dead"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/%22Eine+Geschichte+der+Barockmusik%22"/>
                     </config>
                 </config>
                 <config key="20">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/1.3+Jazz"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/...And+You+Will+Know+Us+By+The+Trail+Of+Dead"/>
                     </config>
                 </config>
                 <config key="21">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/1.341+Be-bop"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/1.3+Jazz"/>
                     </config>
                 </config>
                 <config key="22">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/2.65+Noisy+pop%2C+noisy+rock%2C+indie+rock"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/1.341+Be-bop"/>
                     </config>
                 </config>
                 <config key="23">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/3.98+P%C3%A9riode+post%C3%A9rieure+%C3%A0+1945"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/2.65+Noisy+pop%2C+noisy+rock%2C+indie+rock"/>
                     </config>
                 </config>
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/4.3+House"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/3.98+P%C3%A9riode+post%C3%A9rieure+%C3%A0+1945"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/4.41+Techno%2C+Electro"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/4.3+House"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/7+Hurtz"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/4.41+Techno%2C+Electro"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/9.1+Afrique"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/7+Hurtz"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/16+Horsepower"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/9.1+Afrique"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/A+Perfect+Circle"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/16+Horsepower"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/A+Place+to+Bury+Strangers"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/A+Perfect+Circle"/>
                     </config>
                 </config>
                 <config key="31">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/A-Ha"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/A+Place+to+Bury+Strangers"/>
                     </config>
                 </config>
                 <config key="32">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/AC%2FDC"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/A-Ha"/>
                     </config>
                 </config>
                 <config key="33">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/ADULT."/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/AC%2FDC"/>
                     </config>
                 </config>
                 <config key="34">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/ASC"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/ADULT."/>
                     </config>
                 </config>
                 <config key="35">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Adams"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/ASC"/>
                     </config>
                 </config>
                 <config key="36">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Add+N+to+%28X%29"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Adams"/>
                     </config>
                 </config>
                 <config key="37">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Adrian+Utley%E2%80%99s+Guitar+Orchestra+%2F+Terry+Riley"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Add+N+to+%28X%29"/>
                     </config>
                 </config>
                 <config key="38">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Adult."/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Adrian+Utley%E2%80%99s+Guitar+Orchestra+%2F+Terry+Riley"/>
                     </config>
                 </config>
                 <config key="39">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Aerosmith"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Adult."/>
                     </config>
                 </config>
                 <config key="40">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Agela+Hewitt"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Aerosmith"/>
                     </config>
                 </config>
                 <config key="41">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Ahmed%2C+Mahmoud+-+%C3%89thiopiques+Vol.+7"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Agela+Hewitt"/>
                     </config>
                 </config>
                 <config key="42">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Airborn+Audio"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Ahmed%2C+Mahmoud+-+%C3%89thiopiques+Vol.+7"/>
                     </config>
                 </config>
                 <config key="43">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Akira+Uchida"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Airborn+Audio"/>
                     </config>
                 </config>
                 <config key="44">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Alain+Bashung"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Akira+Uchida"/>
                     </config>
                 </config>
                 <config key="45">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Alain+Souchon"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Alain+Bashung"/>
                     </config>
                 </config>
                 <config key="46">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Alban+Berg+Quartet"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Alain+Souchon"/>
                     </config>
                 </config>
                 <config key="47">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Alban+Berg+Quartet"/>
+                    </config>
+                </config>
+                <config key="48">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="https://www.allmusic.com/search/artists/Alberto+Ponce%2C+Isabel+Garcisanz"/>

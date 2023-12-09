@@ -44,10 +44,6 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="CONFIGURED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Execution canceled"/>
-    </config>
     <entry key="factory" type="xstring" value="com.mmiagency.knime.nodes.html.CleanHtmlRetrieverNodeFactory"/>
     <entry key="node-name" type="xstring" value="Clean HTML Retriever"/>
     <entry key="node-bundle-name" type="xstring" value="MMI Data Analytics Node extensions for KNIME Workbench"/>

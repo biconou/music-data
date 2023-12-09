@@ -1,0 +1,272 @@
+{
+  "id" : "and-you-will-know-us-by-the-trail-of-dead-mn0000019392",
+  "name" : "...And You Will Know Us by the Trail of Dead",
+  "activeDates" : "1990s - 2020s",
+  "birthDate" : "1994",
+  "birthPlace" : "Austin, TX",
+  "styles" : [ {
+    "name" : "Alternative/Indie Rock",
+    "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
+  }, {
+    "name" : "Dream Pop",
+    "url" : "https://www.allmusic.com/style/dream-pop-ma0000012303"
+  }, {
+    "name" : "Indie Rock",
+    "url" : "https://www.allmusic.com/style/indie-rock-ma0000004453"
+  }, {
+    "name" : "Post-Rock",
+    "url" : "https://www.allmusic.com/style/post-rock-ma0000002790"
+  }, {
+    "name" : "Alternative Pop/Rock",
+    "url" : "https://www.allmusic.com/style/alternative-pop-rock-ma0000002422"
+  } ],
+  "discography" : [ {
+    "albumYear" : "1998",
+    "albumTitle" : "...And You Will Know Us by the Trail of Dead",
+    "musicRating" : "7",
+    "avgRating" : "8-128"
+  }, {
+    "albumYear" : "1999",
+    "albumTitle" : "Madonna",
+    "musicRating" : "7",
+    "avgRating" : "8-141"
+  }, {
+    "albumYear" : "2002",
+    "albumTitle" : "Source Tags & Codes",
+    "musicRating" : "9",
+    "avgRating" : "9-685"
+  }, {
+    "albumYear" : "2003",
+    "albumTitle" : "The Secret of Elena's Tomb",
+    "musicRating" : "5",
+    "avgRating" : "7-51"
+  }, {
+    "albumYear" : "2005",
+    "albumTitle" : "Worlds Apart",
+    "musicRating" : "6",
+    "avgRating" : "8-391"
+  }, {
+    "albumYear" : "2006",
+    "albumTitle" : "So Divided",
+    "musicRating" : "7",
+    "avgRating" : "8-216"
+  }, {
+    "albumYear" : "2009",
+    "albumTitle" : "The Century of Self",
+    "musicRating" : "7",
+    "avgRating" : "8-267"
+  }, {
+    "albumYear" : "2011",
+    "albumTitle" : "The Tao of the Dead",
+    "musicRating" : "7",
+    "avgRating" : "8-300"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "Lost Songs",
+    "musicRating" : "7",
+    "avgRating" : "8-177"
+  }, {
+    "albumYear" : "2014",
+    "albumTitle" : "IX",
+    "musicRating" : "6",
+    "avgRating" : "8-100"
+  }, {
+    "albumYear" : "2020",
+    "albumTitle" : "X: The Godless Void and Other Stories",
+    "musicRating" : "7",
+    "avgRating" : "9-94"
+  }, {
+    "albumYear" : "2022",
+    "albumTitle" : "XI: Bleed Here Now",
+    "musicRating" : "6",
+    "avgRating" : "8-39"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "...And You Will Know Us by the Trail of Dead",
+    "musicRating" : "",
+    "avgRating" : ""
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Cloud Nothings",
+      "ArtistId" : "cloud-nothings-mn0002358110"
+    }, {
+      "artist" : "The Dismemberment Plan",
+      "ArtistId" : "the-dismemberment-plan-mn0000152242"
+    }, {
+      "artist" : "At the Drive-In",
+      "ArtistId" : "at-the-drive-in-mn0000932154"
+    }, {
+      "artist" : "Black Rebel Motorcycle Club",
+      "ArtistId" : "black-rebel-motorcycle-club-mn0000771388"
+    }, {
+      "artist" : "Godheadsilo",
+      "ArtistId" : "godheadsilo-mn0000951621"
+    }, {
+      "artist" : "Unwound",
+      "ArtistId" : "unwound-mn0000188190"
+    }, {
+      "artist" : "Bardo Pond",
+      "ArtistId" : "bardo-pond-mn0000788362"
+    }, {
+      "artist" : "Brazil",
+      "ArtistId" : "brazil-mn0000616675"
+    }, {
+      "artist" : "Built to Spill",
+      "ArtistId" : "built-to-spill-mn0000527267"
+    }, {
+      "artist" : "Cherubs",
+      "ArtistId" : "cherubs-mn0000111739"
+    }, {
+      "artist" : "Coheed and Cambria",
+      "ArtistId" : "coheed-and-cambria-mn0000105030"
+    }, {
+      "artist" : "Cursive",
+      "ArtistId" : "cursive-mn0000138271"
+    }, {
+      "artist" : "Explosions in the Sky",
+      "ArtistId" : "explosions-in-the-sky-mn0000789055"
+    }, {
+      "artist" : "Les Savy Fav",
+      "ArtistId" : "les-savy-fav-mn0000248681"
+    }, {
+      "artist" : "Mercury Rev",
+      "ArtistId" : "mercury-rev-mn0000408696"
+    }, {
+      "artist" : "Red Sparowes",
+      "ArtistId" : "red-sparowes-mn0000666157"
+    }, {
+      "artist" : "Rival Schools",
+      "ArtistId" : "rival-schools-mn0000283517"
+    }, {
+      "artist" : "Seachange",
+      "ArtistId" : "seachange-mn0000838959"
+    }, {
+      "artist" : "Sparta",
+      "ArtistId" : "sparta-mn0000008591"
+    }, {
+      "artist" : "Superchunk",
+      "ArtistId" : "superchunk-mn0000034172"
+    }, {
+      "artist" : "The Brian Jonestown Massacre",
+      "ArtistId" : "the-brian-jonestown-massacre-mn0000614455"
+    }, {
+      "artist" : "The Hold Steady",
+      "ArtistId" : "the-hold-steady-mn0000088395"
+    }, {
+      "artist" : "Alkaline Trio",
+      "ArtistId" : "alkaline-trio-mn0000039013"
+    }, {
+      "artist" : "Cave In",
+      "ArtistId" : "cave-in-mn0000659982"
+    }, {
+      "artist" : "Future of the Left",
+      "ArtistId" : "future-of-the-left-mn0000561230"
+    }, {
+      "artist" : "Interpol",
+      "ArtistId" : "interpol-mn0000096576"
+    }, {
+      "artist" : "Joan of Arc",
+      "ArtistId" : "joan-of-arc-mn0000783965"
+    }, {
+      "artist" : "Omar Rodríguez-López",
+      "ArtistId" : "omar-rodr%C3%ADguez-l%C3%B3pez-mn0000540898"
+    }, {
+      "artist" : "Saves the Day",
+      "ArtistId" : "saves-the-day-mn0000305363"
+    }, {
+      "artist" : "The Blood Brothers",
+      "ArtistId" : "the-blood-brothers-mn0000042650"
+    }, {
+      "artist" : "The Walkmen",
+      "ArtistId" : "the-walkmen-mn0000489435"
+    }, {
+      "artist" : "Thrice",
+      "ArtistId" : "thrice-mn0000494038"
+    }, {
+      "artist" : "AER",
+      "ArtistId" : "aer-mn0001558977"
+    }, {
+      "artist" : "Further Seems Forever",
+      "ArtistId" : "further-seems-forever-mn0000159410"
+    }, {
+      "artist" : "Lift to Experience",
+      "ArtistId" : "lift-to-experience-mn0000265732"
+    }, {
+      "artist" : "The Ataris",
+      "ArtistId" : "the-ataris-mn0000040124"
+    }, {
+      "artist" : "The Cribs",
+      "ArtistId" : "the-cribs-mn0000668222"
+    } ],
+    "influencers" : [ {
+      "artist" : "Sonic Youth",
+      "ArtistId" : "sonic-youth-mn0000755156"
+    }, {
+      "artist" : "Dinosaur Jr.",
+      "ArtistId" : "dinosaur-jr-mn0000219483"
+    }, {
+      "artist" : "Jane's Addiction",
+      "ArtistId" : "janes-addiction-mn0000806829"
+    }, {
+      "artist" : "Television",
+      "ArtistId" : "television-mn0000019701"
+    }, {
+      "artist" : "Andrew Lloyd Webber",
+      "ArtistId" : "andrew-lloyd-webber-mn0000003595"
+    }, {
+      "artist" : "Beat Happening",
+      "ArtistId" : "beat-happening-mn0000154530"
+    }, {
+      "artist" : "Butthole Surfers",
+      "ArtistId" : "butthole-surfers-mn0000633181"
+    }, {
+      "artist" : "David Bowie",
+      "ArtistId" : "david-bowie-mn0000531986"
+    }, {
+      "artist" : "Fugazi",
+      "ArtistId" : "fugazi-mn0000798606"
+    }, {
+      "artist" : "Genesis",
+      "ArtistId" : "genesis-mn0000199995"
+    }, {
+      "artist" : "Helmet",
+      "ArtistId" : "helmet-mn0000572737"
+    }, {
+      "artist" : "Led Zeppelin",
+      "ArtistId" : "led-zeppelin-mn0000139026"
+    }, {
+      "artist" : "Mission of Burma",
+      "ArtistId" : "mission-of-burma-mn0000423305"
+    }, {
+      "artist" : "Nirvana",
+      "ArtistId" : "nirvana-mn0000357406"
+    }, {
+      "artist" : "Pink Floyd",
+      "ArtistId" : "pink-floyd-mn0000346336"
+    }, {
+      "artist" : "Slint",
+      "ArtistId" : "slint-mn0000751604"
+    }, {
+      "artist" : "Swans",
+      "ArtistId" : "swans-mn0000034988"
+    }, {
+      "artist" : "The Birthday Party",
+      "ArtistId" : "the-birthday-party-mn0000044906"
+    }, {
+      "artist" : "The Who",
+      "ArtistId" : "the-who-mn0000577627"
+    } ],
+    "followers" : [ ],
+    "associatedwith" : [ {
+      "artist" : "Hilary Hahn",
+      "ArtistId" : "hilary-hahn-mn0001361529"
+    }, {
+      "artist" : "Trail of Dead",
+      "ArtistId" : "trail-of-dead-mn0001632641"
+    }, {
+      "artist" : "Vanishing Life",
+      "ArtistId" : "vanishing-life-mn0003301241"
+    } ]
+  }
+}

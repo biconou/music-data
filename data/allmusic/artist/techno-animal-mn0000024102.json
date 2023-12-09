@@ -1,0 +1,157 @@
+{
+  "id" : "techno-animal-mn0000024102",
+  "name" : "Techno Animal",
+  "activeDates" : "1990s - 2000s",
+  "birthDate" : "1990",
+  "birthPlace" : "London, England",
+  "styles" : [ {
+    "name" : "Alternative/Indie Rock",
+    "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
+  }, {
+    "name" : "Electronica",
+    "url" : "https://www.allmusic.com/style/electronica-ma0000002574"
+  }, {
+    "name" : "Experimental Techno",
+    "url" : "https://www.allmusic.com/style/experimental-techno-ma0000012244"
+  }, {
+    "name" : "Illbient",
+    "url" : "https://www.allmusic.com/style/illbient-ma0000012348"
+  }, {
+    "name" : "Post-Rock",
+    "url" : "https://www.allmusic.com/style/post-rock-ma0000002790"
+  }, {
+    "name" : "Techno",
+    "url" : "https://www.allmusic.com/style/techno-ma0000002893"
+  }, {
+    "name" : "Dark Ambient",
+    "url" : "https://www.allmusic.com/style/dark-ambient-ma0000011972"
+  }, {
+    "name" : "Underground Rap",
+    "url" : "https://www.allmusic.com/style/underground-rap-ma0000002918"
+  } ],
+  "discography" : [ {
+    "albumYear" : "1992",
+    "albumTitle" : "Ghosts",
+    "musicRating" : "5",
+    "avgRating" : "7-4"
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "Re-Entry",
+    "musicRating" : "7",
+    "avgRating" : "9-27"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Radio Hades",
+    "musicRating" : "5",
+    "avgRating" : "7-4"
+  }, {
+    "albumYear" : "1999",
+    "albumTitle" : "Symbiotics",
+    "musicRating" : "8",
+    "avgRating" : "9-15"
+  }, {
+    "albumYear" : "2001",
+    "albumTitle" : "The Brotherhood of the Bomb",
+    "musicRating" : "7",
+    "avgRating" : "9-31"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Alec Empire",
+      "ArtistId" : "alec-empire-mn0000935389"
+    }, {
+      "artist" : "Bisk",
+      "ArtistId" : "bisk-mn0000087623"
+    }, {
+      "artist" : "DJ Spooky",
+      "ArtistId" : "dj-spooky-mn0000663934"
+    }, {
+      "artist" : "DJ Vadim",
+      "ArtistId" : "dj-vadim-mn0000952169"
+    }, {
+      "artist" : "Download",
+      "ArtistId" : "download-mn0000201857"
+    }, {
+      "artist" : "Ice",
+      "ArtistId" : "ice-mn0000064062"
+    }, {
+      "artist" : "K.K. Null",
+      "ArtistId" : "kk-null-mn0000296551"
+    }, {
+      "artist" : "Lull",
+      "ArtistId" : "lull-mn0000319487"
+    }, {
+      "artist" : "Mouse on Mars",
+      "ArtistId" : "mouse-on-mars-mn0000929800"
+    }, {
+      "artist" : "New Kingdom",
+      "ArtistId" : "new-kingdom-mn0000330308"
+    }, {
+      "artist" : "Panacea",
+      "ArtistId" : "panacea-mn0000002278"
+    }, {
+      "artist" : "Rx",
+      "ArtistId" : "rx-mn0000214319"
+    }, {
+      "artist" : "Scorn",
+      "ArtistId" : "scorn-mn0000299378"
+    }, {
+      "artist" : "Slotek",
+      "ArtistId" : "slotek-mn0000750756"
+    }, {
+      "artist" : "The Tear Garden",
+      "ArtistId" : "the-tear-garden-mn0000918867"
+    }, {
+      "artist" : "We",
+      "ArtistId" : "we-mn0000212616"
+    }, {
+      "artist" : "Porter Ricks",
+      "ArtistId" : "porter-ricks-mn0000853291"
+    }, {
+      "artist" : "Spectre",
+      "ArtistId" : "spectre-mn0000742389"
+    }, {
+      "artist" : "Stereolab",
+      "ArtistId" : "stereolab-mn0000026520"
+    }, {
+      "artist" : "Ui",
+      "ArtistId" : "ui-mn0000184266"
+    }, {
+      "artist" : "The Third Eye Foundation",
+      "ArtistId" : "the-third-eye-foundation-mn0000592026"
+    }, {
+      "artist" : "4E",
+      "ArtistId" : "4e-mn0000478507"
+    }, {
+      "artist" : "Mark Stewart",
+      "ArtistId" : "mark-stewart-mn0000276849"
+    }, {
+      "artist" : "Meat Beat Manifesto",
+      "ArtistId" : "meat-beat-manifesto-mn0000402976"
+    }, {
+      "artist" : "Ming + FS",
+      "ArtistId" : "ming-fs-mn0000496926"
+    } ],
+    "influencers" : [ ],
+    "followers" : [ {
+      "artist" : "Old Apparatus",
+      "ArtistId" : "old-apparatus-mn0002644522"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Final",
+      "ArtistId" : "final-mn0001040799"
+    }, {
+      "artist" : "Godflesh",
+      "ArtistId" : "godflesh-mn0000561715"
+    }, {
+      "artist" : "Zonal",
+      "ArtistId" : "zonal-mn0003871614"
+    }, {
+      "artist" : "JK Flesh",
+      "ArtistId" : "jk-flesh-mn0000118520"
+    }, {
+      "artist" : "The Bug",
+      "ArtistId" : "the-bug-mn0000629224"
+    } ]
+  }
+}
