@@ -106,7 +106,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_5">
-        <entry key="column_name" type="xstring" value="artistJson"/>
+        <entry key="column_name" type="xstring" value="artistFoundJSON"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>

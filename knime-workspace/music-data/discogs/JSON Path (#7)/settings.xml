@@ -10,7 +10,7 @@
         <entry key="remove.input.column" type="xboolean" value="false"/>
         <config key="newColumnName">
             <entry key="array-size" type="xint" value="1"/>
-            <entry key="0" type="xstring" value="artistJson"/>
+            <entry key="0" type="xstring" value="artistFoundJSON"/>
         </config>
         <config key="jsonpath">
             <entry key="array-size" type="xint" value="1"/>
@@ -56,6 +56,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="7bda3d16-b7c1-4b70-ac07-699dcc99f343"/>
+        <entry key="file_store_id" type="xstring" value="776553c1-6f51-4f69-92ca-97ebd23fdd11"/>
     </config>
 </config>

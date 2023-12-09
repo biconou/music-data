@@ -6,9 +6,9 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="Use constant URI" type="xboolean" value="true"/>
+        <entry key="Use constant URI" type="xboolean" value="false"/>
         <entry key="Constant URI" type="xstring" value="https://api.discogs.com/database/search?q=Nirvana&amp;key=BIqHCSNxDnaIPhqCiZoc&amp;secret=xYpdaTwFFISNXwMOlvuGVossTaRtnkHs"/>
-        <entry key="URI column" type="xstring" isnull="true" value=""/>
+        <entry key="URI column" type="xstring" value="resource_url"/>
         <entry key="delay_enabled" type="xboolean" value="false"/>
         <entry key="delay" type="xlong" value="0"/>
         <entry key="concurrency" type="xint" value="1"/>
@@ -46,7 +46,7 @@
                 <entry key="is_null" type="xboolean" value="false"/>
             </config>
         </config>
-        <entry key="Body column name" type="xstring" value="body"/>
+        <entry key="Body column name" type="xstring" value="bodyArtistRessource"/>
         <config key="None"/>
         <entry key="None_enabled" type="xboolean" value="true"/>
         <config key="Basic">
@@ -127,12 +127,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 5"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 18"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="c6dd81e1-468f-440a-815b-4ddde8c12a51"/>
+        <entry key="file_store_id" type="xstring" value="bc1bd091-79ec-4d06-b55f-d837c55e723f"/>
     </config>
 </config>

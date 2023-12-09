@@ -6,10 +6,10 @@
     },
     "knime.var.discogs.key": {
         "type": "string",
-        "default": "BIqHCSNxDnaIPhqCiZoc"
+        "default": "TBD"
     },
     "knime.var.discogs.secret": {
         "type": "string",
-        "default": "xYpdaTwFFISNXwMOlvuGVossTaRtnkHs"
+        "default": "TBD"
     }
 }
