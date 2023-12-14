@@ -1,0 +1,153 @@
+{
+  "id" : "efdemin-mn0000729957",
+  "name" : "Efdemin",
+  "activeDates" : "1990s - 2010s",
+  "birthDate" : "1974",
+  "birthPlace" : "Kassel, Germany",
+  "styles" : [ {
+    "name" : "Club/Dance",
+    "url" : "https://www.allmusic.com/style/club-dance-ma0000002544"
+  }, {
+    "name" : "Techno",
+    "url" : "https://www.allmusic.com/style/techno-ma0000002893"
+  }, {
+    "name" : "Experimental Techno",
+    "url" : "https://www.allmusic.com/style/experimental-techno-ma0000012244"
+  }, {
+    "name" : "House",
+    "url" : "https://www.allmusic.com/style/house-ma0000002651"
+  }, {
+    "name" : "Minimal Techno",
+    "url" : "https://www.allmusic.com/style/minimal-techno-ma0000004478"
+  } ],
+  "discography" : [ {
+    "albumYear" : "2007",
+    "albumTitle" : "Efdemin",
+    "musicRating" : "7",
+    "avgRating" : "10-8"
+  }, {
+    "albumYear" : "2008",
+    "albumTitle" : "Carry On: Pretend We Are Not in the Room",
+    "musicRating" : "6",
+    "avgRating" : "7-16"
+  }, {
+    "albumYear" : "2010",
+    "albumTitle" : "Chicago",
+    "musicRating" : "",
+    "avgRating" : "9-5"
+  }, {
+    "albumYear" : "2018",
+    "albumTitle" : "Naïf",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "2019",
+    "albumTitle" : "New Atlantis",
+    "musicRating" : "",
+    "avgRating" : "9-8"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Decay",
+    "musicRating" : "",
+    "avgRating" : "9-4"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Carsten Jost",
+      "ArtistId" : "carsten-jost-mn0000180342"
+    }, {
+      "artist" : "John Roberts",
+      "ArtistId" : "john-roberts-mn0002107397"
+    }, {
+      "artist" : "Map.ache",
+      "ArtistId" : "mapache-mn0003436725"
+    }, {
+      "artist" : "Max Cooper",
+      "ArtistId" : "max-cooper-mn0002002647"
+    }, {
+      "artist" : "Minilogue",
+      "ArtistId" : "minilogue-mn0000896832"
+    }, {
+      "artist" : "Pantha du Prince",
+      "ArtistId" : "pantha-du-prince-mn0000542080"
+    }, {
+      "artist" : "Roman Flügel",
+      "ArtistId" : "roman-fl%C3%BCgel-mn0000285072"
+    }, {
+      "artist" : "Sebastian Mullaert",
+      "ArtistId" : "sebastian-mullaert-mn0000736808"
+    }, {
+      "artist" : "Substance",
+      "ArtistId" : "substance-mn0000582492"
+    }, {
+      "artist" : "Anders Ilar",
+      "ArtistId" : "anders-ilar-mn0000785777"
+    }, {
+      "artist" : "Audision",
+      "ArtistId" : "audision-mn0000142612"
+    }, {
+      "artist" : "Barker & Baumecker",
+      "ArtistId" : "barker-baumecker-mn0002554643"
+    }, {
+      "artist" : "Barnt",
+      "ArtistId" : "barnt-mn0002517445"
+    }, {
+      "artist" : "Ben Klock",
+      "ArtistId" : "ben-klock-mn0000279288"
+    }, {
+      "artist" : "John Tejada",
+      "ArtistId" : "john-tejada-mn0000229686"
+    }, {
+      "artist" : "Lawrence",
+      "ArtistId" : "lawrence-mn0000868625"
+    }, {
+      "artist" : "Michael Mayer",
+      "ArtistId" : "michael-mayer-mn0000886392"
+    }, {
+      "artist" : "Nick Höppner",
+      "ArtistId" : "nick-h%C3%B6ppner-mn0001026725"
+    }, {
+      "artist" : "Nina Kraviz",
+      "ArtistId" : "nina-kraviz-mn0002135861"
+    }, {
+      "artist" : "Recondite",
+      "ArtistId" : "recondite-mn0002787139"
+    }, {
+      "artist" : "Sami Koivikko",
+      "ArtistId" : "sami-koivikko-mn0000143661"
+    }, {
+      "artist" : "Shed",
+      "ArtistId" : "shed-mn0000996899"
+    }, {
+      "artist" : "Steffi",
+      "ArtistId" : "steffi-mn0001095908"
+    }, {
+      "artist" : "Swayzak",
+      "ArtistId" : "swayzak-mn0000042085"
+    }, {
+      "artist" : "Traumprinz",
+      "ArtistId" : "traumprinz-mn0003132328"
+    }, {
+      "artist" : "Trentemøller",
+      "ArtistId" : "trentem%C3%B8ller-mn0000017060"
+    }, {
+      "artist" : "Alex Smoke",
+      "ArtistId" : "alex-smoke-mn0000948425"
+    }, {
+      "artist" : "Leif",
+      "ArtistId" : "leif-mn0003132333"
+    }, {
+      "artist" : "Pom Pom",
+      "ArtistId" : "pom-pom-mn0001298047"
+    }, {
+      "artist" : "Ricardo Villalobos",
+      "ArtistId" : "ricardo-villalobos-mn0000472894"
+    }, {
+      "artist" : "Tobias.",
+      "ArtistId" : "tobias-mn0000996900"
+    } ],
+    "influencers" : [ ],
+    "followers" : [ ],
+    "associatedwith" : [ ]
+  }
+}
