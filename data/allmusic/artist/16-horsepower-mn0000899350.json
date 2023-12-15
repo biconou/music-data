@@ -1,0 +1,108 @@
+{
+  "id" : "16-horsepower-mn0000899350",
+  "name" : "16 Horsepower",
+  "activeDates" : "1990s - 2010s",
+  "birthDate" : "1992",
+  "birthPlace" : "Denver, CO",
+  "styles" : [ {
+    "name" : "Alternative Country-Rock",
+    "url" : "https://www.allmusic.com/style/alternative-country-rock-ma0000012294"
+  }, {
+    "name" : "Alternative Pop/Rock",
+    "url" : "https://www.allmusic.com/style/alternative-pop-rock-ma0000002422"
+  }, {
+    "name" : "Alternative/Indie Rock",
+    "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
+  }, {
+    "name" : "Post-Grunge",
+    "url" : "https://www.allmusic.com/style/post-grunge-ma0000005020"
+  }, {
+    "name" : "Alternative Folk",
+    "url" : "https://www.allmusic.com/style/alternative-folk-ma0000012099"
+  } ],
+  "discography" : [ {
+    "albumYear" : "1996",
+    "albumTitle" : "Sackcloth 'N' Ashes",
+    "musicRating" : "7",
+    "avgRating" : "9-227"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Low Estate",
+    "musicRating" : "7",
+    "avgRating" : "9-213"
+  }, {
+    "albumYear" : "2000",
+    "albumTitle" : "Secret South",
+    "musicRating" : "7",
+    "avgRating" : "9-258"
+  }, {
+    "albumYear" : "2001",
+    "albumTitle" : "Hoarse",
+    "musicRating" : "7",
+    "avgRating" : "9-125"
+  }, {
+    "albumYear" : "2002",
+    "albumTitle" : "Folklore",
+    "musicRating" : "8",
+    "avgRating" : "9-189"
+  }, {
+    "albumYear" : "2008",
+    "albumTitle" : "Live: March 2001",
+    "musicRating" : "",
+    "avgRating" : "9-51"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Briertone",
+      "ArtistId" : "briertone-mn0001513664"
+    }, {
+      "artist" : "Fields of the Nephilim",
+      "ArtistId" : "fields-of-the-nephilim-mn0000175530"
+    }, {
+      "artist" : "Grant Lee Buffalo",
+      "ArtistId" : "grant-lee-buffalo-mn0000740833"
+    }, {
+      "artist" : "Lift to Experience",
+      "ArtistId" : "lift-to-experience-mn0000265732"
+    }, {
+      "artist" : "Nick Cave & the Bad Seeds",
+      "ArtistId" : "nick-cave-the-bad-seeds-mn0000866271"
+    }, {
+      "artist" : "Reverend Glasseye and His Wooden Legs",
+      "ArtistId" : "reverend-glasseye-and-his-wooden-legs-mn0000188114"
+    }, {
+      "artist" : "Richmond Fontaine",
+      "ArtistId" : "richmond-fontaine-mn0000297848"
+    }, {
+      "artist" : "7horse",
+      "ArtistId" : "7horse-mn0003205947"
+    }, {
+      "artist" : "County Liners",
+      "ArtistId" : "county-liners-mn0003671390"
+    }, {
+      "artist" : "Deathrope",
+      "ArtistId" : "deathrope-mn0003696524"
+    }, {
+      "artist" : "Mark Lanegan",
+      "ArtistId" : "mark-lanegan-mn0000287350"
+    }, {
+      "artist" : "Michael Gira",
+      "ArtistId" : "michael-gira-mn0000465387"
+    }, {
+      "artist" : "The Bones of J.R. Jones",
+      "ArtistId" : "the-bones-of-jr-jones-mn0003492950"
+    }, {
+      "artist" : "The Handsome Family",
+      "ArtistId" : "the-handsome-family-mn0000072998"
+    } ],
+    "influencers" : [ ],
+    "followers" : [ ],
+    "associatedwith" : [ {
+      "artist" : "The Denver Gentlemen",
+      "ArtistId" : "the-denver-gentlemen-mn0000610359"
+    }, {
+      "artist" : "Wovenhand",
+      "ArtistId" : "wovenhand-mn0000581700"
+    } ]
+  }
+}

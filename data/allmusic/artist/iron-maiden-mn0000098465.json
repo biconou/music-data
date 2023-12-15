@@ -18,22 +18,22 @@
     "albumYear" : "1980",
     "albumTitle" : "Iron Maiden",
     "musicRating" : "8",
-    "avgRating" : "9-2302"
+    "avgRating" : "9-2305"
   }, {
     "albumYear" : "1981",
     "albumTitle" : "Killers",
     "musicRating" : "7",
-    "avgRating" : "9-1913"
+    "avgRating" : "9-1915"
   }, {
     "albumYear" : "1982",
     "albumTitle" : "The Number of the Beast",
-    "musicRating" : "8",
-    "avgRating" : "10-3082"
+    "musicRating" : "9",
+    "avgRating" : "10-3084"
   }, {
     "albumYear" : "1983",
     "albumTitle" : "Piece of Mind",
     "musicRating" : "8",
-    "avgRating" : "9-2250"
+    "avgRating" : "9-2254"
   }, {
     "albumYear" : "1983",
     "albumTitle" : "Brain Damage Tour of Europe",
@@ -43,62 +43,62 @@
     "albumYear" : "1984",
     "albumTitle" : "Powerslave",
     "musicRating" : "8",
-    "avgRating" : "10-2542"
+    "avgRating" : "10-2546"
   }, {
     "albumYear" : "1985",
     "albumTitle" : "Live After Death",
     "musicRating" : "8",
-    "avgRating" : "10-1128"
+    "avgRating" : "10-1129"
   }, {
     "albumYear" : "1986",
     "albumTitle" : "Somewhere in Time",
     "musicRating" : "6",
-    "avgRating" : "9-2096"
+    "avgRating" : "9-2099"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Seventh Son of a Seventh Son",
     "musicRating" : "8",
-    "avgRating" : "9-2248"
+    "avgRating" : "9-2252"
   }, {
     "albumYear" : "1990",
     "albumTitle" : "No Prayer for the Dying",
     "musicRating" : "3",
-    "avgRating" : "6-1208"
+    "avgRating" : "6-1211"
   }, {
     "albumYear" : "1992",
     "albumTitle" : "Fear of the Dark",
     "musicRating" : "3",
-    "avgRating" : "7-1489"
+    "avgRating" : "7-1491"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "A Real Live One",
     "musicRating" : "7",
-    "avgRating" : "8-310"
+    "avgRating" : "8-311"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "A Real Dead One",
     "musicRating" : "3",
-    "avgRating" : "7-248"
+    "avgRating" : "7-249"
   }, {
     "albumYear" : "1994",
     "albumTitle" : "Live at Donington 1992",
     "musicRating" : "5",
-    "avgRating" : "8-238"
+    "avgRating" : "8-239"
   }, {
     "albumYear" : "1995",
     "albumTitle" : "The X Factor",
     "musicRating" : "3",
-    "avgRating" : "6-932"
+    "avgRating" : "6-935"
   }, {
     "albumYear" : "1998",
     "albumTitle" : "Virtual XI",
     "musicRating" : "3",
-    "avgRating" : "5-876"
+    "avgRating" : "5-880"
   }, {
     "albumYear" : "2000",
     "albumTitle" : "Brave New World",
     "musicRating" : "6",
-    "avgRating" : "9-1555"
+    "avgRating" : "9-1557"
   }, {
     "albumYear" : "2002",
     "albumTitle" : "Rock in Rio",
@@ -108,47 +108,47 @@
     "albumYear" : "2003",
     "albumTitle" : "Dance of Death",
     "musicRating" : "7",
-    "avgRating" : "8-1298"
+    "avgRating" : "8-1300"
   }, {
     "albumYear" : "2005",
     "albumTitle" : "Death on the Road",
     "musicRating" : "5",
-    "avgRating" : "8-315"
+    "avgRating" : "8-316"
   }, {
     "albumYear" : "2006",
     "albumTitle" : "A Matter of Life and Death",
     "musicRating" : "6",
-    "avgRating" : "8-1175"
+    "avgRating" : "8-1179"
   }, {
     "albumYear" : "2009",
     "albumTitle" : "Flight 666 [Original Soundtrack]",
     "musicRating" : "6",
-    "avgRating" : "9-470"
+    "avgRating" : "9-471"
   }, {
     "albumYear" : "2010",
     "albumTitle" : "The Final Frontier",
     "musicRating" : "6",
-    "avgRating" : "8-1276"
+    "avgRating" : "8-1281"
   }, {
     "albumYear" : "2015",
     "albumTitle" : "The Book of Souls",
     "musicRating" : "7",
-    "avgRating" : "9-1470"
+    "avgRating" : "9-1473"
   }, {
     "albumYear" : "2017",
     "albumTitle" : "The Book of Souls: Live Chapter",
     "musicRating" : "6",
-    "avgRating" : "8-153"
+    "avgRating" : "8-154"
   }, {
     "albumYear" : "2020",
     "albumTitle" : "Nights of the Dead, Legacy of the Beast: Live in Mexico City",
     "musicRating" : "",
-    "avgRating" : "8-58"
+    "avgRating" : "8-59"
   }, {
     "albumYear" : "2021",
     "albumTitle" : "Senjutsu",
     "musicRating" : "7",
-    "avgRating" : "7-542"
+    "avgRating" : "7-546"
   } ],
   "related" : {
     "similars" : [ {

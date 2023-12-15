@@ -14,7 +14,7 @@
         <entry key="concurrency" type="xint" value="1"/>
         <entry key="SSL ignore hostname errors" type="xboolean" value="false"/>
         <entry key="SSL trust all" type="xboolean" value="false"/>
-        <entry key="Fail on connection problems" type="xboolean" value="true"/>
+        <entry key="Fail on connection problems" type="xboolean" value="false"/>
         <config key="Request header keys">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -100,8 +100,8 @@
             <entry key="delayRetriesEnabled" type="xboolean" value="false"/>
             <entry key="delayCooldownEnabled" type="xboolean" value="false"/>
         </config>
-        <entry key="failOnServerError" type="xboolean" value="true"/>
-        <entry key="failOnClientError" type="xboolean" value="true"/>
+        <entry key="failOnServerError" type="xboolean" value="false"/>
+        <entry key="failOnClientError" type="xboolean" value="false"/>
         <entry key="outputErrorCause" type="xboolean" value="false"/>
         <entry key="allowChunking" type="xboolean" value="true"/>
         <entry key="failOnMissingHeaders" type="xboolean" value="false"/>
@@ -121,7 +121,7 @@
         <entry key="Request body column" type="xstring" value="artist"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.rest.nodes.put.RestPutNodeFactory"/>
     <entry key="node-name" type="xstring" value="PUT Request"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME REST Client Nodes"/>
@@ -139,16 +139,19 @@
         <config key="GET results"/>
     </config>
     <entry key="name" type="xstring" value="PUT Request"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 40, Cols: 34"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="aec6a91f-0c5f-459f-bdd0-5bdad59a7895"/>
     </config>
 </config>

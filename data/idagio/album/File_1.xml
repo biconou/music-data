@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+
+<html class="" lang="en-us" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <head>
+        <meta charset="utf-8">
+        </meta>
+        <script nonce="0bf04d33a718dd5b8b54aed7f963a8fd" type="text/javascript">/**/
+			if ('serviceWorker' in navigator &amp;&amp; true) {
+			navigator.serviceWorker.register('/sw.js')
+			.then(function(reg) {
+			console.log('SW Registration succeeded. Scope is ' + reg.scope);
+			})
+			.catch(function(error) {
+			console.log('SW Registration failed with ' + error);
+			});
+			}
+		
+/**/</script>
+        <title content="Händel 886446247014 | Écoutez en streaming sur IDAGIO" data-react-helmet="true" property="title">Händel 886446247014 | Écoutez en streaming sur IDAGIO</title>
+        <meta content="summary" data-react-helmet="true" name="twitter:card">
+        </meta>
+        <meta content="La meilleure collection de musique classique dans une application. Découvrez, explorez et écoutez en streaming dès maintenant sur IDAGIO." data-react-helmet="true" name="description">
+        </meta>
+        <meta content="app.idagio.com/fr/albums/handel-C138E5DC-65E0-4636-8232-F54AB48B2E73" data-react-helmet="true" property="og:url">
+        </meta>
+        <meta content="all" data-react-helmet="true" name="robots">
+        </meta>
+        <meta content="Écoutez Händel par Dorothee Mields, Hille Perl, Robin Müller, Lee Santana, Philipp Comploi, Andreas Küppers, La Folia Barockorchester, George Frideric Handel. Dès maintenant sur IDAGIO" data-react-helmet="true" property="description">
+        </meta>
+        <meta content="Händel, Dorothee Mields, Hille Perl, Robin Müller, Lee Santana, Philipp Comploi, Andreas Küppers, La Folia Barockorchester, George Frideric Handel" data-react-helmet="true" property="keywords">
+        </meta>
+        <meta content="https://idagio-images.global.ssl.fastly.net/albums/886446247014/main.jpg?auto=format&amp;dpr=1&amp;fit=fill&amp;fill=blur&amp;w=1200&amp;h=630" data-react-helmet="true" property="og:image">
+        </meta>
+        <meta content="1200" data-react-helmet="true" property="og:image:width">
+        </meta>
+        <meta content="630" data-react-helmet="true" property="og:image:height">
+        </meta>
+        <meta content="https://idagio-images.global.ssl.fastly.net/albums/886446247014/main.jpg?auto=format&amp;dpr=1&amp;fit=fill&amp;fill=blur&amp;w=1200&amp;h=630" data-react-helmet="true" name="twitter:image">
+        </meta>
+        <meta content="Händel | Écoutez en streaming sur IDAGIO" data-react-helmet="true" property="og:title">
+        </meta>
+        <meta content="Händel | Écoutez en streaming sur IDAGIO" data-react-helmet="true" name="twitter:title">
+        </meta>
+        <meta content="Écoutez Händel par Dorothee Mields, Hille Perl, Robin Müller, Lee Santana, Philipp Comploi, Andreas Küppers, La Folia Barockorchester, George Frideric Handel. Dès maintenant sur IDAGIO" data-react-helmet="true" property="og:description">
+        </meta>
+        <meta content="Écoutez Händel par Dorothee Mields, Hille Perl, Robin Müller, Lee Santana, Philipp Comploi, Andreas Küppers, La Folia Barockorchester, George Frideric Handel. Dès maintenant sur IDAGIO" data-react-helmet="true" name="twitter:description">
+        </meta>
+        <link data-react-helmet="true" href="https://app.idagio.com/albums/handel-C138E5DC-65E0-4636-8232-F54AB48B2E73" hreflang="en" rel="alternate">
+        </link>
+        <link data-react-helmet="true" href="https://app.idagio.com/de/albums/handel-C138E5DC-65E0-4636-8232-F54AB48B2E73" hreflang="de" rel="alternate">
+        </link>
+        <link data-react-helmet="true" href="https://app.idagio.com/es/albums/handel-C138E5DC-65E0-4636-8232-F54AB48B2E73" hreflang="es" rel="alternate">
+        </link>
+        <link data-react-helmet="true" href="https://app.idagio.com/ko/albums/handel-C138E5DC-65E0-4636-8232-F54AB48B2E73" hreflang="ko" rel="alternate">
+        </link>
+        <meta content="notranslate" name="google">
+        </meta>
+        <meta content="width=device-width, viewport-fit=cover, initial-scale=1.0" name="viewport">
+        </meta>
+        <meta content="app-id=1014917700" name="apple-itunes-app">
+        </meta>
+        <meta content="1078217458889545" property="fb:app_id">
+        </meta>
+        <meta content="IDAGIO" property="og:site_name">
+        </meta>
+        <meta content="#FFFFFF" name="msapplication-TileColor">
+        </meta>
+        <meta content="com.idagio.web" name="appleid-signin-client-id">
+        </meta>
+        <meta content="name email" name="appleid-signin-scope">
+        </meta>
+        <meta content="https://app.idagio.com/apple-redirect" name="appleid-signin-redirect-uri">
+        </meta>
+        <link href="https://d4nzi95f4llxl.cloudfront.net/named-71d9483bd4e768909d0af177745c2f5d-favicon.svg" rel="shortcut icon">
+        </link>
+        <link href="https://d4nzi95f4llxl.cloudfront.net/named-2c7d581f3ce6842f807f30b0e043dbf6-apple-touch-icon-152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152">
+        </link>
+        <link href="https://d4nzi95f4llxl.cloudfront.net/named-1bdc66008e874ce27ab728e556465ec2-apple-touch-icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+        </link>
+        <link href="https://d4nzi95f4llxl.cloudfront.net/named-36e311f0689e20a77e6dfdae3eb4b485-apple-touch-icon-120x120.png" rel="apple-touch-icon-precomposed" sizes="120x120">
+        </link>
+        <link href="https://d4nzi95f4llxl.cloudfront.net/named-aff338c9b58154469eadeae3ca0ea5a4-apple-touch-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+        </link>
+        <link href="https://d4nzi95f4llxl.cloudfront.net/named-7f9a0980bc188f95c17b9bee87a6d6d9-apple-touch-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+        </link>
+        <link href="https://d4nzi95f4llxl.cloudfront.net/named-729ba7ae06db85896b0021492e970d02-apple-touch-icon-57x57.png" rel="apple-touch-icon-precomposed" sizes="57x57">
+        </link>
+        <meta content="https://d4nzi95f4llxl.cloudfront.net/named-1bdc66008e874ce27ab728e556465ec2-mstile-144x144.png" name="msapplication-TileImage">
+        </meta>
+        <link href="https://d4nzi95f4llxl.cloudfront.net/0-a4780a223fc51d086e37.css" media="screen, projection" rel="stylesheet" type="text/css">
+        </link>
+        <link href="https://d4nzi95f4llxl.cloudfront.net/web-a4780a223fc51d086e37.css" media="screen, projection" rel="stylesheet" type="text/css">
+        </link>
+        <script src="https://js.stripe.com/v3/" type="text/javascript">/**//**/</script>
+        <script nonce="d411b865c0f59a797ce896b4c91f83cb" type="text/javascript">/**/
+			!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&amp;&amp;console.error&amp;&amp;console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on","addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);;return analytics}};for(var t=0;t
+			&lt;analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://app.idagio.com/sp.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
+			}}();
+		
+/**/</script>
+        <style type="text/css">/**/
+			@font-face {
+			font-display: swap;
+			font-family: 'Eesti Display';
+			font-style: normal;
+			font-weight: 400;
+			src: url('https://d4nzi95f4llxl.cloudfront.net/fonts-3ec3e0c9f095e33ff20b243d9b4e5529-GT-Eesti-Pro-Display-Regular-subset.woff2') format('woff2'),
+			url('https://d4nzi95f4llxl.cloudfront.net/fonts-3ec3e0c9f095e33ff20b243d9b4e5529-GT-Eesti-Pro-Display-Regular-subset.woff2') format('woff');
+			}
+			@font-face {
+			font-display: swap;
+			font-family: 'Eesti Display';
+			font-style: italic;
+			font-weight: 400;
+			src: url('https://d4nzi95f4llxl.cloudfront.net/fonts-e0dca69c686a9f904fa5a8e467d244c4-GT-Eesti-Pro-Display-Regular-Italic-subset.woff2') format('woff2'),
+			url('https://d4nzi95f4llxl.cloudfront.net/fonts-e0dca69c686a9f904fa5a8e467d244c4-GT-Eesti-Pro-Display-Regular-Italic-subset.woff2') format('woff');
+			}
+			@font-face {
+			font-display: swap;
+			font-family: 'Eesti Display';
+			font-style: normal;
+			font-weight: 500;
+			src: url('https://d4nzi95f4llxl.cloudfront.net/fonts-29d971b67627ca6aa755d4c35135f463-GT-Eesti-Pro-Display-Medium-subset.woff2') format('woff2'),
+			url('https://d4nzi95f4llxl.cloudfront.net/fonts-3ea65b589caae182e5869e24f673d418-GT-Eesti-Pro-Display-Medium-subset.zopfli.woff') format('woff');
+			}
+			root {
+			--ff-display: 'Eesti Display', sans-serif;
+			--fr: 1rem;
+			}
+			body { font-family: 'Eesti Display', sans-serif; }
+		
+/**/</style>
+    </head>
+    <body class="">
+        <svg style="position: absolute; width: 0; height: 0;">
+            <defs>
+                <symbol id="icon-play" viewbox="0 0 24 24">
+                    <title>play</title>
+                    <path d="M6 2l13 10-13 10z">
+                    </path>
+                </symbol>
+                <symbol id="icon-pause" viewbox="0 0 24 24">
+                    <title>pause</title>
+                    <path d="M6 3h4v18h-4v-18z">
+                    </path>
+                    <path d="M14 3h4v18h-4v-18z">
+                    </path>
+                </symbol>
+                <symbol id="icon-radio-play" viewbox="0 0 24 24">
+                    <title>radio-play</title>
+                    <path d="M18.929 5.07L17.798 6.202C19.347 7.751 20.2 9.81 20.2 12C20.2 14.189 19.346 16.248 17.798 17.798L18.929 18.929C20.78 17.077 21.8 14.617 21.8 12C21.8 9.383 20.78 6.922 18.929 5.07Z">
+                    </path>
+                    <path d="M6.202 6.201L5.07 5.07C3.219 6.922 2.2 9.383 2.2 12C2.2 14.618 3.22 17.079 5.071 18.929L6.202 17.798C4.653 16.25 3.8 14.19 3.8 12C3.8 9.81 4.653 7.751 6.202 6.201Z">
+                    </path>
+                    <path d="M16.454 7.545L15.323 8.677C16.211 9.565 16.7 10.745 16.7 12C16.7 13.254 16.211 14.435 15.322 15.323L16.455 16.454C17.645 15.263 18.3 13.681 18.3 12C18.3 10.318 17.645 8.736 16.454 7.545Z">
+                    </path>
+                    <path d="M7.545 7.545C6.355 8.735 5.7 10.317 5.7 12C5.7 13.683 6.355 15.265 7.546 16.454L8.677 15.323C7.789 14.436 7.3 13.255 7.3 12C7.3 10.745 7.789 9.564 8.677 8.677L7.545 7.545Z">
+                    </path>
+                    <path d="M12 14C13.1046 14 14 13.1046 14 12C14 10.8954 13.1046 10 12 10C10.8954 10 10 10.8954 10 12C10 13.1046 10.8954 14 12 14Z">
+                    </path>
+                </symbol>
+                <symbol id="icon-radio-pause-1" viewbox="0 0 24 24">
+                    <path d="M18.929 5.07L17.798 6.202C19.347 7.751 20.2 9.81 20.2 12C20.2 14.189 19.346 16.248 17.798 17.798L18.929 18.929C20.78 17.077 21.8 14.617 21.8 12C21.8 9.383 20.78 6.922 18.929 5.07Z">
+                    </path>
+                    <path d="M6.202 6.201L5.07 5.07C3.219 6.922 2.2 9.383 2.2 12C2.2 14.618 3.22 17.079 5.071 18.929L6.202 17.798C4.653 16.25 3.8 14.19 3.8 12C3.8 9.81 4.653 7.751 6.202 6.201Z">
+                    </path>
+                    <path d="M16.454 7.545L15.323 8.677C16.211 9.565 16.7 10.745 16.7 12C16.7 13.254 16.211 14.435 15.322 15.323L16.455 16.454C17.645 15.263 18.3 13.681 18.3 12C18.3 10.318 17.645 8.736 16.454 7.545Z">
+                    </path>
+                    <path d="M7.545 7.545C6.355 8.735 5.7 10.317 5.7 12C5.7 13.683 6.355 15.265 7.546 16.454L8.677 15.323C7.789 14.436 7.3 13.255 7.3 12C7.3 10.745 7.789 9.564 8.677 8.677L7.545 7.545Z">
+                    </path>
+                    <path d="M12 14C13.1046 14 14 13.1046 14 12C14 10.8954 13.1046 10 12 10C10.8954 10 10 10.8954 10 12C10 13.1046 10.8954 14 12 14Z">
+                    </path>
+                </symbol>
+                <symbol id="icon-radio-pause-2" viewbox="0 0 24 24">
+                    <path d="M18.929 5.07001L17.798 6.20201C19.347 7.75101 20.2 9.81001 20.2 12C20.2 14.189 19.346 16.248 17.798 17.798L18.929 18.929C20.78 17.077 21.8 14.617 21.8 12C21.8 9.38301 20.78 6.92201 18.929 5.07001Z">
+                    </path>
+                    <path d="M6.202 6.20101L5.07 5.07001C3.219 6.92201 2.2 9.38301 2.2 12C2.2 14.618 3.22 17.079 5.071 18.929L6.202 17.798C4.653 16.25 3.8 14.19 3.8 12C3.8 9.81001 4.653 7.75101 6.202 6.20101Z">
+                    </path>
+                    <path d="M12 14C13.1046 14 14 13.1046 14 12C14 10.8954 13.1046 10 12 10C10.8954 10 10 10.8954 10 12C10 13.1046 10.8954 14 12 14Z">
+                    </path>
+                </symbol>
+                <symbol id="icon-radio-pause-3" viewbox="0 0 24 24">
+                    <path d="M16.454 7.545L15.323 8.677C16.211 9.565 16.7 10.745 16.7 12C16.7 13.254 16.211 14.435 15.322 15.323L16.455 16.454C17.645 15.263 18.3 13.681 18.3 12C18.3 10.318 17.645 8.736 16.454 7.545Z">
+                    </path>
+                    <path d="M7.545 7.545C6.355 8.735 5.7 10.317 5.7 12C5.7 13.683 6.355 15.265 7.546 16.454L8.677 15.323C7.789 14.436 7.3 13.255 7.3 12C7.3 10.745 7.789 9.564 8.677 8.677L7.545 7.545Z">
+                    </path>
+                    <path d="M12 14C13.1046 14 14 13.1046 14 12C14 10.8954 13.1046 10 12 10C10.8954 10 10 10.8954 10 12C10 13.1046 10.8954 14 12 14Z">
+                    </path>
+                </symbol>
+                <symbol id="icon-skip-back" viewbox="0 0 24 24">
+                    <title>skip-back</title>
+                    <path d="M21 3l-11 9 11 9z">
+                    </path>
+                    <path d="M3 3h4v18h-4v-18z">
+                    </path>
+                </symbol>
+                <symbol id="icon-skip-forward" viewbox="0 0 24 24">
+                    <title>skip-forward</title>
+                    <path d="M3 3l11 9-11 9z">
+                    </path>
+                    <path d="M17 3h4v18h-4v-18z">
+                    </path>
+                </symbol>
+                <symbol id="icon-playing" viewbox="0 0 24 24">
+                    <title>playing</title>
+                    <path d="M11.2 3h1.6v18h-1.6v-18z">
+                    </path>
+                    <path d="M7.2 7h1.6v10h-1.6v-10z">
+                    </path>
+                    <path d="M3.2 10h1.6v4h-1.6v-4z">
+                    </path>
+                    <path d="M19.2 8h1.6v8h-1.6v-8z">
+                    </path>
+                    <path d="M15.2 10h1.6v4h-1.6v-4z">
+                    </path>
+                </symbol>
+                <symbol id="icon-search" viewbox="0 0 24 24">
+                    <title>search</title>
+                    <path d="M20.565 19.435l-4.229-4.229c1.039-1.288 1.664-2.923 1.664-4.706 0-4.143-3.357-7.5-7.5-7.5s-7.5 3.357-7.5 7.5 3.357 7.5 7.5 7.5c1.783 0 3.418-0.625 4.705-1.664l4.229 4.229 1.131-1.13zM10.5 16.4c-3.253 0-5.9-2.647-5.9-5.9s2.646-5.9 5.9-5.9c3.253 0 5.9 2.646 5.9 5.9s-2.647 5.9-5.9 5.9z">
+                    </path>
+                </symbol>
+                <symbol id="icon-check" viewbox="0 0 24 24">
+                    <title>check</title>
+                    <path d="M9 18.632l-5.566-5.567 1.132-1.131 4.434 4.434 10.435-10.434 1.13 1.132z">
+                    </path>
+                </symbol>
+                <symbol id="icon-close" viewbox="0 0 24 24">
+                    <title>close</title>
+                    <path d="M19.565 5.566l-1.13-1.132-6.435 6.435-6.434-6.435-1.132 1.132 6.435 6.434-6.435 6.435 1.132 1.13 6.434-6.434 6.435 6.434 1.13-1.13-6.434-6.435z">
+                    </path>
+                </symbol>
+                <symbol id="icon-plus" viewbox="0 0 24 24">
+                    <title>plus</title>
+                    <path d="M21 11.2h-8.2v-8.2h-1.6v8.2h-8.2v1.6h8.2v8.2h1.6v-8.2h8.2z">
+                    </path>
+                </symbol>
+                <symbol id="icon-caret-down" viewbox="0 0 24 24">
+                    <title>caret-down</title>
+                    <path d="M11.999 16.131l-5.566-5.565 1.131-1.132 4.435 4.435 4.435-4.435 1.13 1.132z">
+                    </path>
+                </symbol>
+                <symbol id="icon-caret-left" viewbox="0 0 24 24">
+                    <title>caret-left</title>
+                    <path d="M13.435 17.565l-5.566-5.565 5.566-5.566 1.13 1.132-4.434 4.434 4.434 4.435z">
+                    </path>
+                </symbol>
+                <symbol id="icon-caret-right" viewbox="0 0 24 24">
+                    <title>caret-right</title>
+                    <path d="M10.566 17.565l-1.132-1.13 4.434-4.435-4.434-4.434 1.132-1.132 5.566 5.566z">
+                    </path>
+                </symbol>
+                <symbol id="icon-caret-up" viewbox="0 0 24 24">
+                    <title>caret-up</title>
+                    <path d="M16.435 14.565l-4.435-4.434-4.434 4.434-1.132-1.13 5.566-5.566 5.565 5.566z">
+                    </path>
+                </symbol>
+                <symbol id="icon-chevron-down" viewbox="0 0 24 24">
+                    <title>chevron-down</title>
+                    <path d="M11.999 17.632l-8.566-8.566 1.131-1.132 7.435 7.434 7.435-7.434 1.13 1.132z">
+                    </path>
+                </symbol>
+                <symbol id="icon-chevron-left" viewbox="0 0 24 24">
+                    <title>chevron-left</title>
+                    <path d="M14.935 20.565l-8.566-8.565 8.566-8.566 1.13 1.132-7.434 7.434 7.434 7.435z">
+                    </path>
+                </symbol>
+                <symbol id="icon-chevron-right" viewbox="0 0 24 24">
+                    <title>chevron-right</title>
+                    <path d="M9.066 20.565l-1.132-1.13 7.434-7.435-7.434-7.434 1.132-1.132 8.566 8.566z">
+                    </path>
+                </symbol>
+                <symbol id="icon-chevron-up" viewbox="0 0 24 24">
+                    <title>chevron-up</title>
+                    <path d="M19.435 16.065l-7.435-7.434-7.434 7.434-1.132-1.13 8.566-8.566 8.565 8.566z">
+                    </path>
+                </symbol>
+                <symbol id="icon-filter" viewbox="0 0 24 24">
+                    <title>filter</title>
+                    <path d="M3 11.2h13v1.6h-13v-1.6z">
+                    </path>
+                    <path d="M3 5.2h18v1.6h-18v-1.6z">
+                    </path>
+                    <path d="M3 17.2h9v1.6h-9v-1.6z">
+                    </path>
+                </symbol>
+                <symbol id="icon-menu" viewbox="0 0 24 24">
+                    <title>menu</title>
+                    <path d="M3 11.2h18v1.6h-18v-1.6z">
+                    </path>
+                    <path d="M3 5.2h18v1.6h-18v-1.6z">
+                    </path>
+                    <path d="M3 17.2h18v1.6h-18v-1.6z">
+                    </path>
+                </symbol>
+                <symbol id="icon-more-horizontal" viewbox="0 0 24 24">
+                    <title>more-horizontal</title>
+                    <path d="M6 12c0 1.105-0.895 2-2 2s-2-0.895-2-2c0-1.105 0.895-2 2-2s2 0.895 2 2z">
+                    </path>
+                    <path d="M14 12c0 1.105-0.895 2-2 2s-2-0.895-2-2c0-1.105 0.895-2 2-2s2 0.895 2 2z">
+                    </path>
+                    <path d="M22 12c0 1.105-0.895 2-2 2s-2-0.895-2-2c0-1.105 0.895-2 2-2s2 0.895 2 2z">
+                    </path>
+                </symbol>
+                <symbol id="icon-more-vertical" viewbox="0 0 24 24">
+                    <title>more-vertical</title>
+                    <path d="M14 4c0 1.105-0.895 2-2 2s-2-0.895-2-2c0-1.105 0.895-2 2-2s2 0.895 2 2z">
+                    </path>
+                    <path d="M14 12c0 1.105-0.895 2-2 2s-2-0.895-2-2c0-1.105 0.895-2 2-2s2 0.895 2 2z">
+                    </path>
+                    <path d="M14 20c0 1.105-0.895 2-2 2s-2-0.895-2-2c0-1.105 0.895-2 2-2s2 0.895 2 2z">
+                    </path>
+                </symbol>
+                <symbol id="icon-share" viewbox="0 0 24 24">
+                    <title>share</title>
+                    <path d="M12 3.2v1.6h6.068l-6.634 6.634 1.132 1.132 6.634-6.635v6.069h1.6v-8.8z">
+                    </path>
+                    <path d="M17.2 19.2h-12.4v-12.4h4.2v-1.6h-5.8v15.6h15.6v-5.8h-1.6z">
+                    </path>
+                </symbol>
+                <symbol id="icon-select" viewbox="0 0 24 24">
+                    <title>select</title>
+                    <path d="M4 6.7h16v1.6H4zm2 4.5h12v1.6H6zm3 5h6v1.6H9z">
+                    </path>
+                </symbol>
+                <symbol id="icon-heart" viewbox="0 0 24 24">
+                    <path d="M16.8,3c-2,0-3.8,1-4.8,2.6C11,4,9.2,3,7.2,3C4,3,1.5,5.6,1.5,8.7c0,1.4,0.5,2.8,1.5,3.9l9,8.4l9-8.4 c1-1.1,1.5-2.4,1.5-3.8C22.5,5.6,20,3,16.8,3z M19.7,11.2L12,18.4l-7.6-7.1c-0.6-0.7-1-1.6-1-2.5c0-2.1,1.7-3.8,3.8-3.8 c1.1,0,2,0.4,2.7,1.1L12,8.1L14.1,6c0.7-0.7,1.7-1.1,2.7-1.1c2.1,0,3.8,1.7,3.8,3.8C20.6,9.7,20.3,10.6,19.7,11.2z">
+                    </path>
+                </symbol>
+                <symbol id="icon-heart-block" viewbox="0 0 24 24">
+                    <path d="M16.8,3c-2,0-3.8,1-4.8,2.6C11,4,9.2,3,7.2,3C4,3,1.5,5.6,1.5,8.7c0,1.4,0.5,2.8,1.5,3.9l9,8.4l9-8.4 c1-1.1,1.5-2.4,1.5-3.8C22.5,5.6,20,3,16.8,3z">
+                    </path>
+                </symbol>
+                <symbol id="icon-star" viewbox="0 0 24 24">
+                    <title>star</title>
+                    <path d="M11.958 5.662l1.846 3.741 4.131 0.6-2.989 2.915 0.142 0.829 0.563 3.283-3.694-1.942-3.694 1.942 0.563-3.283 0.142-0.829-2.988-2.915 4.131-0.6 0.372-0.754 1.475-2.987zM11.958 2.046l-2.909 5.895-6.506 0.945 4.708 4.59-1.111 6.479 5.819-3.059 5.818 3.059-1.111-6.479 4.707-4.59-6.506-0.945-2.909-5.895z">
+                    </path>
+                </symbol>
+                <symbol id="icon-star-block" viewbox="0 0 24 24">
+                    <title>star-block</title>
+                    <path d="M21.37 8.89l-6.5-0.95-2.91-5.89-2.91 5.89-6.51 0.95 4.71 4.59-1.11 6.48 5.82-3.060 5.82 3.060-1.11-6.48z">
+                    </path>
+                </symbol>
+                <symbol id="icon-volume-block" viewbox="0 0 24 24">
+                    <title>volume-block</title>
+                    <path d="M6.040 8.2h-2.84v7.6h2.84l6.26 4.83v-17.26z">
+                    </path>
+                    <path d="M15.684 16.788l-0.975-1.268c1.106-0.852 1.741-2.135 1.741-3.522s-0.635-2.672-1.742-3.523l0.977-1.269c1.503 1.157 2.365 2.903 2.365 4.792 0 1.888-0.862 3.634-2.366 4.79z">
+                    </path>
+                    <path d="M17.969 19.757l-0.977-1.268c2.039-1.569 3.208-3.935 3.208-6.491s-1.169-4.923-3.208-6.492l0.977-1.268c2.435 1.875 3.831 4.703 3.831 7.76s-1.397 5.885-3.831 7.759z">
+                    </path>
+                </symbol>
+                <symbol id="icon-volume-mute-block" viewbox="0 0 24 24">
+                    <title>volume-mute-block</title>
+                    <path d="M6.040 8.2h-2.84v7.6h2.84l6.26 4.83v-17.26z">
+                    </path>
+                    <path d="M21.065 9.566l-1.13-1.132-2.185 2.185-2.185-2.185-1.13 1.132 2.184 2.184-2.184 2.185 1.13 1.13 2.185-2.184 2.185 2.184 1.13-1.13-2.184-2.185z">
+                    </path>
+                </symbol>
+                <symbol id="icon-volume-mute" viewbox="0 0 24 24">
+                    <title>volume-mute</title>
+                    <path d="M12.3 20.626l-6.264-4.826h-2.836v-7.6h2.835l6.265-4.826v17.252zM4.8 14.2h1.781l4.12 3.174v-10.748l-4.12 3.174h-1.781v4.4z">
+                    </path>
+                    <path d="M21.065 9.566l-1.13-1.132-2.185 2.185-2.185-2.185-1.13 1.132 2.184 2.184-2.184 2.185 1.13 1.13 2.185-2.184 2.185 2.184 1.13-1.13-2.184-2.185z">
+                    </path>
+                </symbol>
+                <symbol id="icon-volume" viewbox="0 0 24 24">
+                    <title>volume</title>
+                    <path d="M12.3 20.626l-6.264-4.826h-2.836v-7.6h2.835l6.265-4.826v17.252zM4.8 14.2h1.781l4.12 3.174v-10.748l-4.12 3.174h-1.781v4.4z">
+                    </path>
+                    <path d="M15.684 16.788l-0.975-1.268c1.106-0.852 1.741-2.135 1.741-3.522s-0.635-2.672-1.742-3.523l0.977-1.269c1.503 1.157 2.365 2.903 2.365 4.792 0 1.888-0.862 3.634-2.366 4.79z">
+                    </path>
+                    <path d="M17.969 19.757l-0.977-1.268c2.039-1.569 3.208-3.935 3.208-6.491s-1.169-4.923-3.208-6.492l0.977-1.268c2.435 1.875 3.831 4.703 3.831 7.76s-1.397 5.885-3.831 7.759z">
+                    </path>
+                </symbol>
+                <symbol id="icon-lock" viewbox="0 0 24 24">
+                    <title>lock</title>
+                    <path d="M18.8 10.2v-0.2c0-3.75-3.050-6.8-6.8-6.8s-6.8 3.050-6.8 6.8v0.2h-2v10.6h17.6v-10.6h-2zM6.8 10c0-2.867 2.333-5.2 5.2-5.2s5.2 2.333 5.2 5.2v0.2h-10.4v-0.2zM19.2 19.2h-14.4v-7.4h14.4v7.4z">
+                    </path>
+                </symbol>
+                <symbol id="icon-settings" viewbox="0 0 24 24">
+                    <title>settings</title>
+                    <path d="M19.5 12c0-0.47-0.040-0.92-0.13-1.36l2.54-1.47-2.5-4.34-2.55 1.47c-0.69-0.6-1.49-1.060-2.36-1.36v-2.94h-5v2.94c-0.87 0.3-1.67 0.76-2.36 1.36l-2.55-1.47-2.5 4.34 2.54 1.47c-0.090 0.44-0.13 0.89-0.13 1.36s0.040 0.92 0.13 1.36l-2.54 1.47 2.5 4.34 2.55-1.47c0.69 0.6 1.49 1.060 2.36 1.359v2.941h5v-2.94c0.87-0.3 1.67-0.76 2.36-1.359l2.55 1.47 2.5-4.34-2.54-1.47c0.090-0.441 0.13-0.891 0.13-1.361zM12 15.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5c1.93 0 3.5 1.57 3.5 3.5s-1.57 3.5-3.5 3.5z">
+                    </path>
+                </symbol>
+                <symbol id="icon-recording" viewbox="0 0 24 24">
+                    <title>recording</title>
+                    <path d="M12.004 2c-5.523 0-10 4.477-10 10s4.477 10 10 10c5.523 0 10-4.477 10-10s-4.477-10-10-10zM12.004 20.4c-4.632 0-8.4-3.769-8.4-8.4s3.768-8.4 8.4-8.4 8.4 3.768 8.4 8.4-3.768 8.4-8.4 8.4z">
+                    </path>
+                    <path d="M13.5 12c0 0.828-0.672 1.5-1.5 1.5s-1.5-0.672-1.5-1.5c0-0.828 0.672-1.5 1.5-1.5s1.5 0.672 1.5 1.5z">
+                    </path>
+                    <path d="M12.004 6.2c-3.198 0-5.8 2.602-5.8 5.8h1.6c0-2.316 1.884-4.2 4.2-4.2v-1.6z">
+                    </path>
+                    <path d="M12.004 16.2v1.6c3.198 0 5.8-2.602 5.8-5.8h-1.6c0 2.315-1.885 4.2-4.2 4.2z">
+                    </path>
+                </symbol>
+                <symbol id="icon-composition" viewbox="0 0 24 24">
+                    <title>composition</title>
+                    <path d="M15.934 12.619c-0.721-0.909-1.643-1.317-2.571-1.155l-0.435-2.008c0.909-1.086 1.684-2.275 1.983-3.739 0.176-0.875 0.146-1.76-0.084-2.492-0.217-0.687-0.585-1.156-1.010-1.288-0.59-0.183-1.181 0.311-1.625 1.354-0.417 0.98-0.592 1.981-0.178 3.94l0.174 0.824c-1.354 1.223-2.998 2.745-3.175 4.936-0.105 1.305 0.452 2.545 1.531 3.399 1.049 0.832 2.371 1.134 3.589 0.835l0.35 1.651c0.184 0.868 0.037 1.97-0.707 2.475-0.245 0.166-0.955 0.32-1.506 0.184-0.224-0.055-0.375-0.159-0.475-0.293 0.025 0.002 0.049 0.009 0.076 0.010h0.022c0.646 0 1.182-0.534 1.192-1.19 0.007-0.324-0.112-0.631-0.333-0.864s-0.518-0.365-0.836-0.371h-0.022c-0.646 0-1.181 0.535-1.193 1.19-0.001 0.050 0.007 0.096 0.012 0.145 0.002 0.032 0.003 0.063 0.008 0.098 0 0.002 0.001 0.005 0.001 0.007 0.045 0.314 0.2 0.67 0.438 0.967 0.383 0.477 0.921 0.75 1.515 0.769 0.034 0.001 0.067 0.002 0.101 0.002 0.74 0 1.365-0.27 1.769-0.765 0.496-0.605 0.631-1.513 0.381-2.554l-0.347-1.604c0.755-0.324 1.384-1.075 1.669-2.011 0.281-0.928 0.164-1.845-0.314-2.452zM11.132 16.092c-1.101-1-1.552-2.911-0.361-4.256 0.29-0.326 0.593-0.652 0.886-0.968 0.307-0.329 0.616-0.661 0.915-1.001l0.363 1.71c-1.032 0.372-1.805 1.392-1.801 2.382 0.002 0.537 0.243 1.522 1.83 2.064l0.030-0.054c-0.441-0.348-0.783-0.641-0.843-0.992-0.211-1.243 0.348-1.753 0.7-1.945 0.115-0.063 0.236-0.11 0.364-0.142l0.812 3.829c-0.072 0.021-0.145 0.040-0.219 0.057-0.955 0.21-1.98-0.052-2.676-0.684zM14.461 16.541l-0.801-3.7c0.453 0.007 0.92 0.179 1.273 0.5 0.613 0.558 0.736 1.417 0.334 2.36-0.148 0.35-0.429 0.64-0.806 0.84zM12.539 4.768c0.293-0.821 0.913-1.323 1.344-1.378 0.025-0.003 0.049-0.004 0.070-0.004 0.113 0 0.2 0.038 0.249 0.111 0.007 0.010 0.622 0.956-0.505 2.973-0.211 0.378-0.637 0.791-1.146 1.256l-0.096-0.443c-0.271-1.254-0.11-1.975 0.084-2.515z">
+                    </path>
+                </symbol>
+                <symbol id="icon-shuffle-tracks" viewbox="0 0 24 24">
+                    <path d="M18 15.7H16C15.14 15.7 13.93 15.11 13.4 14.429L12.53 13.3L11.51 14.611L12.14 15.411C12.96 16.471 14.66 17.301 16 17.301H18V20L22 16.5L18 13V15.7Z">
+                    </path>
+                    <path d="M7.6 9.57L8.47 10.7L9.49 9.39L8.86 8.59C8.04 7.53 6.34 6.7 5 6.7H2V8.3H5C5.86 8.3 7.07 8.89 7.6 9.57Z">
+                    </path>
+                    <path d="M16 8.3H18V9.9V11L22 7.5L18 4V5.1V6.7H16C14.66 6.7 12.96 7.53 12.14 8.59L7.6 14.43C7.07 15.11 5.86 15.7 5 15.7H2V17.3H5C6.34 17.3 8.04 16.47 8.86 15.41L13.4 9.57C13.93 8.89 15.14 8.3 16 8.3Z">
+                    </path>
+                </symbol>
+                <symbol id="icon-shuffle-recordings" viewbox="0 0 24 24">
+                    <path d="M17.9998 15.7H15.9998C15.1398 15.7 13.9298 15.11 13.3998 14.429L12.5298 13.3L11.5098 14.611L12.1398 15.411C12.9598 16.471 14.6598 17.301 15.9998 17.301H17.9998V20L21.9998 16.5L17.9998 13V15.7Z">
+                    </path>
+                    <path d="M16 8.3H18V9.9V11L22 7.5L18 4V5.1V6.7H16C14.66 6.7 12.96 7.53 12.14 8.59L7.6 14.43C7.07 15.11 5.86 15.7 5 15.7H2V17.3H5C6.34 17.3 8.04 16.47 8.86 15.41L13.4 9.57C13.93 8.89 15.14 8.3 16 8.3Z">
+                    </path>
+                    <path clip-rule="evenodd" d="M5 2C2.2385 2 0 4.2385 0 7C0 9.7615 2.2385 12 5 12C7.7615 12 10 9.7615 10 7C10 4.2385 7.7615 2 5 2ZM5 11C2.79429 11 1 9.20524 1 7C1 4.79476 2.79429 3 5 3C7.20571 3 9 4.79429 9 7C9 9.20571 7.20571 11 5 11ZM6 7C6 7.552 5.552 8 5 8C4.448 8 4 7.552 4 7C4 6.448 4.448 6 5 6C5.552 6 6 6.448 6 7ZM4.99998 4.1001C3.40098 4.1001 2.09998 5.4011 2.09998 7.0001H2.89998C2.89998 5.8421 3.84198 4.9001 4.99998 4.9001V4.1001ZM5 9.9V9.1C6.1575 9.1 7.1 8.1575 7.1 7H7.9C7.9 8.599 6.599 9.9 5 9.9Z" fill-rule="evenodd">
+                    </path>
+                </symbol>
+                <symbol id="icon-repeat-all" viewbox="0 0 24 24">
+                    <path d="M19.3,8.5c0-1.544-1.256-2.8-2.8-2.8H5v1.6h11.5c0.662,0,1.2,0.539,1.2,1.2v2H15l3.5,4l3.5-4h-2.7V8.5z">
+                    </path>
+                    <path d="M6.3,15.5v-2H9l-3.5-4l-3.5,4h2.7v2c0,1.544,1.256,2.8,2.8,2.8H19v-1.6H7.5C6.838,16.7,6.3,16.162,6.3,15.5z">
+                    </path>
+                </symbol>
+                <symbol id="icon-repeat-one" viewbox="0 0 24 24">
+                    <path d="M16.61,6.53l-1.15,0.8v1.3l0.84-0.4c0.15-0.07,0.21-0.14,0.28-0.24l0.04,0.02c-0.07,0.18-0.08,0.36-0.08,0.62         V12h1.31V5.92H16.8L16.61,6.53z" fill="none">
+                    </path>
+                    <path d="M17,4c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5S19.76,4,17,4z M17.85,12h-1.31V8.63c0-0.26,0.01-0.44,0.08-0.62         l-0.04-0.02c-0.07,0.1-0.13,0.17-0.28,0.24l-0.84,0.4v-1.3l1.15-0.8L16.8,5.92h1.05V12z">
+                    </path>
+                    <path d="M10.83,5.7H5v1.6h5.22C10.36,6.74,10.56,6.2,10.83,5.7z">
+                    </path>
+                    <path d="M7.5,16.7c-0.66,0-1.2-0.54-1.2-1.2v-2H9l-3.5-4l-3.5,4h2.7v2c0,1.54,1.26,2.8,2.8,2.8H19v-1.6h-2H7.5z">
+                    </path>
+                </symbol>
+                <symbol id="icon-devices" viewbox="0 0 24 24">
+                    <title>devices</title>
+                    <g fill="none" fill-rule="evenodd">
+                        <path d="M0 0h24v24H0z" fill="none">
+                        </path>
+                        <g transform="translate(2 4)">
+                            <path d="M0 2h6v1H0z" fill="#FFF">
+                            </path>
+                            <path d="M0 2h1v11H0z" fill="#FFF">
+                            </path>
+                            <path d="M0 12h6v1H0zM3 14h3v1H3z" fill="#FFF">
+                            </path>
+                            <path d="M7.5.5h11v15h-11z" stroke="#FFF">
+                            </path>
+                            <circle cx="13" cy="10" r="2.5" stroke="#FFF">
+                            </circle>
+                            <rect fill="#FFF" height="2" rx="1" width="2" x="12" y="3">
+                            </rect>
+                        </g>
+                    </g>
+                </symbol>
+                <symbol id="icon-laptop" viewbox="0 0 24 24">
+                    <title>laptop</title>
+                    <g fill="none" fill-rule="evenodd">
+                        <path d="M0 0h24v24H0z">
+                        </path>
+                        <path d="M20 18c1.1 0 1.99-.9 1.99-2L22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2H0v2h24v-2h-4zM4 6h16v10H4V6z" fill="#FFF" fill-rule="nonzero">
+                        </path>
+                    </g>
+                </symbol>
+                <symbol id="icon-speaker" viewbox="0 0 24 24">
+                    <title>speaker</title>
+                    <path d="M6,3v18h12V3H6z M4,2c0-0.6,0.4-1,1-1c0,0,0,0,0,0h14c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1c0,0,0,0,0,0H5       c-0.6,0-1-0.4-1-1C4,22,4,2,4,2z M12,7c0.6,0,1,0.4,1,1s-0.4,1-1,1s-1-0.4-1-1S11.4,7,12,7z M12,12c1.7,0,3,1.3,3,3s-1.3,3-3,3       s-3-1.3-3-3S10.3,12,12,12z">
+                    </path>
+                </symbol>
+                <symbol id="icon-add-to-playlist" viewbox="0 0 24 24">
+                    <path d="m2 5.2h12v1.6h-12z">
+                    </path>
+                    <path d="m2 10.2h12v1.6h-12z">
+                    </path>
+                    <path d="m2 15.2h9v1.6h-9z">
+                    </path>
+                    <path d="m22 15.2h-3.2v-3.2h-1.6v3.2h-3.2v1.6h3.2v3.2h1.6v-3.2h3.2z">
+                    </path>
+                </symbol>
+                <symbol id="icon-chat" viewbox="0 0 24 24">
+                    <path d="M5.333 8H8v2.667H5.333zm5.333 0h2.667v2.667h-2.667zM16 8h2.667v2.667H16z">
+                    </path>
+                    <path d="M0 0v18h5.145v6l6.564-6H24V0H0zm1.5 1.5h21v15H11.127l-4.482 4.098V16.5H1.5v-15z">
+                    </path>
+                </symbol>
+                <symbol id="icon-disconnected" viewbox="0 0 75 52">
+                    <path d="M48.51,23.97l3.19,-3.19a41.92,41.92 0,0 1,15.01 9.06l-2.73,2.92a37.89,37.89 0,0 0,-15.47 -8.79zM32.64,22.88a37.84,37.84 0,0 0,-20.68 9.95L9.22,29.91a41.85,41.85 0,0 1,27.78 -11.4l-4.36,4.36zM58,14.49l3.02,-3.02a54.19,54.19 0,0 1,14.02 9.52l-2.73,2.92A50.15,50.15 0,0 0,58 14.49zM44.72,10.79a50.61,50.61 0,0 0,-6.71 -0.45c-12.95,0 -25.13,4.93 -34.38,13.63L0.89,21.06C10.87,11.67 24.02,6.35 38.01,6.35c3.46,0 6.87,0.33 10.2,0.96l-3.49,3.49zM38.05,34.43l3.74,-3.74a27.66,27.66 0,0 1,15.18 7.24l-2.73,2.92a23.67,23.67 0,0 0,-16.18 -6.42zM48.37,47.25l-2.73,2.92A11.11,11.11 0,0 0,38 47.15a11.11,11.11 0,0 0,-7.65 3.03l-2.74,-2.91a15.11,15.11 0,0 1,10.39 -4.12c3.9,0 7.57,1.48 10.36,4.1zM60.63,0.54l2.83,2.83 -48.08,48.08 -2.83,-2.83L60.63,0.54z">
+                    </path>
+                </symbol>
+                <symbol id="icon-circled-arrow-down" viewbox="0 0 24 24">
+                    <title>arrow down</title>
+                    <circle cx="12" cy="12" fill="none" r="10" stroke="currentColor" stroke-width="2">
+                    </circle>
+                    <polyline fill="none" points="8 12 12 16 16 12" stroke="currentColor" stroke-width="2">
+                    </polyline>
+                    <line fill="none" stroke="currentColor" stroke-width="2" x1="12" x2="12" y1="8" y2="16">
+                    </line>
+                </symbol>
+                <symbol id="icon-loader" viewbox="0 0 24 24">
+                    <line fill="none" stroke="currentColor" stroke-width="2" x1="12" x2="12" y1="2" y2="6">
+                    </line>
+                    <line fill="none" stroke="currentColor" stroke-width="2" x1="12" x2="12" y1="18" y2="22">
+                    </line>
+                    <line fill="none" stroke="currentColor" stroke-width="2" x1="4.93" x2="7.76" y1="4.93" y2="7.76">
+                    </line>
+                    <line fill="none" stroke="currentColor" stroke-width="2" x1="16.24" x2="19.07" y1="16.24" y2="19.07">
+                    </line>
+                    <line fill="none" stroke="currentColor" stroke-width="2" x1="2" x2="6" y1="12" y2="12">
+                    </line>
+                    <line fill="none" stroke="currentColor" stroke-width="2" x1="18" x2="22" y1="12" y2="12">
+                    </line>
+                    <line fill="none" stroke="currentColor" stroke-width="2" x1="4.93" x2="7.76" y1="19.07" y2="16.24">
+                    </line>
+                    <line fill="none" stroke="currentColor" stroke-width="2" x1="16.24" x2="19.07" y1="7.76" y2="4.93">
+                    </line>
+                </symbol>
+                <symbol id="icon-fair-payout" viewbox="0 0 95.7 79.8">
+                    <rect height="2.2" width="95.6" x="0.1" y="51.3">
+                    </rect>
+                    <path d="M47.9,2.4c15.8,0,29.3,9.7,34.8,23.5h2.6C79.6,10.8,65,0,47.9,0C30.8,0,16.2,10.8,10.5,26h2.6 C18.6,12.2,32.1,2.4,47.9,2.4z">
+                    </path>
+                    <path d="M47.9,77.4c-15,0-27.9-8.8-33.9-21.4h-2.6c6.2,14,20.2,23.8,36.5,23.8c16.3,0,30.3-9.8,36.5-23.8h-2.6C75.7,68.6,62.8,77.4,47.9,77.4z">
+                    </path>
+                    <path d="M80.1,33.1">
+                    </path>
+                    <path d="M28.8,44h-5.5l-1.2,3.1H20l5.1-12.6h1.7L32,47.1H30L28.8,44z M28.1,42.3L26,36.9l-2.1,5.4H28.1z">
+                    </path>
+                    <path d="M36.8,41.9h-1.1v5.2h-1.9V34.5h4.3c2.2,0,3.9,1.4,3.9,3.7c0,1.9-1.2,3.3-2.9,3.6l3.8,5.3h-2.4L36.8,41.9z M35.7,40.1h2.1c1.5,0,2.1-0.8,2.1-1.9c0-1.1-0.6-1.9-2.1-1.9h-2.1V40.1z">
+                    </path>
+                    <path d="M52,36.3h-3.5v10.8h-1.9V36.3h-3.5v-1.8h9V36.3z">
+                    </path>
+                    <path d="M55.8,47.1h-1.9V34.5h1.9V47.1z">
+                    </path>
+                    <path d="M65.5,35.1l-0.8,1.8c-0.8-0.4-1.7-0.7-2.5-0.7c-1,0-1.4,0.4-1.4,1.1c0,0.6,0.3,1,1,1.5l2.3,1.7c1.3,1,1.9,2,1.9,3.4c0,2.3-1.6,3.5-4,3.5c-1.6,0-3.1-0.5-4.1-1.2l0.8-1.8c0.8,0.5,2,1,3.2,1c1.4,0,2-0.7,2-1.5c0-0.7-0.4-1.2-1.3-1.9l-2.1-1.7c-1.1-0.8-1.7-1.8-1.7-3.1c0-1.9,1.3-3,3.5-3C63.5,34.3,64.7,34.7,65.5,35.1z">
+                    </path>
+                    <path d="M75.8,36.3h-3.5v10.8h-1.9V36.3h-3.5v-1.8h9V36.3z">
+                    </path>
+                    <path d="M37.5,16.4v2.2h3.1v1.1h-3.1V23h-1.1v-7.7h4.5v1.1H37.5z">
+                    </path>
+                    <path d="M46.6,21.1h-3.4L42.5,23h-1.3l3.1-7.7h1.1l3.1,7.7h-1.3L46.6,21.1z M46.2,20l-1.3-3.3L43.6,20H46.2z">
+                    </path>
+                    <path d="M51.4,23h-1.2v-7.7h1.2V23z">
+                    </path>
+                    <path d="M55.6,19.8h-0.7V23h-1.1v-7.7h2.6c1.4,0,2.4,0.8,2.4,2.3c0,1.2-0.7,2-1.8,2.2l2.3,3.2h-1.4L55.6,19.8zM54.9,18.7h1.3c0.9,0,1.3-0.5,1.3-1.2c0-0.7-0.4-1.2-1.3-1.2h-1.3V18.7z">
+                    </path>
+                    <path d="M33.3,61.5c0,1.3-0.9,2.3-2.4,2.3h-1.5v3h-1.1v-7.7h2.6C32.5,59.2,33.3,60.2,33.3,61.5z M32.1,61.5c0-0.8-0.5-1.3-1.3-1.3h-1.3v2.5h1.3C31.6,62.8,32.1,62.4,32.1,61.5z">
+                    </path>
+                    <path d="M38.9,65h-3.4l-0.7,1.9h-1.3l3.1-7.7h1.1l3.1,7.7h-1.3L38.9,65z M38.5,63.9l-1.3-3.3L36,63.9H38.5z">
+                    </path>
+                    <path d="M44.3,63.8v3.1h-1.2v-3.1l-2.4-4.6H42l1.6,3.4h0l1.6-3.4h1.3L44.3,63.8z">
+                    </path>
+                    <path d="M55.4,63c0,2.4-1.7,4-4,4c-2.3,0-4-1.7-4-4c0-2.4,1.7-4,4-4C53.7,59,55.4,60.7,55.4,63z M48.6,63c0,1.7,1.1,2.8,2.8,2.8c1.6,0,2.8-1.2,2.8-2.8c0-1.7-1.1-2.8-2.8-2.8C49.7,60.2,48.6,61.4,48.6,63z">
+                    </path>
+                    <path d="M63.2,63.9c0,1.9-1.2,3.1-3.1,3.1S57,65.8,57,63.9v-4.7h1.2v4.7c0,1.2,0.8,2,1.9,2s1.9-0.7,1.9-2v-4.7h1.2V63.9z">
+                    </path>
+                    <path d="M70.3,60.3h-2.2v6.6H67v-6.6h-2.2v-1.1h5.5V60.3z">
+                    </path>
+                    <rect height="2.2" width="95.6" y="28.2">
+                    </rect>
+                    <path d="M10.5,41.8c0,0.9-0.7,1.6-1.6,1.6c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6C9.8,40.2,10.5,40.9,10.5,41.8z">
+                    </path>
+                    <path d="M87.4,41.8c0,0.9-0.7,1.6-1.6,1.6c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6C86.7,40.2,87.4,40.9,87.4,41.8z">
+                    </path>
+                </symbol>
+                <symbol id="icon-price-info" viewbox="0 0 26.1 26.2">
+                    <path d="M13.1,26.2C5.9,26.2,0,20.3,0,13.1S5.9,0,13.1,0s13.1,5.9,13.1,13.1S20.3,26.2,13.1,26.2z M13.1,2 C7,2,2,7,2,13.1s5,11.1,11.1,11.1c6.1,0,11.1-5,11.1-11.1S19.2,2,13.1,2z">
+                    </path>
+                    <path d="M12.2,12.3c-0.2,0.6-0.4,1.1-0.6,1.6C11,15.6,10.5,17.3,10,19c-0.3,1,0.1,1.7,1,1.8c0.3,0,0.7,0,1,0c1.9-0.4,2.8-2,3.6-3.5c-0.2,0.1-0.3,0.3-0.5,0.5c-0.5,0.5-1,0.9-1.7,1.2c-0.1,0-0.3,0-0.4,0c-0.1,0,0-0.2,0-0.3c0-0.1,0.1-0.3,0.2-0.4c0.7-1.8,1.5-3.6,2.2-5.4c0.1-0.3,0.2-0.7,0.2-1c-0.1-0.6-0.7-1-1.5-1c-2,0-3.5,1-4.5,2.7c0,0.1,0,0.1-0.1,0.3C10.3,13.1,11.1,12.3,12.2,12.3z">
+                    </path>
+                    <circle cx="14.8" cy="7.2" r="1.9">
+                    </circle>
+                </symbol>
+                <symbol id="icon-resource-pdf" viewbox="0 0 23 30">
+                    <path d="M15.2,0.8c-0.5-0.5-1.3-0.8-2-0.8h-8C2.3,0,0,2.3,0,5.1v19.8C0,27.7,2.3,30,5.1,30h12.9c2.8,0,5.1-2.3,5.1-5.1 V9.5c0-0.8-0.3-1.6-0.9-2.1L15.2,0.8z M21.4,24.9c0,1.9-1.6,3.5-3.5,3.5H5.1c-1.9,0-3.5-1.6-3.5-3.5V5.1c0-1.9,1.6-3.5,3.5-3.5h8h0.1v4.8c0,1.6,1.3,2.9,2.9,2.9h5.3c0,0.1,0,0.1,0,0.1V24.9z">
+                    </path>
+                    <path d="M18.6,18.3c-0.2-0.4-0.8-0.6-1.7-0.6c-0.5,0-1.2,0.1-1.9,0.2c-1.1-1.1-2.1-2.8-2.9-4.4c0.8-3.3,0.3-3.9,0.1-4.1C12.1,9.2,11.8,9,11.5,9c-0.1,0-0.3,0-0.4,0.1c-0.3,0.1-0.6,0.4-0.8,0.7c-0.4,0.9,0.1,2.6,0.7,3.8c-0.5,2-1.3,4.3-2.2,6.3c-2.2,1-3.4,2-3.5,2.9c-0.1,0.3,0.1,0.9,0.6,1.3c0.2,0.1,0.4,0.2,0.5,0.2c0.5,0,1-0.4,1.6-1.2c0.4-0.6,0.9-1.4,1.4-2.5c1.6-0.7,3.5-1.3,5.1-1.7c0.9,0.9,1.7,1.3,2.5,1.3c0.5,0,1-0.2,1.3-0.7C18.8,19.1,18.9,18.6,18.6,18.3z M6.6,23.2c-0.3-0.2-0.3-0.4-0.3-0.4c0.1-0.3,0.5-0.9,1.8-1.6C7.2,23,6.7,23.2,6.6,23.2z M11.2,10.1c0.1-0.1,0.1-0.1,0.2-0.2h0.1c0.1,0.1,0.2,0.6,0,1.9C11.2,11.1,11,10.4,11.2,10.1z M10.1,19.3c0.6-1.4,1.1-2.9,1.6-4.4c0.6,1.2,1.4,2.3,2.2,3.2C12.7,18.4,11.4,18.8,10.1,19.3z M17.6,19c-0.2,0.3-0.4,0.3-0.5,0.3c-0.3,0-0.8-0.2-1.2-0.5c0.4-0.1,0.8-0.1,1-0.1c0.5,0,0.8,0.1,0.8,0.1C17.7,18.8,17.7,18.9,17.6,19z">
+                    </path>
+                </symbol>
+                <symbol id="icon-resource-audio" viewbox="0 0 23 30">
+                    <path d="M15.2,0.8c-0.5-0.5-1.3-0.8-2-0.8h-8C2.3,0,0,2.3,0,5.1v19.8C0,27.7,2.3,30,5.1,30h12.9c2.8,0,5.1-2.3,5.1-5.1V9.5c0-0.8-0.3-1.6-0.9-2.1L15.2,0.8zM21.4,24.9c0,1.9-1.6,3.5-3.5,3.5H5.1c-1.9,0-3.5-1.6-3.5-3.5V5.1c0-1.9,1.6-3.5,3.5-3.5h8h0.1v4.8c0,1.6,1.3,2.9,2.9,2.9h5.3c0,0.1,0,0.1,0,0.1V24.9z">
+                    </path>
+                    <path d="M16.9,10.4l-9.3,2.2v8.7c-0.3-0.2-0.6-0.2-1.1-0.2c-0.3,0-0.8,0.1-1.2,0.2C4.4,21.7,4,22.5,4,23.2c0,0.7,0.6,1.4,1.9,1.4c1,0,1.9-0.7,2.3-1.5c0.1-0.3,0.2-0.9,0.2-1.3v-6.6l7.6-1.7v5.9c-0.3-0.2-0.6-0.2-1.1-0.2c-0.3,0-0.8,0.1-1.2,0.2c-0.9,0.3-1.3,1.2-1.3,1.9s0.6,1.4,1.9,1.4c1,0,1.9-0.7,2.3-1.5c0.1-0.3,0.2-0.9,0.2-1.3L16.9,10.4L16.9,10.4z">
+                    </path>
+                </symbol>
+                <symbol id="icon-resource-image" viewbox="0 0 23 30">
+                    <path d="M15.1,0.8C14.5,0.3,13.8,0,13,0h-8C2.3,0,0,2.3,0,5.1v19.7c0,2.8,2.3,5.1,5.1,5.1h12.8c2.8,0,5.1-2.3,5.1-5.1V9.4c0-0.8-0.3-1.6-0.9-2.1L15.1,0.8z M21.3,24.8c0,1.9-1.5,3.5-3.5,3.5H5.1c-1.9,0-3.5-1.5-3.5-3.5V5.1c0-1.9,1.5-3.5,3.5-3.5h8h0.1v4.8c0,1.6,1.3,2.9,2.9,2.9h5.3c0,0.1,0,0.1,0,0.1V24.8z">
+                    </path>
+                    <g transform="translate(0,-952.36218)">
+                        <path d="M15.1,963.4c0.9,0,1.7,0.7,1.7,1.7s-0.7,1.7-1.7,1.7s-1.7-0.7-1.7-1.7C13.4,964.1,14.2,963.4,15.1,963.4zM9.6,968.1l2.4,2.4c0.1,0.1,0.2,0.1,0.2,0l1.8-1.4c0.1-0.1,0.2-0.1,0.2,0l4.3,4.5c0.1,0.1,0,0.3-0.1,0.3H4.5c-0.2,0-0.2-0.2-0.1-0.3l5-5.5C9.4,968,9.5,968,9.6,968.1z">
+                        </path>
+                    </g>
+                </symbol>
+                <symbol id="icon-resource-video" viewbox="0 0 23 30">
+                    <path d="M15.2,0.8c-0.5-0.5-1.3-0.8-2-0.8h-8C2.3,0,0,2.3,0,5.1v19.8C0,27.7,2.3,30,5.1,30h12.9c2.8,0,5.1-2.3,5.1-5.1V9.5c0-0.8-0.3-1.6-0.9-2.1L15.2,0.8z M21.4,24.9c0,1.9-1.6,3.5-3.5,3.5H5.1c-1.9,0-3.5-1.6-3.5-3.5V5.1c0-1.9,1.6-3.5,3.5-3.5h8h0.1v4.8c0,1.6,1.3,2.9,2.9,2.9h5.3c0,0.1,0,0.1,0,0.1V24.9z">
+                    </path>
+                    <path d="M5.3,13.7h7.4c0.8,0,1.5,0.7,1.5,1.5v5.8c0,0.8-0.7,1.5-1.5,1.5H5.3c-0.8,0-1.5-0.7-1.5-1.5v-5.8C3.8,14.4,4.5,13.7,5.3,13.7z">
+                    </path>
+                    <polygon points="16.1,16.4 16.1,20.8 19.2,22.6 19.2,14.6">
+                    </polygon>
+                </symbol>
+                <symbol id="icon-resource-presentation" viewbox="0 0 23 30">
+                    <path d="M15.7,0.8C15.1,0.3,14.3,0,13.6,0H5.3C2.4,0,0,2.4,0,5.3v20.5C0,28.6,2.4,31,5.3,31h13.3c2.9,0,5.3-2.4,5.3-5.3V9.8c0-0.8-0.3-1.7-0.9-2.2L15.7,0.8z M22.1,25.7c0,2-1.6,3.6-3.6,3.6H5.3c-2,0-3.6-1.6-3.6-3.6V5.3c0-2,1.6-3.6,3.6-3.6h8.3h0.1v5c0,1.7,1.4,3,3,3h5.5c0,0.1,0,0.1,0,0.1V25.7z">
+                    </path>
+                    <path d="M11.2,13.5c-3.3,0-5.9,2.6-5.9,5.9s2.6,5.9,5.9,5.9s5.9-2.6,5.9-5.9h-5.9V13.5z">
+                    </path>
+                    <path d="M13.2,11.5v5.9h5.9C19.1,14.2,16.4,11.5,13.2,11.5z">
+                    </path>
+                </symbol>
+                <symbol id="icon-tag" viewbox="0 0 14 14">
+                    <path d="M13 5L5 13L4.05882 12.0588C4.05882 12.0588 4.85546 11.0269 3.91429 10.0857C2.97311 9.14454 1.94118 9.94118 1.94118 9.94118L1 9L9 1L13 5Z" fill="none" stroke="currentColor">
+                    </path>
+                </symbol>
+                <symbol id="icon-download" viewbox="0 0 25 21">
+                    <g transform="translate(-397 -369)">
+                        <rect fill="none" height="14" transform="translate(397 369)" width="14">
+                        </rect>
+                        <g transform="translate(397 369)">
+                            <path d="M20.3,13.8a1.136,1.136,0,0,0-.8-.3h0a1.11,1.11,0,0,0-1.1,1.1v3.8H2.2V14.6a1.11,1.11,0,0,0-1.1-1.1A1.11,1.11,0,0,0,0,14.6v4.9a1.135,1.135,0,0,0,.3.8,1.135,1.135,0,0,0,.8.3H19.6a1.11,1.11,0,0,0,1.1-1.1V14.6A1.506,1.506,0,0,0,20.3,13.8Z">
+                            </path>
+                            <path d="M9.8,15l.2.2a1.09,1.09,0,0,0,1.1-.2L16,9.8a1.061,1.061,0,0,0-1.5-1.5l-3,3.2V1.1A1.11,1.11,0,0,0,10.4,0,1.135,1.135,0,0,0,9.2,1.1V11.4L6.3,8.2a2.01,2.01,0,0,0-.8-.4,1.08,1.08,0,0,0-.7.3,1.116,1.116,0,0,0-.1,1.6Z">
+                            </path>
+                        </g>
+                    </g>
+                </symbol>
+                <symbol id="icon-show-password" viewbox="0 0 20 13">
+                    <g>
+                        <path d="M10,0C3.3,0,0,6.5,0,6.5S3.2,13,10,13s10-6.5,10-6.5S16.7,0,10,0z M10,11.5c-2.9,0-5.2-2.3-5.2-5c0-2.8,2.4-5,5.2-5s5.2,2.3,5.2,5C15.2,9.3,12.9,11.5,10,11.5z">
+                        </path>
+                    </g>
+                    <path d="M13.1,6.5c0,1.6-1.4,3-3.1,3s-3.1-1.3-3.1-3s1.4-3,3.1-3S13.1,4.9,13.1,6.5">
+                    </path>
+                </symbol>
+            </defs>
+        </svg>
+        <div id="app-chrome-portal">
+        </div>
+        <div class="radix-portal" id="radix-portal">
+        </div>
+        <div id="root">
+            <div class="app-chrome-light is-logged-in playerbar-visible sidebar-visible">
+                <header class="appheader-AppHeader__component--3Ir1w appheader-AppHeader__hasShadow--1Zv3w" id="app-header">
+                    <a class="a11y-A11ySkipLink__hide--33lqn" href="#app-sidebar">
+                        <span>Passer cette section</span>
+                    </a>
+                    <div class="appheader-AppHeader__inner--3QCsc">
+                        <div class="appheader-AppHeader__left--MP6ri">
+                            <a class="appheader-AppHeader__logo--341L2 u-hide-text" href="/fr/" title="IDAGIO">
+                                <svg height="104px" version="1.1" viewbox="0 0 88 104" width="88px" x="0px" y="0px">
+                                    <rect fill="#2F323D" height="24" width="48" x="40" y="80">
+                                    </rect>
+                                    <polygon fill="#2F323D" points="0,0 0,80 64,40">
+                                    </polygon>
+                                </svg>
+                            </a>
+                        </div>
+                        <div class="appheader-AppHeader__center--3B6IQ">
+                            <div>
+                                <div class="">
+                                    <div class="search-QuickSearch__container--22E1v">
+                                        <div class="search-QuickSearch__boxContainer--3WpvA">
+                                            <form class="common-SearchBox__form--XjOYH" role="search">
+                                                <label for="idagio-search-box-input">
+                                                </label>
+                                                <div class="util-IconLabel__component--3Uitr common-SearchBox__icon--103vx">
+                                                    <svg class="util-IconLabel__svg--1Gmdo">
+                                                        <use xlink:href="#icon-search">
+                                                        </use>
+                                                    </svg>
+                                                    <span class="">Recherche rapide</span>
+                                                </div>
+                                                <input autocomplete="off" class="common-SearchBox__input--Wyj4N" id="idagio-search-box-input" name="idagio-search-box-input" placeholder="Rechercher des compositeurs, interprètes, œuvres, albums et playlists" type="text" value="">
+                                                </input>
+                                                <button class="common-SearchBox__submitButton--1txru" type="submit">
+                                                </button>
+                                            </form>
+                                        </div>
+                                        <div class="search-QuickSearch__results--3w5tx">
+                                            <div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="appheader-AppHeader__right--19eGQ">
+                            <div class="appheader-AppHeader__rightLinks--v6ME0">
+                                <a class="appheader-AppHeader__link--19Yjp appheader-AppHeader__loginLink--1gvsZ" data-test="header.show-login-modal-btn" href="/fr/login?to=%2Falbums%2Fhandel-C138E5DC-65E0-4636-8232-F54AB48B2E73">
+                                    <span>Se connecter</span>
+                                </a>
+                                <a class="c-btn c-btn--is-purple appheader-AppHeader__subscribeButton--12dmt" data-test="header.show-join-modal-btn" href="/fr/join?to=%2Falbums%2Fhandel-C138E5DC-65E0-4636-8232-F54AB48B2E73">
+                                    <span>Créer un compte</span>
+                                </a>
+                            </div>
+                            <div class="chrome-MainMenu__component--2fRlI">
+                                <button class="chrome-MainMenu__toggle--1rEvQ" data-test="main-menu-toggle">
+                                    <div class="util-IconLabel__component--3Uitr chrome-MainMenu__icon--3-pEm">
+                                        <svg class="util-IconLabel__svg--1Gmdo">
+                                            <use xlink:href="#icon-menu">
+                                            </use>
+                                        </svg>
+                                        <span class="">Menu</span>
+                                    </div>
+                                </button>
+                                <div class="chrome-MainMenu__list--UzbfU">
+                                    <ul>
+                                        <li>
+                                            <a class="chrome-MainMenu__linkSmallView--xT2vO chrome-MainMenu__link--2Vd72" data-test="main-menu-discover-link" href="/fr/discover">
+                                                <span>Découvrir les nouveautés</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="chrome-MainMenu__linkSmallView--xT2vO chrome-MainMenu__link--2Vd72" data-test="main-menu-browse-link" href="/fr/browse">
+                                                <span>Parcourir le catalogue</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="chrome-MainMenu__linkSmallView--xT2vO chrome-MainMenu__link--2Vd72" data-test="main-menu-moods-link" href="/fr/moods">
+                                                <span>Musique selon mon humeur</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="chrome-MainMenu__linkSmallView--xT2vO chrome-MainMenu__link--2Vd72" data-test="main-menu-live-link" href="/fr/live">
+                                                <span>Concerts et cours</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="chrome-MainMenu__linkSmallView--xT2vO chrome-MainMenu__link--2Vd72" data-test="main-menu-recently-played-link" href="/fr/recently-played">
+                                                <span>Joué récemment</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a aria-label="Aide &amp; Contact (ouvrir dans un nouvel onglet)" class="chrome-MainMenu__link--2Vd72" data-test="main-menu-help-link" href="https://support.idagio.com/fr" rel="noopener noreferrer" target="_blank">Aide &amp; Contact</a>
+                                        </li>
+                                        <li>
+                                            <a aria-label="À propos d'IDAGIO (ouvrir dans un nouvel onglet)" class="chrome-MainMenu__link--2Vd72" data-test="main-menu-about-link" href="https://idagio.com/about?locale=fr" rel="noopener noreferrer" target="_blank">À propos d'IDAGIO</a>
+                                        </li>
+                                    </ul>
+                                    <ul>
+                                        <li>
+                                            <a class="chrome-MainMenu__linkSmallMediumView--30-dB chrome-MainMenu__link--2Vd72" data-test="main-menu-login-link" href="/fr/login?to=%2Falbums%2Fhandel-C138E5DC-65E0-4636-8232-F54AB48B2E73">
+                                                <span>Se connecter</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="chrome-MainMenu__linkSmallMediumView--30-dB chrome-MainMenu__link--2Vd72" data-test="main-menu-join-link" href="/fr/join?to=%2Falbums%2Fhandel-C138E5DC-65E0-4636-8232-F54AB48B2E73">
+                                                <span>Créer un compte</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a aria-label="Chèque-Cadeau (ouvrir dans un nouvel onglet)" class="chrome-MainMenu__link--2Vd72" data-test="main-menu-gift-card-link" href="https://idagio.com/promotions/gift-card?locale=fr" rel="noopener noreferrer" target="_blank">Chèque-Cadeau</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="chrome-ProgressBar__active--1BGYK chrome-ProgressBar__idle--nm52Z">
+                    </div>
+                </header>
+                <aside class="common-Sidebar__sidebar--1Xsf0" id="app-sidebar">
+                    <a class="a11y-A11ySkipLink__hide--33lqn" href="#app-content">
+                        <span>Passer cette section</span>
+                    </a>
+                    <nav>
+                        <section class="common-Sidebar__navSection--fXf26">
+                            <ul>
+                                <li>
+                                    <a class="common-Sidebar__sidebarLinkWithLabels--2Odzf common-Sidebar__sidebarLink--2pN6o" data-test="sidebar.discover" href="/fr/discover">
+                                        <span>Découvrir les nouveautés</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="common-Sidebar__sidebarLinkWithLabels--2Odzf common-Sidebar__sidebarLink--2pN6o" data-test="sidebar.browse" href="/fr/browse">
+                                        <span>Parcourir le catalogue</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="common-Sidebar__sidebarLinkWithLabels--2Odzf common-Sidebar__sidebarLink--2pN6o" href="/fr/moods">
+                                        <span>Musique selon mon humeur</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="common-Sidebar__sidebarLinkWithLabels--2Odzf common-Sidebar__sidebarLink--2pN6o" href="/fr/recently-played">
+                                        <span>Joué récemment</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </section>
+                        <section class="common-Sidebar__navSection--fXf26">
+                            <p class="common-Sidebar__navHeading--1acJR fz--delta">
+                                <span>Événements</span>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a class="common-Sidebar__sidebarLinkWithLabels--2Odzf common-Sidebar__sidebarLink--2pN6o" data-test="sidebar.events" href="/fr/live">
+                                        <div>
+                                            <span>Concerts et cours</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </section>
+                        <section class="common-Sidebar__navSection--fXf26">
+                            <p class="common-Sidebar__navHeading--1acJR fz--delta">
+                                <span>Ma Collection</span>
+                            </p>
+                            <ul>
+                                <li>
+                                    <a class="common-Sidebar__sidebarLink--2pN6o" href="/fr/collection/tracks">
+                                        <span>Titres</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="common-Sidebar__sidebarLink--2pN6o" href="/fr/collection/recordings">
+                                        <span>Enregistrements</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="common-Sidebar__sidebarLink--2pN6o" href="/fr/collection/playlists">
+                                        <span>Playlists</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="common-Sidebar__sidebarLink--2pN6o" href="/fr/collection/albums">
+                                        <span>Albums</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="common-Sidebar__sidebarLink--2pN6o" href="/fr/collection/artists">
+                                        <span>Artistes</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="common-Sidebar__sidebarLink--2pN6o" href="/fr/collection/events">
+                                        <span>Évènements</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </section>
+                    </nav>
+                </aside>
+                <section class="content" data-test="app-content" id="app-content">
+                    <div class="common-GenericTracklistView__view--1ppQh" data-test="album-page">
+                        <div class="common-GenericTracklistView__header--3J3kc">
+                            <div class="util-Image__fallbackImage--LwFl9 common-GenericTracklistView__headerImage--3pZE0">
+                                <img alt="" aria-label="" class="util-Image__img--3wTTY" draggable="false" height="720" role="img" width="720">
+                                </img>
+                            </div>
+                            <div class="common-GenericTracklistView__headerInfo--27XfH">
+                                <h1 class="common-GenericTracklistView__headerTitle--2rSsB">Händel</h1>
+                                <div class="common-GenericTracklistView__headerBtns--3uDfo">
+                                    <button class="common-PlayButton__component--1f2zL" data-module-variant="header" data-test="generic-track-list-view.play-btn">
+                                        <div class="util-IconLabel__component--3Uitr common-PlayButton__icon--2-Ixn">
+                                            <svg class="util-IconLabel__svg--1Gmdo" style="height:1rem;width:1rem">
+                                                <use xlink:href="#icon-play">
+                                                </use>
+                                            </svg>
+                                            <span class="util-IconLabel__label--gSaB3">Lire l'album</span>
+                                        </div>
+                                    </button>
+                                    <button class="common-CollectionButton__collectionButton--lTbXV common-CollectionButton__text--2_zMk" data-test="add-to-collection-button" title="Sauvegarder dans ma collection">
+                                        <div>
+                                            <div class="util-IconLabel__component--3Uitr common-CollectionButton__iconDefault--3tA1R">
+                                                <svg class="util-IconLabel__svg--1Gmdo" style="height:1rem;width:1rem">
+                                                    <use xlink:href="#icon-heart">
+                                                    </use>
+                                                </svg>
+                                                <span class="">
+                                                </span>
+                                            </div>
+                                            <div class="util-IconLabel__component--3Uitr common-CollectionButton__iconActive--300B4">
+                                                <svg class="util-IconLabel__svg--1Gmdo" style="height:1rem;width:1rem">
+                                                    <use xlink:href="#icon-heart-block">
+                                                    </use>
+                                                </svg>
+                                                <span class="">
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <span class="common-CollectionButton__text--2_zMk">
+                                            <span>Sauvegarder dans ma collection</span>
+                                        </span>
+                                    </button>
+                                    <button aria-label="Partager" class="common-ShareButton__shareButton--2tz0Q common-ShareButton__text--2Pga9">
+                                        <div class="util-IconLabel__component--3Uitr">
+                                            <svg class="util-IconLabel__svg--1Gmdo" style="height:1rem;width:1rem">
+                                                <use xlink:href="#icon-share">
+                                                </use>
+                                            </svg>
+                                            <span class="">
+                                            </span>
+                                        </div>
+                                        <span class="common-ShareButton__text--2Pga9">Partager l'album</span>
+                                    </button>
+                                    <button class="common-ShareButton__shareButton--2tz0Q common-ShareButton__bookletButton--2owqX">
+                                        <div class="util-IconLabel__component--3Uitr">
+                                            <svg class="util-IconLabel__svg--1Gmdo" style="height:1rem;width:1rem">
+                                                <use xlink:href="#icon-share">
+                                                </use>
+                                            </svg>
+                                            <span class="">
+                                            </span>
+                                        </div>
+                                        <span class="common-ShareButton__text--2Pga9">Voir le livret</span>
+                                    </button>
+                                </div>
+                                <div class="common-GenericTracklistView__headerCredits--3fR56">
+									©℗
+									<!-- -->
+									2017 Sony Music Entertainment Germany GmbH
+								</div>
+                            </div>
+                        </div>
+                        <div class="common-GenericTracklistView__body--JRi3p" data-test="generic-track-list.body" data-test-length="22">
+                            <div style="overflow:visible;width:0">
+                                <div data-test="list.container" data-test-length="22">
+                                    <div aria-label="grid" aria-readonly="true" class="ReactVirtualized__Grid ReactVirtualized__List" role="none" style="box-sizing:border-box;direction:ltr;height:auto;position:relative;width:0;-webkit-overflow-scrolling:touch;will-change:transform;overflow-x:hidden;overflow-y:auto;overflow:visible" tabindex="0">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <ec-sidebar-wrapper custom-landing-page="true" is-in-app="false" saleschannel="idagio">
+                </ec-sidebar-wrapper>
+            </div>
+        </div>
+        <script nonce="ed5bc1f1ff1836b1c0c4ed9565687766">/**/
+			window.__data__ = {"lastActions":{"list":["@@analytics\u002Ftransition","FETCH_ALBUM","FETCH_ALBUM","SET_URL_TO_FONTS","LOAD_FEATURE_FLAGS","LOAD_FEATURE_FLAGS","FETCH_LIVESTREAM_EVENT_CATEGORY","FETCH_LIVESTREAM_EVENT_CATEGORY","SET_SESSION_TOKEN","SET_CLIENT_IP","SHOW_MODAL","SET_ENCRYPTION_ENABLED","SET_SHOULD_BLOCK","SET_CURRENCY","SET_COUNTRY"]},"client":{"pageVisible":true,"notifications":{"lastId":0,"list":[]},"connected":true,"locale":"fr-FR","supportedLocales":["en-GB","de-DE","de-AT","de-LI","de-CH","de-LU","en-US","en-CA","fr-FR","es-ES","ko-KR"],"ui":{"chrome":"light","autoplay":true,"theme":"automatic","playerbarHidden":false,"playerbarInfoHidden":false,"playerAudioQualityDialogIsOpen":false,"playerExternalDeviceDialogIsOpen":false,"searchOverlayVisible":false,"sharedUrl":null,"sharedUrlParams":null,"embedCode":null,"sharedEntityType":null,"defaultPaymentType":null,"courseResource":null,"bookletUrl":null,"modalOpen":true,"volumeIsVisible":false,"facet":{},"modalType":"CONSENT_MANAGER_MODAL","personalPlaylistModals":{"addToPlaylistModal":{"trackIds":[],"trackingContext":{"itemType":null,"itemId":null}},"editPlaylistModal":{"playlist":{}},"deletePlaylistModal":{"playlist":{}}},"previewsModal":{"showingsNumber":0},"pageTrackingContext":{"contextType":null,"contextId":null,"contextSlug":null},"freeCollectionModal":null,"trackingContext":null},"annotations":{"lastLoaded":null,"image":null},"preferences":{"audioQuality":50},"supportsPlayback":false,"supportsLossless":false,"playbackUsingAAC":false,"encryptedPlayback":true,"isLoadingAudio":false,"recentSearches":{"results":[]},"ip":"78.203.80.68","useragent":"Mozilla\u002F5.0 (Macintosh; Intel Mac OS X 10.10; rv:40.0) Gecko\u002F20100101 Firefox\u002F40.0","versions":{"electron":"1.9.10","web":"18.2.9"},"deviceId":null,"acceptedCookies":false,"recentlyPlayedEnabled":true,"userAgentInfo":{"isDesktop":true,"isMobile":false,"isiPhone":false,"isMac":true,"isWindows":false,"isAndroid":false,"isChrome":false,"isSafari":false,"isFirefox":true},"shouldBlock":false,"country":"FR","currency":"EUR","urls":{"authApiBase":"https:\u002F\u002Fapp.idagio.com","baseUrl":"https:\u002F\u002Fapp.idagio.com","topDomain":".idagio.com","segmentCdnHost":"https:\u002F\u002Fs-cdn.idagio.com","easyConnectSdkUrlOrigin":"https:\u002F\u002Fidagio-code.easy-connect.io"},"fonts":{"Eesti Display":{"name":"Eesti Display","className":"eesti-display--loaded"},"url":"url('https:\u002F\u002Fd4nzi95f4llxl.cloudfront.net\u002Ffonts-3ec3e0c9f095e33ff20b243d9b4e5529-GT-Eesti-Pro-Display-Regular-subset.woff2') format('woff2'),url('https:\u002F\u002Fd4nzi95f4llxl.cloudfront.net\u002Ffonts-3ec3e0c9f095e33ff20b243d9b4e5529-GT-Eesti-Pro-Display-Regular-subset.woff2') format('woff')"},"features":{"full_catalogue":false,"streaming_to_all_external_players":false,"audio_quality":[10],"lossless_as_gift":false,"allow_playback_skip":false,"skip_limits":{"enabled":true,"max_skips":6,"reset_interval_seconds":3600,"tooltip_positions":[3,6]},"change_playback_position":false,"play_individual_tracks":false,"collections":{"access_limit":6,"show_albums_play_all":false,"show_playlists_play_all":false},"gch":{"allow_concert_playback":false},"interval_between_intermission":900,"offline_listening":false,"user_collections":false,"user_playlists":false,"interactive_player_queue":false},"isEmbed":false,"httpRequest":{"method":"GET","postData":{}},"isInApp":false,"ticketPurchaseIsDisabled":false,"easyConnectPartnerId":"1","hasInteractedWithSlider":false,"captchas":{"captchaType":"hcp-production","captchaSiteKey":"2cc09472-fbfe-4686-9bfb-1760e7b12a83"}},"player":{"queueItems":[],"originalTracks":[],"currentQueueItem":null,"queueOrigin":null,"loadingQueueOrigin":null,"queueIsLoading":false,"queueIsLoaded":false,"playing":false,"paused":false,"seeking":false,"progress":0,"duration":0,"volume":100,"isMuted":false,"repeatAll":false,"repeatOne":false,"shuffleRecordings":false,"shuffleTracks":false,"wasPlayingOnNetworkError":false,"interpretationQueue":{},"controlsEnabled":true,"isPlayingAd":false},"quickSearch":{"query":"","loading":false,"loaded":false,"hasResults":false,"resultsLength":0,"order":["top","artists","recordings","compositions","playlists","albums"],"results":{"top":[],"artists":[],"recordings":[],"compositions":[],"playlists":[],"albums":[]}},"search":{"query":"","loading":false,"loaded":false,"hasResults":false,"resultsLength":0,"order":["top","artists","recordings","compositions","playlists","albums"],"results":{"top":[],"artists":[],"recordings":[],"compositions":[],"playlists":[],"albums":[]}},"popularSearches":{"loading":false,"loaded":false,"results":[]},"entities":{"ensembles":{"17241902":{"id":17241902,"kind":"ensemble","popularity":0.0008597522,"playEventCount":199,"_key":"La Folia Barockorchester ~ 17241902","name":"La Folia Barockorchester","alternativeNames":[],"slugs":null}},"epochs":{"2488":{"id":2488,"title":"Baroque","_key":"3 ~ 2488"}},"genres":{"2530":{"id":2530,"title":"Chamber","_key":"Chamber ~ 2530"},"2533":{"id":2533,"title":"Keyboard","_key":"Keyboard ~ 2533"},"2536":{"id":2536,"title":"Sacred Vocal","_key":"Sacred Vocal ~ 2536"}},"instruments":{"3232":{"id":3232,"title":"Soprano","_key":"Soprano ~ 3232","instrumentGroup1Id":null,"instrumentGroup2Id":null,"instrumentGroup3Id":null},"3265":{"id":3265,"title":"Violin","_key":"Violin ~ 3265","instrumentGroup1Id":null,"instrumentGroup2Id":10,"instrumentGroup3Id":null},"3271":{"id":3271,"title":"Viola da Gamba","_key":"Viola da Gamba ~ 3271","instrumentGroup1Id":null,"instrumentGroup2Id":10,"instrumentGroup3Id":null},"3277":{"id":3277,"title":"Violoncello","_key":"Violoncello ~ 3277","instrumentGroup1Id":1,"instrumentGroup2Id":10,"instrumentGroup3Id":null},"3319":{"id":3319,"title":"Lute","_key":"Lute ~ 3319","instrumentGroup1Id":null,"instrumentGroup2Id":14,"instrumentGroup3Id":null},"11248989":{"id":11248989,"title":"Fortepiano","_key":"Fortepiano ~ 11248989","instrumentGroup1Id":9,"instrumentGroup2Id":13,"instrumentGroup3Id":null}},"moods":{},"persons":{"61214":{"id":61214,"name":"George Frideric Handel","forename":"George Frideric","surname":"Handel","kind":"person","popularity":0.18769435,"playEventCount":123493,"_key":"Handel, George Frideric ~ 61214","alternativeNames":["Handel Haendel\r\nGeorge Frideric (or Frederick) Handel"],"slugs":null},"11578302":{"id":11578302,"kind":"person","popularity":0.0122637542,"playEventCount":1237,"_key":"Perl, Hille ~ 11578302","name":"Hille Perl","alternativeNames":["Hildegard Perl"],"slugs":null,"forename":"Hille","surname":"Perl"},"11593844":{"id":11593844,"kind":"person","popularity":0.0285377075,"playEventCount":3797,"_key":"Mields, Dorothee ~ 11593844","name":"Dorothee Mields","alternativeNames":[],"slugs":null,"forename":"Dorothee","surname":"Mields"},"15407281":{"id":15407281,"name":"Benedetto Pamphili","forename":"Benedetto","surname":"Pamphili"},"17304713":{"id":17304713,"kind":"person","popularity":0.0135156189,"playEventCount":553,"_key":"Santana, Lee ~ 17304713","name":"Lee Santana","alternativeNames":[],"slugs":null,"forename":"Lee","surname":"Santana"},"18676032":{"id":18676032,"kind":"person","popularity":0.0005003641,"playEventCount":67,"_key":"Müller, Robin ~ 18676032","name":"Robin Müller","alternativeNames":[],"slugs":null,"forename":"Robin","surname":"Müller"},"18676059":{"id":18676059,"kind":"person","popularity":0.0001723433,"playEventCount":12,"_key":"Comploi, Philipp ~ 18676059","name":"Philipp Comploi","alternativeNames":[],"slugs":null,"forename":"Philipp","surname":"Comploi"},"18676143":{"id":18676143,"kind":"person","popularity":0.0009296522,"playEventCount":79,"_key":"Küppers, Andreas ~ 18676143","name":"Andreas Küppers","alternativeNames":[],"slugs":null,"forename":"Andreas","surname":"Küppers"}},"pieces":{"11973238":{"id":11973238,"popularTitle":null,"position":1,"structuralSubtitle":null,"subtitle":null,"title":"No. 1 Aria 'Tra le fiamme'","pieceName":null,"descriptionName":"Aria 'Tra le fiamme'","number":null,"workpart":11973237},"13937684":{"id":13937684,"popularTitle":null,"position":3,"structuralSubtitle":null,"subtitle":null,"title":"Recitative 'Dedalo già le fortunate penne'","pieceName":null,"descriptionName":"Recitative 'Dedalo già le fortunate penne'","number":null,"workpart":11973237},"13937689":{"id":13937689,"popularTitle":null,"position":5,"structuralSubtitle":null,"subtitle":null,"title":"No. 2 Aria 'Pien di nuovo e bel diletto'","pieceName":null,"descriptionName":"Aria 'Pien di nuovo e bel diletto'","number":null,"workpart":11973237},"13937710":{"id":13937710,"popularTitle":null,"position":7,"structuralSubtitle":null,"subtitle":null,"title":"Recitative 'Sì, sì, pur troppo è vero'","pieceName":null,"descriptionName":"Recitative 'Sì, sì, pur troppo è vero'","number":null,"workpart":11973237},"13937751":{"id":13937751,"popularTitle":null,"position":9,"structuralSubtitle":null,"subtitle":null,"title":"No. 3 Aria 'Voli per l'aria'","pieceName":null,"descriptionName":"Aria 'Voli per l'aria'","number":null,"workpart":11973237},"13937785":{"id":13937785,"popularTitle":null,"position":11,"structuralSubtitle":null,"subtitle":null,"title":"Recitative 'L'uomo, che nacque per salire'","pieceName":null,"descriptionName":"Recitative 'L'uomo, che nacque per salire'","number":null,"workpart":11973237},"14349151":{"id":14349151,"popularTitle":null,"position":1,"structuralSubtitle":null,"subtitle":null,"title":"No. 1 Aria 'No se emenderá jamás'","pieceName":null,"descriptionName":"Aria 'No se emenderá jamás'","number":null,"workpart":14349150},"14349154":{"id":14349154,"popularTitle":null,"position":2,"structuralSubtitle":null,"subtitle":null,"title":"Recitative 'Si del quereros es causa'","pieceName":null,"descriptionName":"Recitative 'Si del quereros es causa'","number":null,"workpart":14349150},"14349157":{"id":14349157,"popularTitle":null,"position":3,"structuralSubtitle":null,"subtitle":null,"title":"No. 2 Aria 'Dizente mis ozos'","pieceName":null,"descriptionName":"Aria 'Dizente mis ozos'","number":null,"workpart":14349150},"14507270":{"id":14507270,"popularTitle":null,"position":1,"structuralSubtitle":null,"subtitle":null,"title":"I. Andante larghetto","pieceName":null,"descriptionName":"Andante larghetto","number":null,"workpart":14507269},"14507273":{"id":14507273,"popularTitle":null,"position":2,"structuralSubtitle":null,"subtitle":null,"title":"II. Allegro","pieceName":null,"descriptionName":"Allegro","number":null,"workpart":14507269},"14507276":{"id":14507276,"popularTitle":null,"position":3,"structuralSubtitle":null,"subtitle":null,"title":"III. Adagio","pieceName":null,"descriptionName":"Adagio","number":null,"workpart":14507269},"14507279":{"id":14507279,"popularTitle":null,"position":4,"structuralSubtitle":null,"subtitle":null,"title":"IV. Allegro","pieceName":null,"descriptionName":"Allegro","number":null,"workpart":14507269},"18721073":{"id":18721073,"popularTitle":null,"position":1,"structuralSubtitle":null,"subtitle":null,"title":"Chaconne (Suite No. 2) for Harpsichord in G major HWV 435  (Arr. for Violin, Viola da gamba and Lute)","pieceName":null,"descriptionName":null,"number":null,"workpart":18721072},"18721153":{"id":18721153,"popularTitle":null,"position":1,"structuralSubtitle":null,"subtitle":null,"title":"No. 3 Aria 'Nascermi sento al core' (Soprano)","pieceName":"Aria","descriptionName":null,"number":null,"workpart":18721152},"18721438":{"id":18721438,"popularTitle":null,"position":1,"structuralSubtitle":null,"subtitle":null,"title":"Air for Keyboard in D minor HWV 461","pieceName":null,"descriptionName":null,"number":null,"workpart":18721437},"18721472":{"id":18721472,"popularTitle":null,"position":1,"structuralSubtitle":null,"subtitle":null,"title":"No. 1 Aria 'Sei pur bella, pur vezzosa' (Soprano)","pieceName":"Aria","descriptionName":null,"number":null,"workpart":18721471},"18721475":{"id":18721475,"popularTitle":null,"position":2,"structuralSubtitle":null,"subtitle":null,"title":"Recitative 'Se vien l'ape ingegnosa' (Soprano)","pieceName":"Recitative","descriptionName":null,"number":null,"workpart":18721471},"18721478":{"id":18721478,"popularTitle":null,"position":3,"structuralSubtitle":null,"subtitle":null,"title":"No. 2 Aria 'E certo allor sei la regina d'ogn'altro fior' (Soprano)","pieceName":"Aria","descriptionName":null,"number":null,"workpart":18721471},"18721561":{"id":18721561,"popularTitle":null,"position":1,"structuralSubtitle":null,"subtitle":null,"title":"Col partir la bella Clori","pieceName":null,"descriptionName":"Col partir la bella Clori","number":null,"workpart":18721560},"18721611":{"id":18721611,"popularTitle":null,"position":1,"structuralSubtitle":null,"subtitle":null,"title":"Suite for Harpsichord No. 9 in G major (Prélude et Chaconne avec LXII Variations) HWV 442 (Arr. for Viola da gamba and Basso continuo)","pieceName":null,"descriptionName":null,"number":null,"workpart":18721610}},"playlists":{},"personalPlaylists":{},"profiles":{},"recordings":{"24358304":{"created_at":1529749084261,"conductor":null,"ensembles":[],"albums":["4288d542-9efb-4a8a-ab2d-f7ed6f791306","caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"],"id":24358304,"isExclusive":false,"isPremium":true,"location":null,"recordingDate":{"fromKeyword":"℗","from":"2017","to":null},"recordingType":null,"summary":"Robin Müller, Hille Perl, Lee Santana","soloists":[{"person":18676032,"instrument":3265},{"person":11578302,"instrument":3271},{"person":17304713,"instrument":3319}],"venue":null,"work":18721067,"interestGroups":[5,62,66,103,1005],"tags":[]},"24358472":{"created_at":1529749165958,"conductor":null,"ensembles":[17241902],"albums":["4288d542-9efb-4a8a-ab2d-f7ed6f791306","caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"],"id":24358472,"isExclusive":false,"isPremium":true,"location":null,"recordingDate":{"fromKeyword":"℗","from":"2017","to":null},"recordingType":null,"summary":"Dorothee Mields, Hille Perl, La Folia Barockorchester","soloists":[{"person":11593844,"instrument":3232},{"person":11578302,"instrument":3271}],"venue":null,"work":18721146,"interestGroups":[66,103,1004],"tags":[]},"24358488":{"created_at":1529749170972,"conductor":null,"ensembles":[],"albums":["4288d542-9efb-4a8a-ab2d-f7ed6f791306","caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"],"id":24358488,"isExclusive":false,"isPremium":true,"location":null,"recordingDate":{"fromKeyword":"℗","from":"2017","to":null},"recordingType":null,"summary":"Hille Perl, Lee Santana, Philipp Comploi","soloists":[{"person":11578302,"instrument":3271},{"person":17304713,"instrument":3319},{"person":18676059,"instrument":3277}],"venue":null,"work":14507264,"interestGroups":[5,62,66,103,1005],"tags":[]},"24358525":{"created_at":1529749177699,"conductor":null,"ensembles":[17241902],"albums":["caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"],"id":24358525,"isExclusive":false,"isPremium":true,"location":null,"recordingDate":{"fromKeyword":"℗","from":"2017","to":null},"recordingType":null,"summary":"Dorothee Mields, Hille Perl, La Folia Barockorchester","soloists":[{"person":11593844,"instrument":3232},{"person":11578302,"instrument":3271}],"venue":null,"work":14349145,"interestGroups":[66,103,1004],"tags":[]},"24358555":{"created_at":1529749180654,"conductor":null,"ensembles":[],"albums":["4288d542-9efb-4a8a-ab2d-f7ed6f791306","caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"],"id":24358555,"isExclusive":false,"isPremium":true,"location":null,"recordingDate":{"fromKeyword":"℗","from":"2017","to":null},"recordingType":null,"summary":"Andreas Küppers","soloists":[{"person":18676143,"instrument":11248989}],"venue":null,"work":18721432,"interestGroups":[7,51,65,103,1006],"tags":[]},"24358567":{"created_at":1529749186599,"conductor":null,"ensembles":[17241902],"albums":["4288d542-9efb-4a8a-ab2d-f7ed6f791306","caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"],"id":24358567,"isExclusive":false,"isPremium":true,"location":null,"recordingDate":{"fromKeyword":"℗","from":"2017","to":null},"recordingType":null,"summary":"Dorothee Mields, Hille Perl, La Folia Barockorchester","soloists":[{"person":11593844,"instrument":3232},{"person":11578302,"instrument":3271}],"venue":null,"work":18721466,"interestGroups":[66,103,1004],"tags":[]},"24358597":{"created_at":1529749190440,"conductor":null,"ensembles":[],"albums":["4288d542-9efb-4a8a-ab2d-f7ed6f791306","caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"],"id":24358597,"isExclusive":false,"isPremium":true,"location":null,"recordingDate":{"fromKeyword":"℗","from":"2017","to":null},"recordingType":null,"summary":"Hille Perl, Lee Santana","soloists":[{"person":11578302,"instrument":3271},{"person":17304713,"instrument":3319}],"venue":null,"work":18721555,"interestGroups":[5,62,66,103,1005],"tags":[]},"24358611":{"created_at":1529749193514,"conductor":null,"ensembles":[17241902],"albums":["4288d542-9efb-4a8a-ab2d-f7ed6f791306","caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"],"id":24358611,"isExclusive":false,"isPremium":true,"location":null,"recordingDate":{"fromKeyword":"℗","from":"2017","to":null},"recordingType":null,"summary":"Hille Perl, La Folia Barockorchester","soloists":[{"person":11578302,"instrument":3271}],"venue":null,"work":18721605,"interestGroups":[5,66,103,1005],"tags":[]},"24400687":{"created_at":1529855975752,"conductor":null,"ensembles":[17241902],"albums":["caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"],"id":24400687,"isExclusive":false,"isPremium":true,"location":null,"recordingDate":{"fromKeyword":"℗","from":"2017","to":null},"recordingType":null,"summary":"Dorothee Mields, Hille Perl, La Folia Barockorchester","soloists":[{"person":11593844,"instrument":3232},{"person":11578302,"instrument":3271}],"venue":null,"work":11973232,"interestGroups":[66,103,1004],"tags":[]},"24400738":{"created_at":1529855991836,"conductor":null,"ensembles":[17241902],"albums":["caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"],"id":24400738,"isExclusive":false,"isPremium":true,"location":null,"recordingDate":{"fromKeyword":"℗","from":"2017","to":null},"recordingType":null,"summary":"Dorothee Mields, Hille Perl, La Folia Barockorchester","soloists":[{"person":11593844,"instrument":3232},{"person":11578302,"instrument":3271}],"venue":null,"work":11973232,"interestGroups":[66,103,1004],"tags":[]}},"recordingTypes":{},"tracks":{"24358314":{"id":24358314,"duration":613,"position":1,"piece":18721073,"recording":24358304},"24358482":{"id":24358482,"duration":199,"position":1,"piece":18721153,"recording":24358472},"24358498":{"id":24358498,"duration":119,"position":1,"piece":14507270,"recording":24358488},"24358505":{"id":24358505,"duration":118,"position":2,"piece":14507273,"recording":24358488},"24358512":{"id":24358512,"duration":50,"position":3,"piece":14507276,"recording":24358488},"24358519":{"id":24358519,"duration":83,"position":4,"piece":14507279,"recording":24358488},"24358535":{"id":24358535,"duration":169,"position":1,"piece":14349151,"recording":24358525},"24358542":{"id":24358542,"duration":47,"position":2,"piece":14349154,"recording":24358525},"24358549":{"id":24358549,"duration":131,"position":3,"piece":14349157,"recording":24358525},"24358563":{"id":24358563,"duration":63,"position":1,"piece":18721438,"recording":24358555},"24358577":{"id":24358577,"duration":256,"position":1,"piece":18721472,"recording":24358567},"24358584":{"id":24358584,"duration":54,"position":2,"piece":18721475,"recording":24358567},"24358591":{"id":24358591,"duration":156,"position":3,"piece":18721478,"recording":24358567},"24358606":{"id":24358606,"duration":354,"position":1,"piece":18721561,"recording":24358597},"24358620":{"id":24358620,"duration":901,"position":1,"piece":18721611,"recording":24358611},"24400697":{"id":24400697,"duration":354,"position":1,"piece":11973238,"recording":24400687},"24400704":{"id":24400704,"duration":58,"position":3,"piece":13937684,"recording":24400687},"24400711":{"id":24400711,"duration":308,"position":5,"piece":13937689,"recording":24400687},"24400718":{"id":24400718,"duration":24,"position":7,"piece":13937710,"recording":24400687},"24400725":{"id":24400725,"duration":162,"position":9,"piece":13937751,"recording":24400687},"24400732":{"id":24400732,"duration":30,"position":11,"piece":13937785,"recording":24400687},"24400748":{"id":24400748,"duration":160,"position":1,"piece":11973238,"recording":24400738}},"users":{},"workparts":{"11973237":{"id":11973237,"isOverture":false,"position":1,"title":null,"work":11973232},"14349150":{"id":14349150,"isOverture":false,"position":1,"title":null,"work":14349145},"14507269":{"id":14507269,"isOverture":null,"position":1,"title":null,"work":14507264},"18721072":{"id":18721072,"isOverture":null,"position":1,"title":null,"work":18721067},"18721152":{"id":18721152,"isOverture":null,"position":1,"title":null,"work":18721146},"18721437":{"id":18721437,"isOverture":null,"position":1,"title":null,"work":18721432},"18721471":{"id":18721471,"isOverture":null,"position":1,"title":null,"work":18721466},"18721560":{"id":18721560,"isOverture":null,"position":1,"title":null,"work":18721555},"18721610":{"id":18721610,"isOverture":null,"position":1,"title":null,"work":18721605}},"works":{"11973232":{"_key":"Cantata Tra le fiamme Il consiglio  HWV 170 ~ 11973232","id":11973232,"defaultRecordingId":24400738,"authors":["composer11973232","text11973232"],"composer":61214,"compositionYear":"1707","epoch":2488,"genre":2536,"subgenre":{"id":26634073,"title":"Solo Cantata","_key":"Solo Cantata ~ 26634073"},"tonality":{},"opusNumber":"","number":"","popularTitle":null,"structuralSubtitle":null,"subtitle":null,"title":"Cantata 'Tra le fiamme' (Il consiglio)  HWV 170"},"14349145":{"_key":"Cantata Nò se emenderá jamás HWV 140 ~ 14349145","id":14349145,"defaultRecordingId":24358525,"authors":["composer14349145"],"composer":61214,"compositionYear":"1707","epoch":2488,"genre":2536,"subgenre":{"id":26634073,"title":"Solo Cantata","_key":"Solo Cantata ~ 26634073"},"tonality":{},"opusNumber":"","number":"","popularTitle":null,"structuralSubtitle":"Cantata spagnuola a voce sola e Chitarra","subtitle":null,"title":"Cantata 'Nò se emenderá jamás' HWV 140"},"14507264":{"_key":"Sonata for Viola da gamba and Basso continuo in G minor HWV 364b ~ 14507264","id":14507264,"defaultRecordingId":24358488,"authors":["composer14507264"],"composer":61214,"compositionYear":"1724","epoch":2488,"genre":2530,"subgenre":{"id":2728,"title":"Other Chamber Music","_key":"Other Chamber Music ~ 2728"},"tonality":{"id":2914,"title":"G minor","_key":"G minor ~ 2914"},"opusNumber":"","number":"","popularTitle":null,"structuralSubtitle":null,"subtitle":null,"title":"Sonata for Viola da gamba and Basso continuo in G minor HWV 364b"},"18721067":{"_key":"Chaconne Suite No 2 for Harpsichord in G major HWV 435  Arr for Violin, Viola da gamba and Lute ~ 18721067","id":18721067,"defaultRecordingId":24358304,"authors":["composer18721067"],"composer":61214,"compositionYear":"1705","epoch":2488,"genre":2530,"subgenre":{"id":11010682,"title":"Mixed Trio","_key":"Mixed Trio ~ 11010682"},"tonality":{},"opusNumber":"","number":"","popularTitle":null,"structuralSubtitle":null,"subtitle":null,"title":"Chaconne (Suite No. 2) for Harpsichord in G major HWV 435  (Arr. for Violin, Viola da gamba and Lute)"},"18721146":{"_key":"Cantata La bianca Rosa HWV 160b Second version ~ 18721146","id":18721146,"defaultRecordingId":24358472,"authors":["composer18721146"],"composer":61214,"compositionYear":"1724","epoch":2488,"genre":2536,"subgenre":{"id":26634073,"title":"Solo Cantata","_key":"Solo Cantata ~ 26634073"},"tonality":{},"opusNumber":"","number":"","popularTitle":null,"structuralSubtitle":null,"subtitle":null,"title":"Cantata 'La bianca Rosa' HWV 160b (Second version)"},"18721432":{"_key":"Air for Keyboard in D minor HWV 461 ~ 18721432","id":18721432,"defaultRecordingId":24358555,"authors":["composer18721432"],"composer":61214,"compositionYear":"1717","epoch":2488,"genre":2533,"subgenre":{"id":2794,"title":"Other Keyboard Music (Single Pieces)","_key":"Other Keyboard Music Single Pieces ~ 2794"},"tonality":{"id":814,"title":"D minor","_key":"D minor ~ 814"},"opusNumber":"","number":"","popularTitle":null,"structuralSubtitle":null,"subtitle":null,"title":"Air for Keyboard in D minor HWV 461"},"18721466":{"_key":"Cantata La bianca Rosa: Sei pur bella, pur vezzosa HWV 160c Third version ~ 18721466","id":18721466,"defaultRecordingId":24358567,"authors":["composer18721466"],"composer":61214,"compositionYear":"1724","epoch":2488,"genre":2536,"subgenre":{"id":26634073,"title":"Solo Cantata","_key":"Solo Cantata ~ 26634073"},"tonality":{},"opusNumber":"","number":"","popularTitle":null,"structuralSubtitle":null,"subtitle":null,"title":"Cantata 'La bianca Rosa: Sei pur bella, pur vezzosa' HWV 160c (Third version)"},"18721555":{"_key":"Cantata Ah! che pur troppo è vero HWV 77: Aria Col partir la bella Clori Arr for Viola da gamba and Lute ~ 18721555","id":18721555,"defaultRecordingId":24358597,"authors":["composer18721555"],"composer":61214,"compositionYear":"1707","epoch":2488,"genre":2530,"subgenre":{"id":2671,"title":"String Duo","_key":"String Duo ~ 2671"},"tonality":{},"opusNumber":"","number":"","popularTitle":null,"structuralSubtitle":null,"subtitle":null,"title":"Cantata 'Ah! che pur troppo è vero' HWV 77: Aria 'Col partir la bella Clori' (Arr. for Viola da gamba and Lute)"},"18721605":{"_key":"Suite for Harpsichord No 9 in G major Prélude et Chaconne avec LXII Variations HWV 442 Arr for Viola da gamba and Basso continuo ~ 18721605","id":18721605,"defaultRecordingId":24358611,"authors":["composer18721605"],"composer":61214,"compositionYear":"1703","epoch":2488,"genre":2530,"subgenre":{"id":15565986,"title":"Solo instrument and Basso continuo","_key":"Solo instrument and Basso continuo ~ 15565986"},"tonality":{},"opusNumber":"","number":"","popularTitle":null,"structuralSubtitle":null,"subtitle":null,"title":"Suite for Harpsichord No. 9 in G major (Prélude et Chaconne avec LXII Variations) HWV 442 (Arr. for Viola da gamba and Basso continuo)"}},"mixes":{},"albums":{"caa82b7d-f1f5-43b8-9ee4-de05c0f8a501":{"uuid":"caa82b7d-f1f5-43b8-9ee4-de05c0f8a501","slug":"handel-C138E5DC-65E0-4636-8232-F54AB48B2E73","upc":"886446247014","tags":null,"copyright":"2017 Sony Music Entertainment Germany GmbH","copyrightYear":2017,"participants":[{"id":11593844,"type":"soloist","numOccurrences":14,"popularity":0.0285377075,"ensemble":null,"_key":"Mields, Dorothee ~ 11593844","participation":0.6363636363636364,"name":"Dorothee Mields","person":{"_instrumentKey":"Soprano ~ 3232","instrument":"Soprano","instrumentId":3232,"forename":"Dorothee","surname":"Mields"}},{"id":11578302,"type":"soloist","numOccurrences":21,"popularity":0.0122637542,"ensemble":null,"_key":"Perl, Hille ~ 11578302","participation":0.9545454545454546,"name":"Hille Perl","person":{"_instrumentKey":"Viola da Gamba ~ 3271","instrument":"Viola da Gamba","instrumentId":3271,"forename":"Hille","surname":"Perl"}},{"id":18676032,"type":"soloist","numOccurrences":1,"popularity":0.0005003641,"ensemble":null,"_key":"Müller, Robin ~ 18676032","participation":0.045454545454545456,"name":"Robin Müller","person":{"_instrumentKey":"Violin ~ 3265","instrument":"Violin","instrumentId":3265,"forename":"Robin","surname":"Müller"}},{"id":17304713,"type":"soloist","numOccurrences":6,"popularity":0.0135156189,"ensemble":null,"_key":"Santana, Lee ~ 17304713","participation":0.2727272727272727,"name":"Lee Santana","person":{"_instrumentKey":"Lute ~ 3319","instrument":"Lute","instrumentId":3319,"forename":"Lee","surname":"Santana"}},{"id":18676059,"type":"soloist","numOccurrences":4,"popularity":0.0001723433,"ensemble":null,"_key":"Comploi, Philipp ~ 18676059","participation":0.18181818181818182,"name":"Philipp Comploi","person":{"_instrumentKey":"Violoncello ~ 3277","instrument":"Violoncello","instrumentId":3277,"forename":"Philipp","surname":"Comploi"}},{"id":18676143,"type":"soloist","numOccurrences":1,"popularity":0.0009296522,"ensemble":null,"_key":"Küppers, Andreas ~ 18676143","participation":0.045454545454545456,"name":"Andreas Küppers","person":{"_instrumentKey":"Fortepiano ~ 11248989","instrument":"Fortepiano","instrumentId":11248989,"forename":"Andreas","surname":"Küppers"}},{"id":17241902,"type":"ensemble","numOccurrences":15,"popularity":0.0008597522,"ensemble":{"function":"orchestra"},"person":null,"_key":"La Folia Barockorchester ~ 17241902","participation":0.6818181818181818,"name":"La Folia Barockorchester"},{"id":61214,"type":"composer","numOccurrences":22,"popularity":0.18769435,"ensemble":null,"_key":"Handel, George Frideric ~ 61214","participation":1,"name":"George Frideric Handel","person":{"_instrumentKey":null,"instrument":null,"instrumentId":null,"forename":"George Frideric","surname":"Handel"}}],"publishDate":"2017-10-06","trackIds":["24400697","24400704","24400711","24400718","24400725","24400732","24400748","24358314","24358482","24358498","24358505","24358512","24358519","24358535","24358542","24358549","24358563","24358577","24358584","24358591","24358606","24358620"],"bookletUrl":"https:\u002F\u002Fbooklets.idagio.com\u002F886446247014.pdf","title":"Händel","description":"","longDescription":"","interestGroupIds":["66","103","1004"],"id":"caa82b7d-f1f5-43b8-9ee4-de05c0f8a501","imageUrl":"https:\u002F\u002Fidagio-images.global.ssl.fastly.net\u002Falbums\u002F886446247014\u002Fmain.jpg","tracks":[24400697,24400704,24400711,24400718,24400725,24400732,24400748,24358314,24358482,24358498,24358505,24358512,24358519,24358535,24358542,24358549,24358563,24358577,24358584,24358591,24358606,24358620]}},"authorGroups":{"composer11973232":{"key":"composer","authorType":"Composer","persons":[61214]},"text11973232":{"key":"text","authorType":"Text","persons":[15407281]},"composer18721067":{"key":"composer","authorType":"Composer","persons":[61214]},"composer18721146":{"key":"composer","authorType":"Composer","persons":[61214]},"composer14507264":{"key":"composer","authorType":"Composer","persons":[61214]},"composer14349145":{"key":"composer","authorType":"Composer","persons":[61214]},"composer18721432":{"key":"composer","authorType":"Composer","persons":[61214]},"composer18721466":{"key":"composer","authorType":"Composer","persons":[61214]},"composer18721555":{"key":"composer","authorType":"Composer","persons":[61214]},"composer18721605":{"key":"composer","authorType":"Composer","persons":[61214]}},"ads":{},"sonosQueues":{},"sonosTracks":{},"livestreamEvents":{},"livestreamEventsCategory":{"livestream-livenow":{"id":"livestream-livenow","slug":"livenow","count":1,"events":[{"id":"5xCu7b3rmtQZukP1PLylS8","slug":"thomas-hampsons-world-of-song-no-4","title":"Thomas Hampson’s World of Song No. 4","description":"Tune in with baritone Thomas Hampson and special guests every Tuesday evening for insights into some of their favorite repertoire and recordings.","tags":[{"id":"10451543","title":"Exclusive"},{"id":"6953851","title":"Live"}],"body":{"data":{},"content":[{"data":{},"content":[{"data":{},"marks":[],"value":"Tune in with baritone Thomas Hampson and special guests every Tuesday evening for insights into some of their favorite repertoire and recordings.","nodeType":"text"}],"nodeType":"paragraph"},{"data":{},"content":[{"data":{},"marks":[{"type":"bold"}],"value":"Listen on IDAGIO","nodeType":"text"}],"nodeType":"heading-2"},{"data":{},"content":[{"data":{},"content":[{"data":{},"content":[{"data":{},"marks":[],"value":"","nodeType":"text"},{"data":{"uri":"https:\u002F\u002Fapp.idagio.com\u002Fprofiles\u002Fthomas-hampson\u002F"},"content":[{"data":{},"marks":[{"type":"underline"}],"value":"Listen to Thomas Hampson's full discography","nodeType":"text"}],"nodeType":"hyperlink"},{"data":{},"marks":[],"value":"","nodeType":"text"}],"nodeType":"paragraph"}],"nodeType":"list-item"},{"data":{},"content":[{"data":{},"content":[{"data":{},"marks":[],"value":"","nodeType":"text"},{"data":{"uri":"https:\u002F\u002Fapp.idagio.com\u002Fplaylists\u002Fthomas-hampson-s-world-of-song-the-funny-playlist"},"content":[{"data":{},"marks":[{"type":"underline"}],"value":"Listen to the playlist of this episode","nodeType":"text"}],"nodeType":"hyperlink"},{"data":{},"marks":[],"value":"\n\n","nodeType":"text"}],"nodeType":"paragraph"}],"nodeType":"list-item"}],"nodeType":"unordered-list"},{"data":{},"content":[{"data":{},"marks":[],"value":"\n\n","nodeType":"text"}],"nodeType":"paragraph"}],"nodeType":"document"},"creditor":{"partnerLegalName":"Thomas Hampson - for Stories only","partnerAddress":"c\u002Fo IDAGIO GmbH\nTempelhofer Ufer 17\n10963 Berlin\nGERMANY"},"start":"2020-05-19T19:00+02:00","end":"2123-05-02T20:00+02:00","imageUrl":"https:\u002F\u002Fimages.ctfassets.net\u002F5m0ydyy0x2bv\u002F62yG6nRfydafutBv3u4pKG\u002F026cdac04ef4cb3fe2fa60c770d5090b\u002FIDAGIOLive-TH-apr16-article.png","video":{"autoPlay":true,"chatEnabled":false,"showControls":true,"name":"Thomas Hampson’s World of Song No. 4","source":"vimeo","videoId":"419067642"},"priceTemplate":{"name":"Free","isFixedPrice":true,"minEur":0,"minGbp":null,"minUsd":null,"maxEur":null,"maxGbp":null,"maxUsd":null},"pusherChannel":"ls-5xCu7b3rmtQZukP1PLylS8","unlisted":false,"isMain":true,"type":"story","location":"","featuredArtists":[{"id":10544656,"profileId":10544656,"name":"Thomas Hampson","imageUrl":"https:\u002F\u002Fidagio-images.global.ssl.fastly.net\u002Fartists\u002F10544656\u002Fmain.jpg","functions":["soloist"],"externalUrl":null}],"featuredEventsAndAudios":[],"composers":[],"hosts":[],"participants":[{"id":10544656,"profileId":10544656,"type":"artist","name":"Thomas Hampson","numOccurrences":0,"ensemble":null,"person":null}]}]}},"content":{}},"lists":{"moods":{"loading":false,"loaded":false},"composers":{"loading":false,"loaded":false,"loadedCursors":{},"entities":[]},"instruments":{"loading":false,"loaded":false},"genres":{"loading":false,"loaded":false},"epochs":{"loading":false,"loaded":false},"ensembles":{"loading":false,"loaded":false,"loadedCursors":{},"entities":[]},"collection":{"tracks":{"loading":false,"loaded":false,"loadedCursors":{},"entities":[]},"recordings":{"loading":false,"loaded":false,"loadedCursors":{},"entities":[]},"playlists":{"loading":false,"loaded":false,"loadedCursors":{},"entities":[]},"albums":{"loading":false,"loaded":false,"loadedCursors":{},"entities":[]},"artists":{"loading":false,"loaded":false,"loadedCursors":{},"entities":[]},"livestreamEvents":{"loading":false,"loaded":false,"loadedCursors":{},"entities":[]},"ids":{"loading":false,"loaded":false,"error":null,"entities":{"trackIds":[],"recordingIds":[],"playlistIds":[],"albumIds":[],"artistIds":[],"livestreamEventIds":[]}}},"soloists":{"loading":false,"loaded":false,"loadedCursors":{},"entities":[]},"conductors":{"loading":false,"loaded":false,"loadedCursors":{},"entities":[]},"personalPlaylists":{"loading":false,"loaded":true,"loadedCursors":{},"entities":[]},"ads":{"loading":false,"loaded":false,"entities":[]},"myEvents":{"loading":false,"loaded":false,"loadedCursors":{},"entities":[]},"radios":{"loading":false,"loaded":false,"entities":[]},"recommendations":{"loading":false,"loaded":false,"entities":[]}},"maps":{"recordingsByFilter":{},"recordingsByWork":{},"workFacets":{},"recordingFacets":{},"topRecordingFacetsByFilter":{},"topWorkFacetsByFilter":{},"playlists":{},"personalPlaylists":{},"mixes":{},"albums":{"loading":false,"handel-C138E5DC-65E0-4636-8232-F54AB48B2E73":{"loading":false,"loaded":true,"meta":{},"entities":"caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"}},"albumFacets":{},"albumsByFilter":{},"albumsByRecording":{},"topAlbumFacetsByFilter":{},"worksByFilter":{},"trackUrls":{},"playlistsByFilter":{},"livestreamEvents":{},"livestreamEventsCategory":{"livenow":{"loading":false,"loaded":true,"meta":{},"entities":"livestream-livenow"}},"discoverGroups":{},"discoverPages":{}},"indexes":{"artistIdBySlug":{}},"auth":{"isAuthenticated":false,"loading":false,"authIsWorking":false,"authenticationType":null,"accessToken":null,"sessionToken":"ZJfk0HMkq8HWgsAPz9gtEXHRM612sotVxT6Q74006A59DUuqdwiv_2cIjzxS8QSQa22Z0mM10XtV6byTMuyo2oJVa5YpYLTAyhRyrbzsK9cYTfPvwzqDwBdUKsP9kDaMl4PajhVH974mxP7SWRygIRedh6Xkp-ppTjO1AvZZQ-ThjS4VfZu_vj79oB1Qc2XJ1IgHjKOT2Zdd58vr-kMrhGz4fZUXE4L-OpS09itH-g2DF2kzRnEH7QsdTJ8U_tIw","trackingToken":"CqHntdmCYac7hdOOQz6QBKYyGEz3RGaK","changePasswordLoading":false,"resetPasswordLoading":false},"me":{"loading":false,"loaded":false,"requestedAt":null},"subscription":{"loading":false,"loaded":false},"routing":{"locationBeforeTransitions":null},"analyticsProgressBuffer":{},"analyticsPlayback":{},"recentlyPlayed":{"loading":false,"loaded":false},"sonos":{"connection":{"groups":[{"address":"","groupId":"this-device","groupName":"","householdId":""}],"connectedGroup":"this-device","isConnected":false,"sessionId":null},"queues":{}},"incomingVoucher":null,"subscriptionOffer":{"fromId":"lp-idagio-subscribe-modal-1","price":9.99,"relativeDiscount":null,"reducedPriceDuration":null,"trialDurationInDays":14,"displayNName":null,"trackingName":null},"stripe":{"stripePaymentIntentToken":null,"revalidatedAt":null,"usedTokens":[]},"ads":{"secondsSinceLastAd":0,"adsPlayedInSession":0,"currentlyPlayingAdId":null,"currentlyPlayingAd":null,"currentAdQueue":null},"liveCompare":{"loaded":false,"available":null,"currentlyOn":false,"work":null,"piece":null,"recordings":[],"composer":null,"playback":{"active":null,"playingRecordingIndex":-1,"hasPlayedIndices":{},"isSwitching":false,"hasSwitched":false},"inactivityTooltipDismissed":false},"livestreamEventsTickets":{"tickets":[]},"download":{"entitiesDownloadInfo":{}},"localListSearch":{}};
+			window.__sentry_dsn__ = "https:\u002F\u002F46f5f59b617c4a38a8da3fd042214916@sentry.io\u002F53289";
+			window.__sentry_tracing_sampling_rate__ = "0.05"
+			window.__app_version__ = "18.2.9";
+			window.__env__ = "production";
+			window.__api_base__ = "https:\u002F\u002Fapi.idagio.com";
+			window.__encryption_enabled__ = "1";
+			window.__error__ = false;
+			window.__locale_messages__ = {"ok":"D'accord","menu.about":"À propos d'IDAGIO","menu.help":"Aide &amp; Contact","account.logout":"Se déconnecter","account.login":"Se connecter","account.create":"Créer un compte","account.email-label":"Adresse email","account.general-terms":"Conditions générales (CG)","search.placeholder":"Rechercher des compositeurs, interprètes, œuvres, albums et playlists","search.no_results":"Désolé, nous n'avons rien trouvé. Veuillez saisir un autre mot-clé.","collection.tracks":"Titres","collection.recordings":"Enregistrements","collection.playlists":"Playlists","collection.albums":"Albums","collection.empty.heading":"Créez votre propre collection classique","discover.meta.title":"Découvrez la musique classique | Écoutez en streaming, même hors-ligne | IDAGIO","discover.meta.description":"Découvrez le meilleur de la musique classique sur IDAGIO, avec des playlists sur mesure, des nouveautés, des albums primés et bien plus encore!","discover.weeklymix.description":"Votre Playlist Hebdomadaire est une sélection automatique de titres, basée sur vos goûts personnels. {listenNowLink}","discover.weeklymix.cta":"Écouter maintenant.","account.payment.card-number-label":"Numéro de carte","account.payment.cvc-label":"Cryptogramme","account.payment.expiration-date-label":"Date d'expiration","forgot-password.header":"Mot de passe oublié ?","forgot-password.text":"Entrez votre adresse email ci-dessous pour obtenir un nouveau mot de passe.","forgot-password.button":"Obtenir un nouveau mot de passe","collection.button.in-collection":"Dans ma collection","collection.button.save":"Sauvegarder dans ma collection","tags.popular":"POPULAIRE","account.audio-quality.browser-support-notice":"Malheureusement, votre navigateur ne prend pas en charge la lecture audio sans perte. Pour une meilleure expérience IDAGIO, veuillez téléchargez notre application.","coupon.notifications.error":"Oups, le code n'a pas fonctionné. Veuillez vérifier de l'avoir correctement saisi, et contactez-nous si le problème persiste.","coupon.notifications.success":"Votre code a été enregistré avec succès. Bonne écoute!","coupon.notifications.working":"Code en cours de vérification","playlist.meta.description":"Envie d'écouter notre playlist {title}? Écoutez votre playlist classique préférée dès maintenant sur IDAGIO","playlist.description.read-more":"Lire la suite...","recording.all-recordings-of":"Tous les enregistrements de \"{workTitle}\"","recording.meta.description":"Écoutez {title} de {composerName}, interprété par {summary}. Découvrez et comparez avec d'autres enregistrements.","profile.meta.description":"Écoutez des œuvres, des enregistrements et des albums de {name} dans une qualité audio exceptionnelle. Écoutez maintenant sur IDAGIO.","profile.nav.about":"À propos","profile.nav.recordings":"Enregistrements","profile.nav.works":"Œuvres","error.not-found.title":"Aucun résultat","error.server.title":"Erreur du serveur","error.text":"Oups, quelque chose n'a pas fonctionné. Nous y travaillons.","error.contact":"Si cela se reproduit, {link}","error.contact-link":"faites-le-nous savoir","shortcuts.keys.space":"espace","shortcuts.def.play-pause":"Jouer ou mettre en pause","shortcuts.def.seek-forward":"Avancer (5 secondes)","shortcuts.def.seek-backward":"Revenir (5 secondes)","shortcuts.def.skip-next":"Passer au prochain titre dans la file d'attente","shortcuts.def.skip-prev":"Revenir au titre précédent dans la file d'attente","shortcuts.def.volume-up":"Augmenter le volume","shortcuts.def.volume-down":"Baisser le volume","shortcuts.def.fav-add":"Ajouter ce titre à la collection","shortcuts.def.nav-to-queue":"Aller à la file d'attente","shortcuts.def.start-search":"Démarrer la recherche","shortcuts.def.show-hide-shortcuts":"Montrer\u002Fcacher les raccourcis clavier","periods.meta.title":"Périodes","periods.meta.description":"Trouvez et jouez instantanément la musique classique de notre répertoire, y compris les enregistrement d'artistes classiques et contemporains. Parcourez le catalogue par compositeur, interprète, instrument, genre ou époque.","periods.title":"Périodes","composers.meta.title":"Compositeurs","composers.meta.description":"Trouvez et jouez la musique classique de centaines de compositeurs. Comparez les enregistrements entre eux et parcourez le catalogue par interprète.","composers.title":"Compositeurs","conductors.meta.title":"Chefs d'orchestre","conductors.meta.description":"Trouvez et jouez la musique de centaines de chefs d'orchestre. Comparez les enregistrements entre eux et parcourez le catalogue par chef d'orchestre.","conductors.title":"Chefs d'orchestre","soloists.meta.title":"Solistes","soloists.meta.description":"Trouvez et jouez la musique de centaines de solistes. Comparez les enregistrements entre eux et parcourez le catalogue par soliste.","soloists.title":"Solistes","instruments.meta.title":"Instruments","instruments.meta.description":"Trouvez et jouez instantanément les instruments en vedette de notre répertoire, y compris les enregistrement d'artistes classiques et contemporains.","instruments.title":"Instruments","genres.title":"Genres","genres.meta.title":"Genres","genres.meta.description":"Trouvez et jouez instantanément les divers genres classiques de notre répertoire, y compris les enregistrement d'artistes classiques et contemporains.","category-page.meta.description":"Trouvez et jouez instantanément les {categoryTitle} de musique classique de notre répertoire, y compris les enregistrement d'artistes classiques et contemporains. Parcourez le catalogue par compositeur, interprète, instrument, genre ou période.","recording-sort.sort":"trier","recording-sort.recent":"ajouté récemment","recording-sort.alphabetical":"a-z","recording-sort.chronological":"Date","ensembles.title":"Ensembles","ensembles.meta.title":"Ensembles","ensembles.meta.description":"Trouvez et jouez les enregistrements classiques de centaines d'ensembles. Comparez les enregistrements entre eux et parcourez le catalogue par compositeur.","mood.error.heading":"Oups, quelque chose n'a pas fonctionné.","mood.error.body":"Si rafraîchir la page ne règle pas le problème, {contactLink}","mood.error.contact-us":"Faites-le-nous savoir","mood.meta.description":"D'humeur {moodTitle} ? Nous avons la parfaite playlist de musique classique {moodTitle}, faite sur mesure par notre équipe d'experts.","mood.track-info.share":"Partager ce titre","moods.meta.title":"Humeurs","moods.meta.description":"Découvrez de nouvelles musiques classiques avec notre Mood Player. Nous avons la bande-son parfaite pour vous, faite sur mesure par notre équipe d'experts.","filtered-recording-list.no-recordings":"Aucun enregistrement ne correspond à ces critères.","filtered-recording-list.no-works":"Aucune œuvres ne correspond à ces critères.","notifications.account.creating":"Compte en cours de création","notifications.premium.complete":"Procédure d'abonnement validée.","notifications.api-error":"Quelque chose n'a pas fonctionné. Nous y travaillons.","notifications.playback-error":"Oups, une erreur est survenue pendant la lecture. Veuillez réessayer.","notifications.not-found":"Erreur 404 - Page introuvable","notifications.not-authorised":"La connexion a échouée, veuillez réessayer","notifications.offline":"Vous êtes actuellement hors-ligne. Veuillez vous reconnecter à internet puis réessayer.","filtered-recording-list.play-all":"Jouer tous les enregistrements","filtered-recording-list.play-selected-recordings":"Jouer {count, plural, one {# recording} other {# recordings}}","profile.functions.composer":"compositeur","profile.functions.soloist":"soliste","profile.functions.conductor":"chef d'orchestre","profile.functions.librettist":"librettiste","profile.functions.transcription":"transcription","profile.functions.text":"texte","profile.functions.translation":"traduction","profile.functions.compilation":"compilation","profile.functions.arrangement":"arrangement","profile.functions.completion":"parachèvement","profile.functions.choir":"chœur","profile.functions.orchestra":"orchestre","profile.functions.instrumental-ensemble":"ensemble instrumental","profile.functions.chamber-music-ensemble":"ensemble de musique de chambre","profile.functions.string-quartet":"quatuor à cordes","profile.functions.piano-trio":"trio pour piano","profile.functions.string-trio":"trio à cordes","profile.functions.brass-ensemble":"ensemble de cuivres","profile.functions.vocal-ensemble":"ensemble vocal","account.error.create.invalid":"Veuillez saisir une adresse email ainsi qu'un mot de passe.","account.error.backend":"Oups, une erreur est survenue.","account.error.create.duplicate":"L'adresse email saisie est déjà enregistrée.","account.error.create.generic":"Oups, cela n'a pas fonctionné. Veuillez réessayer.","account.create.server-success":"Le compte a été crée avec succès ! Veuillez vous connecter pour continuer...","account.error.login.provide":"Veuillez fournir un nom d'utilisateur ainsi qu'un mot de passe.","account.error.login.incorrect":"Désolé, le nom d'utilisateur ou le mot de passe saisi est incorrect","account.password.error.no-auth":"Vous devez être connecté","account.password.error.not-complete":"Veuillez entrer un mot de passe et le confirmer","account.password.error.no-match":"Le mot de passe et sa confirmation ne concordent pas","account.password.error.generic":"Oups, une erreur est survenue lors du changement de mot de passe","account.password-forgot.success":"Un nouveau mot de passe a été envoyé à votre adresse e-mail.","account.password-change.success":"Votre mot de passe a été changé avec succès","account.password-reset.unknown-user":"Nous n'avons trouvé aucun compte correspondant à cette adresse email.","account.password-reset.generic":"Oups, cela n'a pas fonctionné. Veuillez réessayer.","filtered-list.type.works":"Œuvres","filtered-list.type.composers":"Compositeurs","filtered-list.type.ensembles":"Ensembles","filtered-list.type.conductors":"Chefs d'orchestre","filtered-list.type.soloists":"Solistes","filtered-list.type.recordingTypes":"Types d'enregistrement","filtered-list.type.instruments":"Instruments","filtered-list.type.genres":"Genres","filtered-list.type.epochs":"Périodes","filtered-list.type.isExclusive":"Exclusif","filtered-list.show-all":"Tout montrer {count} {type}","search.section.title.top":"Meilleurs résultats","search.section.title.recordings":"Enregistrements","search.section.title.compositions":"Œuvres","search.section.title.artists":"Artistes","search.section.title.popular":"Recherches populaires","search.section.title.recent":"Recherches récentes","account.payment.iban-label":"IBAN","account.payment.owner-name-label":"Nom","account.payment-option.card":"Carte bancaire","account.payment-option.sepa":"Prélèvement automatique","account.sepa-notice":"En fournissant vos informations bancaires et en confirmant ce paiement, vous autorisez IDAGIO GmbH et Stripe, nos services de paiement, à envoyer des consignes de débit à votre banque en accord avec nos instructions. Vous bénéficiez d'un droit au remboursement par votre banque, selon les conditions décrites dans la convention que vous avez passée avec elle. Toute demande de remboursement doit être présentée dans les 8 semaines suivant la date de débit de votre compte.","playback-not-supported-modal.text":"Le mode lecture pris en charge par votre navigateur. Nous vous recommandons de télécharger {chromeLink}.","notifications.no-playback-support":"Malheureusement, le mode lecture n'est pas pris en charge par votre navigateur.","account.privacy-policy":"Politique de confidentialité","subscribe-modal.payment-details.renew":"Renouvelez votre abonnement","subscribe-modal.payment-details.billed-now":"Montant facturé :","account.password-label":"Mot de passe","front-page.footer.imprint":"Mentions légale","front-page.footer.terms":"Termes et conditions","front-page.footer.privacy":"Politique de confidentialité","front-page.footer.cookie-policy":"En utilisant idagio.com, vous acceptez l'utilisation de nos cookies.","front-page.meta.title":"Découvrez la musique classique","front-page.meta.description":"Trouvez et jouez instantanément la musique classique de notre répertoire, y compris les enregistrements d'artistes classiques et contemporains. Parcourez notre catalogue par compositeurs, interprète, instruments, genres ou époque.","download-page.meta.title":"Découvrez la musique classique","download-page.meta.description":"Trouvez et jouez instantanément la musique classique de notre répertoire, y compris les enregistrements d'artistes classiques et contemporains. Parcourez notre catalogue par compositeurs, interprète, instruments, genres ou époque.","download-page.subheader":"Désormais sur votre mac ou windows","download-page.cta":"Télécharger l'application","download-page.version":"Version {version}","download-page.platforms.heading":"Écoutez où vous voulez","download-page.download.heading":"Téléchargez IDAGIO pour {client}","notifications.login.redirecting":"Redirection...","subscribe-modal.argument.no-commitments":"Sans engagement","subscribe-modal.argument.cancel-online":"Résiliez en ligne à tout moment","subscribe-modal.argument.recurring-monthly":"Paiements mensuels récurrents","subscribe-modal.argument.cancel-before":"Résiliez avant {endDate, date, medium} pour ne pas être facturé.","subscribe-modal.argument.no-commitments-new":"Sans engagement. Résiliez à tout moment.","subscribe-modal.continue-button.text":"Continuer","subscribe-modal.step-number.text":"Étape {step} sur {totalSteps}","subscribe-modal.price-per-month.text":"\u002F mois","subscribe-modal.step2.header":"Abonnez-vous à IDAGIO","account.payment.empty-error":"Veuillez remplir tous les champs avant de poursuivre","notifications.playback.started-from-other-device":"Lecture en cours dans une autre fenêtre du navigateur ou sur un autre appareil.","recording.share-recording":"Partager l'enregistrement","menu.recently-played":"Joué récemment","recently-played.meta.title":"Joué récemment","recently-played.meta.description":"Joué récemment","recently-played.header":"Joué récemment","recently-played.empty":"Les titres joués récemment apparaitront ici.","sonos-auth.login-step-1.header":"Démarrez votre période d'essai gratuite de {trialDuration} jours","sonos-auth.login-step-1.text":"Profitez pleinement de l'expérience IDAGIO gratuitement pendant {trialDuration} jours. Vous ne serez facturé qu'à la fin de vos {trialDuration} jours d'essais offerts. Sans engagement, résiliez à tout moment.","sonos-auth.login-step-1.price-text":"{trialDuration} jours offerts, puis","sonos-auth.connect-to-sonos.header":"Connectez SONOS à votre compte IDAGIO","sonos-auth.connect-to-sonos.data-text":"SONOS pourra recevoir les données de votre compte.","sonos-auth.back-to-sonos.header":"Vos comptes IDAGIO et SONOS ont été connecté avec succès.","search.section.title.playlists":"Playlists","search.section.title.albums":"Albums","shortcuts.def.repeat":"Activer le mode répétition","work.meta.description":"Écoutez {work} de {composer} en qualité audio exceptionnelle, sans perte.","playlist.share":"Partager la playlist","playlist.play-all.paused.title":"Lire la playlist","playlist.play-all.playing.title":"Mettre la playlist en pause","recording.play-all.paused.title":"Lire l'enregistrement","recording.play-all.playing.title":"Mettre l'enregistrement en pause","album.play-all.paused.title":"Lire l'album","album.play-all.playing.title":"Mettre l'album en pause","mix.play-all.paused.title":"Lire le mix","mix.play-all.playing.title":"Mettre le mix en pause","download-page.cta-with-client":"Télécharger l'application pour {client}","album.share":"Partager l'album","account.audio-quality.browser-support-notice.maybeLater":"Plus tard","landing.welcome-modal":"Bienvenu chez IDAGIO","landing.welcome-modal-paragraph":"Téléchargez l'application pour profiter pleinement de la meilleure expérience de streaming.","landing.welcome-modal-download":"Télécharger","landing.welcome-modal-link":"Utiliser l'application web","landing.install":"Cliquez sur le fichier d'installation pour le télécharger.","landing.install-paragraph":"Si votre téléchargement ne démarre pas,","landing.install-link":"réessayer","account.signup.email-not-valid":"Veuillez saisir une adresse email valide","sonos-auth.back-to-sonos.idagio-app":"Une fois terminé, vous pouvez utiliser IDAGIO via votre appareil SONOS - y compris les fonctions de recherche détaillée et de filtrage.","sonos-auth.back-to-sonos.collection-text":"Chaque titre ou œuvres ajoutés à votre collection IDAGIO sera aussi automatiquement disponible sur l'application SONOS.","account.payment.card-number-tooltip":"Bien qu'il n'y ait aucune facturation initiale, nous utilisons vos informations bancaires pour déterminer votre pays de résidence et nous assurer que vous restiez abonné à IDAGIO lorsque votre période d'essai touche à sa fin. Si vous résiliez avant la fin de votre période d'essai gratuite, vous ne serez pas facturé.","account.payment.iban-placeholder":"VOTRE NOM","sonos.successpage.stage-heading":"Vous y êtes presque","sonos.successpage.stage-paragraph":"Veuillez retourner sur l'application SONOS pour y autoriser votre compte IDAGIO.","sonos.successpage.stage-cta-idagio":"Télécharger IDAGIO","sonos.successpage.stage-cta-sonos":"Télécharger SONOS","sonos.successpage.question-heading":"Questions?","sonos.successpage.question-paragraph":"Si vous avec besoin d'aide au cours de ce processus, consultez nos FAQs pour plus d'informations, ou contactez notre équipe.","sonos.successpage.question-cta":"Consulter les FAQs","sonos.meta-title":"Avec vos enceintes SONOS, profitez pleinement de la musique classique.","sonos.meta-description":"IDAGIO s'est associé à Sonos pour vous offrir une qualité audio supérieure directement dans vos enceintes Sonos. Connectez votre compte à l'application Sonos et commencez à écouter.","profile.nav.albums":"Albums","filtered-recording-list.no-albums":"Aucun album ne correspond à ces critères.","sonos-auth.login-step-1.header-sonos-deal":"Profitez de {trialDurationInMonths} mois offerts.","sonos-auth.login-step-1.text-sonos-deal":"Enrichissez votre collection grâce à un accès illimité aux meilleurs labels classiques, à un mode lecture hors-ligne et à une qualité audio sans perte. Profitez de vos 2 premiers mois offerts, puis {price}. Sans engagement, résiliez à tout moment.","sonos-auth.login-step-1.price-text-sonos-deal":"Après {trialDurationInMonths} mois {price} \u002F mois","sonos-auth.login-step-1.header-expired-trial":"Veuillez mettre à jour votre compte IDAGIO","sonos-auth.login-step-1.upgrade-account":"Pour utiliser IDAGIO sur votre appareil Sonos, vous devez avoir un abonnement IDAGIO actif.","sonos-auth.login-step-1.text-expired-trial":"Abonnez-vous pour enrichir votre collection grâce à un accès à plus de 600 labels classiques, à un mode lecture hors-ligne et à une qualité audio sans perte.  Sans engagement, résiliez à tout moment.","sonos-auth.signup-form.description":"Bienvenu dans la meilleure collection de musique classique au monde.","filtered-album-list.play-all":"Lire tous les albums","filtered-album-list.play-selected-albums":"Lire {count, plural, one {# album} other {# albums}}","notifications.learn-more":"En savoir plus","menu.download-app":"Télécharger l'application","landing-page-us.notifyButton":"Me tenir informé","landing-page-us.button-desktop":"Essayer maintenant","landing-page-us.button-mobile":"Installer l'application","reduced-price-funnel.error.user-not-eligible":"Malheureusement, vous ne pouvez pas bénéficier de cette offre","stripe-errors.approve_with_id":"Le paiement n'a pas pu être autorisé.","stripe-errors.card_not_supported":"La carte bancaire ne prend pas en charge ce type d'achat.","stripe-errors.currency_not_supported":"La carte ne prend pas en charge la devise spécifiée.","stripe-errors.customer_exceeded":"Le client a dépassé le solde ou le plafond de crédit disponible sur sa carte.","stripe-errors.default":"Une erreur est survenue lors du traitement de votre carte.","stripe-errors.duplicate_transaction":"Une transaction avec un montant et une carte de crédit identiques a été soumise très récemment.","stripe-errors.expired_card":"Cette carte est expirée","stripe-errors.general":"Oups, quelque chose n'a pas fonctionné.","stripe-errors.incorrect_cvc":"Le cryptogramme visuel est incorrect.","stripe-errors.incorrect_number":"Le numéro de carte est incorrect.","stripe-errors.incorrect_pin":"Le code saisi est incorrect. Ce code de refus ne s'applique qu'aux paiements effectués avec un lecteur de carte.","stripe-errors.incorrect_zip":"Le code postal est incorrect.","stripe-errors.insufficient_funds":"La carte ne dispose pas de fonds suffisants pour effectuer l'achat.","stripe-errors.invalid_account":"La carte, ou le compte en banque lié, est incorrect.","stripe-errors.invalid_amount":"Le montant du paiement est incorrect, ou supérieur au montant autorisé.","stripe-errors.invalid_cvc":"Le cryptogramme visuel est incorrect.","stripe-errors.invalid_expiry_month":"Le mois d'expiration saisi est incorrect.","stripe-errors.invalid_expiry_year":"L'année d'expiration saisie est incorrecte.","stripe-errors.invalid_pin":"Le code saisi est incorrect. Ce code de refus ne s'applique qu'aux paiements effectués avec un lecteur de carte.","stripe-errors.issuer_not_available":"L'émetteur de la carte n'a pas pu être contacté, le paiement a donc été refusé.","stripe-errors.merchant_blacklist":"Le paiement a été refusé.","stripe-errors.new_account_information_available":"La carte, ou le compte en banque lié, est incorrect.","stripe-errors.not_permitted":"Le paiement n'a pas été autorisé.","stripe-errors.pickup_card":"La carte ne peut pas être utilisée pour effectuer ce paiement (elle a pû être déclarée volée ou perdue).","stripe-errors.pin_try_exceeded":"Le nombre de tentatives autorisées a été dépassé.","stripe-errors.processing_error":"Une erreur est survenue lors du traitement de la carte.","stripe-errors.reenter_transaction":"Le paiement n'a pas pû être traité par l'émetteur de la carte pour une raison inconnue.","stripe-errors.testmode_decline":"Un numéro test a été utilisé.","stripe-errors.declined-unknown-reason":"La carte a été refusée pour une raison inconnue.","notifications.sonos-disconnected":"Sonos a été déconnecté","sonos.group.internal-speaker":"Haut-parleur interne","sonos.group.this-device":"Cet appareil","sonos.groups.connect-to-device":"Se connecter à l'appareil","sonos.groups.dont-have-sonos":"Vous n'avez pas Sonos ? Nous travaillons à la prise en charge d'autres appareils.","sonos.groups.learn-more":"En savoir plus","sonos.groups.no-devices":"Pas d'appareil disponible","sonos.groups.no-devices-info":"Il n'y a actuellement aucun appareil Sonos disponible auquel se connecter.","account.facebook-connect.cancel":"Autorisations Facebook invalides","account.facebook-connect.success":"Vous vous êtes connecté à votre compte Facebook avec succès","account.facebook-disconnect.success":"Vous vous êtes déconnecté de votre compte Facebook avec succès","confirm-password.validate.button":"Valider","confirm-password.validate.header":"Validez votre compte","facebook.unlink.disabled.description":"Vous devez définir un mot de passe pour votre compte IDAGIO afin de le dissocier de votre compte Facebook.","login.options.password-confirm":"Cette adresse email a déjà été utilisée pour créer un compte IDAGIO. Pour continuer, veuillez entrer votre mot de passe IDAGIO.","signup.options.almost-done":"Vous y êtes presque","signup.options.continue":"Continuer","signup.options.terms-paragraph":"Pour terminer la configuration de votre compte, veuillez accepter les conditions suivantes:","button.cancel":"Annuler","button.save":"Sauvegarder","collection.button.remove":"Supprimer de ma collection","collection.playlists.curated":"Playlists de votre collection","collection.playlists.personal":"Vos Playlists","personal-playlists.create-button.text":"Créer une nouvelle playlist","personal-playlists.empty.intro":"Vous n'avez pas encore crée de playlist","personal-playlists.errors.empty-title":"Veuillez donner un titre à votre playlist","personal-playlists.track-count":"{trackCount, plural, one {# Track} other {# Tracks}}","playlist.add-modal.add-to-playlist.header":"Ajouter à une playlist","playlist.add-modal.create-playlist.button":"Créer une playlist","playlist.add-modal.create-playlist.header":"Créer une playlist","playlist.add-modal.create-playlist.input-title":"Titre de la playlist","playlist.add-to-playlist-button.text":"Ajouter à une playlist","playlist.edit-modal.delete-playlist.header":"Supprimer la playlist","playlist.edit-modal.delete-playlist.text":"Voulez-vous vraiment supprimer cette playlist ?","playlist.edit-modal.delete.button":"Supprimer","playlist.edit-modal.edit-playlist.header":"Modifier la playlist","playlist.notification.add":"Ajouté à la playlist","playlist.notification.create":"Playlist créee","playlist.notification.delete":"Playlist supprimée","playlist.notification.max-tracks":"Vous avez atteint la capacité maximum de votre playlist. Vous ne pouvez plus y ajouter de titres.","playlist.notification.remove":"Retiré de la playlist","playlist.notification.save":"Playlist enregistrée","playlist.title":"Titre de la playlist","generic-track-list.editable.context-menu.delete":"Supprimer","generic-track-list.editable.context-menu.edit":"Modifier","playlist-item.context-menu.add-to-playlist-text":"Ajouter à une playlist","playlist-item.context-menu.remove-from-playlist-text":"Retirer de la playlist","account.error.cancel.subscription":"La résiliation de votre abonnement a échouée. Veuillez réessayer ou contacter notre équipe.","recording-albums-heading":"L'enregistrement apparaît sur:","albums.meta.description":"Écoutez {albumName} par {artistName}. Dès maintenant sur IDAGIO","albums.meta.title":"{albumName} {upc} | Écoutez en streaming sur IDAGIO","profile.meta.title":"{name} | Écoutez en streaming sur IDAGIO","work.meta.title":"{work} de {composer} | Stream on IDAGIO","sonos-auth.back-to-sonos.sonos-controller":"Veuillez retourner dans l'application Sonos Controller pour finaliser l'autorisation.","app.meta.description":"La meilleure collection de musique classique dans une application. Découvrez, explorez et écoutez en streaming dès maintenant sur IDAGIO.","app.meta.keywords":"application de musique classique, streaming de musique classique, collection de musique classique, application de streaming de musique classique","app.meta.title":"La meilleure application de streaming de musique classique | IDAGIO","browse.meta.description":"Parcourez le catalogue par compositeur, interprète, instrument, genre, époque et bien plus encore!","browse.meta.keywords":"Parcourez le catalogue de musique classique, Parcourez le catalogue d'interprètes classiques, musique classique instrumentale, Mozart musique classique, Beethoven musique classique","browse.meta.title":"Parcourez les catalogues de genres, périodes et instruments classiques sur IDAGIO | IDAGIO","discover.meta.keywords":"Playlist de musique classique, découvrir la musique classique, albums musique classique, nouveautés classiques, playlists musique classique, écouter de la musique classique","genres.meta.keywords":"genres de musique classique, musique de chambre, concertos, orchestre de musique classique, chant classique, chant sacré, chant profane","instruments.meta.keywords":"piano musique classique, musique instrumentale classique, violon musique classique, guitare musique classique","personalPlaylist.meta.description":"Écoutez la playlist {title} sur IDAGIO. {description}","playlist.meta.keywords":"Écoutez nos playlists {title} en streaming sur idagio, playlists de musique classique","playlist.meta.title":"{title} | Écoutez en streaming sur IDAGIO","profile-albums.meta.description":"{name}: Discographie | Écoutez en streaming sur IDAGIO","profile-albums.meta.keywords":"{name} albums classiques,","profile-albums.meta.title":"Albums de {name} | Écoutez en streaming sur IDAGIO","profile-recordings.meta.description":"Écoutez tous les enregistrements de {name} en qualité audio sans perte. Écoutez en streaming dès maintenant sur IDAGIO","profile-recordings.meta.keywords":"{name} enregistrements classiques,","profile-recordings.meta.title":"Enregistrements de {name} | Écoutez en streaming sur IDAGIO","profile-works.meta.description":"Écoutez toutes les œuvres de {name} en qualité audio sans perte. Écoutez en streaming dès maintenant sur IDAGIO","profile-works.meta.keywords":"{name} œuvres classique,","profile-works.meta.title":"Œuvres de {name} | Écoutez en streaming sur IDAGIO","profile.meta.keywords":"{name} musique classique","landing.welcome-modal-download.cta":"Téléchargez l'application pour mac ou windows","not-supported-download-desktop":"Utilisez notre application pour Mac ou Windows","not-supported-heading":"Oups, votre navigateur n'est plus pris en charge","not-supported-text":"Malheureusement, nous ne prenons plus en charge le navigateur que vous utilisez. Mais pas de panique, voici les alternatives qui vous permettrons de profiter d'IDAGIO :","discover.video-group.title":"Clips videos  – Les artistes recommandent","browse.composers.more":"Plus de compositeurs","browse.composers.popular":"Compositeurs populaires","browse.explore.link":"Explorez","browse.nav.composers":"Compositeurs","browse.nav.genres":"Genres","browse.nav.instruments":"Instruments","browse.nav.performers":"Artistes","browse.nav.periods":"Périodes","account.payment-option.footer":"Vous n'avez pas de code promotionnel ?","account.payment-option.footer-link":"Obtenir un {link}.","account.payment-option.footer-link-inner":"Ici","account.payment.voucher-label":"Saisissez votre code promotionnel ici","global.cta.trial-no":"S'abonner","copy":"Copier","modal.share.textEmbed":"Code d'intégration:","browse.performers.cellists":"Violoncellistes","browse.performers.choirs":"Chœurs","browse.performers.conductors":"Chefs d'orchestre","browse.performers.ensembles":"Assemblées","browse.performers.orchestras":"Orchestres","browse.performers.period-instrument-ensembles":"Ensembles d'instruments d'époque","browse.performers.pianists":"Pianistes","browse.performers.soloists":"Solistes","browse.performers.string-quartets":"Quatuors à cordes","browse.performers.violinists":"Violonistes","browse.performers.vocalists":"Chanteurs\u002FChanteuses","subscribe.modal.payment-details.voucher":"Échanger un Bon d'échange","browse.genre.recommended-works":"Œuvres recommandées","personal-playlists.errors.generic":"Une erreur s'est produite lors de l'enregistrement de votre playlist","stripe.revalidation-required.initial":"Veuillez vérifier les détails de votre paiement avant le {renewalDate, date, medium}. La vérification assure la sécurité de vos renseignements bancaires. Cliquez ici pour vérifier maintenant.","stripe.revalidation-required.urgent":"Veuillez vérifier vos détails de paiement {days, plural, =0 {aujourd'hui} other {d'ici # jours}} ou votre abonnement sera annulé. Cliquez ici pour vérifier maintenant","stripe.revalidation.error":"Une erreur s'est produite pendant la vérification. Réessayez plus tard ou envoyez un e-mail à contact@idagio.com","stripe.revalidation.success":"Vos détails de paiement ont été vérifiés avec succès.","albums.meta.og-title":"{albumName} | Écoutez en streaming sur IDAGIO","modal.share.social-media":"Réseaux sociaux","profile-albums.og.description":"Streamer {name} Albums sur IDAGIO","profile-recordings.og.description":"Streamer {name} Enregistrements sur IDAGIO","profile.og.title":"{name} sur IDAGIO","filtered-list.share.albums":"Partager les albums","filtered-list.share.recordings":"Partager les enregistrements","modal.share.albums-link":"Albums Link:","modal.share.recordings-link":"Enregistrements Link:","filtered-list.no-playlists":"Aucune playlist ne correspond à ces critères.","filtered-playlists-list.play-all":"Lire toutes les playlists","modal.share.albums.title":"Partager les albums","modal.share.collectionTitle":"Partager {entityType}","modal.share.playlists.title":"Partager Playlists","modal.share.recordings.title":"Partager les enregistrements","profile-playlists.meta.description":"Écoutez toutes les playlists par {name} avec une qualité sonore étonnante et sans perte. Stream maintenant sur IDAGIO","profile-playlists.meta.keywords":"{name} playlists,","profile-playlists.meta.title":"Playlists par {name} | Stream sur IDAGIO","profile.nav.playlists":"Playlists","profile.share":"Partager le profil","filtered-list.share.playlists":"Partager Playlists","modal.share.link":"{entityType} Link:","modal.share.playlists-link":"Playlists Link:","modal.share.album.title":"Partager l'album","modal.share.playlist.title":"Partager la playlist","modal.share.recording.title":"Partager l'enregistrement","playback.notification.track-will-play-after-this-ad":"La lecture reprendra après l'annonce.","promo.sonos-group.subscribe":"S’abonner","up-sell-external-devices":"Devenez un abonné pour vous connecter à vos appareil tiers.","up-sell-quality":"Devenez abonné pour bénéficier d'une meilleure qualité audio en streaming et en écoute hors ligne.","welcome-modal.build":"Construire votre collection de musique classique","welcome-modal.connect":"Connectez à Sonos, Burmester, Bluesound et autres appareils tiers.","welcome-modal.headline":"Musique classique sans limite","welcome-modal.listen":"Écoutez un son en haute qualité","welcome-modal.lossless":"Y compris audio sans perte, exclusive au plan Premium+","welcome-modal.save":"Enregistrez les titres pour écouter hors ligne sur iOS et Android","welcome-modal.subheadline":"Inscrivez-vous maintenant pour obtenir les avantages Premium+ pour le prix Premium","aria-button-player-volume":"Options de volume","label-title-seek-slider-handle":"Chercher la poignée","title-search-box":"Recherche rapide","aria-button-condense":"Condenser","aria-button-expand":"Élargir","modal.share.personal-playlist-link":"Lien de la playlist:","modal.share.personal-playlist.title":"Partager la playlist","aria-button-share":"Partager","link-text":"Passer cette section","collection-modal.button.sub-now-text":"Abonnez-vous","collection-modal.header.first-item":"\"{title}\" a été ajouté à votre collection.","collection-modal.header.subscribe-to-save":"Abonnez-vous pour ajouter \"{title}\".","collection.access.subscribe":"Abonnez-vous pour accéder à l'ensemble de votre collection.","collection.albums.limit":"Vous pouvez ajouter jusqu'a {count} albums avec IDAGIO Free.","collection.albums.limited-collection-albums":"Albums","collection.albums.previously-saved":"Vos albums précédemment ajoutés","collection.info.sub-now-text":"Abonnez-vous","collection.playlist.limit":"Vous pouvez ajouter jusqu'a {count} playlists avec IDAGIO Free.","collection.playlist.limited-collection-playlist":"Playlists","collection.playlists.previously-saved":"Vos playlists précédemment ajoutés","collection.subscribe.info":"Abonnez-vous pour ajouter plus de musique.","collection.artists":"Artistes","live-compare.description":"Comparer les performances","live-compare.idle-action-invitation":"Tapez ici pour passer au passage correspondant de l'enregistrement suivant.","live-compare.keywords":"comparer en direct, comparer les enregistrements, découvrir la musique classique, les albums de musique classique, les sorties de musique classique, les playlists de musique classique","live-compare.recording-position":"{current}\u002F{total} enregistrements","live-compare.sort.year":"Trié par année","live-compare.subtitle":"Trouvez plus rapidement l'enregistrement parfait: Tapez entre les performances pour entendre exactement le même passage, interprété différemment par vos artistes préférés.","live-compare.title":"Comparaison en direct","live-compare.work-page-tooltip.action":"Allez à Comparaison en direct","live-compare.work-page-tooltip.body":"Cette oeuvre est actuellement présentée dans la section {featureName}","live-compare.work-page-tooltip.dismiss":"Ignorer","live-compare.work-page-tooltip.featureName":"Comparaison en direct","live-compare.work-page-tooltip.title":"Trouvez plus rapidement l'enregistrement parfait","menu.gift-card":"Chèque-Cadeau","booklet.button.text":"Voir le livret","modal.share.livestream-link":"Lien du Live Stream:","modal.share.livestream.title":"Partager le Live Stream","livestream-events.relative-time.live-now":"Actuellement en concert, commencé {RelativeTime}","livestream-events.relative-time.upcoming":"En concert {RelativeTime}, {Time} {Date}","livestream-events.indicator.banner":"Notre dernier événement vient juste de commencer. Rejoignez-nous.","aria-button-close":"Fermer","livestream-events.watch-cta.now":" ","livestream-events.watch-cta.watch":"Regarder","livestream-event.currently-live":"Live en concert sur IDAGIO","livestream-events.indicator.live":"Actuellement en concert","livestream-events.featuring":"Avec","voucher.success-modal":"Succès","voucher.success-modal-cta":"Commencer","voucher.success-modal-paragraph.enjoy":"Bonne écoute!","livestream-event.notification.has-ticket":"Tu as déjà un billet pour cet événement.","consent-manager.cookie-purpose._fbp":"Ce cookie peut ou non être défini en fonction de votre utilisation. Il est utilisé par Facebook pour enregistrer ce que vous avez vu ou cliqué après avoir cliqué sur une des publicités de Facebook, pour mesurer l'efficacité d'une publicité et pour vous fournir de meilleures publicités à l'avenir.","consent-manager.cookie-purpose._ga":"Celui-ci stocke l'identifiant anonyme utilisé par Google Analytics, que nous utilisons pour identifier anonymement les visiteurs afin de mesurer la mise à jour des informations et la conversion potentielle en utilisateurs enregistrés.","consent-manager.cookie-purpose._gat":"Ce cookie est utilisé pour gérer la vitesse à laquelle les demandes de pages sont faites.","consent-manager.cookie-purpose._gid":"Ce cookie nous permet de compter et de suivre le nombre de pages vues sur nos sites web.","consent-manager.cookie-purpose._idagio_authorised":"Ce cookie nous aide à vous rediriger vers notre application web si vous avez déjà une session d'utilisateur active.","consent-manager.cookie-purpose._idagio_session":"Nous utilisons ce cookie pour que vous puissiez rester connecté à votre compte IDAGIO.","consent-manager.cookie-purpose._idagio_tracking_token":"Grâce à ce cookie, notre service d'analyse peut vous identifier.","consent-manager.cookie-purpose._stripe_mid":"Grâce à ce cookie, notre service de traitement des paiements Stripe est en mesure de traiter tous les paiements pour les commandes passées sur notre site web.","consent-manager.cookie-purpose._stripe_sid":"Grâce à ce cookie, notre service de traitement des paiements Stripe est en mesure de traiter tous les paiements pour les commandes passées sur notre site web.","consent-manager.cookie-purpose._uetsid":"Ce cookie permet à Bing de vous montrer des annonces plus pertinentes pour vous et lui permet de contrôler la durée et la fréquence de visualisation d'une annonce.","consent-manager.cookie-purpose._uetvid":"Ce cookie permet à Bing de vous montrer des annonces plus pertinentes pour vous et lui permet de contrôler la durée et la fréquence de visualisation d'une annonce.","consent-manager.cookie-purpose.ab.storage.deviceId.{deviceId}":"Nous utilisons ce cookie pour gérer votre compte, personnaliser votre expérience sur notre site web et à des fins de marketing.","consent-manager.cookie-purpose.ab.storage.sessionId.{sessionId}":"Nous utilisons ce cookie pour gérer votre compte, personnaliser votre expérience sur notre site web et à des fins de marketing.","consent-manager.cookie-purpose.ab.storage.userId.{userId}":"Nous utilisons ce cookie pour gérer votre compte, personnaliser votre expérience sur notre site web et à des fins de marketing.","consent-manager.cookie-purpose.ajs_anonymous_id":"Ces cookies sont utilisés à des fins d'analyse et nous permettent de compter le nombre de personnes qui visitent un site web particulier en vérifiant si elles l'ont déjà visité.","consent-manager.cookie-purpose.ajs_user_id":"Ce cookie nous aide à comprendre comment vous utilisez notre application et à mesurer les performances et la stabilité du site web.","consent-manager.cookie-purpose.device-id-v2":"Avec ce cookie, nous vérifions si vous avez déjà commencé la lecture sur un autre appareil avec votre compte IDAGIO.","consent-manager.cookie-purpose.geo-redirected":"Ce cookie est utilisé pour déterminer si vous avez été redirigé ou non vers une version localisée de notre application en fonction de votre localisation","consent-manager.cookie-purpose.tracking-preferences":"Ce cookie est utilisé pour stocker vos préférences en matière de cookies.","cookie-banner.checkboxes.label.advertising":"Marketing","cookie-banner.checkboxes.label.functional":"Confort","cookie-banner.checkboxes.label.marketing-analytics":"Statistiques﻿","cookie-banner.checkboxes.label.necessary":"Nécessaires﻿","gdpr.opt-out-modal.allow-all-cookies":"Accepter tout","gdpr.opt-out-modal.allow-selection":"Accepter la sélection","gdpr.opt-out-modal.cancel":"Annuler","gdpr.opt-out-modal.cookie-settings":"Consentement cookies","gdpr.opt-out-modal.details":"Détails","gdpr.opt-out-modal.imprint-link":"Mentions légale","gdpr.opt-out-modal.info-1":"Nous utilisons des cookies pour reconnaître vos visites répétées, permettre la fonctionnalité des produits et améliorer notre marketing. Cela inclut les cookies nécessaires au fonctionnement du site, ainsi que les cookies utilisés uniquement à des fins statistiques anonymes, pour stocker vos paramètres personnels ou pour afficher un contenu personnalisé. Vous pouvez décider des catégories que vous souhaitez autoriser. Veuillez noter qu'en fonction de vos paramètres, toutes les fonctionnalités de notre site web peuvent ne pas être disponibles.","gdpr.opt-out-modal.info-2":"Vous trouverez de plus amples informations à ce sujet dans notre {privacyPolicyLink} et nos {imprintLink}.﻿","gdpr.opt-out-modal.privacy-policy-link":"Politique de confidentialité","availability-info.live-now":"Actuellement en concert","voucher.success-modal.paragraph":"Votre code a été activé avec succès.","tv.code.help":"Avez-vous besoin d'un soutien ? {generateNewCodeLink}, ou {contactUsLink}.","tv.code.loading":"Chargement...","tv.code.title":"Entrez ce code à 9 chiffres sur votre téléviseur :","tv.contact-us":"contactez-nous","tv.error":"Une erreur s'est produite, {contactUsLink}.","tv.generate-new-code":"Générez un nouveau code","consent-manager.error.accept":"J'ai compris","consent-manager.error.description":"Pour garantir la fonctionnalité de notre site web et continuer à utiliser IDAGIO, veuillez modifier vos paramètres.","consent-manager.error.details":"En savoir plus","consent-manager.error.title":"Certains de nos contenus sont bloqués par votre navigateur","voucher-modal.empty-error":"Pour continuer, veuillez entrer votre code promotionnel","voucher-modal.title":"Valider Code Promotionnel","collection.button.in-my-collection":"Dans ma collection","menu.my-collection":"Ma Collection","account.signup.small-print-gtc":"En créant un compte, vous acceptez les {termsLink}.","account.signup.small-print-pp":"Veuillez prendre note de notre {privacyPolicy}.","profile-about.featured-on":"Apparaît sur","profile-about.latest-releases":"Les dernières sorties","profile-about.meta.description":"Écoutez des œuvres, des enregistrements et des albums de {name} avec une qualité sonore époustouflante et sans perte. Streamez maintenant sur IDAGIO","profile-about.meta.keywords":"{name} musique classique","profile-about.meta.title":"{name} | Streamez sur IDAGIO","profile-about.recommended-albums":"Albums suggérés","download-page.exclusive-concerts.heading":"Concerts exclusifs","download-page.exclusive-concerts.text":"Regardez des concerts exclusifs de Yo-Yo Ma, des King's Singers, du London Symphony Orchestra et bien d'autres encore.","download-page.expert-curation.heading":"Contenu sélectionné par des experts","download-page.expert-curation.text":"Explorez des playlists et des recommandations sur mesure, sélectionnées par des artistes, des musicologues et des critiques reconnus.","download-page.streaming.heading":"Streaming de Musique Classique","download-page.streaming.text":"Profitez d'un streaming audio illimité en qualité sans perte avec les métadonnées complètes de tous vos labels préférés.","download-page.title":"Le streaming, réinventé pour la musique classique.","global.cta.subscribe-now":"S'abonner","subscribe-modal.audio-only.title":"Premium+","subscribe-modal.payment-details.your-plan":"Votre formule :","subscribe-modal.plans-options.monthly-price":"{monthlyPrice}\u002Fmois","subscribe-modal.plans-options.year-plan":"Facturé {totalPrice} tous les {months} mois","subscribe-modal.plans.premium":"Premium+ (mensuel)","subscribe-modal.plans.premium-concerts-12m":"Premium + Concerts (12 mois)","subscribe-modal.plans.premium-concerts-1m":"Premium + Concerts (mensuel)","subscribe-modal.premium-concerts.title":"Premium + Concerts","subscribe-modal.payment-step.paragraph-no-trial":"Obtenez un accès illimité à tout ce que IDAGIO a à offrir","consent-manager.cookie-purpose.amplitude_id_{token}":"Ce cookie nous aide à identifier les utilisateurs uniques entre les sessions et les appareils.","consent-manager.cookie-purpose.amplitude_id{token}idagio.com":"Ce cookie nous aide à identifier les utilisateurs uniques entre les sessions et les appareils.","modal.share.track.title":"Partager la piste","account.signup.small-print-email-2":"Nous vous enverrons des recommandations musicales ainsi que des offres et des conseils sur IDAGIO de manière occasionnelle sur cette adresse e-mail. Vous pouvez vous désabonner des e-mails d'IDAGIO via contact@idagio.com ou en cliquant sur « se désabonner » dans n'importe lequel de nos e-mails.","index.plans-overview.lossless-access":"Écoute à la demande en qualité CD (FLAC 16 bit 44.1 kHz)","index.plans-overview.on-demand-ad-free":"Écoute à la demande et sans publicité","index.plans-overview.shared-premium-benefits":"Tous les avantages de l'abonnement Premium+","index.plans-overview.unlimited-collection":"Collection personnelle illimitée","aria-labels-ad-info":"Informations sur les annonces","aria-labels-annotation-link":"Lien crédit photo","embed-player.webapp":"Application web","ui.external-link":"{linkText} (ouvrir dans un nouvel onglet)","discover.group.show-more":"Voir plus","coupon.notifications.not-eligible-2":"Les codes de réduction ne peuvent pas être utilisés sur un compte ayant un abonnement Apple ou Android en cours sans annuler ce dernier au préalable. Après annulation, il faut attendre 7 jours pour les abonnements Android et 10 jours pour les abonnements Apple avant de pouvoir saisir le code de nouveau.","recording-sort.popularity":"popularité","recording-sort.relevance":"pertinence","livestream-events.event-preview.not-available":"Cet évènement n'est plus disponible","livestream-events.featured-event.event-booked":"Réservé","livestream-events.featured-event.event-booked-info":"Veuillez revenir à cette page au début de l'évènement","profile-about.concerts-events":"Concerts et évènements","radio.play.paused.title":"Jouer la Radio","radio.play.playing.title":"Suspendre la Radio","coupon.notifications.error-only-applicable-to-active-subscription":"Pour utiliser ce code, vous devez d'abord créer un compte IDAGIO et souscrire un abonnement. Ensuite, accédez aux paramètres du compte et saisissez votre code.","aria-button-player-repeat.all":"Répétition de la file d'attente, cliquez pour répéter le titre","aria-button-player-repeat.off":"Répétition désactivée, cliquez pour répéter la file d'attente","aria-button-player-repeat.one":"Répétition du titre, appuyez pour désactiver la répétition","aria-button-player-shuffle.off":"Lecture aléatoire désactivée, cliquez pour lire les enregistrements de façon aléatoire","aria-button-player-shuffle.recordings":"Lecture aléatoire des enregistrements, cliquez pour lire les titres de façon aléatoire","aria-button-player-shuffle.tracks":"Lecture aléatoire des titres, cliquez pour désactiver la lecture aléatoire","menu.settings":"Réglages","settings.account.change-email.heading":"Adresse e-mail","settings.account.change-password.confirm-password-label":"Confirmer le nouveau mot de passe","settings.account.change-password.cta":"Modifier le mot de passe","settings.account.change-your-password.heading":"Modifier le mot de passe","settings.account.contact-change-email.text":"Merci de {contactLink} pour modifier votre adresse e-mail.","settings.account.heading":"Paramètres du compte","settings.account.linked.disconnect-facebook":"Se déconnecter de Facebook","settings.account.payment.contact-us":"nous contacter","settings.account.re-enter-password":"Pour continuer, veuillez saisir à nouveau votre mot de passe IDAGIO.","settings.app.audio-quality.data-usage-warning":"Les fichiers audio en qualité sans perte sont plus lourds que les fichiers compressés. Votre consommation de données augmentera considérablement.","settings.app.audio-quality.heading":"Qualité audio","settings.app.audio-quality.quality-high":"Supérieure","settings.app.audio-quality.quality-lossless":"Sans perte","settings.app.audio-quality.quality-normal":"Normale","settings.app.autoplay.heading":"Lire automatiquement les recommandations","settings.app.autoplay.label.left":"désactivé","settings.app.autoplay.label.right":"activé","settings.app.heading":"Paramètres de l'application","settings.app.i18n.heading":"Langue","settings.app.i18n.language-select-label":"Langue","settings.app.theme.automatic.label":"Automatique (macOS Mojave, Safari\u002FFirefox seulement)","settings.app.theme.dark.label":"Sombre","settings.app.theme.heading":"Thème","settings.app.theme.light.label":"Clair","settings.meta.title":"Réglages","settings.subs.cancel-customer-service":"Merci de contacter le service client si vous souhaitez résilier votre abonnement.","settings.subs.cancel-subscription.android-info":"Vous avez commencé votre abonnement via l'application Android. Vous pouvez {link}.","settings.subs.cancel-subscription.android-management-link":"le gérer via votre compte Google Play","settings.subs.cancel-subscription.apple-info":"Vous avez commencé votre abonnement via l'application iOS. Vous pouvez {link}.","settings.subs.cancel-subscription.apple-manage-link":"le gérer via votre Apple ID","settings.subs.cancel-subscription.cancelled":"Votre abonnement a été résilié avec succès.","settings.subs.cancel-subscription.confirm":"Résilier l'abonnement","settings.subs.cancel-subscription.confirmation":"Êtes-vous sûr de vouloir résilier votre abonnement IDAGIO ?","settings.subs.cancel-subscription.cta":"Annuler l'abonnement","settings.subs.cancel-subscription.feedback-form.cta":"Envoyer mes commentaires","settings.subs.cancel-subscription.feedback-form.more-label":"Autres commentaires ?","settings.subs.cancel-subscription.feedback-form.reason-1":"La qualité audio n'est pas assez bonne","settings.subs.cancel-subscription.feedback-form.reason-2":"J'ai rencontré des problèmes techniques","settings.subs.cancel-subscription.feedback-form.reason-3":"Il n'y a pas assez d'enregistrements","settings.subs.cancel-subscription.feedback-form.reason-4":"J'utilise d'autres services de streaming","settings.subs.cancel-subscription.feedback-form.reason-label":"Merci de nous indiquer la raison de votre résiliation.","settings.subs.cancel-subscription.keep":"Conserver l'abonnement","settings.subs.cancel-subscription.rejoin":"Vous avez fait une erreur ? {rejoinLink}","settings.subs.cancel-subscription.rejoinLink":"Annuler la résiliation","settings.subs.coupon.use-label":"Utiliser un code","settings.subs.discount-status.99cent-discount":"L'offre à {price}\u002Fmois prend fin le {endDate, date, medium}.","settings.subs.discount-status.details":"{percentOff}% de remise actif jusqu'au {endDate, date, medium}.","settings.subs.discount-status.lifetime":"Vous bénéficiez d'un abonnement gratuit à vie.","settings.subs.heading":"Abonnement","settings.subs.not-subscribed.redeem-voucher":"Pour utiliser un bon d'achat, entrez votre code ici :","settings.subs.stripe-customer-portal.button":"Facturation","settings.subs.subscription-status.free-subscription":"Actuellement, vous utilisez IDAGIO Free, gratuit en permanence.","settings.subs.subscription-status.subscribed-to-plan":"Vous êtes abonné à IDAGIO {planName}","settings.subs.subscription-status.subscription-end":"Votre abonnement prend automatiquement fin le {endDate, date, medium}.","settings.subs.subscription-status.subscription-renew":"Votre abonnement se renouvelle automatiquement le {renewalDate, date, medium}.","settings.subs.subscription-status.trial-end":"Votre période d'essai gratuite prend automatiquement fin le {trialEndDate, date, medium}","facets.exclusive":"Exclusif","subscribe-modal.payment-step.title-2":"Écoutez sans limites","error.geoblocked-content.body":"En raison de contraintes légales, ce contenu n'est malheureusement pas disponible dans votre région.","error.geoblocked-content.title":"Contenu indisponible","collection.events":"Évènements","course.session.access":"Accéder à la session","course.session.access-recording":"Accéder à l'enregistrement de la session","course.session.collapsible-title":"{tickSymbol} Session {sessionNo} - {startDate} | {startTime}","course.session.resource.title":"Ressources de la session","global.cta.get-p+c":"S'abonner au Premium+ Concerts","livestream-event.buy.button-text":"Acheter un ticket","livestream-event.notification.access-zoom-error":"Une erreur s'est produite lors de la connexion à la rencontre.","livestream-events.event-preview.availability-info":"Disponible jusqu'au {availabilityEndDate}","livestream-events.featured-event.exclusive-to-p+c-subscribers-text":"Uniquement pour les abonnés Premium+ Concerts","livestream-events.time-and-location.text":"Cet évènement a été enregistré en direct{onTime}{atLocation}","livestream.legal-note.description-1":"Ce contenu est proposé par {provider}. L'achat de l'accès à ce contenu constitue un accord direct avec le fournisseur. IDAGIO agit uniquement en tant qu'intermédiaire pour ces services. Pour plus de renseignements, veuillez consulter les sections 2 et 3 de nos {terms} et la section C 4 de notre {privacy}.","livestream.legal-note.description-2":"Lorsque vous aurez acheté l'accès au contenu, nous communiquerons au fournisseur indiqué ci-dessus le nom et l'adresse e-mail qui sont enregistrés avec votre compte utilisateur pour le traitement de l'accord. Il est possible que le fournisseur vous envoie occasionnellement des informations sur des biens et des services similaires sur cette adresse e-mail. Vous avez le droit de vous opposer à cette utilisation à tout moment, par exemple en envoyant un e-mail à l'adresse e-mail du fournisseur mentionnée ci-dessus, sans frais.","livestream.legal-note.title":"MENTION LÉGALE :","livestream.support.help-pages":"pages d'aide","livestream.support.here":"ici","livestream.support.title":"Nous sommes là pour vous aider","livestream-events.location.text-2":"\\u00a0@ {location}","livestream.support.body.text":"Si vous avez la moindre question, un problème ou une suggestion, vous pouvez consulter nos {helpPages} ou contacter notre équipe {here}.","coupon.notifications.error-has-an-active-coupon":"Vous ne pouvez utiliser qu'un seul code de réduction à la fois. Veuillez réessayer lorsque votre réduction actuelle sera terminée - votre nouveau code n'expirera pas.","index.plans-overview.concerts-access":"Accès illimité au IDAGIO Concerts: pour regarder en direct ou à la demande","livestream-event.meta.keywords-2":"idagio concerts, livestream","livestream-events.sidebar.concerts-and-courses.title":"Concerts et cours","menu.browse-the-catalogue":"Parcourir le catalogue","menu.discover-new-music":"Découvrir les nouveautés","menu.events":"Événements","menu.play-my-mood":"Musique selon mon humeur","livestream-events.fair-payout-tooltip.text":"Jusqu'à 80 % des recettes de l'événement sont reversées aux artistes.","livestream-events.price-info-tooltip.text":"Le prix de cet événement est libre : à vous de décider quel prix vous souhaitez payer dans la fourchette indiquée.","livestream-events.composers":"Compositeurs","livestream-event-preview.booked-tag":"Réservé","livestream-event.free-of-charge":"Gratuit","livestream-event.variable-price":"{minPrice} - {maxPrice}","livestream-events.meta.keywords-2":"idagio concerts, live, livestream, live stream, vidéo, flux, stream, artistes","livestream-events.meta.title":"IDAGIO Concerts","livestream-events.my-events.meta.description-2":"Vos prochains événements dans le IDAGIO Concerts","livestream-events.my-events.meta.keywords-2":"idagio concerts, live stream, billets","livestream-events.my-events.meta.title-2":"Mes événements","livestream-events.title":"Événements","my-events.no-events":"Vous n'avez encore ajouté aucun événement.","livestream-event-preview.upcoming-tag":"Prochainement","livestream-events.event-preview.upcoming-info":"Prochainement le {upcomingDate}","livestream-events.meta.description":"IDAGIO Concerts","notifications.account.created-2":"Bienvenue sur votre nouveau compte IDAGIO!","notifications.auth.success-2":"Bon retour sur IDAGIO!","collection-modal.album":"album","collection-modal.albums":"albums","collection-modal.button.view":"Voir collection d'{resourceName}s","collection-modal.header.collection-full":"Votre collection d'{resourceName}s est complète.","collection-modal.header.subsequent":"Votre collection a {count} {resourceName}.","collection-modal.playlist":"playlist","collection-modal.playlists":"playlists","collection-modal.subtitle.first-items":"Vous pouvez ajouter jusqu'a {limit} {resourceName} avec IDAGIO Free. Abonnez-vous pour ajouter plus de musique.","collection-modal.subtitle.full":"Avec IDAGIO Free, vous pouvez ajouter jusqu'a {limit} {resourceName}. Abonnez-vous pour ajouter plus de musique.","coupon.notifications.not-auth":"Veuillez vous inscrire ou vous connecter pour utiliser le bon d'achat","course-resource.image.view.text":"Afficher l'image","course.recording-availability.text":"Toutes les sessions sont enregistrées et sont mises à la disposition des participants jusqu'à la date suivante : {availabilityEndDate}","course.resource.audios.title":"Audio","course.resource.documents.title":"Documents","course.resource.images.title":"Images","course.resource.videos.title":"Vidéos","course.session.access-recording.password":"Mot de passe Zoom : {password}","course.session.duration.text":"Durée de la session : {durationInMins} minutes","download.button.text":"Télécharger","livestream-events.access-zoom-tooltip.text":"La session sera accessible {earlyAccessPeriod} minutes avant son commencement.","livestream-events.course-resources.title":"Ressources","livestream-events.featured-audios.group.title":"Audio","livestream-events.featured-events-and-audios.title":"Vous aimerez sans doute...","livestream-events.featured-events.group.title":"Évènements","livestream-events.hosts":"Hôtes","global.cta.trial-free-days":"Démarrer {trialDuration} jours d'essai offerts","subscribe-modal.payment-step.paragraph-trial-days":"Commencez votre essai gratuit de {trialDurationDays} jours pour bénéficier d'un accès illimité à tout ce qu'IDAGIO peut vous offrir","subscribe-modal.plans-options.trial-days":"{trialDurationDays} jours gratuits, ensuite","livestream-events.event-preview.upcoming-info-time":"\\u00a0à {upcomingTime}","aria-labels-playable-item-preview-link":"Cliquez pour accéder à la vue détaillée","livestream-events.time.text":"\\u00a0en {time}","add-to-collection-album":"Album ajouté à la collection","add-to-collection-artist":"Artiste ajouté à la collection","add-to-collection-playlist":"Playlist ajoutée à la collection","add-to-collection-recording":"Enregistrement ajouté à la collection","add-to-collection-track":"Piste ajoutée à la collection","download.is-downloaded":"Téléchargé","download.is-downloading":"Téléchargement…","download.start-download":"Télécharger","notifications.page-not-found":"Comme la dixième de Beethoven, cette page n'existe pas.","offline-message.collection-button":"Écoutez votre musique hors connexion","offline-message.paragraph":"Veuillez vous reconnecter à Internet.","offline-message.title":"Aucune connexion réseau.","remove-from-collection-album":"Album supprimé de la collection","remove-from-collection-artist":"Artiste supprimé de la collection","remove-from-collection-playlist":"Playlist supprimée de la collection","remove-from-collection-recording":"Enregistrement supprimé de la collection","remove-from-collection-track":"Piste supprimée de la collection","livestream-event.view-all-events.cta":"Voir les événements","livestream-event.view-all-events.text":"Découvrez tous les événements ici","livestream-event.view-purchased-tickets":"Voir mes billets achetés","my-tickets.title":"Mes billets","account.error.login.generic-2":"Désolé, une erreur s'est produite lors de la connexion","account.firstname-label":"Nom d'utilisateur (facultatif)","account.password-confirmation-label":"Confirmer le mot de passe","account.signup.password-mismatch":"Le mot de passe et sa confirmation ne concordent pas","auth-options.or":"ou","embed-player.create-account":"Créer un compte","embed-previews-modal.create-account":"Créer un compte","embed-previews-modal.login-here":"Connectez-vous ici","embed-previews-modal.text-2":"Créez un compte gratuitement pour écouter la playlist en entier.","login.forgot-password":"Mot de passe oublié ?","login.header.welcome-back-to-idagio":"Bon retour sur IDAGIO","login.meta-title":"Se connecter","login.new-to-idagio":"Nouveau sur IDAGIO?","login.options.continue-with-apple":"Continuer avec Apple","login.options.continue-with-facebook":"Continuer avec Facebook","previews-modal.explanation-2":"Il s'agit d'un aperçu, profitez d'une expérience complète en créant un compte gratuitement.","previews-modal.signup.subheader":"Créez un compte gratuitement pour profiter pleinement d'IDAGIO.","signup.existing-account":"Vous avez déjà un compte?","signup.header-2":"Créez votre compte IDAGIO","signup.meta-title":"Créer un compte","subscribe.title":"S'abonner","collection.empty.intro":"Lorsque vous trouvez {resourceName} qui vous aimez, appuyez sur {heartIcon} pour le sauvegarder ici.","empty-collection.album":"un album","empty-collection.artist":"un artiste","empty-collection.livestream-event":"un évènement","empty-collection.playlist":"une playlist","empty-collection.recording":"un enregistrement","empty-collection.track":"un titre","hotlinks.idagio-exclusives":"Exclusivités IDAGIO","hotlinks.magazine":"Magazine","hotlinks.playlists-for-you":"Playlists pour vous","hotlinks.recently-played":"Joué récemment","hotlinks.spotlight-main":"Sélections par des artistes","hotlinks.weekly-mixes":"Les mix de la semaine","student.verification.error.generic":"Une erreur est survenue lors de la vérification. Merci de réessayer plus tard ou de nous contacter à support@idagio.com.","student.verification.error.invalid-verification-id":"Une erreur est survenue : nous n'avons pas pu vérifier votre statut, votre réduction pour étudiants ne peut donc pas être appliquée. Merci de nous contacter à support@idagio.com.","student.verification.error.non-stripe-subscription":"Vous disposez déjà d'un abonnement IDAGIO. Actuellement, la réduction pour étudiants ne peut être appliquée qu'aux (nouveaux) abonnements via notre site Internet. Merci de nous contacter à support@idagio.com.","student.verification.error.used-verification-id":"Votre offre pour étudiants a déjà été utilisée sur IDAGIO. Connectez-vous avec votre compte existant ou contactez-nous à support@idagio.com.","student.verification.success.stripe-subscription":"Vous disposez déjà d'un abonnement IDAGIO, la réduction pour étudiants a donc été appliquée à votre abonnement existant qui vous sera facturé au tarif réduit pour les 12 prochains mois.","subscribe-modal.payment-details.billed-later":"*Facturé sur {months} mois:","subscribe-modal.payment-step.paragraph-student":"Abonnez-vous à IDAGIO pour étudiants et économisez {discountInPercentage} % pour {months} mois","subscribe-modal.payment-step.title-student":"IDAGIO pour étudiants","subscribe-modal.plans-options.monthly-price-reduced":"{monthlyPrice} {reducedPrice}\u002Fmois{star}","subscribe-modal.plans-options.year-plan-reduced":"Facturé {totalPrice} {reducedPrice} tous les {months} mois","browse.instruments.title":"Instruments","filtered-list.type.composer":"Compositeur","filtered-list.type.conductor":"Conducteur","filtered-list.type.ensemble":"Ensemble","filtered-list.type.epoch":"Période","filtered-list.type.genre":"Genre","filtered-list.type.instrument":"Instrument","filtered-list.type.recordingType":"Type d'enregistrement","filtered-list.type.soloist":"Soliste","filtered-list.type.work":"Œuvre","local-list-search.placeholder":"Recherche dans les {pluralType}","local-list-search.placeholder-with-count":"Recherche dans {count, plural, one {# {singularType}} other {# {pluralType}}}","local-list-search.title":"Recherche d'{pluralType}","filtered-list.type.a-composer":"un Compositeur","filtered-list.type.a-conductor":"un Conducteur","filtered-list.type.a-genre":"un Genre","filtered-list.type.a-recording-type":"un Type d'enregistrement","filtered-list.type.a-soloist":"un Soliste","filtered-list.type.a-work":"une Œuvre","filtered-list.type.an-ensemble":"un Ensemble","filtered-list.type.an-epoch":"une Période","filtered-list.type.an-instrument":"un Instrument"};
+			window.__pusher_key__ = "76cf546deb62b4b661f0";
+			window.__email_secret_key__ = "t7IsXSIvlQgCJB8nlqAqtCO8t4hY1MQUqX\u002FVAlBA5NY=";
+			window.__segment_key__ = "HEY9eFw15KKo3g3t6qFZjrMdmF723gWW";
+			window.__stripe_key__= "pk_live_KjO38qPy9lRQlPZfWOIKtXmS";
+		
+/**/</script>
+        <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-H9L75V602P">/**//**/</script>
+        <script>/**/
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-H9L75V602P');
+		
+/**/</script>
+        <script crossorigin="crossorigin" src="https://d4nzi95f4llxl.cloudfront.net/commons-e8b3075293817f8007b8.js">/**//**/</script>
+        <script crossorigin="crossorigin" src="https://d4nzi95f4llxl.cloudfront.net/web-a4780a223fc51d086e37.js">/**//**/</script>
+        <script src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js" type="text/javascript">/**//**/</script>
+    </body>
+</html>

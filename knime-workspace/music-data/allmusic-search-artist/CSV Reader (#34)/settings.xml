@@ -212,7 +212,7 @@
             <entry key="skip_data_rows" type="xboolean" value="false"/>
             <entry key="number_of_rows_to_skip" type="xlong" value="12"/>
             <entry key="limit_data_rows" type="xboolean" value="true"/>
-            <entry key="max_rows" type="xlong" value="30"/>
+            <entry key="max_rows" type="xlong" value="10"/>
         </config>
         <config key="encoding">
             <entry key="charset" type="xstring" value="UTF-8"/>
@@ -243,12 +243,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 30, Cols: 1"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 10, Cols: 1"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="de301fe4-3086-4df1-b045-2bfde1bc6a83"/>
+        <entry key="file_store_id" type="xstring" value="2c51d1d6-0917-4978-be46-0cb60ab77229"/>
     </config>
 </config>

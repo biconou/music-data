@@ -1,0 +1,474 @@
+{
+  "id" : "ac-dc-mn0000574772",
+  "name" : "AC/DC",
+  "activeDates" : "1970s - 2020s",
+  "birthDate" : "1973",
+  "birthPlace" : "Sydney, Australia",
+  "styles" : [ {
+    "name" : "Album Rock",
+    "url" : "https://www.allmusic.com/style/album-rock-ma0000004459"
+  }, {
+    "name" : "Aussie Rock",
+    "url" : "https://www.allmusic.com/style/aussie-rock-ma0000012330"
+  }, {
+    "name" : "Hard Rock",
+    "url" : "https://www.allmusic.com/style/hard-rock-ma0000002636"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  }, {
+    "name" : "Arena Rock",
+    "url" : "https://www.allmusic.com/style/arena-rock-ma0000012329"
+  } ],
+  "discography" : [ {
+    "albumYear" : "1975",
+    "albumTitle" : "High Voltage [Australia]",
+    "musicRating" : "6",
+    "avgRating" : "8-425"
+  }, {
+    "albumYear" : "1975",
+    "albumTitle" : "T.N.T.",
+    "musicRating" : "7",
+    "avgRating" : "9-775"
+  }, {
+    "albumYear" : "1976",
+    "albumTitle" : "High Voltage",
+    "musicRating" : "8",
+    "avgRating" : "9-2512"
+  }, {
+    "albumYear" : "1976",
+    "albumTitle" : "Dirty Deeds Done Dirt Cheap",
+    "musicRating" : "9",
+    "avgRating" : "9-3450"
+  }, {
+    "albumYear" : "1977",
+    "albumTitle" : "Let There Be Rock",
+    "musicRating" : "8",
+    "avgRating" : "9-2309"
+  }, {
+    "albumYear" : "1978",
+    "albumTitle" : "Powerage",
+    "musicRating" : "6",
+    "avgRating" : "9-1740"
+  }, {
+    "albumYear" : "1978",
+    "albumTitle" : "If You Want Blood You've Got It",
+    "musicRating" : "6",
+    "avgRating" : "9-1488"
+  }, {
+    "albumYear" : "1979",
+    "albumTitle" : "Highway to Hell",
+    "musicRating" : "9",
+    "avgRating" : "9-4311"
+  }, {
+    "albumYear" : "1980",
+    "albumTitle" : "Back in Black",
+    "musicRating" : "9",
+    "avgRating" : "10-5076"
+  }, {
+    "albumYear" : "1981",
+    "albumTitle" : "For Those About to Rock We Salute You",
+    "musicRating" : "5",
+    "avgRating" : "8-1563"
+  }, {
+    "albumYear" : "1983",
+    "albumTitle" : "Flick of the Switch",
+    "musicRating" : "3",
+    "avgRating" : "7-929"
+  }, {
+    "albumYear" : "1985",
+    "albumTitle" : "Fly on the Wall",
+    "musicRating" : "5",
+    "avgRating" : "6-825"
+  }, {
+    "albumYear" : "1988",
+    "albumTitle" : "Blow Up Your Video",
+    "musicRating" : "4",
+    "avgRating" : "7-847"
+  }, {
+    "albumYear" : "1990",
+    "albumTitle" : "The Razor's Edge",
+    "musicRating" : "5",
+    "avgRating" : "8-1299"
+  }, {
+    "albumYear" : "1992",
+    "albumTitle" : "Live",
+    "musicRating" : "5",
+    "avgRating" : "8-970"
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "Ballbreaker",
+    "musicRating" : "5",
+    "avgRating" : "7-1086"
+  }, {
+    "albumYear" : "2000",
+    "albumTitle" : "Stiff Upper Lip",
+    "musicRating" : "7",
+    "avgRating" : "7-1461"
+  }, {
+    "albumYear" : "2008",
+    "albumTitle" : "Black Ice",
+    "musicRating" : "5",
+    "avgRating" : "7-1442"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "Live at River Plate",
+    "musicRating" : "5",
+    "avgRating" : "8-288"
+  }, {
+    "albumYear" : "2014",
+    "albumTitle" : "Rock or Bust",
+    "musicRating" : "7",
+    "avgRating" : "8-874"
+  }, {
+    "albumYear" : "2020",
+    "albumTitle" : "Power Up",
+    "musicRating" : "7",
+    "avgRating" : "8-464"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Guns N' Roses",
+      "ArtistId" : "guns-n-roses-mn0000540883"
+    }, {
+      "artist" : "Kiss",
+      "ArtistId" : "kiss-mn0000084209"
+    }, {
+      "artist" : "Motörhead",
+      "ArtistId" : "mot%C3%B6rhead-mn0000501407"
+    }, {
+      "artist" : "Rainbow",
+      "ArtistId" : "rainbow-mn0000391933"
+    }, {
+      "artist" : "Twisted Sister",
+      "ArtistId" : "twisted-sister-mn0000165663"
+    }, {
+      "artist" : "Van Halen",
+      "ArtistId" : "van-halen-mn0000260206"
+    }, {
+      "artist" : "Whitesnake",
+      "ArtistId" : "whitesnake-mn0000251595"
+    }, {
+      "artist" : "Aerosmith",
+      "ArtistId" : "aerosmith-mn0000604852"
+    }, {
+      "artist" : "Alice Cooper",
+      "ArtistId" : "alice-cooper-mn0000005953"
+    }, {
+      "artist" : "Bad Company",
+      "ArtistId" : "bad-company-mn0000075100"
+    }, {
+      "artist" : "Blue Öyster Cult",
+      "ArtistId" : "blue-%C3yster-cult-mn0000061938"
+    }, {
+      "artist" : "George Thorogood",
+      "ArtistId" : "george-thorogood-mn0000647834"
+    }, {
+      "artist" : "Grand Funk Railroad",
+      "ArtistId" : "grand-funk-railroad-mn0000659517"
+    }, {
+      "artist" : "Great White",
+      "ArtistId" : "great-white-mn0000799100"
+    }, {
+      "artist" : "Jackyl",
+      "ArtistId" : "jackyl-mn0000109542"
+    }, {
+      "artist" : "Joan Jett",
+      "ArtistId" : "joan-jett-mn0000137173"
+    }, {
+      "artist" : "Mötley Crüe",
+      "ArtistId" : "m%C3%B6tley-cr%C3%BCe-mn0000500992"
+    }, {
+      "artist" : "Ramones",
+      "ArtistId" : "ramones-mn0000490004"
+    }, {
+      "artist" : "Ratt",
+      "ArtistId" : "ratt-mn0000340152"
+    }, {
+      "artist" : "Sammy Hagar",
+      "ArtistId" : "sammy-hagar-mn0000297702"
+    }, {
+      "artist" : "Thin Lizzy",
+      "ArtistId" : "thin-lizzy-mn0000590479"
+    }, {
+      "artist" : "UFO",
+      "ArtistId" : "ufo-mn0000809999"
+    }, {
+      "artist" : "Y&T",
+      "ArtistId" : "y-t-mn0000682394"
+    }, {
+      "artist" : "Bon Jovi",
+      "ArtistId" : "bon-jovi-mn0000069534"
+    }, {
+      "artist" : "Def Leppard",
+      "ArtistId" : "def-leppard-mn0000193320"
+    }, {
+      "artist" : "Judas Priest",
+      "ArtistId" : "judas-priest-mn0000246611"
+    }, {
+      "artist" : "Quireboys",
+      "ArtistId" : "quireboys-mn0000081768"
+    }, {
+      "artist" : "Saxon",
+      "ArtistId" : "saxon-mn0000259800"
+    }, {
+      "artist" : "Scorpions",
+      "ArtistId" : "scorpions-mn0000299471"
+    }, {
+      "artist" : "The Angels",
+      "ArtistId" : "the-angels-mn0000050588"
+    }, {
+      "artist" : "Thunder",
+      "ArtistId" : "thunder-mn0000926085"
+    }, {
+      "artist" : "ZZ Top",
+      "ArtistId" : "zz-top-mn0000690254"
+    }, {
+      "artist" : "Billion Dollar Babies",
+      "ArtistId" : "billion-dollar-babies-mn0001528528"
+    }, {
+      "artist" : "Brian Johnson",
+      "ArtistId" : "brian-johnson-mn0000934811"
+    }, {
+      "artist" : "Cold Chisel",
+      "ArtistId" : "cold-chisel-mn0000107823"
+    }, {
+      "artist" : "Fleshies",
+      "ArtistId" : "fleshies-mn0000187094"
+    }, {
+      "artist" : "Heart",
+      "ArtistId" : "heart-mn0000671953"
+    }, {
+      "artist" : "Iron Maiden",
+      "ArtistId" : "iron-maiden-mn0000098465"
+    }, {
+      "artist" : "Jimmy Page",
+      "ArtistId" : "jimmy-page-mn0000089021"
+    }, {
+      "artist" : "Joe Perry",
+      "ArtistId" : "joe-perry-mn0000807317"
+    }, {
+      "artist" : "Krokus",
+      "ArtistId" : "krokus-mn0000105685"
+    }, {
+      "artist" : "Misfits",
+      "ArtistId" : "misfits-mn0000891063"
+    }, {
+      "artist" : "Rhino Bucket",
+      "ArtistId" : "rhino-bucket-mn0000473468"
+    }, {
+      "artist" : "Billy Squier",
+      "ArtistId" : "billy-squier-mn0000084814"
+    }, {
+      "artist" : "Black Sabbath",
+      "ArtistId" : "black-sabbath-mn0000771438"
+    }, {
+      "artist" : "Foghat",
+      "ArtistId" : "foghat-mn0000201297"
+    }, {
+      "artist" : "Molly Hatchet",
+      "ArtistId" : "molly-hatchet-mn0000923384"
+    }, {
+      "artist" : "Tom Keifer",
+      "ArtistId" : "tom-keifer-mn0000931912"
+    } ],
+    "influencers" : [ {
+      "artist" : "Led Zeppelin",
+      "ArtistId" : "led-zeppelin-mn0000139026"
+    }, {
+      "artist" : "The Kinks",
+      "ArtistId" : "the-kinks-mn0000100160"
+    }, {
+      "artist" : "The Rolling Stones",
+      "ArtistId" : "the-rolling-stones-mn0000894465"
+    }, {
+      "artist" : "The Who",
+      "ArtistId" : "the-who-mn0000577627"
+    }, {
+      "artist" : "The Yardbirds",
+      "ArtistId" : "the-yardbirds-mn0000489303"
+    }, {
+      "artist" : "Free",
+      "ArtistId" : "free-mn0000193216"
+    }, {
+      "artist" : "Jeff Beck",
+      "ArtistId" : "jeff-beck-mn0000240865"
+    }, {
+      "artist" : "Small Faces",
+      "ArtistId" : "small-faces-mn0000423267"
+    }, {
+      "artist" : "The Easybeats",
+      "ArtistId" : "the-easybeats-mn0000145086"
+    }, {
+      "artist" : "Blue Cheer",
+      "ArtistId" : "blue-cheer-mn0000059537"
+    }, {
+      "artist" : "Chuck Berry",
+      "ArtistId" : "chuck-berry-mn0000120521"
+    }, {
+      "artist" : "Cream",
+      "ArtistId" : "cream-mn0000112462"
+    }, {
+      "artist" : "Jerry Lee Lewis",
+      "ArtistId" : "jerry-lee-lewis-mn0000332141"
+    }, {
+      "artist" : "Mountain",
+      "ArtistId" : "mountain-mn0000503913"
+    }, {
+      "artist" : "Willie Dixon",
+      "ArtistId" : "willie-dixon-mn0000959770"
+    }, {
+      "artist" : "Alice Cooper",
+      "ArtistId" : "alice-cooper-mn0000005953"
+    }, {
+      "artist" : "Iron Butterfly",
+      "ArtistId" : "iron-butterfly-mn0000772567"
+    }, {
+      "artist" : "Slade",
+      "ArtistId" : "slade-mn0000749734"
+    } ],
+    "followers" : [ {
+      "artist" : "Accept",
+      "ArtistId" : "accept-mn0000925837"
+    }, {
+      "artist" : "Iron Maiden",
+      "ArtistId" : "iron-maiden-mn0000098465"
+    }, {
+      "artist" : "Quiet Riot",
+      "ArtistId" : "quiet-riot-mn0000859868"
+    }, {
+      "artist" : "Twisted Sister",
+      "ArtistId" : "twisted-sister-mn0000165663"
+    }, {
+      "artist" : "Alice in Chains",
+      "ArtistId" : "alice-in-chains-mn0000007920"
+    }, {
+      "artist" : "Great White",
+      "ArtistId" : "great-white-mn0000799100"
+    }, {
+      "artist" : "Guns N' Roses",
+      "ArtistId" : "guns-n-roses-mn0000540883"
+    }, {
+      "artist" : "Jackyl",
+      "ArtistId" : "jackyl-mn0000109542"
+    }, {
+      "artist" : "Joan Jett",
+      "ArtistId" : "joan-jett-mn0000137173"
+    }, {
+      "artist" : "Kix",
+      "ArtistId" : "kix-mn0000098944"
+    }, {
+      "artist" : "L.A. Guns",
+      "ArtistId" : "la-guns-mn0000778906"
+    }, {
+      "artist" : "Skid Row",
+      "ArtistId" : "skid-row-mn0000026367"
+    }, {
+      "artist" : "Tesla",
+      "ArtistId" : "tesla-mn0000029808"
+    }, {
+      "artist" : "The Cult",
+      "ArtistId" : "the-cult-mn0000139908"
+    }, {
+      "artist" : "Van Halen",
+      "ArtistId" : "van-halen-mn0000260206"
+    }, {
+      "artist" : "Y&T",
+      "ArtistId" : "y-t-mn0000682394"
+    }, {
+      "artist" : "Audioslave",
+      "ArtistId" : "audioslave-mn0000040743"
+    }, {
+      "artist" : "Buckcherry",
+      "ArtistId" : "buckcherry-mn0000533551"
+    }, {
+      "artist" : "Def Leppard",
+      "ArtistId" : "def-leppard-mn0000193320"
+    }, {
+      "artist" : "Foo Fighters",
+      "ArtistId" : "foo-fighters-mn0000184043"
+    }, {
+      "artist" : "Krokus",
+      "ArtistId" : "krokus-mn0000105685"
+    }, {
+      "artist" : "Metallica",
+      "ArtistId" : "metallica-mn0000446509"
+    }, {
+      "artist" : "Nirvana",
+      "ArtistId" : "nirvana-mn0000357406"
+    }, {
+      "artist" : "Poison",
+      "ArtistId" : "poison-mn0000355616"
+    }, {
+      "artist" : "Queens of the Stone Age",
+      "ArtistId" : "queens-of-the-stone-age-mn0000376422"
+    }, {
+      "artist" : "Soundgarden",
+      "ArtistId" : "soundgarden-mn0000001098"
+    }, {
+      "artist" : "The Darkness",
+      "ArtistId" : "the-darkness-mn0000141683"
+    }, {
+      "artist" : "Velvet Revolver",
+      "ArtistId" : "velvet-revolver-mn0000840348"
+    }, {
+      "artist" : "Wolfmother",
+      "ArtistId" : "wolfmother-mn0000086250"
+    }, {
+      "artist" : "Babes in Toyland",
+      "ArtistId" : "babes-in-toyland-mn0000069060"
+    }, {
+      "artist" : "Black Mountain",
+      "ArtistId" : "black-mountain-mn0000950037"
+    }, {
+      "artist" : "Britny Fox",
+      "ArtistId" : "britny-fox-mn0000625203"
+    }, {
+      "artist" : "Fu Manchu",
+      "ArtistId" : "fu-manchu-mn0000988529"
+    }, {
+      "artist" : "Jet",
+      "ArtistId" : "jet-mn0000346806"
+    }, {
+      "artist" : "Nashville Pussy",
+      "ArtistId" : "nashville-pussy-mn0000316536"
+    }, {
+      "artist" : "Silverchair",
+      "ArtistId" : "silverchair-mn0000048265"
+    }, {
+      "artist" : "The All-American Rejects",
+      "ArtistId" : "the-all-american-rejects-mn0000753706"
+    }, {
+      "artist" : "The Donnas",
+      "ArtistId" : "the-donnas-mn0000784535"
+    }, {
+      "artist" : "Alabama Shakes",
+      "ArtistId" : "alabama-shakes-mn0002802154"
+    }, {
+      "artist" : "Brantley Gilbert",
+      "ArtistId" : "brantley-gilbert-mn0001657214"
+    }, {
+      "artist" : "Broken Teeth",
+      "ArtistId" : "broken-teeth-mn0000937336"
+    }, {
+      "artist" : "Goodbye June",
+      "ArtistId" : "goodbye-june-mn0003263207"
+    }, {
+      "artist" : "John King",
+      "ArtistId" : "john-king-mn0003326655"
+    }, {
+      "artist" : "Star Dancer",
+      "ArtistId" : "star-dancer-mn0003512801"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Bon Scott",
+      "ArtistId" : "bon-scott-mn0000080664"
+    }, {
+      "artist" : "The Velvet Underground",
+      "ArtistId" : "the-velvet-underground-mn0001993459"
+    }, {
+      "artist" : "Geordie",
+      "ArtistId" : "geordie-mn0000199875"
+    } ]
+  }
+}
