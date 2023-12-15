@@ -1,0 +1,111 @@
+{
+  "id" : "turnstile-mn0001569643",
+  "name" : "Turnstile",
+  "activeDates" : "2010s - 2020s",
+  "birthDate" : "2010",
+  "birthPlace" : "Baltimore, MD",
+  "styles" : [ {
+    "name" : "Alternative/Indie Rock",
+    "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
+  }, {
+    "name" : "Hardcore Punk",
+    "url" : "https://www.allmusic.com/style/hardcore-punk-ma0000002641"
+  }, {
+    "name" : "Punk Metal",
+    "url" : "https://www.allmusic.com/style/punk-metal-ma0000012022"
+  } ],
+  "discography" : [ {
+    "albumYear" : "2015",
+    "albumTitle" : "Non Stop Feeling",
+    "musicRating" : "",
+    "avgRating" : "8-49"
+  }, {
+    "albumYear" : "2018",
+    "albumTitle" : "Time & Space",
+    "musicRating" : "",
+    "avgRating" : "9-63"
+  }, {
+    "albumYear" : "2021",
+    "albumTitle" : "Glow On",
+    "musicRating" : "8",
+    "avgRating" : "9-144"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Have Heart",
+      "ArtistId" : "have-heart-mn0000718773"
+    }, {
+      "artist" : "Suburban Scum",
+      "ArtistId" : "suburban-scum-mn0002863814"
+    }, {
+      "artist" : "Twitching Tongues",
+      "ArtistId" : "twitching-tongues-mn0002726792"
+    }, {
+      "artist" : "Backtrack",
+      "ArtistId" : "backtrack-mn0001077108"
+    }, {
+      "artist" : "Death Before Dishonor",
+      "ArtistId" : "death-before-dishonor-mn0000665342"
+    }, {
+      "artist" : "Rotting Out",
+      "ArtistId" : "rotting-out-mn0002778740"
+    }, {
+      "artist" : "Wrong Answer",
+      "ArtistId" : "wrong-answer-mn0002807475"
+    }, {
+      "artist" : "Soul Control",
+      "ArtistId" : "soul-control-mn0003342785"
+    }, {
+      "artist" : "Sunset",
+      "ArtistId" : "sunset-mn0004014542"
+    }, {
+      "artist" : "Trapped Under Ice",
+      "ArtistId" : "trapped-under-ice-mn0001006317"
+    }, {
+      "artist" : "Vein",
+      "ArtistId" : "vein-mn0003756418"
+    }, {
+      "artist" : "Vein.Fm",
+      "ArtistId" : "veinfm-mn0004181413"
+    }, {
+      "artist" : "Verse",
+      "ArtistId" : "verse-mn0000093387"
+    }, {
+      "artist" : "Cold World",
+      "ArtistId" : "cold-world-mn0000559291"
+    }, {
+      "artist" : "Expire",
+      "ArtistId" : "expire-mn0001206083"
+    }, {
+      "artist" : "Minority Unit",
+      "ArtistId" : "minority-unit-mn0002778759"
+    }, {
+      "artist" : "High Vis",
+      "ArtistId" : "high-vis-mn0004247757"
+    }, {
+      "artist" : "Proper.",
+      "ArtistId" : "proper-mn0003864650"
+    }, {
+      "artist" : "Single Mothers",
+      "ArtistId" : "single-mothers-mn0002891103"
+    }, {
+      "artist" : "Soul Glo",
+      "ArtistId" : "soul-glo-mn0003495926"
+    }, {
+      "artist" : "The World Is a Beautiful Place & I Am No Longer Afraid to Die",
+      "ArtistId" : "the-world-is-a-beautiful-place-i-am-no-longer-afraid-to-die-mn0003086668"
+    } ],
+    "influencers" : [ {
+      "artist" : "Agnostic Front",
+      "ArtistId" : "agnostic-front-mn0000931105"
+    }, {
+      "artist" : "Cro-Mags",
+      "ArtistId" : "cro-mags-mn0000781766"
+    }, {
+      "artist" : "Dag Nasty",
+      "ArtistId" : "dag-nasty-mn0000563834"
+    } ],
+    "followers" : [ ],
+    "associatedwith" : [ ]
+  }
+}

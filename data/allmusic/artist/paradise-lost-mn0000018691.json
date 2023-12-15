@@ -39,12 +39,12 @@
     "albumYear" : "1993",
     "albumTitle" : "Icon",
     "musicRating" : "8",
-    "avgRating" : "9-250"
+    "avgRating" : "9-251"
   }, {
     "albumYear" : "1995",
     "albumTitle" : "Draconian Times",
     "musicRating" : "8",
-    "avgRating" : "9-256"
+    "avgRating" : "9-257"
   }, {
     "albumYear" : "1997",
     "albumTitle" : "One Second",
@@ -120,6 +120,11 @@
     "albumTitle" : "At the Mill",
     "musicRating" : "",
     "avgRating" : "8-2"
+  }, {
+    "albumYear" : "2023",
+    "albumTitle" : "Icon 30",
+    "musicRating" : "",
+    "avgRating" : ""
   }, {
     "albumYear" : "",
     "albumTitle" : "Say Just Words",

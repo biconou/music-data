@@ -18,12 +18,12 @@
     "albumYear" : "1980",
     "albumTitle" : "Iron Maiden",
     "musicRating" : "8",
-    "avgRating" : "9-2304"
+    "avgRating" : "9-2305"
   }, {
     "albumYear" : "1981",
     "albumTitle" : "Killers",
     "musicRating" : "7",
-    "avgRating" : "9-1914"
+    "avgRating" : "9-1915"
   }, {
     "albumYear" : "1982",
     "albumTitle" : "The Number of the Beast",
@@ -33,7 +33,7 @@
     "albumYear" : "1983",
     "albumTitle" : "Piece of Mind",
     "musicRating" : "8",
-    "avgRating" : "9-2251"
+    "avgRating" : "9-2254"
   }, {
     "albumYear" : "1983",
     "albumTitle" : "Brain Damage Tour of Europe",
@@ -43,7 +43,7 @@
     "albumYear" : "1984",
     "albumTitle" : "Powerslave",
     "musicRating" : "8",
-    "avgRating" : "10-2543"
+    "avgRating" : "10-2546"
   }, {
     "albumYear" : "1985",
     "albumTitle" : "Live After Death",
@@ -53,22 +53,22 @@
     "albumYear" : "1986",
     "albumTitle" : "Somewhere in Time",
     "musicRating" : "6",
-    "avgRating" : "9-2097"
+    "avgRating" : "9-2099"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Seventh Son of a Seventh Son",
     "musicRating" : "8",
-    "avgRating" : "9-2250"
+    "avgRating" : "9-2252"
   }, {
     "albumYear" : "1990",
     "albumTitle" : "No Prayer for the Dying",
     "musicRating" : "3",
-    "avgRating" : "6-1209"
+    "avgRating" : "6-1211"
   }, {
     "albumYear" : "1992",
     "albumTitle" : "Fear of the Dark",
     "musicRating" : "3",
-    "avgRating" : "7-1490"
+    "avgRating" : "7-1491"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "A Real Live One",
@@ -88,27 +88,27 @@
     "albumYear" : "1995",
     "albumTitle" : "The X Factor",
     "musicRating" : "3",
-    "avgRating" : "6-933"
+    "avgRating" : "6-935"
   }, {
     "albumYear" : "1998",
     "albumTitle" : "Virtual XI",
     "musicRating" : "3",
-    "avgRating" : "5-877"
+    "avgRating" : "5-880"
   }, {
     "albumYear" : "2000",
     "albumTitle" : "Brave New World",
     "musicRating" : "6",
-    "avgRating" : "9-1556"
+    "avgRating" : "9-1557"
   }, {
     "albumYear" : "2002",
     "albumTitle" : "Rock in Rio",
     "musicRating" : "3",
-    "avgRating" : "9-379"
+    "avgRating" : "9-378"
   }, {
     "albumYear" : "2003",
     "albumTitle" : "Dance of Death",
     "musicRating" : "7",
-    "avgRating" : "8-1299"
+    "avgRating" : "8-1300"
   }, {
     "albumYear" : "2005",
     "albumTitle" : "Death on the Road",
@@ -118,7 +118,7 @@
     "albumYear" : "2006",
     "albumTitle" : "A Matter of Life and Death",
     "musicRating" : "6",
-    "avgRating" : "8-1176"
+    "avgRating" : "8-1179"
   }, {
     "albumYear" : "2009",
     "albumTitle" : "Flight 666 [Original Soundtrack]",
@@ -128,12 +128,12 @@
     "albumYear" : "2010",
     "albumTitle" : "The Final Frontier",
     "musicRating" : "6",
-    "avgRating" : "8-1277"
+    "avgRating" : "8-1281"
   }, {
     "albumYear" : "2015",
     "albumTitle" : "The Book of Souls",
     "musicRating" : "7",
-    "avgRating" : "9-1471"
+    "avgRating" : "9-1473"
   }, {
     "albumYear" : "2017",
     "albumTitle" : "The Book of Souls: Live Chapter",
@@ -148,7 +148,7 @@
     "albumYear" : "2021",
     "albumTitle" : "Senjutsu",
     "musicRating" : "7",
-    "avgRating" : "7-544"
+    "avgRating" : "7-546"
   } ],
   "related" : {
     "similars" : [ {
