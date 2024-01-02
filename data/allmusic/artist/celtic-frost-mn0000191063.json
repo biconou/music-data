@@ -17,6 +17,8 @@
     "name" : "Symphonic Black Metal",
     "url" : "https://www.allmusic.com/style/symphonic-black-metal-ma0000012290"
   } ],
+  "decades" : "1980s - 2000s",
+  "genres" : "Pop/Rock",
   "discography" : [ {
     "albumYear" : "1984",
     "albumTitle" : "Morbid Tales",
@@ -26,12 +28,12 @@
     "albumYear" : "1985",
     "albumTitle" : "To Mega Therion",
     "musicRating" : "9",
-    "avgRating" : "10-531"
+    "avgRating" : "10-533"
   }, {
     "albumYear" : "1987",
     "albumTitle" : "Into the Pandemonium",
     "musicRating" : "8",
-    "avgRating" : "9-303"
+    "avgRating" : "9-305"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Cold Lake",
@@ -46,7 +48,7 @@
     "albumYear" : "2006",
     "albumTitle" : "Monotheist",
     "musicRating" : "6",
-    "avgRating" : "8-282"
+    "avgRating" : "8-283"
   }, {
     "albumYear" : "",
     "albumTitle" : "Live at the Hammersmith Odeon",

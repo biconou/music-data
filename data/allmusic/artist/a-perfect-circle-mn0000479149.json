@@ -20,31 +20,33 @@
     "name" : "Post-Grunge",
     "url" : "https://www.allmusic.com/style/post-grunge-ma0000005020"
   } ],
+  "decades" : "1990s - 2020s",
+  "genres" : "Pop/Rock",
   "discography" : [ {
     "albumYear" : "2000",
     "albumTitle" : "Mer de Noms",
     "musicRating" : "7",
-    "avgRating" : "9-1134"
+    "avgRating" : "9-1136"
   }, {
     "albumYear" : "2003",
     "albumTitle" : "Thirteenth Step",
     "musicRating" : "7",
-    "avgRating" : "9-1075"
+    "avgRating" : "9-1077"
   }, {
     "albumYear" : "2004",
     "albumTitle" : "eMOTIVe",
     "musicRating" : "3",
-    "avgRating" : "7-370"
+    "avgRating" : "7-372"
   }, {
     "albumYear" : "2013",
     "albumTitle" : "Stone & Echo: Recorded Live at Red Rocks Amphitheatre",
     "musicRating" : "",
-    "avgRating" : "9-28"
+    "avgRating" : "9-29"
   }, {
     "albumYear" : "2018",
     "albumTitle" : "Eat the Elephant",
     "musicRating" : "7",
-    "avgRating" : "7-496"
+    "avgRating" : "7-498"
   } ],
   "related" : {
     "similars" : [ {

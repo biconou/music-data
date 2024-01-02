@@ -14,16 +14,18 @@
     "name" : "Heavy Metal",
     "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
   } ],
+  "decades" : "2000s - 2020s",
+  "genres" : "Pop/Rock",
   "discography" : [ {
     "albumYear" : "2004",
     "albumTitle" : "Witchcraft",
     "musicRating" : "7",
-    "avgRating" : "9-97"
+    "avgRating" : "9-98"
   }, {
     "albumYear" : "2005",
     "albumTitle" : "Firewood",
     "musicRating" : "6",
-    "avgRating" : "8-41"
+    "avgRating" : "8-42"
   }, {
     "albumYear" : "2007",
     "albumTitle" : "The Alchemist",

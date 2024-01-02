@@ -66,6 +66,10 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="WARNING"/>
+        <entry key="message" type="xstring" value="Skipped 1 row(s) due to missing values."/>
+    </config>
     <entry key="factory" type="xstring" value="org.knime.json.node.filehandling.writer.JSONWriterNodeFactory2"/>
     <entry key="node-name" type="xstring" value="JSON Writer"/>
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
@@ -90,12 +94,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 12"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 4, Cols: 12"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="8ee79a19-e829-42b8-86b3-e284932e761b"/>
+        <entry key="file_store_id" type="xstring" value="a0cfb873-7951-4bbc-8f03-0191d3fe949c"/>
     </config>
 </config>

@@ -14,6 +14,8 @@
     "name" : "Chamber Music",
     "url" : "https://www.allmusic.com/style/chamber-music-ma0000004500"
   } ],
+  "decades" : "1980s - 2020s",
+  "genres" : "Classical",
   "discography" : [ {
     "albumYear" : "1987",
     "albumTitle" : "Bach: Piano Concerti BWV 1052, 1953 & 1056",
@@ -73,7 +75,7 @@
     "albumYear" : "2002",
     "albumTitle" : "Ravel: The Complete Solo Piano Music",
     "musicRating" : "",
-    "avgRating" : "9-3"
+    "avgRating" : "9-4"
   }, {
     "albumYear" : "2002",
     "albumTitle" : "Bach: The Toccatas",
@@ -118,7 +120,7 @@
     "albumYear" : "2005",
     "albumTitle" : "François Couperin: Keyboard Music, Vol. 3",
     "musicRating" : "8",
-    "avgRating" : "8-2"
+    "avgRating" : "9-3"
   }, {
     "albumYear" : "2006",
     "albumTitle" : "Bach: Keyboard Concertos",

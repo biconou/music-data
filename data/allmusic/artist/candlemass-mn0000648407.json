@@ -14,11 +14,13 @@
     "name" : "Scandinavian Metal",
     "url" : "https://www.allmusic.com/style/scandinavian-metal-ma0000012324"
   } ],
+  "decades" : "1980s - 2020s",
+  "genres" : "Pop/Rock",
   "discography" : [ {
     "albumYear" : "1986",
     "albumTitle" : "Epicus Doomicus Metallicus",
     "musicRating" : "8",
-    "avgRating" : "10-442"
+    "avgRating" : "10-446"
   }, {
     "albumYear" : "1987",
     "albumTitle" : "Nightfall",
@@ -28,22 +30,22 @@
     "albumYear" : "1988",
     "albumTitle" : "Ancient Dreams",
     "musicRating" : "5",
-    "avgRating" : "8-242"
+    "avgRating" : "8-254"
   }, {
     "albumYear" : "1989",
     "albumTitle" : "Tales of Creation",
     "musicRating" : "4",
-    "avgRating" : "10-307"
+    "avgRating" : "10-310"
   }, {
     "albumYear" : "1991",
     "albumTitle" : "Live",
     "musicRating" : "5",
-    "avgRating" : "9-34"
+    "avgRating" : "9-36"
   }, {
     "albumYear" : "1995",
     "albumTitle" : "Chapter VI",
     "musicRating" : "3",
-    "avgRating" : "4-82"
+    "avgRating" : "4-86"
   }, {
     "albumYear" : "1998",
     "albumTitle" : "Dactylis Glomerata",
@@ -58,7 +60,7 @@
     "albumYear" : "2003",
     "albumTitle" : "Doomed for Live: Reunion 2002",
     "musicRating" : "",
-    "avgRating" : "10-21"
+    "avgRating" : "10-23"
   }, {
     "albumYear" : "2003",
     "albumTitle" : "Diamonds of Doom",
@@ -73,7 +75,7 @@
     "albumYear" : "2007",
     "albumTitle" : "The King of the Grey Islands",
     "musicRating" : "5",
-    "avgRating" : "8-216"
+    "avgRating" : "9-262"
   }, {
     "albumYear" : "2008",
     "albumTitle" : "Lucifer Rising",
@@ -83,7 +85,7 @@
     "albumYear" : "2009",
     "albumTitle" : "Death Magic Doom",
     "musicRating" : "7",
-    "avgRating" : "8-216"
+    "avgRating" : "8-218"
   }, {
     "albumYear" : "2010",
     "albumTitle" : "Doomology [Box Set]",
@@ -93,27 +95,27 @@
     "albumYear" : "2010",
     "albumTitle" : "Ashes to Ashes Live",
     "musicRating" : "",
-    "avgRating" : "9-11"
+    "avgRating" : "9-12"
   }, {
     "albumYear" : "2012",
     "albumTitle" : "Psalms for the Dead",
     "musicRating" : "5",
-    "avgRating" : "5-94"
+    "avgRating" : "8-165"
   }, {
     "albumYear" : "2019",
     "albumTitle" : "The Door to Doom",
     "musicRating" : "",
-    "avgRating" : "8-186"
+    "avgRating" : "8-194"
   }, {
     "albumYear" : "2022",
     "albumTitle" : "Don't Fear the Reaper",
     "musicRating" : "",
-    "avgRating" : "10-1"
+    "avgRating" : "6-2"
   }, {
     "albumYear" : "2022",
     "albumTitle" : "Sweet Evil Sun",
     "musicRating" : "",
-    "avgRating" : "6-30"
+    "avgRating" : "6-33"
   }, {
     "albumYear" : "",
     "albumTitle" : "No Sleep Till Athens: Live",

@@ -23,31 +23,33 @@
     "name" : "Pop-Metal",
     "url" : "https://www.allmusic.com/style/pop-metal-ma0000002785"
   } ],
+  "decades" : "1970s - 2020s",
+  "genres" : "Pop/Rock",
   "discography" : [ {
     "albumYear" : "1973",
     "albumTitle" : "Aerosmith",
     "musicRating" : "6",
-    "avgRating" : "8-1625"
+    "avgRating" : "8-1628"
   }, {
     "albumYear" : "1974",
     "albumTitle" : "Get Your Wings",
     "musicRating" : "8",
-    "avgRating" : "9-1297"
+    "avgRating" : "9-1301"
   }, {
     "albumYear" : "1975",
     "albumTitle" : "Toys in the Attic",
     "musicRating" : "9",
-    "avgRating" : "9-2592"
+    "avgRating" : "9-2597"
   }, {
     "albumYear" : "1976",
     "albumTitle" : "Rocks",
     "musicRating" : "9",
-    "avgRating" : "9-1926"
+    "avgRating" : "9-1931"
   }, {
     "albumYear" : "1977",
     "albumTitle" : "Draw the Line",
     "musicRating" : "6",
-    "avgRating" : "8-1029"
+    "avgRating" : "8-1033"
   }, {
     "albumYear" : "1978",
     "albumTitle" : "Live Bootleg",
@@ -57,47 +59,47 @@
     "albumYear" : "1979",
     "albumTitle" : "Night in the Ruts",
     "musicRating" : "4",
-    "avgRating" : "7-536"
+    "avgRating" : "7-537"
   }, {
     "albumYear" : "1982",
     "albumTitle" : "Rock in a Hard Place",
     "musicRating" : "2",
-    "avgRating" : "6-455"
+    "avgRating" : "6-456"
   }, {
     "albumYear" : "1985",
     "albumTitle" : "Done with Mirrors",
     "musicRating" : "7",
-    "avgRating" : "7-1079"
+    "avgRating" : "7-1081"
   }, {
     "albumYear" : "1987",
     "albumTitle" : "Permanent Vacation",
     "musicRating" : "7",
-    "avgRating" : "8-1191"
+    "avgRating" : "8-1193"
   }, {
     "albumYear" : "1989",
     "albumTitle" : "Pump",
     "musicRating" : "8",
-    "avgRating" : "8-1485"
+    "avgRating" : "8-1489"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "Get a Grip",
     "musicRating" : "4",
-    "avgRating" : "8-1255"
+    "avgRating" : "8-1256"
   }, {
     "albumYear" : "1997",
     "albumTitle" : "Nine Lives",
     "musicRating" : "4",
-    "avgRating" : "7-824"
+    "avgRating" : "7-825"
   }, {
     "albumYear" : "2001",
     "albumTitle" : "Just Push Play",
     "musicRating" : "5",
-    "avgRating" : "7-608"
+    "avgRating" : "7-611"
   }, {
     "albumYear" : "2004",
     "albumTitle" : "Honkin' on Bobo",
     "musicRating" : "6",
-    "avgRating" : "7-775"
+    "avgRating" : "7-776"
   }, {
     "albumYear" : "2005",
     "albumTitle" : "Rockin' the Joint",
@@ -107,7 +109,7 @@
     "albumYear" : "2012",
     "albumTitle" : "Music from Another Dimension!",
     "musicRating" : "5",
-    "avgRating" : "6-680"
+    "avgRating" : "6-681"
   }, {
     "albumYear" : "2015",
     "albumTitle" : "Rocks Donington 2014",

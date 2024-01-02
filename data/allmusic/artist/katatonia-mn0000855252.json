@@ -23,6 +23,8 @@
     "name" : "Death Metal",
     "url" : "https://www.allmusic.com/style/death-metal-ma0000002547"
   } ],
+  "decades" : "1990s - 2020s",
+  "genres" : "Pop/Rock",
   "discography" : [ {
     "albumYear" : "1993",
     "albumTitle" : "Dance of December Souls",
@@ -42,7 +44,7 @@
     "albumYear" : "1998",
     "albumTitle" : "Discouraged Ones",
     "musicRating" : "8",
-    "avgRating" : "9-122"
+    "avgRating" : "9-123"
   }, {
     "albumYear" : "1999",
     "albumTitle" : "Tonight's Decision",
@@ -52,7 +54,7 @@
     "albumYear" : "2001",
     "albumTitle" : "Last Fair Deal Gone Down",
     "musicRating" : "8",
-    "avgRating" : "9-194"
+    "avgRating" : "9-195"
   }, {
     "albumYear" : "2003",
     "albumTitle" : "Viva Emptiness",
@@ -62,7 +64,7 @@
     "albumYear" : "2006",
     "albumTitle" : "The Great Cold Distance",
     "musicRating" : "7",
-    "avgRating" : "9-228"
+    "avgRating" : "9-229"
   }, {
     "albumYear" : "2007",
     "albumTitle" : "Live Consternation",

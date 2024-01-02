@@ -41,16 +41,18 @@
     "name" : "Euro-Dance",
     "url" : "https://www.allmusic.com/style/euro-dance-ma0000005013"
   } ],
+  "decades" : "1980s - 2020s",
+  "genres" : "Pop/Rock, Electronic, Stage & Screen",
   "discography" : [ {
     "albumYear" : "1985",
     "albumTitle" : "Hunting High and Low",
     "musicRating" : "7",
-    "avgRating" : "9-755"
+    "avgRating" : "9-757"
   }, {
     "albumYear" : "1986",
     "albumTitle" : "Scoundrel Days",
     "musicRating" : "6",
-    "avgRating" : "9-391"
+    "avgRating" : "9-394"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Stay on These Roads",
@@ -60,7 +62,7 @@
     "albumYear" : "1990",
     "albumTitle" : "East of the Sun, West of the Moon",
     "musicRating" : "5",
-    "avgRating" : "8-239"
+    "avgRating" : "8-240"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "Memorial Beach",
@@ -70,7 +72,7 @@
     "albumYear" : "2000",
     "albumTitle" : "Minor Earth Major Sky",
     "musicRating" : "5",
-    "avgRating" : "8-213"
+    "avgRating" : "8-215"
   }, {
     "albumYear" : "2002",
     "albumTitle" : "Lifelines",
@@ -95,7 +97,7 @@
     "albumYear" : "2015",
     "albumTitle" : "Cast in Steel",
     "musicRating" : "",
-    "avgRating" : "8-137"
+    "avgRating" : "8-138"
   }, {
     "albumYear" : "2017",
     "albumTitle" : "Acoustic Hits: MTV Unplugged",

@@ -11,21 +11,23 @@
     "name" : "Indie Rock",
     "url" : "https://www.allmusic.com/style/indie-rock-ma0000004453"
   } ],
+  "decades" : "2000s - 2020s",
+  "genres" : "Pop/Rock",
   "discography" : [ {
     "albumYear" : "2004",
     "albumTitle" : "Funeral",
     "musicRating" : "9",
-    "avgRating" : "9-5903"
+    "avgRating" : "9-5906"
   }, {
     "albumYear" : "2007",
     "albumTitle" : "Neon Bible",
     "musicRating" : "7",
-    "avgRating" : "9-3902"
+    "avgRating" : "9-3903"
   }, {
     "albumYear" : "2010",
     "albumTitle" : "The Suburbs",
     "musicRating" : "9",
-    "avgRating" : "9-4935"
+    "avgRating" : "9-4937"
   }, {
     "albumYear" : "2013",
     "albumTitle" : "Reflektor",

@@ -1,0 +1,222 @@
+{
+  "id" : "asc-mn0000923614",
+  "name" : "ASC",
+  "activeDates" : "1990s - 2010s",
+  "birthDate" : "England",
+  "birthPlace" : "",
+  "styles" : [ {
+    "name" : "Experimental Jungle",
+    "url" : "https://www.allmusic.com/style/experimental-jungle-ma0000012176"
+  }, {
+    "name" : "Jungle/Drum'n'Bass",
+    "url" : "https://www.allmusic.com/style/jungle-drumnbass-ma0000002557"
+  }, {
+    "name" : "Ambient",
+    "url" : "https://www.allmusic.com/style/ambient-ma0000002424"
+  }, {
+    "name" : "Ambient Techno",
+    "url" : "https://www.allmusic.com/style/ambient-techno-ma0000012032"
+  }, {
+    "name" : "Experimental Techno",
+    "url" : "https://www.allmusic.com/style/experimental-techno-ma0000012244"
+  }, {
+    "name" : "Techno",
+    "url" : "https://www.allmusic.com/style/techno-ma0000002893"
+  }, {
+    "name" : "IDM",
+    "url" : "https://www.allmusic.com/style/idm-ma0000004477"
+  } ],
+  "decades" : "1990s - 2010s",
+  "genres" : "Electronic",
+  "discography" : [ {
+    "albumYear" : "2004",
+    "albumTitle" : "Open Spaces",
+    "musicRating" : "",
+    "avgRating" : "8-1"
+  }, {
+    "albumYear" : "2011",
+    "albumTitle" : "The Light That Burns Twice As Bright",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "2015",
+    "albumTitle" : "Out of Sync",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "The Moons of Saturn",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Interstellar Transmissions",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "An Increase in Entropy",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Truth Be Told",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Sphere of Influence",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Return of the Emissary Remixes",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Emotion in Rhythm: 10 Years of Auxiliary",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Dimensional Space",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Defiance",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Confluence of Light",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Colours of Absence",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "No Stars Without Darkness",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Perpetual Motion",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Fervent Dream",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Return of the Emissary, Pt. 2",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Hiding in Plain Sight",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Time Heals All",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Ideasthesia",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "The Waves",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Imagine the Future",
+    "musicRating" : "",
+    "avgRating" : "9-3"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Blocks & Escher",
+      "ArtistId" : "blocks-escher-mn0002648355"
+    }, {
+      "artist" : "Consequence",
+      "ArtistId" : "consequence-mn0002387934"
+    }, {
+      "artist" : "dBridge",
+      "ArtistId" : "dbridge-mn0000261919"
+    }, {
+      "artist" : "Instra:mental",
+      "ArtistId" : "instra-mental-mn0000981783"
+    }, {
+      "artist" : "Pessimist",
+      "ArtistId" : "pessimist-mn0003582333"
+    }, {
+      "artist" : "Synkro",
+      "ArtistId" : "synkro-mn0000489943"
+    }, {
+      "artist" : "Vaccine",
+      "ArtistId" : "vaccine-mn0001609083"
+    }, {
+      "artist" : "Ancestral Voices",
+      "ArtistId" : "ancestral-voices-mn0003414877"
+    }, {
+      "artist" : "Blu Mar Ten",
+      "ArtistId" : "blu-mar-ten-mn0000048139"
+    }, {
+      "artist" : "Ena",
+      "ArtistId" : "ena-mn0002647677"
+    }, {
+      "artist" : "Fis",
+      "ArtistId" : "fis-mn0003182103"
+    }, {
+      "artist" : "Homemade Weapons",
+      "ArtistId" : "homemade-weapons-mn0003615168"
+    }, {
+      "artist" : "Jon Convex",
+      "ArtistId" : "jon-convex-mn0002787127"
+    }, {
+      "artist" : "Rockwell",
+      "ArtistId" : "rockwell-mn0002474429"
+    }, {
+      "artist" : "Sam KDC",
+      "ArtistId" : "sam-kdc-mn0002849108"
+    }, {
+      "artist" : "Kangding Ray",
+      "ArtistId" : "kangding-ray-mn0001002290"
+    }, {
+      "artist" : "Djrum",
+      "ArtistId" : "djrum-mn0002995186"
+    }, {
+      "artist" : "Subjective",
+      "ArtistId" : "subjective-mn0003802361"
+    }, {
+      "artist" : "Thugwidow",
+      "ArtistId" : "thugwidow-mn0003631983"
+    }, {
+      "artist" : "Torn",
+      "ArtistId" : "torn-mn0004076994"
+    } ],
+    "influencers" : [ {
+      "artist" : "LTJ Bukem",
+      "ArtistId" : "ltj-bukem-mn0000777405"
+    }, {
+      "artist" : "Photek",
+      "ArtistId" : "photek-mn0000845853"
+    }, {
+      "artist" : "Source Direct",
+      "ArtistId" : "source-direct-mn0000742828"
+    } ],
+    "followers" : [ ],
+    "associatedwith" : [ ]
+  }
+}

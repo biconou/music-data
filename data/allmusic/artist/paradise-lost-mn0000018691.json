@@ -20,6 +20,8 @@
     "name" : "Death Metal",
     "url" : "https://www.allmusic.com/style/death-metal-ma0000002547"
   } ],
+  "decades" : "1980s - 2020s",
+  "genres" : "Pop/Rock",
   "discography" : [ {
     "albumYear" : "1990",
     "albumTitle" : "Lost Paradise",
@@ -120,11 +122,6 @@
     "albumTitle" : "At the Mill",
     "musicRating" : "",
     "avgRating" : "8-2"
-  }, {
-    "albumYear" : "2023",
-    "albumTitle" : "Icon 30",
-    "musicRating" : "",
-    "avgRating" : ""
   }, {
     "albumYear" : "",
     "albumTitle" : "Say Just Words",
