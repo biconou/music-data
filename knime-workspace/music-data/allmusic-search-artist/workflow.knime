@@ -8,10 +8,10 @@
         <entry key="authored-by" type="xstring" value="remi"/>
         <entry key="authored-when" type="xstring" value="2023-02-10 12:50:17 +0100"/>
         <entry key="lastEdited-by" type="xstring" value="remi"/>
-        <entry key="lastEdited-when" type="xstring" value="2023-12-30 22:46:39 +0100"/>
+        <entry key="lastEdited-when" type="xstring" value="2024-01-03 22:13:32 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="CONFIGURED"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <config key="workflow_variables">
         <config key="Var_0">
             <entry key="name" type="xstring" value="DATA_DIR"/>
@@ -127,8 +127,8 @@
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="-340"/>
-                    <entry key="1" type="xint" value="59"/>
+                    <entry key="0" type="xint" value="-410"/>
+                    <entry key="1" type="xint" value="29"/>
                     <entry key="2" type="xint" value="74"/>
                     <entry key="3" type="xint" value="78"/>
                 </config>
@@ -191,8 +191,8 @@
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="450"/>
-                    <entry key="1" type="xint" value="29"/>
+                    <entry key="0" type="xint" value="435"/>
+                    <entry key="1" type="xint" value="24"/>
                     <entry key="2" type="xint" value="-1"/>
                     <entry key="3" type="xint" value="-1"/>
                 </config>
@@ -207,8 +207,8 @@
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="540"/>
-                    <entry key="1" type="xint" value="29"/>
+                    <entry key="0" type="xint" value="560"/>
+                    <entry key="1" type="xint" value="24"/>
                     <entry key="2" type="xint" value="-1"/>
                     <entry key="3" type="xint" value="-1"/>
                 </config>
