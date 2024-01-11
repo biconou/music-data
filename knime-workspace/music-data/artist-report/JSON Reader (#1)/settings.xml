@@ -27,7 +27,7 @@
                     <entry key="location_present" type="xboolean" value="true"/>
                     <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
                     <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-                    <entry key="path" type="xstring" value="/data/allmusic/artist/led-zeppelin-mn0000139026.json"/>
+                    <entry key="path" type="xstring" value="/data/allmusic/artist/pixies-mn0000895136.json"/>
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -78,11 +78,11 @@
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.json.filehandling"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.7.0.v202211082358"/>
+    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202310301555"/>
     <entry key="node-feature-name" type="xstring" value="KNIME JSON-Processing"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.json.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.7.0.v202212030000"/>
+    <entry key="node-feature-version" type="xstring" value="5.2.0.v202310301555"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="File System Connection"/>
@@ -102,6 +102,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="791ac5fd-4501-4bdb-92c7-f1e0f163b77f"/>
+        <entry key="file_store_id" type="xstring" value="2a69f8da-ed8a-4343-a329-5fdc95948b79"/>
     </config>
 </config>

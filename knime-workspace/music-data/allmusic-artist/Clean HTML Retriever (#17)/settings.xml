@@ -49,11 +49,11 @@
     <entry key="node-bundle-name" type="xstring" value="MMI Data Analytics Node extensions for KNIME Workbench"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="com.mmiagency.knime.nodes"/>
     <entry key="node-bundle-vendor" type="xstring" value="MMI Agency"/>
-    <entry key="node-bundle-version" type="xstring" value="0.0.16.v202311120437"/>
+    <entry key="node-bundle-version" type="xstring" value="0.0.15.qualifier"/>
     <entry key="node-feature-name" type="xstring" value="MMI Data Analytics Nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="com.mmiagency.knime.feature.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="MMI Agency"/>
-    <entry key="node-feature-version" type="xstring" value="1.0.100.v202311120437"/>
+    <entry key="node-feature-version" type="xstring" value="1.0.100.qualifier"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Clean HTML Retriever"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -69,6 +69,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="836698b8-090a-4727-b894-229da222048d"/>
+        <entry key="file_store_id" type="xstring" value="38177663-40d4-4099-8641-0347c7c3fed4"/>
     </config>
 </config>

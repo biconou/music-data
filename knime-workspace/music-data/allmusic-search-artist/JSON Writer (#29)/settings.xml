@@ -68,18 +68,18 @@
     <entry key="state" type="xstring" value="EXECUTED"/>
     <config key="nodecontainer_message">
         <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Skipped 2 row(s) due to missing values."/>
+        <entry key="message" type="xstring" value="Skipped 1 row(s) due to missing values."/>
     </config>
     <entry key="factory" type="xstring" value="org.knime.json.node.filehandling.writer.JSONWriterNodeFactory2"/>
     <entry key="node-name" type="xstring" value="JSON Writer"/>
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.json.filehandling"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.1.0.v202305161236"/>
+    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202310301555"/>
     <entry key="node-feature-name" type="xstring" value="KNIME JSON-Processing"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.json.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.1.0.v202307131156"/>
+    <entry key="node-feature-version" type="xstring" value="5.2.0.v202310301555"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="File System Connection"/>
@@ -100,6 +100,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="909e4046-a867-4238-8a45-d9f2e7413e32"/>
+        <entry key="file_store_id" type="xstring" value="a47d9243-3910-43af-a1cc-146aff734d6e"/>
     </config>
 </config>

@@ -1200,7 +1200,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/leonard-cohen-mn0000071209/discographyAjax"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/arcade-fire-mn0000185591/discographyAjax"/>
                     </config>
                 </config>
             </config>

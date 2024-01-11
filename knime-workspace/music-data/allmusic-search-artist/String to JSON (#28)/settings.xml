@@ -19,11 +19,11 @@
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.json"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.1.0.v202307131156"/>
+    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202310301555"/>
     <entry key="node-feature-name" type="xstring" value="KNIME JSON-Processing"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.json.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.1.0.v202307131156"/>
+    <entry key="node-feature-version" type="xstring" value="5.2.0.v202310301555"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="String to JSON"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -39,6 +39,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="c3889260-1d97-4027-8c7a-84188bb55df7"/>
+        <entry key="file_store_id" type="xstring" value="fe07c8bf-fc49-4e5b-b3de-d88218a0d9cc"/>
     </config>
 </config>
