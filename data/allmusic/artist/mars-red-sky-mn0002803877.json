@@ -1,0 +1,53 @@
+{
+  "id" : "mars-red-sky-mn0002803877",
+  "name" : "Mars Red Sky",
+  "activeDates" : "2010s",
+  "birthDate" : "2007",
+  "birthPlace" : "Bordeaux, France",
+  "styles" : [ {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  }, {
+    "name" : "Stoner Metal",
+    "url" : "https://www.allmusic.com/style/stoner-metal-ma0000011961"
+  } ],
+  "decades" : "2010s",
+  "genres" : "Pop/Rock",
+  "discography" : [ {
+    "albumYear" : "2011",
+    "albumTitle" : "Mars Red Sky",
+    "musicRating" : "",
+    "avgRating" : "7-14"
+  }, {
+    "albumYear" : "2014",
+    "albumTitle" : "Stranded in Arcadia",
+    "musicRating" : "",
+    "avgRating" : "7-11"
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "Apex III (Praise for the Burning Soul)",
+    "musicRating" : "",
+    "avgRating" : "7-6"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "The Task Eternal",
+    "musicRating" : "",
+    "avgRating" : "5-2"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Dawn of the Dusk",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Apexiii",
+    "musicRating" : "",
+    "avgRating" : "10-2"
+  } ],
+  "related" : {
+    "similars" : [ ],
+    "influencers" : [ ],
+    "followers" : [ ],
+    "associatedwith" : [ ]
+  }
+}

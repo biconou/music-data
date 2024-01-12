@@ -1,0 +1,312 @@
+{
+  "id" : "the-cramps-mn0000137580",
+  "name" : "The Cramps",
+  "activeDates" : "1970s - 2000s",
+  "birthDate" : "1976",
+  "birthPlace" : "Sacramento, CA",
+  "styles" : [ {
+    "name" : "Alternative/Indie Rock",
+    "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
+  }, {
+    "name" : "American Underground",
+    "url" : "https://www.allmusic.com/style/american-underground-ma0000012062"
+  }, {
+    "name" : "Post-Punk",
+    "url" : "https://www.allmusic.com/style/post-punk-ma0000004450"
+  }, {
+    "name" : "Psychobilly",
+    "url" : "https://www.allmusic.com/style/psychobilly-ma0000002801"
+  }, {
+    "name" : "Rockabilly Revival",
+    "url" : "https://www.allmusic.com/style/rockabilly-revival-ma0000012051"
+  } ],
+  "decades" : "1970s - 2000s",
+  "genres" : "Pop/Rock",
+  "discography" : [ {
+    "albumYear" : "1980",
+    "albumTitle" : "Songs the Lord Taught Us",
+    "musicRating" : "7",
+    "avgRating" : "9-466"
+  }, {
+    "albumYear" : "1981",
+    "albumTitle" : "Psychedelic Jungle",
+    "musicRating" : "7",
+    "avgRating" : "9-302"
+  }, {
+    "albumYear" : "1983",
+    "albumTitle" : "Smell of Female",
+    "musicRating" : "6",
+    "avgRating" : "9-176"
+  }, {
+    "albumYear" : "1986",
+    "albumTitle" : "A Date with Elvis",
+    "musicRating" : "6",
+    "avgRating" : "8-227"
+  }, {
+    "albumYear" : "1987",
+    "albumTitle" : "RockinnReelininAucklandNewZealandXXX",
+    "musicRating" : "4",
+    "avgRating" : "8-52"
+  }, {
+    "albumYear" : "1988",
+    "albumTitle" : "What's Inside a Ghoul",
+    "musicRating" : "3",
+    "avgRating" : "6-1"
+  }, {
+    "albumYear" : "1990",
+    "albumTitle" : "Stay Sick!",
+    "musicRating" : "6",
+    "avgRating" : "8-177"
+  }, {
+    "albumYear" : "1991",
+    "albumTitle" : "Look Mom No Head!",
+    "musicRating" : "3",
+    "avgRating" : "7-84"
+  }, {
+    "albumYear" : "1994",
+    "albumTitle" : "Flame Job",
+    "musicRating" : "5",
+    "avgRating" : "8-172"
+  }, {
+    "albumYear" : "1997",
+    "albumTitle" : "Big Beat from Badsville",
+    "musicRating" : "5",
+    "avgRating" : "7-88"
+  }, {
+    "albumYear" : "2003",
+    "albumTitle" : "Fiends of Dope Island",
+    "musicRating" : "5",
+    "avgRating" : "7-174"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Alex Chilton",
+      "ArtistId" : "alex-chilton-mn0000620155"
+    }, {
+      "artist" : "Beasts of Bourbon",
+      "ArtistId" : "beasts-of-bourbon-mn0000789636"
+    }, {
+      "artist" : "Hasil Adkins",
+      "ArtistId" : "hasil-adkins-mn0000951924"
+    }, {
+      "artist" : "The A-Bones",
+      "ArtistId" : "the-a-bones-mn0000035094"
+    }, {
+      "artist" : "The B-52s",
+      "ArtistId" : "the-b-52s-mn0000043489"
+    }, {
+      "artist" : "The Pagans",
+      "ArtistId" : "the-pagans-mn0000484084"
+    }, {
+      "artist" : "The Reverend Horton Heat",
+      "ArtistId" : "the-reverend-horton-heat-mn0000462110"
+    }, {
+      "artist" : "Divine Horsemen",
+      "ArtistId" : "divine-horsemen-mn0000178278"
+    }, {
+      "artist" : "Flat Duo Jets",
+      "ArtistId" : "flat-duo-jets-mn0000798449"
+    }, {
+      "artist" : "Revillos",
+      "ArtistId" : "revillos-mn0000461929"
+    }, {
+      "artist" : "Tav Falco",
+      "ArtistId" : "tav-falco-mn0000016147"
+    }, {
+      "artist" : "Brian Setzer",
+      "ArtistId" : "brian-setzer-mn0000519637"
+    }, {
+      "artist" : "Butthole Surfers",
+      "ArtistId" : "butthole-surfers-mn0000633181"
+    }, {
+      "artist" : "Evan Johns",
+      "ArtistId" : "evan-johns-mn0000786583"
+    }, {
+      "artist" : "God Bullies",
+      "ArtistId" : "god-bullies-mn0000557188"
+    }, {
+      "artist" : "Nick Cave & the Bad Seeds",
+      "ArtistId" : "nick-cave-the-bad-seeds-mn0000866271"
+    }, {
+      "artist" : "Redd Kross",
+      "ArtistId" : "redd-kross-mn0000385611"
+    }, {
+      "artist" : "Shockabilly",
+      "ArtistId" : "shockabilly-mn0000753761"
+    }, {
+      "artist" : "Stray Cats",
+      "ArtistId" : "stray-cats-mn0000475431"
+    }, {
+      "artist" : "T.S.O.L.",
+      "ArtistId" : "tsol-mn0000004451"
+    }, {
+      "artist" : "The Meteors",
+      "ArtistId" : "the-meteors-mn0000480299"
+    }, {
+      "artist" : "The Truth Rockets",
+      "ArtistId" : "the-truth-rockets-mn0001554060"
+    }, {
+      "artist" : "Warren Smith",
+      "ArtistId" : "warren-smith-mn0001792309"
+    }, {
+      "artist" : "Honeymoon Killers",
+      "ArtistId" : "honeymoon-killers-mn0003961487"
+    }, {
+      "artist" : "Kid Congo Powers",
+      "ArtistId" : "kid-congo-powers-mn0000084962"
+    }, {
+      "artist" : "Leather Nun",
+      "ArtistId" : "leather-nun-mn0000091821"
+    }, {
+      "artist" : "Misfits",
+      "ArtistId" : "misfits-mn0000891063"
+    }, {
+      "artist" : "The Dead Milkmen",
+      "ArtistId" : "the-dead-milkmen-mn0000140891"
+    } ],
+    "influencers" : [ {
+      "artist" : "Dale Hawkins",
+      "ArtistId" : "dale-hawkins-mn0000673372"
+    }, {
+      "artist" : "Eddie Cochran",
+      "ArtistId" : "eddie-cochran-mn0000793988"
+    }, {
+      "artist" : "Elvis Presley",
+      "ArtistId" : "elvis-presley-mn0000180228"
+    }, {
+      "artist" : "Jerry Lee Lewis",
+      "ArtistId" : "jerry-lee-lewis-mn0000332141"
+    }, {
+      "artist" : "Roy Orbison",
+      "ArtistId" : "roy-orbison-mn0000852007"
+    }, {
+      "artist" : "Jayne County & the Electric Chairs",
+      "ArtistId" : "jayne-county-the-electric-chairs-mn0001166438"
+    }, {
+      "artist" : "The Collins Kids",
+      "ArtistId" : "the-collins-kids-mn0000765722"
+    }, {
+      "artist" : "Billy Lee Riley",
+      "ArtistId" : "billy-lee-riley-mn0000089713"
+    }, {
+      "artist" : "Carl Perkins",
+      "ArtistId" : "carl-perkins-mn0000792953"
+    }, {
+      "artist" : "Charlie Feathers",
+      "ArtistId" : "charlie-feathers-mn0000207735"
+    }, {
+      "artist" : "Gene Vincent",
+      "ArtistId" : "gene-vincent-mn0000803720"
+    }, {
+      "artist" : "Hasil Adkins",
+      "ArtistId" : "hasil-adkins-mn0000951924"
+    }, {
+      "artist" : "Johnny Burnette",
+      "ArtistId" : "johnny-burnette-mn0000241813"
+    }, {
+      "artist" : "Ronnie Dawson",
+      "ArtistId" : "ronnie-dawson-mn0000331337"
+    }, {
+      "artist" : "Sam the Sham & the Pharaohs",
+      "ArtistId" : "sam-the-sham-the-pharaohs-mn0000289177"
+    }, {
+      "artist" : "Screamin' Jay Hawkins",
+      "ArtistId" : "screamin-jay-hawkins-mn0000309458"
+    }, {
+      "artist" : "Sonny Burgess",
+      "ArtistId" : "sonny-burgess-mn0000046603"
+    }, {
+      "artist" : "The Count Five",
+      "ArtistId" : "the-count-five-mn0000126998"
+    }, {
+      "artist" : "The Sonics",
+      "ArtistId" : "the-sonics-mn0000428717"
+    }, {
+      "artist" : "The Trashmen",
+      "ArtistId" : "the-trashmen-mn0000007729"
+    }, {
+      "artist" : "Warren Smith",
+      "ArtistId" : "warren-smith-mn0000196629"
+    } ],
+    "followers" : [ {
+      "artist" : "Demolition Doll Rods",
+      "ArtistId" : "demolition-doll-rods-mn0000201580"
+    }, {
+      "artist" : "Girl Trouble",
+      "ArtistId" : "girl-trouble-mn0000553750"
+    }, {
+      "artist" : "Jesse Jo Stark",
+      "ArtistId" : "jesse-jo-stark-mn0003456586"
+    }, {
+      "artist" : "Mono Men",
+      "ArtistId" : "mono-men-mn0000926056"
+    }, {
+      "artist" : "Nashville Pussy",
+      "ArtistId" : "nashville-pussy-mn0000316536"
+    }, {
+      "artist" : "Rob Zombie",
+      "ArtistId" : "rob-zombie-mn0000235169"
+    }, {
+      "artist" : "Southern Culture on the Skids",
+      "ArtistId" : "southern-culture-on-the-skids-mn0000003669"
+    }, {
+      "artist" : "Sunflowers",
+      "ArtistId" : "sunflowers-mn0003728172"
+    }, {
+      "artist" : "The 69 Cats",
+      "ArtistId" : "the-69-cats-mn0003275732"
+    }, {
+      "artist" : "The Church Keys",
+      "ArtistId" : "the-church-keys-mn0000072318"
+    }, {
+      "artist" : "The Courettes",
+      "ArtistId" : "the-courettes-mn0003738730"
+    }, {
+      "artist" : "The Dragsters",
+      "ArtistId" : "the-dragsters-mn0000210676"
+    }, {
+      "artist" : "The Flaming Sideburns",
+      "ArtistId" : "the-flaming-sideburns-mn0000065217"
+    }, {
+      "artist" : "The Hentchmen",
+      "ArtistId" : "the-hentchmen-mn0000768228"
+    }, {
+      "artist" : "The Raveonettes",
+      "ArtistId" : "the-raveonettes-mn0000416537"
+    }, {
+      "artist" : "The Reverend Horton Heat",
+      "ArtistId" : "the-reverend-horton-heat-mn0000462110"
+    }, {
+      "artist" : "The Slanderin",
+      "ArtistId" : "the-slanderin-mn0000423948"
+    }, {
+      "artist" : "The White Stripes",
+      "ArtistId" : "the-white-stripes-mn0000921710"
+    }, {
+      "artist" : "Wounded Lion",
+      "ArtistId" : "wounded-lion-mn0002415383"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Congo Norvell",
+      "ArtistId" : "congo-norvell-mn0000779011"
+    }, {
+      "artist" : "The Electric Eels",
+      "ArtistId" : "the-electric-eels-mn0000792275"
+    }, {
+      "artist" : "The Gun Club",
+      "ArtistId" : "the-gun-club-mn0000091438"
+    }, {
+      "artist" : "Veil",
+      "ArtistId" : "veil-mn0001195993"
+    }, {
+      "artist" : "Zantees",
+      "ArtistId" : "zantees-mn0001387293"
+    }, {
+      "artist" : "The 69 Cats",
+      "ArtistId" : "the-69-cats-mn0003275732"
+    }, {
+      "artist" : "The Lords of Altamont",
+      "ArtistId" : "the-lords-of-altamont-mn0000082047"
+    } ]
+  }
+}

@@ -6,6 +6,14 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
+        <config key="session_info">
+            <entry key="version" type="xint" value="4"/>
+            <entry key="db_type" type="xstring" value="postgres"/>
+            <entry key="db_dialect" type="xstring" value="postgres"/>
+            <entry key="db_driver" type="xstring" value="built-in-postgres-42.3.5"/>
+            <config key="attributes"/>
+            <entry key="db_url" type="xstring" value="jdbc:postgresql://togodo:5433/airsonic"/>
+        </config>
         <config key="authentication_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_authentication"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -15,14 +23,6 @@
             <entry key="username" type="xstring" value="airsonic"/>
             <entry key="password" type="xpassword" value="02CAAAAGMq_QxveL1vZ0EBj2lFe5j0VfZceU6Qew=="/>
             <entry key="selectedType" type="xstring" value="USER_PWD"/>
-        </config>
-        <config key="session_info">
-            <entry key="version" type="xint" value="4"/>
-            <entry key="db_type" type="xstring" value="postgres"/>
-            <entry key="db_dialect" type="xstring" value="postgres"/>
-            <entry key="db_driver" type="xstring" value="built-in-postgres-42.3.5"/>
-            <config key="attributes"/>
-            <entry key="db_url" type="xstring" value="jdbc:postgresql://togodo:5433/airsonic"/>
         </config>
         <config key="external_to_knime_mapping_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_dataTypeMapping"/>
@@ -929,7 +929,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="PostgreSQL e463e1ca-4857-4f9f-bfda-20a6090d28e2"/>
+            <entry key="port_object_summary" type="xstring" value="PostgreSQL df4a6c82-aeb6-4447-afe2-8f4b1bb9bbbc"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -937,6 +937,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="f22f90b9-f65c-4733-884d-a2d95a50d574"/>
+        <entry key="file_store_id" type="xstring" value="b9103541-1036-4b41-aed6-2de9cd6d5b60"/>
     </config>
 </config>

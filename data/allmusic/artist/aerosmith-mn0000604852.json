@@ -1,0 +1,467 @@
+{
+  "id" : "aerosmith-mn0000604852",
+  "name" : "Aerosmith",
+  "activeDates" : "1970s - 2020s",
+  "birthDate" : "1970",
+  "birthPlace" : "Boston, MA",
+  "styles" : [ {
+    "name" : "Album Rock",
+    "url" : "https://www.allmusic.com/style/album-rock-ma0000004459"
+  }, {
+    "name" : "Hard Rock",
+    "url" : "https://www.allmusic.com/style/hard-rock-ma0000002636"
+  }, {
+    "name" : "Arena Rock",
+    "url" : "https://www.allmusic.com/style/arena-rock-ma0000012329"
+  }, {
+    "name" : "Contemporary Pop/Rock",
+    "url" : "https://www.allmusic.com/style/contemporary-pop-rock-ma0000004443"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  }, {
+    "name" : "Pop-Metal",
+    "url" : "https://www.allmusic.com/style/pop-metal-ma0000002785"
+  } ],
+  "decades" : "1970s - 2020s",
+  "genres" : "Pop/Rock",
+  "discography" : [ {
+    "albumYear" : "1973",
+    "albumTitle" : "Aerosmith",
+    "musicRating" : "6",
+    "avgRating" : "8-1628"
+  }, {
+    "albumYear" : "1974",
+    "albumTitle" : "Get Your Wings",
+    "musicRating" : "8",
+    "avgRating" : "9-1301"
+  }, {
+    "albumYear" : "1975",
+    "albumTitle" : "Toys in the Attic",
+    "musicRating" : "9",
+    "avgRating" : "9-2597"
+  }, {
+    "albumYear" : "1976",
+    "albumTitle" : "Rocks",
+    "musicRating" : "9",
+    "avgRating" : "9-1931"
+  }, {
+    "albumYear" : "1977",
+    "albumTitle" : "Draw the Line",
+    "musicRating" : "6",
+    "avgRating" : "8-1033"
+  }, {
+    "albumYear" : "1978",
+    "albumTitle" : "Live Bootleg",
+    "musicRating" : "5",
+    "avgRating" : "8-516"
+  }, {
+    "albumYear" : "1979",
+    "albumTitle" : "Night in the Ruts",
+    "musicRating" : "4",
+    "avgRating" : "7-537"
+  }, {
+    "albumYear" : "1982",
+    "albumTitle" : "Rock in a Hard Place",
+    "musicRating" : "2",
+    "avgRating" : "6-456"
+  }, {
+    "albumYear" : "1985",
+    "albumTitle" : "Done with Mirrors",
+    "musicRating" : "7",
+    "avgRating" : "7-1081"
+  }, {
+    "albumYear" : "1987",
+    "albumTitle" : "Permanent Vacation",
+    "musicRating" : "7",
+    "avgRating" : "8-1193"
+  }, {
+    "albumYear" : "1989",
+    "albumTitle" : "Pump",
+    "musicRating" : "8",
+    "avgRating" : "8-1489"
+  }, {
+    "albumYear" : "1993",
+    "albumTitle" : "Get a Grip",
+    "musicRating" : "4",
+    "avgRating" : "8-1256"
+  }, {
+    "albumYear" : "1997",
+    "albumTitle" : "Nine Lives",
+    "musicRating" : "4",
+    "avgRating" : "7-825"
+  }, {
+    "albumYear" : "2001",
+    "albumTitle" : "Just Push Play",
+    "musicRating" : "5",
+    "avgRating" : "7-611"
+  }, {
+    "albumYear" : "2004",
+    "albumTitle" : "Honkin' on Bobo",
+    "musicRating" : "6",
+    "avgRating" : "7-776"
+  }, {
+    "albumYear" : "2005",
+    "albumTitle" : "Rockin' the Joint",
+    "musicRating" : "4",
+    "avgRating" : "7-231"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "Music from Another Dimension!",
+    "musicRating" : "5",
+    "avgRating" : "6-681"
+  }, {
+    "albumYear" : "2015",
+    "albumTitle" : "Rocks Donington 2014",
+    "musicRating" : "",
+    "avgRating" : "5-30"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Guns N' Roses",
+      "ArtistId" : "guns-n-roses-mn0000540883"
+    }, {
+      "artist" : "The Black Crowes",
+      "ArtistId" : "the-black-crowes-mn0000048566"
+    }, {
+      "artist" : "Thin Lizzy",
+      "ArtistId" : "thin-lizzy-mn0000590479"
+    }, {
+      "artist" : "Van Halen",
+      "ArtistId" : "van-halen-mn0000260206"
+    }, {
+      "artist" : "Bon Jovi",
+      "ArtistId" : "bon-jovi-mn0000069534"
+    }, {
+      "artist" : "Boston",
+      "ArtistId" : "boston-mn0000079960"
+    }, {
+      "artist" : "Cheap Trick",
+      "ArtistId" : "cheap-trick-mn0000105354"
+    }, {
+      "artist" : "Faces",
+      "ArtistId" : "faces-mn0000058372"
+    }, {
+      "artist" : "Foreigner",
+      "ArtistId" : "foreigner-mn0000987621"
+    }, {
+      "artist" : "Grand Funk Railroad",
+      "ArtistId" : "grand-funk-railroad-mn0000659517"
+    }, {
+      "artist" : "Heart",
+      "ArtistId" : "heart-mn0000671953"
+    }, {
+      "artist" : "Kiss",
+      "ArtistId" : "kiss-mn0000084209"
+    }, {
+      "artist" : "Nazareth",
+      "ArtistId" : "nazareth-mn0000377891"
+    }, {
+      "artist" : "Rainbow",
+      "ArtistId" : "rainbow-mn0000391933"
+    }, {
+      "artist" : "ZZ Top",
+      "ArtistId" : "zz-top-mn0000690254"
+    }, {
+      "artist" : "AC/DC",
+      "ArtistId" : "ac-dc-mn0000574772"
+    }, {
+      "artist" : "Bad Company",
+      "ArtistId" : "bad-company-mn0000075100"
+    }, {
+      "artist" : "Buckcherry",
+      "ArtistId" : "buckcherry-mn0000533551"
+    }, {
+      "artist" : "Faster Pussycat",
+      "ArtistId" : "faster-pussycat-mn0000177117"
+    }, {
+      "artist" : "Gilby Clarke",
+      "ArtistId" : "gilby-clarke-mn0000548203"
+    }, {
+      "artist" : "Keith Richards",
+      "ArtistId" : "keith-richards-mn0000767068"
+    }, {
+      "artist" : "Lynyrd Skynyrd",
+      "ArtistId" : "lynyrd-skynyrd-mn0000170369"
+    }, {
+      "artist" : "Queen",
+      "ArtistId" : "queen-mn0000858827"
+    }, {
+      "artist" : "Ratt",
+      "ArtistId" : "ratt-mn0000340152"
+    }, {
+      "artist" : "Sammy Hagar",
+      "ArtistId" : "sammy-hagar-mn0000297702"
+    }, {
+      "artist" : "Ted Nugent",
+      "ArtistId" : "ted-nugent-mn0000749970"
+    }, {
+      "artist" : "The Cult",
+      "ArtistId" : "the-cult-mn0000139908"
+    }, {
+      "artist" : "Alice Cooper",
+      "ArtistId" : "alice-cooper-mn0000005953"
+    }, {
+      "artist" : "Blue Öyster Cult",
+      "ArtistId" : "blue-%C3yster-cult-mn0000061938"
+    }, {
+      "artist" : "Fleetwood Mac",
+      "ArtistId" : "fleetwood-mac-mn0000182900"
+    }, {
+      "artist" : "Four Horsemen",
+      "ArtistId" : "four-horsemen-mn0000059955"
+    }, {
+      "artist" : "Free",
+      "ArtistId" : "free-mn0000193216"
+    }, {
+      "artist" : "George Thorogood",
+      "ArtistId" : "george-thorogood-mn0000647834"
+    }, {
+      "artist" : "Great White",
+      "ArtistId" : "great-white-mn0000799100"
+    }, {
+      "artist" : "Izzy Stradlin",
+      "ArtistId" : "izzy-stradlin-mn0000086072"
+    }, {
+      "artist" : "J. Geils Band",
+      "ArtistId" : "j-geils-band-mn0000776994"
+    }, {
+      "artist" : "L.A. Guns",
+      "ArtistId" : "la-guns-mn0000778906"
+    }, {
+      "artist" : "Montrose",
+      "ArtistId" : "montrose-mn0000492466"
+    }, {
+      "artist" : "Mother Love Bone",
+      "ArtistId" : "mother-love-bone-mn0000502269"
+    }, {
+      "artist" : "Mötley Crüe",
+      "ArtistId" : "m%C3%B6tley-cr%C3%BCe-mn0000500992"
+    }, {
+      "artist" : "Mott the Hoople",
+      "ArtistId" : "mott-the-hoople-mn0000596126"
+    }, {
+      "artist" : "Quireboys",
+      "ArtistId" : "quireboys-mn0000081768"
+    }, {
+      "artist" : "Skid Row",
+      "ArtistId" : "skid-row-mn0000026367"
+    }, {
+      "artist" : "Slash's Snakepit",
+      "ArtistId" : "slashs-snakepit-mn0000021047"
+    }, {
+      "artist" : "Whitesnake",
+      "ArtistId" : "whitesnake-mn0000251595"
+    }, {
+      "artist" : "Joan Jett",
+      "ArtistId" : "joan-jett-mn0000137173"
+    }, {
+      "artist" : "Joe Perry",
+      "ArtistId" : "joe-perry-mn0000807317"
+    }, {
+      "artist" : "Saxon",
+      "ArtistId" : "saxon-mn0000259800"
+    }, {
+      "artist" : "Twisted Sister",
+      "ArtistId" : "twisted-sister-mn0000165663"
+    }, {
+      "artist" : "Raging Slab",
+      "ArtistId" : "raging-slab-mn0000392320"
+    } ],
+    "influencers" : [ {
+      "artist" : "Chuck Berry",
+      "ArtistId" : "chuck-berry-mn0000120521"
+    }, {
+      "artist" : "Deep Purple",
+      "ArtistId" : "deep-purple-mn0000192382"
+    }, {
+      "artist" : "Led Zeppelin",
+      "ArtistId" : "led-zeppelin-mn0000139026"
+    }, {
+      "artist" : "The Rolling Stones",
+      "ArtistId" : "the-rolling-stones-mn0000894465"
+    }, {
+      "artist" : "The Yardbirds",
+      "ArtistId" : "the-yardbirds-mn0000489303"
+    }, {
+      "artist" : "Bo Diddley",
+      "ArtistId" : "bo-diddley-mn0000055128"
+    }, {
+      "artist" : "James Brown",
+      "ArtistId" : "james-brown-mn0000128099"
+    }, {
+      "artist" : "Janis Joplin",
+      "ArtistId" : "janis-joplin-mn0000177060"
+    }, {
+      "artist" : "Jeff Beck",
+      "ArtistId" : "jeff-beck-mn0000240865"
+    }, {
+      "artist" : "Jimi Hendrix",
+      "ArtistId" : "jimi-hendrix-mn0000354105"
+    }, {
+      "artist" : "Muddy Waters",
+      "ArtistId" : "muddy-waters-mn0000608701"
+    }, {
+      "artist" : "New York Dolls",
+      "ArtistId" : "new-york-dolls-mn0000866786"
+    }, {
+      "artist" : "The Beatles",
+      "ArtistId" : "the-beatles-mn0000754032"
+    }, {
+      "artist" : "The Kinks",
+      "ArtistId" : "the-kinks-mn0000100160"
+    }, {
+      "artist" : "The Who",
+      "ArtistId" : "the-who-mn0000577627"
+    }, {
+      "artist" : "Cream",
+      "ArtistId" : "cream-mn0000112462"
+    }, {
+      "artist" : "Free",
+      "ArtistId" : "free-mn0000193216"
+    }, {
+      "artist" : "Howlin' Wolf",
+      "ArtistId" : "howlin-wolf-mn0000276085"
+    }, {
+      "artist" : "John Mayall",
+      "ArtistId" : "john-mayall-mn0000238495"
+    }, {
+      "artist" : "Rufus Thomas",
+      "ArtistId" : "rufus-thomas-mn0000303050"
+    }, {
+      "artist" : "Sonny Boy Williamson II",
+      "ArtistId" : "sonny-boy-williamson-ii-mn0000036031"
+    } ],
+    "followers" : [ {
+      "artist" : "Buckcherry",
+      "ArtistId" : "buckcherry-mn0000533551"
+    }, {
+      "artist" : "Adam Lambert",
+      "ArtistId" : "adam-lambert-mn0001532591"
+    }, {
+      "artist" : "Alice in Chains",
+      "ArtistId" : "alice-in-chains-mn0000007920"
+    }, {
+      "artist" : "Andy Black",
+      "ArtistId" : "andy-black-mn0003495279"
+    }, {
+      "artist" : "Anthrax",
+      "ArtistId" : "anthrax-mn0000490952"
+    }, {
+      "artist" : "Asking Alexandria",
+      "ArtistId" : "asking-alexandria-mn0001590871"
+    }, {
+      "artist" : "Beastie Boys",
+      "ArtistId" : "beastie-boys-mn0000038469"
+    }, {
+      "artist" : "Black Veil Brides",
+      "ArtistId" : "black-veil-brides-mn0002478029"
+    }, {
+      "artist" : "Blind Melon",
+      "ArtistId" : "blind-melon-mn0000050251"
+    }, {
+      "artist" : "Bon Jovi",
+      "ArtistId" : "bon-jovi-mn0000069534"
+    }, {
+      "artist" : "Dan Deacon",
+      "ArtistId" : "dan-deacon-mn0000107518"
+    }, {
+      "artist" : "Def Leppard",
+      "ArtistId" : "def-leppard-mn0000193320"
+    }, {
+      "artist" : "Dirty Honey",
+      "ArtistId" : "dirty-honey-mn0003836081"
+    }, {
+      "artist" : "Eminem",
+      "ArtistId" : "eminem-mn0000157676"
+    }, {
+      "artist" : "Green Day",
+      "ArtistId" : "green-day-mn0000154544"
+    }, {
+      "artist" : "Guns N' Roses",
+      "ArtistId" : "guns-n-roses-mn0000540883"
+    }, {
+      "artist" : "Johnnie Mikel",
+      "ArtistId" : "johnnie-mikel-mn0003750097"
+    }, {
+      "artist" : "Kid Rock",
+      "ArtistId" : "kid-rock-mn0000088180"
+    }, {
+      "artist" : "Korn",
+      "ArtistId" : "korn-mn0000112789"
+    }, {
+      "artist" : "Metallica",
+      "ArtistId" : "metallica-mn0000446509"
+    }, {
+      "artist" : "Mika",
+      "ArtistId" : "mika-mn0003661296"
+    }, {
+      "artist" : "Mötley Crüe",
+      "ArtistId" : "m%C3%B6tley-cr%C3%BCe-mn0000500992"
+    }, {
+      "artist" : "Nirvana",
+      "ArtistId" : "nirvana-mn0000357406"
+    }, {
+      "artist" : "Oasis",
+      "ArtistId" : "oasis-mn0000393345"
+    }, {
+      "artist" : "Overkill",
+      "ArtistId" : "overkill-mn0000420504"
+    }, {
+      "artist" : "Pearl Jam",
+      "ArtistId" : "pearl-jam-mn0000037730"
+    }, {
+      "artist" : "Queens of the Stone Age",
+      "ArtistId" : "queens-of-the-stone-age-mn0000376422"
+    }, {
+      "artist" : "Rage Against the Machine",
+      "ArtistId" : "rage-against-the-machine-mn0000863790"
+    }, {
+      "artist" : "Run-D.M.C.",
+      "ArtistId" : "run-dmc-mn0000358408"
+    }, {
+      "artist" : "Shiraz Lane",
+      "ArtistId" : "shiraz-lane-mn0003489923"
+    }, {
+      "artist" : "Soundgarden",
+      "ArtistId" : "soundgarden-mn0000001098"
+    }, {
+      "artist" : "Star Dancer",
+      "ArtistId" : "star-dancer-mn0003512801"
+    }, {
+      "artist" : "Testament",
+      "ArtistId" : "testament-mn0000751910"
+    }, {
+      "artist" : "The Black Crowes",
+      "ArtistId" : "the-black-crowes-mn0000048566"
+    }, {
+      "artist" : "The Cult",
+      "ArtistId" : "the-cult-mn0000139908"
+    }, {
+      "artist" : "The Offspring",
+      "ArtistId" : "the-offspring-mn0000472925"
+    }, {
+      "artist" : "Tool",
+      "ArtistId" : "tool-mn0000790820"
+    }, {
+      "artist" : "Travis",
+      "ArtistId" : "travis-mn0000013508"
+    }, {
+      "artist" : "Weezer",
+      "ArtistId" : "weezer-mn0000243008"
+    }, {
+      "artist" : "Yelawolf",
+      "ArtistId" : "yelawolf-mn0000463676"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Joe Perry",
+      "ArtistId" : "joe-perry-mn0000807317"
+    }, {
+      "artist" : "Joe Perry Project",
+      "ArtistId" : "joe-perry-project-mn0000211062"
+    }, {
+      "artist" : "Whitford St. Holmes",
+      "ArtistId" : "whitford-st-holmes-mn0001634331"
+    } ]
+  }
+}

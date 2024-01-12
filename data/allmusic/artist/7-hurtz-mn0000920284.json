@@ -1,0 +1,27 @@
+{
+  "id" : "7-hurtz-mn0000920284",
+  "name" : "7 Hurtz",
+  "activeDates" : "1990s",
+  "birthDate" : "",
+  "birthPlace" : "",
+  "styles" : [ ],
+  "decades" : "1990s",
+  "genres" : "Electronic",
+  "discography" : [ {
+    "albumYear" : "2004",
+    "albumTitle" : "Electroleum",
+    "musicRating" : "7",
+    "avgRating" : "8-1"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Audiophiliac",
+    "musicRating" : "",
+    "avgRating" : ""
+  } ],
+  "related" : {
+    "similars" : [ ],
+    "influencers" : [ ],
+    "followers" : [ ],
+    "associatedwith" : [ ]
+  }
+}

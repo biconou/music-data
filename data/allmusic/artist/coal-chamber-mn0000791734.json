@@ -20,11 +20,13 @@
     "name" : "Rap-Metal",
     "url" : "https://www.allmusic.com/style/rap-metal-ma0000002817"
   } ],
+  "decades" : "1990s - 2010s",
+  "genres" : "Pop/Rock",
   "discography" : [ {
     "albumYear" : "1997",
     "albumTitle" : "Coal Chamber",
     "musicRating" : "5",
-    "avgRating" : "6-367"
+    "avgRating" : "6-368"
   }, {
     "albumYear" : "1999",
     "albumTitle" : "Chamber Music",

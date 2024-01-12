@@ -1,0 +1,284 @@
+{
+  "id" : "adult-mn0000058144",
+  "name" : "Adult.",
+  "activeDates" : "1990s - 2020s",
+  "birthDate" : "1998",
+  "birthPlace" : "Detroit, MI",
+  "styles" : [ {
+    "name" : "Detroit Techno",
+    "url" : "https://www.allmusic.com/style/detroit-techno-ma0000002551"
+  }, {
+    "name" : "Electro-Techno",
+    "url" : "https://www.allmusic.com/style/electro-techno-ma0000012208"
+  }, {
+    "name" : "Neo-Electro",
+    "url" : "https://www.allmusic.com/style/neo-electro-ma0000011910"
+  }, {
+    "name" : "Techno",
+    "url" : "https://www.allmusic.com/style/techno-ma0000002893"
+  } ],
+  "decades" : "1990s - 2020s",
+  "genres" : "Electronic",
+  "discography" : [ {
+    "albumYear" : "2001",
+    "albumTitle" : "Resuscitation",
+    "musicRating" : "7",
+    "avgRating" : "8-46"
+  }, {
+    "albumYear" : "2003",
+    "albumTitle" : "Anxiety Always",
+    "musicRating" : "8",
+    "avgRating" : "9-59"
+  }, {
+    "albumYear" : "2005",
+    "albumTitle" : "Gimmie Trouble",
+    "musicRating" : "7",
+    "avgRating" : "7-21"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "Why Bother?",
+    "musicRating" : "7",
+    "avgRating" : "7-32"
+  }, {
+    "albumYear" : "2013",
+    "albumTitle" : "The Way Things Fall",
+    "musicRating" : "7",
+    "avgRating" : "8-35"
+  }, {
+    "albumYear" : "2017",
+    "albumTitle" : "Detroit House Guests",
+    "musicRating" : "6",
+    "avgRating" : "8-11"
+  }, {
+    "albumYear" : "2018",
+    "albumTitle" : "This Behavior",
+    "musicRating" : "7",
+    "avgRating" : "7-17"
+  }, {
+    "albumYear" : "2020",
+    "albumTitle" : "Perception Is/As/Of Deception",
+    "musicRating" : "7",
+    "avgRating" : "7-21"
+  }, {
+    "albumYear" : "2022",
+    "albumTitle" : "Becoming Undone",
+    "musicRating" : "7",
+    "avgRating" : "7-16"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Ectomorph",
+      "ArtistId" : "ectomorph-mn0000174233"
+    }, {
+      "artist" : "GD Luxxe",
+      "ArtistId" : "gd-luxxe-mn0000201209"
+    }, {
+      "artist" : "I-F",
+      "ArtistId" : "i-f-mn0000219824"
+    }, {
+      "artist" : "Magas",
+      "ArtistId" : "magas-mn0000187733"
+    }, {
+      "artist" : "Viki",
+      "ArtistId" : "viki-mn0001943906"
+    }, {
+      "artist" : "Boy Harsher",
+      "ArtistId" : "boy-harsher-mn0003687587"
+    }, {
+      "artist" : "Choir Boy",
+      "ArtistId" : "choir-boy-mn0003561402"
+    }, {
+      "artist" : "The Knife",
+      "ArtistId" : "the-knife-mn0000666244"
+    }, {
+      "artist" : "TR/ST",
+      "ArtistId" : "tr-st-mn0002655374"
+    }, {
+      "artist" : "Xeno & Oaklander",
+      "ArtistId" : "xeno-oaklander-mn0002370861"
+    }, {
+      "artist" : "Artificial Material",
+      "ArtistId" : "artificial-material-mn0001829782"
+    }, {
+      "artist" : "AUX 88",
+      "ArtistId" : "aux-88-mn0000062905"
+    }, {
+      "artist" : "BolzBolz",
+      "ArtistId" : "bolzbolz-mn0000069005"
+    }, {
+      "artist" : "Charles Manier",
+      "ArtistId" : "charles-manier-mn0000170740"
+    }, {
+      "artist" : "Chicks on Speed",
+      "ArtistId" : "chicks-on-speed-mn0000110501"
+    }, {
+      "artist" : "Cobra Killer",
+      "ArtistId" : "cobra-killer-mn0000792768"
+    }, {
+      "artist" : "Drexciya",
+      "ArtistId" : "drexciya-mn0000166652"
+    }, {
+      "artist" : "Essaie Pas",
+      "ArtistId" : "essaie-pas-mn0003465016"
+    }, {
+      "artist" : "Felix da Housecat",
+      "ArtistId" : "felix-da-housecat-mn0000169239"
+    }, {
+      "artist" : "Gil Mantera's Party Dream",
+      "ArtistId" : "gil-manteras-party-dream-mn0000483396"
+    }, {
+      "artist" : "HIDE",
+      "ArtistId" : "hide-mn0003486890"
+    }, {
+      "artist" : "Ladytron",
+      "ArtistId" : "ladytron-mn0000780948"
+    }, {
+      "artist" : "Light Asylum",
+      "ArtistId" : "light-asylum-mn0002553513"
+    }, {
+      "artist" : "Louderbach",
+      "ArtistId" : "louderbach-mn0000983555"
+    }, {
+      "artist" : "Ritual Howls",
+      "ArtistId" : "ritual-howls-mn0003286007"
+    }, {
+      "artist" : "T.Raumschmiere",
+      "ArtistId" : "traumschmiere-mn0000009267"
+    }, {
+      "artist" : "Wetware",
+      "ArtistId" : "wetware-mn0003710654"
+    }, {
+      "artist" : "Cold Cave",
+      "ArtistId" : "cold-cave-mn0001598114"
+    }, {
+      "artist" : "Fischerspooner",
+      "ArtistId" : "fischerspooner-mn0000178051"
+    }, {
+      "artist" : "Gazelle Twin",
+      "ArtistId" : "gazelle-twin-mn0002980057"
+    }, {
+      "artist" : "Kap Bambino",
+      "ArtistId" : "kap-bambino-mn0001999310"
+    }, {
+      "artist" : "Lazer Crystal",
+      "ArtistId" : "lazer-crystal-mn0001030754"
+    }, {
+      "artist" : "Optic Sink",
+      "ArtistId" : "optic-sink-mn0003968413"
+    }, {
+      "artist" : "Smersh",
+      "ArtistId" : "smersh-mn0003024338"
+    }, {
+      "artist" : "SRSQ",
+      "ArtistId" : "srsq-mn0003774175"
+    }, {
+      "artist" : "Books on Tape",
+      "ArtistId" : "books-on-tape-mn0000759566"
+    }, {
+      "artist" : "Dead Cross",
+      "ArtistId" : "dead-cross-mn0003620729"
+    }, {
+      "artist" : "Deaf Club",
+      "ArtistId" : "deaf-club-mn0002952065"
+    }, {
+      "artist" : "Helix",
+      "ArtistId" : "helix-mn0004166393"
+    }, {
+      "artist" : "HTRK",
+      "ArtistId" : "htrk-mn0000919083"
+    }, {
+      "artist" : "Justin Pearson",
+      "ArtistId" : "justin-pearson-mn0001041015"
+    }, {
+      "artist" : "Kompromat",
+      "ArtistId" : "kompromat-mn0003824185"
+    }, {
+      "artist" : "Luis Vasquez",
+      "ArtistId" : "luis-vasquez-mn0002589029"
+    }, {
+      "artist" : "Luke Henshaw",
+      "ArtistId" : "luke-henshaw-mn0003800880"
+    }, {
+      "artist" : "MV Carbon",
+      "ArtistId" : "mv-carbon-mn0002794325"
+    }, {
+      "artist" : "Planet B",
+      "ArtistId" : "planet-b-mn0003772210"
+    }, {
+      "artist" : "Pod Blotz",
+      "ArtistId" : "pod-blotz-mn0002911638"
+    }, {
+      "artist" : "Profligate",
+      "ArtistId" : "profligate-mn0003006499"
+    }, {
+      "artist" : "Protomartyr",
+      "ArtistId" : "protomartyr-mn0002897553"
+    }, {
+      "artist" : "Schwefelgelb",
+      "ArtistId" : "schwefelgelb-mn0001738375"
+    }, {
+      "artist" : "The Elements",
+      "ArtistId" : "the-elements-mn0002745655"
+    }, {
+      "artist" : "The Locust",
+      "ArtistId" : "the-locust-mn0000096756"
+    }, {
+      "artist" : "The Soft Moon",
+      "ArtistId" : "the-soft-moon-mn0002429445"
+    }, {
+      "artist" : "TWINS",
+      "ArtistId" : "twins-mn0002847665"
+    }, {
+      "artist" : "Void Vision",
+      "ArtistId" : "void-vision-mn0002597209"
+    } ],
+    "influencers" : [ {
+      "artist" : "Cybotron",
+      "ArtistId" : "cybotron-mn0000146551"
+    }, {
+      "artist" : "Kraftwerk",
+      "ArtistId" : "kraftwerk-mn0000104714"
+    }, {
+      "artist" : "Crash Course in Science",
+      "ArtistId" : "crash-course-in-science-mn0000463237"
+    }, {
+      "artist" : "New Order",
+      "ArtistId" : "new-order-mn0000334193"
+    }, {
+      "artist" : "John Foxx",
+      "ArtistId" : "john-foxx-mn0000185810"
+    }, {
+      "artist" : "Minny Pops",
+      "ArtistId" : "minny-pops-mn0000422700"
+    }, {
+      "artist" : "Test Dept.",
+      "ArtistId" : "test-dept-mn0000030644"
+    }, {
+      "artist" : "Throbbing Gristle",
+      "ArtistId" : "throbbing-gristle-mn0000926604"
+    }, {
+      "artist" : "Fad Gadget",
+      "ArtistId" : "fad-gadget-mn0000790078"
+    } ],
+    "followers" : [ {
+      "artist" : "Future Islands",
+      "ArtistId" : "future-islands-mn0001772438"
+    }, {
+      "artist" : "Jaded Incorporated",
+      "ArtistId" : "jaded-incorporated-mn0003236533"
+    }, {
+      "artist" : "Sleigh Bells",
+      "ArtistId" : "sleigh-bells-mn0002048033"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Le Car",
+      "ArtistId" : "le-car-mn0001377037"
+    }, {
+      "artist" : "Tamion 12 Inch",
+      "ArtistId" : "tamion-12-inch-mn0000162964"
+    }, {
+      "artist" : "Stallone the Reducer",
+      "ArtistId" : "stallone-the-reducer-mn0003824517"
+    } ]
+  }
+}

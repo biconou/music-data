@@ -1,0 +1,416 @@
+{
+  "id" : "arcade-fire-mn0000185591",
+  "name" : "Arcade Fire",
+  "activeDates" : "2000s - 2020s",
+  "birthDate" : "2001",
+  "birthPlace" : "Montreal, Quebec, Canada",
+  "styles" : [ {
+    "name" : "Alternative/Indie Rock",
+    "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
+  }, {
+    "name" : "Indie Rock",
+    "url" : "https://www.allmusic.com/style/indie-rock-ma0000004453"
+  } ],
+  "decades" : "2000s - 2020s",
+  "genres" : "Pop/Rock",
+  "discography" : [ {
+    "albumYear" : "2004",
+    "albumTitle" : "Funeral",
+    "musicRating" : "9",
+    "avgRating" : "9-5914"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "Neon Bible",
+    "musicRating" : "7",
+    "avgRating" : "9-3904"
+  }, {
+    "albumYear" : "2010",
+    "albumTitle" : "The Suburbs",
+    "musicRating" : "9",
+    "avgRating" : "9-4938"
+  }, {
+    "albumYear" : "2013",
+    "albumTitle" : "Reflektor",
+    "musicRating" : "6",
+    "avgRating" : "8-3411"
+  }, {
+    "albumYear" : "2017",
+    "albumTitle" : "Everything Now",
+    "musicRating" : "5",
+    "avgRating" : "6-976"
+  }, {
+    "albumYear" : "2022",
+    "albumTitle" : "WE",
+    "musicRating" : "6",
+    "avgRating" : "6-389"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Broken Social Scene",
+      "ArtistId" : "broken-social-scene-mn0000625278"
+    }, {
+      "artist" : "Frightened Rabbit",
+      "ArtistId" : "frightened-rabbit-mn0000571258"
+    }, {
+      "artist" : "Of Montreal",
+      "ArtistId" : "of-montreal-mn0000467444"
+    }, {
+      "artist" : "The Shins",
+      "ArtistId" : "the-shins-mn0000419102"
+    }, {
+      "artist" : "Vampire Weekend",
+      "ArtistId" : "vampire-weekend-mn0000662416"
+    }, {
+      "artist" : "Bloc Party",
+      "ArtistId" : "bloc-party-mn0000223861"
+    }, {
+      "artist" : "Coldplay",
+      "ArtistId" : "coldplay-mn0000775877"
+    }, {
+      "artist" : "Mystery Jets",
+      "ArtistId" : "mystery-jets-mn0000528243"
+    }, {
+      "artist" : "Peter Bjorn and John",
+      "ArtistId" : "peter-bjorn-and-john-mn0000843995"
+    }, {
+      "artist" : "Sea Power",
+      "ArtistId" : "sea-power-mn0000621281"
+    }, {
+      "artist" : "The Polyphonic Spree",
+      "ArtistId" : "the-polyphonic-spree-mn0000414038"
+    }, {
+      "artist" : "All the Saints",
+      "ArtistId" : "all-the-saints-mn0002010275"
+    }, {
+      "artist" : "Augustines",
+      "ArtistId" : "augustines-mn0003202548"
+    }, {
+      "artist" : "Bleachers",
+      "ArtistId" : "bleachers-mn0003234492"
+    }, {
+      "artist" : "Bound Stems",
+      "ArtistId" : "bound-stems-mn0000844686"
+    }, {
+      "artist" : "Bright Eyes",
+      "ArtistId" : "bright-eyes-mn0000620056"
+    }, {
+      "artist" : "Clinic",
+      "ArtistId" : "clinic-mn0000161487"
+    }, {
+      "artist" : "Franz Ferdinand",
+      "ArtistId" : "franz-ferdinand-mn0000172582"
+    }, {
+      "artist" : "French Kicks",
+      "ArtistId" : "french-kicks-mn0000185383"
+    }, {
+      "artist" : "July Talk",
+      "ArtistId" : "july-talk-mn0003179181"
+    }, {
+      "artist" : "Modest Mouse",
+      "ArtistId" : "modest-mouse-mn0000480086"
+    }, {
+      "artist" : "Mogwai",
+      "ArtistId" : "mogwai-mn0000923705"
+    }, {
+      "artist" : "One Ring Zero",
+      "ArtistId" : "one-ring-zero-mn0000479796"
+    }, {
+      "artist" : "Plants and Animals",
+      "ArtistId" : "plants-and-animals-mn0000675144"
+    }, {
+      "artist" : "Ra Ra Riot",
+      "ArtistId" : "ra-ra-riot-mn0000477592"
+    }, {
+      "artist" : "Rosebuds",
+      "ArtistId" : "rosebuds-mn0000895548"
+    }, {
+      "artist" : "Spoon",
+      "ArtistId" : "spoon-mn0000131038"
+    }, {
+      "artist" : "Stars",
+      "ArtistId" : "stars-mn0000018828"
+    }, {
+      "artist" : "The Causey Way",
+      "ArtistId" : "the-causey-way-mn0000056772"
+    }, {
+      "artist" : "The Dears",
+      "ArtistId" : "the-dears-mn0000786672"
+    }, {
+      "artist" : "The Dreamscapes Project",
+      "ArtistId" : "the-dreamscapes-project-mn0002098988"
+    }, {
+      "artist" : "The Golden Dogs",
+      "ArtistId" : "the-golden-dogs-mn0002738312"
+    }, {
+      "artist" : "The Hidden Cameras",
+      "ArtistId" : "the-hidden-cameras-mn0000073173"
+    }, {
+      "artist" : "The Main Drag",
+      "ArtistId" : "the-main-drag-mn0002077125"
+    }, {
+      "artist" : "The Oh Hellos",
+      "ArtistId" : "the-oh-hellos-mn0003366296"
+    }, {
+      "artist" : "The War on Drugs",
+      "ArtistId" : "the-war-on-drugs-mn0000996795"
+    }, {
+      "artist" : "U2",
+      "ArtistId" : "u2-mn0000219203"
+    }, {
+      "artist" : "Wolf Parade",
+      "ArtistId" : "wolf-parade-mn0000369183"
+    }, {
+      "artist" : "Bill Baird",
+      "ArtistId" : "bill-baird-mn0001064132"
+    }, {
+      "artist" : "Grizzly Bear",
+      "ArtistId" : "grizzly-bear-mn0000818702"
+    }, {
+      "artist" : "Interpol",
+      "ArtistId" : "interpol-mn0000096576"
+    }, {
+      "artist" : "Islands",
+      "ArtistId" : "islands-mn0000545345"
+    }, {
+      "artist" : "James Supercave",
+      "ArtistId" : "james-supercave-mn0003386362"
+    }, {
+      "artist" : "Kim Novak",
+      "ArtistId" : "kim-novak-mn0001967502"
+    }, {
+      "artist" : "Morning Runner",
+      "ArtistId" : "morning-runner-mn0000724032"
+    }, {
+      "artist" : "Neutral Milk Hotel",
+      "ArtistId" : "neutral-milk-hotel-mn0000863102"
+    }, {
+      "artist" : "Rich Aucoin",
+      "ArtistId" : "rich-aucoin-mn0002034180"
+    }, {
+      "artist" : "Sunset Rubdown",
+      "ArtistId" : "sunset-rubdown-mn0000473487"
+    }, {
+      "artist" : "The Walkmen",
+      "ArtistId" : "the-walkmen-mn0000489435"
+    }, {
+      "artist" : "White Whale",
+      "ArtistId" : "white-whale-mn0000736662"
+    }, {
+      "artist" : "Alex Cameron",
+      "ArtistId" : "alex-cameron-mn0002915916"
+    }, {
+      "artist" : "Attic Lights",
+      "ArtistId" : "attic-lights-mn0002056697"
+    }, {
+      "artist" : "Beulah",
+      "ArtistId" : "beulah-mn0000061637"
+    }, {
+      "artist" : "Cloud Cult",
+      "ArtistId" : "cloud-cult-mn0000152556"
+    }, {
+      "artist" : "Colony House",
+      "ArtistId" : "colony-house-mn0003268468"
+    }, {
+      "artist" : "EverNoize",
+      "ArtistId" : "evernoize-mn0003699884"
+    }, {
+      "artist" : "FAN",
+      "ArtistId" : "fan-mn0003660113"
+    }, {
+      "artist" : "Fanfarlo",
+      "ArtistId" : "fanfarlo-mn0001725973"
+    }, {
+      "artist" : "Final Fantasy",
+      "ArtistId" : "final-fantasy-mn0001541428"
+    }, {
+      "artist" : "Frausdots",
+      "ArtistId" : "frausdots-mn0000810951"
+    }, {
+      "artist" : "Freelance Whales",
+      "ArtistId" : "freelance-whales-mn0002380690"
+    }, {
+      "artist" : "Gold-Bears",
+      "ArtistId" : "gold-bears-mn0002507832"
+    }, {
+      "artist" : "Handsome Furs",
+      "ArtistId" : "handsome-furs-mn0000538318"
+    }, {
+      "artist" : "Local Natives",
+      "ArtistId" : "local-natives-mn0002031918"
+    }, {
+      "artist" : "Loney Dear",
+      "ArtistId" : "loney-dear-mn0000572341"
+    }, {
+      "artist" : "Nation of Language",
+      "ArtistId" : "nation-of-language-mn0003940161"
+    }, {
+      "artist" : "OMBIIGIZI",
+      "ArtistId" : "ombiigizi-mn0004169216"
+    }, {
+      "artist" : "Parlour Steps",
+      "ArtistId" : "parlour-steps-mn0000565208"
+    }, {
+      "artist" : "Pixie Carnation",
+      "ArtistId" : "pixie-carnation-mn0002636740"
+    }, {
+      "artist" : "Richard Reed Parry",
+      "ArtistId" : "richard-reed-parry-mn0000781055"
+    }, {
+      "artist" : "Stepdad",
+      "ArtistId" : "stepdad-mn0002891136"
+    }, {
+      "artist" : "Swan Lake",
+      "ArtistId" : "swan-lake-mn0000033918"
+    }, {
+      "artist" : "Team Me",
+      "ArtistId" : "team-me-mn0002684368"
+    }, {
+      "artist" : "The Besnard Lakes",
+      "ArtistId" : "the-besnard-lakes-mn0000938745"
+    }, {
+      "artist" : "The Comas",
+      "ArtistId" : "the-comas-mn0000066968"
+    }, {
+      "artist" : "The Dear Hunter",
+      "ArtistId" : "the-dear-hunter-mn0000639116"
+    }, {
+      "artist" : "The Everymen",
+      "ArtistId" : "the-everymen-mn0001479292"
+    }, {
+      "artist" : "The Family Crest",
+      "ArtistId" : "the-family-crest-mn0002556781"
+    }, {
+      "artist" : "The Rural Alberta Advantage",
+      "ArtistId" : "the-rural-alberta-advantage-mn0002043917"
+    }, {
+      "artist" : "The Strokes",
+      "ArtistId" : "the-strokes-mn0000568137"
+    }, {
+      "artist" : "Tokyo Police Club",
+      "ArtistId" : "tokyo-police-club-mn0000915808"
+    }, {
+      "artist" : "Woodkid",
+      "ArtistId" : "woodkid-mn0002814238"
+    }, {
+      "artist" : "WU LYF",
+      "ArtistId" : "wu-lyf-mn0002538810"
+    }, {
+      "artist" : "The Olivia Tremor Control",
+      "ArtistId" : "the-olivia-tremor-control-mn0000890559"
+    } ],
+    "influencers" : [ {
+      "artist" : "Echo & the Bunnymen",
+      "ArtistId" : "echo-the-bunnymen-mn0000145128"
+    }, {
+      "artist" : "Bruce Springsteen",
+      "ArtistId" : "bruce-springsteen-mn0000530745"
+    }, {
+      "artist" : "Roxy Music",
+      "ArtistId" : "roxy-music-mn0000852855"
+    }, {
+      "artist" : "Sonic Youth",
+      "ArtistId" : "sonic-youth-mn0000755156"
+    }, {
+      "artist" : "Talking Heads",
+      "ArtistId" : "talking-heads-mn0000131650"
+    }, {
+      "artist" : "David Bowie",
+      "ArtistId" : "david-bowie-mn0000531986"
+    }, {
+      "artist" : "Joy Division",
+      "ArtistId" : "joy-division-mn0000290812"
+    }, {
+      "artist" : "Pixies",
+      "ArtistId" : "pixies-mn0000895136"
+    }, {
+      "artist" : "Radiohead",
+      "ArtistId" : "radiohead-mn0000326249"
+    }, {
+      "artist" : "Spiritualized",
+      "ArtistId" : "spiritualized-mn0000746731"
+    }, {
+      "artist" : "Alvino Rey",
+      "ArtistId" : "alvino-rey-mn0000010193"
+    }, {
+      "artist" : "Björk",
+      "ArtistId" : "bj%C3%B6rk-mn0000769444"
+    }, {
+      "artist" : "Mercury Rev",
+      "ArtistId" : "mercury-rev-mn0000408696"
+    }, {
+      "artist" : "Neil Young",
+      "ArtistId" : "neil-young-mn0000379125"
+    }, {
+      "artist" : "New Order",
+      "ArtistId" : "new-order-mn0000334193"
+    }, {
+      "artist" : "The Beach Boys",
+      "ArtistId" : "the-beach-boys-mn0000041874"
+    }, {
+      "artist" : "The Beatles",
+      "ArtistId" : "the-beatles-mn0000754032"
+    }, {
+      "artist" : "The Cure",
+      "ArtistId" : "the-cure-mn0000137390"
+    }, {
+      "artist" : "The Flaming Lips",
+      "ArtistId" : "the-flaming-lips-mn0000065590"
+    }, {
+      "artist" : "The Smiths",
+      "ArtistId" : "the-smiths-mn0000899530"
+    } ],
+    "followers" : [ {
+      "artist" : "Imagine Dragons",
+      "ArtistId" : "imagine-dragons-mn0002040645"
+    }, {
+      "artist" : "Mumford & Sons",
+      "ArtistId" : "mumford-sons-mn0001072350"
+    }, {
+      "artist" : "Equador",
+      "ArtistId" : "equador-mn0003551873"
+    }, {
+      "artist" : "Ha Ha Tonka",
+      "ArtistId" : "ha-ha-tonka-mn0001968053"
+    }, {
+      "artist" : "Miniboone",
+      "ArtistId" : "miniboone-mn0002678427"
+    }, {
+      "artist" : "Nanna",
+      "ArtistId" : "nanna-mn0004406930"
+    }, {
+      "artist" : "Oh Pep!",
+      "ArtistId" : "oh-pep%21-mn0003462061"
+    }, {
+      "artist" : "Rah Rah",
+      "ArtistId" : "rah-rah-mn0003017720"
+    }, {
+      "artist" : "Run River North",
+      "ArtistId" : "run-river-north-mn0003178179"
+    }, {
+      "artist" : "Say Lou Lou",
+      "ArtistId" : "say-lou-lou-mn0003000621"
+    }, {
+      "artist" : "Still Dreams",
+      "ArtistId" : "still-dreams-mn0004032708"
+    }, {
+      "artist" : "The Amazons",
+      "ArtistId" : "the-amazons-mn0003493507"
+    }, {
+      "artist" : "Treefight for Sunlight",
+      "ArtistId" : "treefight-for-sunlight-mn0002609779"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Bell Orchestre",
+      "ArtistId" : "bell-orchestre-mn0000842190"
+    }, {
+      "artist" : "Clues",
+      "ArtistId" : "clues-mn0001955622"
+    }, {
+      "artist" : "Superhuman Happiness",
+      "ArtistId" : "superhuman-happiness-mn0002607643"
+    }, {
+      "artist" : "Final Fantasy",
+      "ArtistId" : "final-fantasy-mn0001541428"
+    } ]
+  }
+}

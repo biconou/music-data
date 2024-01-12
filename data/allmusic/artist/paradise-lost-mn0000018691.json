@@ -20,31 +20,33 @@
     "name" : "Death Metal",
     "url" : "https://www.allmusic.com/style/death-metal-ma0000002547"
   } ],
+  "decades" : "1980s - 2020s",
+  "genres" : "Pop/Rock",
   "discography" : [ {
     "albumYear" : "1990",
     "albumTitle" : "Lost Paradise",
     "musicRating" : "3",
-    "avgRating" : "7-86"
+    "avgRating" : "7-87"
   }, {
     "albumYear" : "1991",
     "albumTitle" : "Gothic",
     "musicRating" : "5",
-    "avgRating" : "8-149"
+    "avgRating" : "8-150"
   }, {
     "albumYear" : "1992",
     "albumTitle" : "Shades of God",
     "musicRating" : "7",
-    "avgRating" : "9-142"
+    "avgRating" : "9-143"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "Icon",
     "musicRating" : "8",
-    "avgRating" : "9-250"
+    "avgRating" : "9-251"
   }, {
     "albumYear" : "1995",
     "albumTitle" : "Draconian Times",
     "musicRating" : "8",
-    "avgRating" : "9-256"
+    "avgRating" : "9-257"
   }, {
     "albumYear" : "1997",
     "albumTitle" : "One Second",

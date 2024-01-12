@@ -1,0 +1,18 @@
+version: '2'
+services:
+  grafana:
+    image: grafana/grafana-enterprise
+    container_name: grafana
+    restart: unless-stopped
+    ports:
+      - '3000:3000'
+    volumes:
+      - grafana-storage:/var/lib/grafana
+    networks:
+      - elk-deploy_elk
+volumes:
+  grafana-storage: {}
+
+networks:
+  elk-deploy_elk:
+    external: true

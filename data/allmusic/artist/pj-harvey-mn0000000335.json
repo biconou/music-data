@@ -1,0 +1,432 @@
+{
+  "id" : "pj-harvey-mn0000000335",
+  "name" : "PJ Harvey",
+  "activeDates" : "1990s - 2020s",
+  "birthDate" : "October 9, 1969",
+  "birthPlace" : "Dorset, England",
+  "styles" : [ {
+    "name" : "Alternative Pop/Rock",
+    "url" : "https://www.allmusic.com/style/alternative-pop-rock-ma0000002422"
+  }, {
+    "name" : "Alternative/Indie Rock",
+    "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
+  }, {
+    "name" : "Alternative Singer/Songwriter",
+    "url" : "https://www.allmusic.com/style/alternative-singer-songwriter-ma0000012100"
+  }, {
+    "name" : "Adult Alternative Pop/Rock",
+    "url" : "https://www.allmusic.com/style/adult-alternative-pop-rock-ma0000004488"
+  }, {
+    "name" : "Indie Rock",
+    "url" : "https://www.allmusic.com/style/indie-rock-ma0000004453"
+  } ],
+  "decades" : "1990s - 2020s",
+  "genres" : "Pop/Rock",
+  "discography" : [ {
+    "albumYear" : "1992",
+    "albumTitle" : "Dry",
+    "musicRating" : "8",
+    "avgRating" : "9-1335"
+  }, {
+    "albumYear" : "1993",
+    "albumTitle" : "Rid of Me",
+    "musicRating" : "9",
+    "avgRating" : "9-2044"
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "To Bring You My Love",
+    "musicRating" : "8",
+    "avgRating" : "9-1483"
+  }, {
+    "albumYear" : "1996",
+    "albumTitle" : "Dance Hall at Louse Point",
+    "musicRating" : "5",
+    "avgRating" : "8-322"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Is This Desire?",
+    "musicRating" : "5",
+    "avgRating" : "9-693"
+  }, {
+    "albumYear" : "2000",
+    "albumTitle" : "Stories From the City, Stories From the Sea",
+    "musicRating" : "7",
+    "avgRating" : "9-1308"
+  }, {
+    "albumYear" : "2004",
+    "albumTitle" : "Uh Huh Her",
+    "musicRating" : "7",
+    "avgRating" : "8-716"
+  }, {
+    "albumYear" : "2007",
+    "albumTitle" : "White Chalk",
+    "musicRating" : "7",
+    "avgRating" : "9-702"
+  }, {
+    "albumYear" : "2009",
+    "albumTitle" : "A Woman a Man Walked By",
+    "musicRating" : "7",
+    "avgRating" : "8-600"
+  }, {
+    "albumYear" : "2011",
+    "albumTitle" : "Let England Shake",
+    "musicRating" : "9",
+    "avgRating" : "9-1395"
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "The Hope Six Demolition Project",
+    "musicRating" : "6",
+    "avgRating" : "8-501"
+  }, {
+    "albumYear" : "2019",
+    "albumTitle" : "All About Eve",
+    "musicRating" : "7",
+    "avgRating" : "7-68"
+  }, {
+    "albumYear" : "2022",
+    "albumTitle" : "Bad Sisters [Original Series Soundtrack]",
+    "musicRating" : "",
+    "avgRating" : "6-5"
+  }, {
+    "albumYear" : "2023",
+    "albumTitle" : "I Inside the Old Year Dying",
+    "musicRating" : "8",
+    "avgRating" : "9-162"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Cat Power",
+      "ArtistId" : "cat-power-mn0000803009"
+    }, {
+      "artist" : "Nick Cave",
+      "ArtistId" : "nick-cave-mn0000397880"
+    }, {
+      "artist" : "Patti Smith",
+      "ArtistId" : "patti-smith-mn0000747445"
+    }, {
+      "artist" : "Tori Amos",
+      "ArtistId" : "tori-amos-mn0000792530"
+    }, {
+      "artist" : "EMA",
+      "ArtistId" : "ema-mn0002130309"
+    }, {
+      "artist" : "Helium",
+      "ArtistId" : "helium-mn0000956100"
+    }, {
+      "artist" : "Kristin Hersh",
+      "ArtistId" : "kristin-hersh-mn0000774660"
+    }, {
+      "artist" : "LoneLady",
+      "ArtistId" : "lonelady-mn0002092769"
+    }, {
+      "artist" : "50 Foot Wave",
+      "ArtistId" : "50-foot-wave-mn0000780446"
+    }, {
+      "artist" : "American Music Club",
+      "ArtistId" : "american-music-club-mn0000011810"
+    }, {
+      "artist" : "Desert Sessions",
+      "ArtistId" : "desert-sessions-mn0000819195"
+    }, {
+      "artist" : "Gallon Drunk",
+      "ArtistId" : "gallon-drunk-mn0000194375"
+    }, {
+      "artist" : "Garbage",
+      "ArtistId" : "garbage-mn0000194246"
+    }, {
+      "artist" : "Goya Dress",
+      "ArtistId" : "goya-dress-mn0001221440"
+    }, {
+      "artist" : "Julieta Venegas",
+      "ArtistId" : "julieta-venegas-mn0000836376"
+    }, {
+      "artist" : "Lisa Germano",
+      "ArtistId" : "lisa-germano-mn0000299500"
+    }, {
+      "artist" : "Liz Phair",
+      "ArtistId" : "liz-phair-mn0000225930"
+    }, {
+      "artist" : "Michael J. Sheehy",
+      "ArtistId" : "michael-j-sheehy-mn0000466974"
+    }, {
+      "artist" : "Mick Harvey",
+      "ArtistId" : "mick-harvey-mn0000481915"
+    }, {
+      "artist" : "Rachel Taylor Brown",
+      "ArtistId" : "rachel-taylor-brown-mn0000073410"
+    }, {
+      "artist" : "Scrawl",
+      "ArtistId" : "scrawl-mn0000312260"
+    }, {
+      "artist" : "Sparklehorse",
+      "ArtistId" : "sparklehorse-mn0000008549"
+    }, {
+      "artist" : "The Afghan Whigs",
+      "ArtistId" : "the-afghan-whigs-mn0000602859"
+    }, {
+      "artist" : "The Breeders",
+      "ArtistId" : "the-breeders-mn0000620495"
+    }, {
+      "artist" : "A.A. Williams",
+      "ArtistId" : "aa-williams-mn0003867604"
+    }, {
+      "artist" : "Björk",
+      "ArtistId" : "bj%C3%B6rk-mn0000769444"
+    }, {
+      "artist" : "Catherine Anne Davies",
+      "ArtistId" : "catherine-anne-davies-mn0002964482"
+    }, {
+      "artist" : "Hole",
+      "ArtistId" : "hole-mn0000680476"
+    }, {
+      "artist" : "Jehnny Beth",
+      "ArtistId" : "jehnny-beth-mn0003111610"
+    }, {
+      "artist" : "Long Fin Killie",
+      "ArtistId" : "long-fin-killie-mn0000273559"
+    }, {
+      "artist" : "Nick Cave & the Bad Seeds",
+      "ArtistId" : "nick-cave-the-bad-seeds-mn0000866271"
+    }, {
+      "artist" : "Noga Erez",
+      "ArtistId" : "noga-erez-mn0003566054"
+    }, {
+      "artist" : "She Keeps Bees",
+      "ArtistId" : "she-keeps-bees-mn0001944429"
+    }, {
+      "artist" : "Amanda Acevedo",
+      "ArtistId" : "amanda-acevedo-mn0004391201"
+    }, {
+      "artist" : "Ani DiFranco",
+      "ArtistId" : "ani-difranco-mn0000046794"
+    }, {
+      "artist" : "Anna Calvi",
+      "ArtistId" : "anna-calvi-mn0002543071"
+    }, {
+      "artist" : "Anohni",
+      "ArtistId" : "anohni-mn0003463938"
+    }, {
+      "artist" : "Anohni and the Johnsons",
+      "ArtistId" : "anohni-and-the-johnsons-mn0004436195"
+    }, {
+      "artist" : "Antony and the Johnsons",
+      "ArtistId" : "antony-and-the-johnsons-mn0000588497"
+    }, {
+      "artist" : "Beth Gibbons",
+      "ArtistId" : "beth-gibbons-mn0000046220"
+    }, {
+      "artist" : "Chelsea Wolfe",
+      "ArtistId" : "chelsea-wolfe-mn0000581132"
+    }, {
+      "artist" : "John Parish",
+      "ArtistId" : "john-parish-mn0000812637"
+    }, {
+      "artist" : "Kathryn Joseph",
+      "ArtistId" : "kathryn-joseph-mn0003426791"
+    }, {
+      "artist" : "Louise Post",
+      "ArtistId" : "louise-post-mn0000260991"
+    }, {
+      "artist" : "Nina Nastasia",
+      "ArtistId" : "nina-nastasia-mn0000414095"
+    }, {
+      "artist" : "Placebo",
+      "ArtistId" : "placebo-mn0000355412"
+    }, {
+      "artist" : "Scout Gillett",
+      "ArtistId" : "scout-gillett-mn0004274082"
+    }, {
+      "artist" : "Sinéad O'Connor",
+      "ArtistId" : "sin%C3%A9ad-oconnor-mn0000756180"
+    }, {
+      "artist" : "Susanna",
+      "ArtistId" : "susanna-mn0000043883"
+    }, {
+      "artist" : "Thalia Zedek",
+      "ArtistId" : "thalia-zedek-mn0000031603"
+    }, {
+      "artist" : "The Auteurs",
+      "ArtistId" : "the-auteurs-mn0000755162"
+    }, {
+      "artist" : "Alanis Morissette",
+      "ArtistId" : "alanis-morissette-mn0000932665"
+    }, {
+      "artist" : "Amanda Palmer",
+      "ArtistId" : "amanda-palmer-mn0000089870"
+    }, {
+      "artist" : "Bob Mould",
+      "ArtistId" : "bob-mould-mn0000058386"
+    }, {
+      "artist" : "Johnny Marr",
+      "ArtistId" : "johnny-marr-mn0000202899"
+    }, {
+      "artist" : "Nirvana",
+      "ArtistId" : "nirvana-mn0000357406"
+    }, {
+      "artist" : "Jarboe",
+      "ArtistId" : "jarboe-mn0000808391"
+    }, {
+      "artist" : "Steven Wilson",
+      "ArtistId" : "steven-wilson-mn0000455886"
+    } ],
+    "influencers" : [ {
+      "artist" : "Bob Dylan",
+      "ArtistId" : "bob-dylan-mn0000066915"
+    }, {
+      "artist" : "Captain Beefheart",
+      "ArtistId" : "captain-beefheart-mn0000988638"
+    }, {
+      "artist" : "Pixies",
+      "ArtistId" : "pixies-mn0000895136"
+    }, {
+      "artist" : "The Birthday Party",
+      "ArtistId" : "the-birthday-party-mn0000044906"
+    }, {
+      "artist" : "Tom Waits",
+      "ArtistId" : "tom-waits-mn0000615119"
+    }, {
+      "artist" : "Lene Lovich",
+      "ArtistId" : "lene-lovich-mn0000816012"
+    }, {
+      "artist" : "Leonard Cohen",
+      "ArtistId" : "leonard-cohen-mn0000071209"
+    }, {
+      "artist" : "Marianne Faithfull",
+      "ArtistId" : "marianne-faithfull-mn0000651107"
+    }, {
+      "artist" : "Massive Attack",
+      "ArtistId" : "massive-attack-mn0000378288"
+    }, {
+      "artist" : "Patti Smith",
+      "ArtistId" : "patti-smith-mn0000747445"
+    }, {
+      "artist" : "Pere Ubu",
+      "ArtistId" : "pere-ubu-mn0000838272"
+    }, {
+      "artist" : "Sonic Youth",
+      "ArtistId" : "sonic-youth-mn0000755156"
+    }, {
+      "artist" : "The Gun Club",
+      "ArtistId" : "the-gun-club-mn0000091438"
+    }, {
+      "artist" : "The Smiths",
+      "ArtistId" : "the-smiths-mn0000899530"
+    }, {
+      "artist" : "Tricky",
+      "ArtistId" : "tricky-mn0000025462"
+    }, {
+      "artist" : "Chrissie Hynde",
+      "ArtistId" : "chrissie-hynde-mn0000113823"
+    } ],
+    "followers" : [ {
+      "artist" : "Florence + the Machine",
+      "ArtistId" : "florence-the-machine-mn0002124046"
+    }, {
+      "artist" : "Madi Diaz",
+      "ArtistId" : "madi-diaz-mn0002091995"
+    }, {
+      "artist" : "Olympia",
+      "ArtistId" : "olympia-mn0000472222"
+    }, {
+      "artist" : "The Kills",
+      "ArtistId" : "the-kills-mn0000099508"
+    }, {
+      "artist" : "Torres",
+      "ArtistId" : "torres-mn0003108253"
+    }, {
+      "artist" : "Arctic Monkeys",
+      "ArtistId" : "arctic-monkeys-mn0000325357"
+    }, {
+      "artist" : "Alanis Morissette",
+      "ArtistId" : "alanis-morissette-mn0000932665"
+    }, {
+      "artist" : "Carol Lipnik & Spookarama",
+      "ArtistId" : "carol-lipnik-spookarama-mn0000175089"
+    }, {
+      "artist" : "Chino Moreno",
+      "ArtistId" : "chino-moreno-mn0000773804"
+    }, {
+      "artist" : "Congo Norvell",
+      "ArtistId" : "congo-norvell-mn0000779011"
+    }, {
+      "artist" : "Diane Izzo",
+      "ArtistId" : "diane-izzo-mn0000253785"
+    }, {
+      "artist" : "Douglas Dare",
+      "ArtistId" : "douglas-dare-mn0003159303"
+    }, {
+      "artist" : "Elastica",
+      "ArtistId" : "elastica-mn0000797431"
+    }, {
+      "artist" : "Gemma Hayes",
+      "ArtistId" : "gemma-hayes-mn0000195583"
+    }, {
+      "artist" : "Great Crusades",
+      "ArtistId" : "great-crusades-mn0000070709"
+    }, {
+      "artist" : "Karen Elson",
+      "ArtistId" : "karen-elson-mn0000715864"
+    }, {
+      "artist" : "Le Butcherettes",
+      "ArtistId" : "le-butcherettes-mn0002613533"
+    }, {
+      "artist" : "Marilina Bertoldi",
+      "ArtistId" : "marilinabertoldi-mn0003454758"
+    }, {
+      "artist" : "Marina and the Diamonds",
+      "ArtistId" : "marina-and-the-diamonds-mn0002146541"
+    }, {
+      "artist" : "Mermaidens",
+      "ArtistId" : "mermaidens-mn0003643500"
+    }, {
+      "artist" : "Mike Errico",
+      "ArtistId" : "mike-errico-mn0000410926"
+    }, {
+      "artist" : "Mr. Little Jeans",
+      "ArtistId" : "mr-little-jeans-mn0002909394"
+    }, {
+      "artist" : "Patrick Wolf",
+      "ArtistId" : "patrick-wolf-mn0000115301"
+    }, {
+      "artist" : "Perfume Genius",
+      "ArtistId" : "perfume-genius-mn0002455573"
+    }, {
+      "artist" : "Ripley Caine",
+      "ArtistId" : "ripley-caine-mn0000219790"
+    }, {
+      "artist" : "Sallie Ford",
+      "ArtistId" : "sallie-ford-mn0002704772"
+    }, {
+      "artist" : "Sleater-Kinney",
+      "ArtistId" : "sleater-kinney-mn0000026164"
+    }, {
+      "artist" : "Spleen",
+      "ArtistId" : "spleen-mn0000019533"
+    }, {
+      "artist" : "St. Vincent",
+      "ArtistId" : "st-vincent-mn0000574035"
+    }, {
+      "artist" : "Tamar Aphek",
+      "ArtistId" : "tamar-aphek-mn0003099360"
+    }, {
+      "artist" : "The Gunga Din",
+      "ArtistId" : "the-gunga-din-mn0000074121"
+    }, {
+      "artist" : "Tindersticks",
+      "ArtistId" : "tindersticks-mn0000600640"
+    }, {
+      "artist" : "Venice May",
+      "ArtistId" : "venice-may-mn0003818983"
+    }, {
+      "artist" : "Yeah Yeah Yeahs",
+      "ArtistId" : "yeah-yeah-yeahs-mn0000681154"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "John Parish",
+      "ArtistId" : "john-parish-mn0000812637"
+    }, {
+      "artist" : "Rob Ellis",
+      "ArtistId" : "rob-ellis-mn0000828919"
+    } ]
+  }
+}

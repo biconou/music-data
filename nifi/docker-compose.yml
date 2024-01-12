@@ -24,6 +24,7 @@ services:
       - /var/lib/nifi/provenance_repository:/opt/nifi/nifi-current/provenance_repository
       - /var/lib/nifi/state:/opt/nifi/nifi-current/state
       - /var/lib/nifi/logs:/opt/nifi/nifi-current/logs
+      - ${PWD}/../data:/DATA
       
       # A custom nifi.properties file can be mounted as follows.
       #- /var/lib/nifi/conf/nifi.properties:/opt/nifi/nifi-current/conf/nifi.properties:ro

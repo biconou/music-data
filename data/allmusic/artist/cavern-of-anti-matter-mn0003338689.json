@@ -1,0 +1,131 @@
+{
+  "id" : "cavern-of-anti-matter-mn0003338689",
+  "name" : "Cavern of Anti-Matter",
+  "activeDates" : "2010s",
+  "birthDate" : "2012",
+  "birthPlace" : "Berlin, Germany",
+  "styles" : [ {
+    "name" : "Alternative/Indie Rock",
+    "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
+  }, {
+    "name" : "Experimental Rock",
+    "url" : "https://www.allmusic.com/style/experimental-rock-ma0000002583"
+  }, {
+    "name" : "Indie Rock",
+    "url" : "https://www.allmusic.com/style/indie-rock-ma0000004453"
+  }, {
+    "name" : "Indie Electronic",
+    "url" : "https://www.allmusic.com/style/indie-electronic-ma0000012275"
+  } ],
+  "decades" : "2010s",
+  "genres" : "Pop/Rock",
+  "discography" : [ {
+    "albumYear" : "2013",
+    "albumTitle" : "Blood Drums",
+    "musicRating" : "7",
+    "avgRating" : "7-19"
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "Void Beats/Invocation Trex",
+    "musicRating" : "7",
+    "avgRating" : "8-55"
+  }, {
+    "albumYear" : "2018",
+    "albumTitle" : "Hormone Lemonade",
+    "musicRating" : "7",
+    "avgRating" : "8-46"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Camera",
+      "ArtistId" : "camera-mn0003291338"
+    }, {
+      "artist" : "Food Pyramid",
+      "ArtistId" : "food-pyramid-mn0002575500"
+    }, {
+      "artist" : "Hologram Teen",
+      "ArtistId" : "hologram-teen-mn0003519321"
+    }, {
+      "artist" : "Hydropark",
+      "ArtistId" : "hydropark-mn0003530410"
+    }, {
+      "artist" : "Klaus Johann Grobe",
+      "ArtistId" : "klaus-johann-grobe-mn0003239643"
+    }, {
+      "artist" : "Ulrika Spacek",
+      "ArtistId" : "ulrika-spacek-mn0003469768"
+    }, {
+      "artist" : "Warm Digits",
+      "ArtistId" : "warm-digits-mn0002750094"
+    }, {
+      "artist" : "Beak>",
+      "ArtistId" : "beak-mn0001249559"
+    }, {
+      "artist" : "Beyond the Wizards Sleeve",
+      "ArtistId" : "beyond-the-wizards-sleeve-mn0001055680"
+    }, {
+      "artist" : "Bitchin Bajas",
+      "ArtistId" : "bitchin-bajas-mn0002449433"
+    }, {
+      "artist" : "Jonas Reinhardt",
+      "ArtistId" : "jonas-reinhardt-mn0001010582"
+    }, {
+      "artist" : "Pye Corner Audio",
+      "ArtistId" : "pye-corner-audio-mn0002832045"
+    }, {
+      "artist" : "Trans Am",
+      "ArtistId" : "trans-am-mn0000011892"
+    }, {
+      "artist" : "Trees Speak",
+      "ArtistId" : "trees-speak-mn0003675178"
+    }, {
+      "artist" : "Tussle",
+      "ArtistId" : "tussle-mn0000206812"
+    }, {
+      "artist" : "XAM Duo",
+      "ArtistId" : "xam-duo-mn0003555867"
+    }, {
+      "artist" : "Death and Vanilla",
+      "ArtistId" : "death-and-vanilla-mn0002884240"
+    }, {
+      "artist" : "Junior Electronics",
+      "ArtistId" : "junior-electronics-mn0002854348"
+    }, {
+      "artist" : "Land Observations",
+      "ArtistId" : "land-observations-mn0002742174"
+    }, {
+      "artist" : "Lorelle Meets the Obsolete",
+      "ArtistId" : "lorelle-meets-the-obsolete-mn0002711405"
+    }, {
+      "artist" : "Minami Deutsch",
+      "ArtistId" : "minami-deutsch-mn0003535267"
+    }, {
+      "artist" : "Davy Kehoe",
+      "ArtistId" : "davy-kehoe-mn0003617866"
+    }, {
+      "artist" : "Ford & Lopatin",
+      "ArtistId" : "ford-lopatin-mn0002666405"
+    }, {
+      "artist" : "Immersion",
+      "ArtistId" : "immersion-mn0000079688"
+    }, {
+      "artist" : "Jonas Munk",
+      "ArtistId" : "jonas-munk-mn0000331224"
+    }, {
+      "artist" : "Vanishing Twin",
+      "ArtistId" : "vanishing-twin-mn0003541477"
+    } ],
+    "influencers" : [ ],
+    "followers" : [ ],
+    "associatedwith" : [ {
+      "artist" : "Ghost Power",
+      "ArtistId" : "ghost-power-mn0004213300"
+    }, {
+      "artist" : "Imitation Electric Piano",
+      "ArtistId" : "imitation-electric-piano-mn0000079501"
+    }, {
+      "artist" : "Stereolab",
+      "ArtistId" : "stereolab-mn0000026520"
+    } ]
+  }
+}

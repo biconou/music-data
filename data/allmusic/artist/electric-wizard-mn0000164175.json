@@ -20,6 +20,8 @@
     "name" : "Sludge Metal",
     "url" : "https://www.allmusic.com/style/sludge-metal-ma0000012161"
   } ],
+  "decades" : "1990s - 2010s",
+  "genres" : "Pop/Rock",
   "discography" : [ {
     "albumYear" : "1994",
     "albumTitle" : "Electric Wizard",
@@ -29,7 +31,7 @@
     "albumYear" : "1996",
     "albumTitle" : "Come My Fanatics",
     "musicRating" : "8",
-    "avgRating" : "9-197"
+    "avgRating" : "9-198"
   }, {
     "albumYear" : "1998",
     "albumTitle" : "Supercoven",

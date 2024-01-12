@@ -1,0 +1,51 @@
+{
+  "id" : "afrique-mn0001574246",
+  "name" : "Afrique",
+  "activeDates" : "1970s",
+  "birthDate" : "",
+  "birthPlace" : "",
+  "styles" : [ {
+    "name" : "Funk",
+    "url" : "https://www.allmusic.com/style/funk-ma0000002606"
+  }, {
+    "name" : "Afro-Cuban",
+    "url" : "https://www.allmusic.com/style/afro-cuban-ma0000004549"
+  }, {
+    "name" : "Cuban Traditions",
+    "url" : "https://www.allmusic.com/style/cuban-traditions-ma0000002540"
+  } ],
+  "decades" : "1970s",
+  "genres" : "R&B, Latin",
+  "discography" : [ {
+    "albumYear" : "1973",
+    "albumTitle" : "Soul Makossa",
+    "musicRating" : "8",
+    "avgRating" : "9-12"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Radio Afrique",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Festival du Desert",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Azonto Fever",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Afrique Heritage, Vol. 1",
+    "musicRating" : "",
+    "avgRating" : ""
+  } ],
+  "related" : {
+    "similars" : [ ],
+    "influencers" : [ ],
+    "followers" : [ ],
+    "associatedwith" : [ ]
+  }
+}

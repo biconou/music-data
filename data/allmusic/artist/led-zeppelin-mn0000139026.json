@@ -29,61 +29,63 @@
     "name" : "Heavy Metal",
     "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
   } ],
+  "decades" : "1960s - 2000s",
+  "genres" : "Pop/Rock, Blues",
   "discography" : [ {
     "albumYear" : "1969",
     "albumTitle" : "Led Zeppelin",
     "musicRating" : "9",
-    "avgRating" : "10-8691"
+    "avgRating" : "10-8713"
   }, {
     "albumYear" : "1969",
     "albumTitle" : "Led Zeppelin II",
     "musicRating" : "9",
-    "avgRating" : "10-8688"
+    "avgRating" : "10-8704"
   }, {
     "albumYear" : "1970",
     "albumTitle" : "Led Zeppelin III",
     "musicRating" : "9",
-    "avgRating" : "10-8199"
+    "avgRating" : "10-8220"
   }, {
     "albumYear" : "1971",
     "albumTitle" : "Led Zeppelin IV",
     "musicRating" : "9",
-    "avgRating" : "10-9596"
+    "avgRating" : "10-9610"
   }, {
     "albumYear" : "1973",
     "albumTitle" : "Houses of the Holy",
     "musicRating" : "9",
-    "avgRating" : "10-7505"
+    "avgRating" : "10-7529"
   }, {
     "albumYear" : "1975",
     "albumTitle" : "Physical Graffiti",
     "musicRating" : "9",
-    "avgRating" : "10-6417"
+    "avgRating" : "10-6427"
   }, {
     "albumYear" : "1976",
     "albumTitle" : "Presence",
     "musicRating" : "6",
-    "avgRating" : "8-3568"
+    "avgRating" : "8-3574"
   }, {
     "albumYear" : "1976",
     "albumTitle" : "The Song Remains the Same",
     "musicRating" : "5",
-    "avgRating" : "8-4537"
+    "avgRating" : "8-4545"
   }, {
     "albumYear" : "1979",
     "albumTitle" : "In Through the Out Door",
     "musicRating" : "6",
-    "avgRating" : "8-3251"
+    "avgRating" : "8-3264"
   }, {
     "albumYear" : "1982",
     "albumTitle" : "Coda",
     "musicRating" : "6",
-    "avgRating" : "7-2577"
+    "avgRating" : "7-2584"
   }, {
     "albumYear" : "2012",
     "albumTitle" : "Celebration Day",
     "musicRating" : "7",
-    "avgRating" : "9-3102"
+    "avgRating" : "9-3103"
   }, {
     "albumYear" : "",
     "albumTitle" : "Before Led Zeppelin",

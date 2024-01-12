@@ -19,11 +19,11 @@
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.json"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.1.0.v202307131156"/>
+    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202310301555"/>
     <entry key="node-feature-name" type="xstring" value="KNIME JSON-Processing"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.json.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.1.0.v202307131156"/>
+    <entry key="node-feature-version" type="xstring" value="5.2.0.v202310301555"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="String to JSON"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -33,12 +33,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 37, Cols: 10"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 10"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="bc2fef7a-e002-460e-b596-db79a39366ea"/>
+        <entry key="file_store_id" type="xstring" value="64e13adb-67c1-4aee-9152-2e5e2a3bbb4a"/>
     </config>
 </config>
