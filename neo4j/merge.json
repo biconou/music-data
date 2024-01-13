@@ -1,0 +1,19 @@
+{
+  "statements": [
+    {
+      "statement": "MERGE (a:Genre {name: '$GENRE-NAME$'})"
+    },
+    {
+      "statement": "MERGE (a:Subgenre {name: '$SUBGENRE-NAME$'})"
+    },
+    {
+      "statement": "MERGE (a:Style {name: '$STYLE-NAME$'})"
+    },
+    {
+      "statement": "MATCH (g:Genre {name: '$GENRE-NAME$'}), (s:Subgenre {name: '$SUBGENRE-NAME$'}) MERGE (g)-[:CONTAINS]->(s)"
+    },
+    {
+      "statement": "MATCH (su:Subgenre {name: '$SUBGENRE-NAME$'}), (st:Style {name: '$STYLE-NAME$'}) MERGE (su)-[:CONTAINS]->(st)"
+    }
+  ]
+}

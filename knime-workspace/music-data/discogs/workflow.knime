@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="workflow.knime">
-    <entry key="created_by" type="xstring" value="4.7.2.v202303231026"/>
+    <entry key="created_by" type="xstring" value="5.2.0.v202311301336"/>
     <entry key="created_by_nightly" type="xboolean" value="false"/>
-    <entry key="version" type="xstring" value="4.1.0"/>
+    <entry key="version" type="xstring" value="5.1.0"/>
     <entry key="name" type="xstring" isnull="true" value=""/>
     <config key="authorInformation">
         <entry key="authored-by" type="xstring" value="rcocula"/>
         <entry key="authored-when" type="xstring" value="2023-12-06 19:01:27 +0100"/>
         <entry key="lastEdited-by" type="xstring" value="rcocula"/>
-        <entry key="lastEdited-when" type="xstring" value="2023-12-07 08:06:35 +0100"/>
+        <entry key="lastEdited-when" type="xstring" value="2024-01-12 17:40:20 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="IDLE"/>
     <config key="workflow_variables">
         <config key="Var_0">
             <entry key="name" type="xstring" value="artist"/>

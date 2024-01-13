@@ -1,0 +1,6 @@
+{
+    "knime.var.neo4j-template": {
+        "type": "string",
+        "default": "NULL"
+    }
+}

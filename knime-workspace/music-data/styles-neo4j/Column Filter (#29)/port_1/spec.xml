@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
+    <entry key="spec_name" type="xstring" value="default"/>
+    <entry key="number_columns" type="xint" value="1"/>
+    <config key="column_spec_0">
+        <entry key="column_name" type="xstring" value="neo4j-template"/>
+        <config key="element_names">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+        <config key="column_type">
+            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+        </config>
+        <config key="column_domain">
+            <config key="possible_values">
+                <entry key="array-size" type="xint" value="52"/>
+                <config key="0">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Alternative Country-Rock'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Alternative Country-Rock'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="1">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Alternative Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Alternative Pop/Rock'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="2">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Post-Grunge'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Post-Grunge'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="3">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Punk/New Wave'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Synth Pop'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Punk/New Wave'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Punk/New Wave'}), (st:Style {name: 'Synth Pop'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="4">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Punk/New Wave'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'New Wave'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Punk/New Wave'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Punk/New Wave'}), (st:Style {name: 'New Wave'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="5">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Adult Alternative Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Adult Alternative Pop/Rock'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="6">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Alternative Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Alternative Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="7">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Indie Rock'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="8">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Noise Pop'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Noise Pop'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="9">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Shoegaze'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Shoegaze'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="10">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'New Wave/Post-Punk Revival'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'New Wave/Post-Punk Revival'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="11">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Post-Rock'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Post-Rock'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="12">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Electronic'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Techno'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Detroit Techno'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Electronic'}), (s:Subgenre {name: 'Techno'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Techno'}), (st:Style {name: 'Detroit Techno'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="13">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Electronic'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Techno'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Electro-Techno'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Electronic'}), (s:Subgenre {name: 'Techno'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Techno'}), (st:Style {name: 'Electro-Techno'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="14">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Electronic'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Techno'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Neo-Electro'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Electronic'}), (s:Subgenre {name: 'Techno'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Techno'}), (st:Style {name: 'Neo-Electro'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="15">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Pop-Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Pop-Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="16">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'R&amp;B'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Soul'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Funk'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'R&amp;B'}), (s:Subgenre {name: 'Soul'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Soul'}), (st:Style {name: 'Funk'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="17">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Latin'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Cuban Traditions'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Afro-Cuban'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Latin'}), (s:Subgenre {name: 'Cuban Traditions'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Cuban Traditions'}), (st:Style {name: 'Afro-Cuban'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="18">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'International'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Western European Traditions'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'French Chanson'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'International'}), (s:Subgenre {name: 'Western European Traditions'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Western European Traditions'}), (st:Style {name: 'French Chanson'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="19">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'International'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Western European Traditions'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'French'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'International'}), (s:Subgenre {name: 'Western European Traditions'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Western European Traditions'}), (st:Style {name: 'French'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="20">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Dream Pop'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Dream Pop'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="21">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Electronic'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Jungle/Drum'n'Bass'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Experimental Jungle'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Electronic'}), (s:Subgenre {name: 'Jungle/Drum'n'Bass'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Jungle/Drum'n'Bass'}), (st:Style {name: 'Experimental Jungle'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="22">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Electronic'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Techno'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Ambient Techno'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Electronic'}), (s:Subgenre {name: 'Techno'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Techno'}), (st:Style {name: 'Ambient Techno'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="23">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Electronic'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Techno'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Experimental Techno'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Electronic'}), (s:Subgenre {name: 'Techno'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Techno'}), (st:Style {name: 'Experimental Techno'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="24">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Electronic'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Experimental Electronic'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'IDM'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Electronic'}), (s:Subgenre {name: 'Experimental Electronic'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Experimental Electronic'}), (st:Style {name: 'IDM'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="25">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Jazz'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Jazz Instrument'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Saxophone Jazz'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Jazz'}), (s:Subgenre {name: 'Jazz Instrument'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Jazz Instrument'}), (st:Style {name: 'Saxophone Jazz'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="26">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Doom Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Doom Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="27">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Scandinavian Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Scandinavian Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="28">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Indie Electronic'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Indie Electronic'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="29">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Death Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Death Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="30">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Black Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Black Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="31">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Symphonic Black Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Symphonic Black Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="32">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Goth Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Goth Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="33">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Rap-Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Rap-Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="34">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Electronic'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Techno'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Minimal Techno'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Electronic'}), (s:Subgenre {name: 'Techno'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Techno'}), (st:Style {name: 'Minimal Techno'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="35">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Stoner Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Stoner Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="36">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Sludge Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Sludge Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="37">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'British Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'British Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="38">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'New Wave of British Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'New Wave of British Heavy Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="39">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Progressive Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Progressive Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="40">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Neo-Psychedelia'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Neo-Psychedelia'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="41">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Punk/New Wave'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Post-Punk'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Punk/New Wave'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Punk/New Wave'}), (st:Style {name: 'Post-Punk'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="42">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Singer/Songwriter'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Alternative Singer/Songwriter'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Singer/Songwriter'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Singer/Songwriter'}), (st:Style {name: 'Alternative Singer/Songwriter'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="43">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Heavy Metal'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Punk Metal'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Heavy Metal'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Heavy Metal'}), (st:Style {name: 'Punk Metal'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="44">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'College Rock'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'College Rock'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="45">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'American Underground'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'American Underground'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="46">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Jangle Pop'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Jangle Pop'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="47">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Electronic'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Downtempo'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Illbient'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Electronic'}), (s:Subgenre {name: 'Downtempo'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Downtempo'}), (st:Style {name: 'Illbient'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="48">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Electronic'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Downtempo'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Dark Ambient'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Electronic'}), (s:Subgenre {name: 'Downtempo'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Downtempo'}), (st:Style {name: 'Dark Ambient'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="49">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Rap'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative Rap'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Underground Rap'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Rap'}), (s:Subgenre {name: 'Alternative Rap'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative Rap'}), (st:Style {name: 'Underground Rap'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="50">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Psychobilly'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Psychobilly'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+                <config key="51">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="{&quot;statements&quot;:[{&quot;statement&quot;:&quot;MERGE (a:Genre {name: 'Pop/Rock'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Subgenre {name: 'Punk/New Wave'})&quot;},{&quot;statement&quot;:&quot;MERGE (a:Style {name: 'Hardcore Punk'})&quot;},{&quot;statement&quot;:&quot;MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Punk/New Wave'}) MERGE (g)-[:CONTAINS]-&gt;(s)&quot;},{&quot;statement&quot;:&quot;MATCH (su:Subgenre {name: 'Punk/New Wave'}), (st:Style {name: 'Hardcore Punk'}) MERGE (su)-[:CONTAINS]-&gt;(st)&quot;}]}"/>
+                    </config>
+                </config>
+            </config>
+        </config>
+        <config key="column_properties"/>
+        <config key="meta_data"/>
+    </config>
+</config>

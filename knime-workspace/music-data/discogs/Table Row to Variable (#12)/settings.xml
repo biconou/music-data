@@ -20,24 +20,6 @@
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="missing"/>
         </config>
-        <config key="Variable_3">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="RowID"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Row0"/>
-        </config>
-        <config key="Variable_4">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="discogs.secret"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="xYpdaTwFFISNXwMOlvuGVossTaRtnkHs"/>
-        </config>
-        <config key="Variable_5">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="discogs.key"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="BIqHCSNxDnaIPhqCiZoc"/>
-        </config>
     </config>
     <config key="internal_node_subsettings">
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
@@ -81,8 +63,8 @@
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
                 <entry key="array-size" type="xint" value="2"/>
-                <entry key="0" type="xstring" value="key"/>
-                <entry key="1" type="xstring" value="secret"/>
+                <entry key="0" type="xstring" value="discogs.key"/>
+                <entry key="1" type="xstring" value="discogs.secret"/>
             </config>
             <config key="excluded_names">
                 <entry key="array-size" type="xint" value="0"/>
@@ -95,46 +77,34 @@
                 <entry key="excludeMatching" type="xboolean" value="false"/>
             </config>
             <config key="datatype">
-                <config key="typelist">
-                    <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
-                    <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
-                </config>
+                <config key="typelist"/>
             </config>
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="CONFIGURED"/>
     <entry key="factory" type="xstring" value="org.knime.base.node.flowvariable.tablerowtovariable3.TableToVariable3NodeFactory"/>
     <entry key="node-name" type="xstring" value="Table Row to Variable"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="4.7.0.v202301251625"/>
+    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202311271613"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="4.7.2.v202303231026"/>
+    <entry key="node-feature-version" type="xstring" value="5.2.0.v202311291511"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Table Row to Variable"/>
-    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObjectSpec"/>
-            <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObject"/>
-            <entry key="port_object_summary" type="xstring" value="Variables connection"/>
-            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
-            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
-            <entry key="port_dir_location" type="xstring" value="port_1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="b76874c9-ed31-45ea-910e-618b2335f570"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>
