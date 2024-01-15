@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.23" id="1">
-    <property name="createdBy">Eclipse BIRT Designer Version 4.9.0.v202104071056</property>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.24" id="1">
+    <property name="createdBy">Eclipse BIRT Designer Version 4.9.0.v202203150031</property>
     <property name="units">in</property>
     <property name="iconFile">/templates/blank_report.gif</property>
     <property name="layoutPreference">auto layout</property>
@@ -108,90 +108,105 @@
                     <property name="name">RuleId</property>
                     <property name="nativeName">RuleId</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">3</property>
                     <property name="name">AntecedentsTotalPrice</property>
                     <property name="nativeName">AntecedentsTotalPrice</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">4</property>
                     <property name="name">AntecedentsNames</property>
                     <property name="nativeName">AntecedentsNames</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">5</property>
                     <property name="name">RuleSupport</property>
                     <property name="nativeName">RuleSupport</property>
                     <property name="dataType">integer</property>
+                    <property name="nativeDataType">4</property>
                 </structure>
                 <structure>
                     <property name="position">6</property>
                     <property name="name">RelativeRuleSupport%</property>
                     <property name="nativeName">RelativeRuleSupport%</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">7</property>
                     <property name="name">AntecedentsItems</property>
                     <property name="nativeName">AntecedentsItems</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">8</property>
                     <property name="name">RecommendedItem</property>
                     <property name="nativeName">RecommendedItem</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">9</property>
                     <property name="name">RuleConfidence%</property>
                     <property name="nativeName">RuleConfidence%</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">10</property>
                     <property name="name">RuleLift%</property>
                     <property name="nativeName">RuleLift%</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">11</property>
                     <property name="name">RuleLift</property>
                     <property name="nativeName">RuleLift</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">12</property>
                     <property name="name">Concatenate(Antecedent (#1))=Concatenate(AntecedentsItems)</property>
                     <property name="nativeName">Concatenate(Antecedent (#1))=Concatenate(AntecedentsItems)</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">13</property>
                     <property name="name">PriceRecommendedProduct</property>
                     <property name="nativeName">PriceRecommendedProduct</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">14</property>
                     <property name="name">RecommendedProduct</property>
                     <property name="nativeName">RecommendedProduct</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">15</property>
                     <property name="name">RuleRevenue</property>
                     <property name="nativeName">RuleRevenue</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">16</property>
                     <property name="name">price current cart</property>
                     <property name="nativeName">price current cart</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
             </list-property>
             <xml-property name="queryText"><![CDATA[112]]></xml-property>
@@ -295,90 +310,105 @@
                     <property name="name">RuleId</property>
                     <property name="nativeName">RuleId</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">3</property>
                     <property name="name">AntecedentsTotalPrice</property>
                     <property name="nativeName">AntecedentsTotalPrice</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">4</property>
                     <property name="name">AntecedentsNames</property>
                     <property name="nativeName">AntecedentsNames</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">5</property>
                     <property name="name">RuleSupport</property>
                     <property name="nativeName">RuleSupport</property>
                     <property name="dataType">integer</property>
+                    <property name="nativeDataType">4</property>
                 </structure>
                 <structure>
                     <property name="position">6</property>
                     <property name="name">RelativeRuleSupport%</property>
                     <property name="nativeName">RelativeRuleSupport%</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">7</property>
                     <property name="name">AntecedentsItems</property>
                     <property name="nativeName">AntecedentsItems</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">8</property>
                     <property name="name">RecommendedItem</property>
                     <property name="nativeName">RecommendedItem</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">9</property>
                     <property name="name">RuleConfidence%</property>
                     <property name="nativeName">RuleConfidence%</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">10</property>
                     <property name="name">RuleLift%</property>
                     <property name="nativeName">RuleLift%</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">11</property>
                     <property name="name">RuleLift</property>
                     <property name="nativeName">RuleLift</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">12</property>
                     <property name="name">Concatenate(Antecedent (#1))=Concatenate(AntecedentsItems)</property>
                     <property name="nativeName">Concatenate(Antecedent (#1))=Concatenate(AntecedentsItems)</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">13</property>
                     <property name="name">PriceRecommendedProduct</property>
                     <property name="nativeName">PriceRecommendedProduct</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">14</property>
                     <property name="name">RecommendedProduct</property>
                     <property name="nativeName">RecommendedProduct</property>
                     <property name="dataType">string</property>
+                    <property name="nativeDataType">12</property>
                 </structure>
                 <structure>
                     <property name="position">15</property>
                     <property name="name">RuleRevenue</property>
                     <property name="nativeName">RuleRevenue</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
                 <structure>
                     <property name="position">16</property>
                     <property name="name">price current cart</property>
                     <property name="nativeName">price current cart</property>
                     <property name="dataType">float</property>
+                    <property name="nativeDataType">8</property>
                 </structure>
             </list-property>
             <xml-property name="queryText"><![CDATA[128]]></xml-property>
@@ -604,6 +634,42 @@
 Welcome to our Supermarket Chain!</font>
 </H1>]]></text-property>
         </text>
+        <table id="67">
+            <property name="dataSet">Recommendation</property>
+            <list-property name="boundDataColumns">
+                <structure>
+                    <property name="name">RecommendedProduct</property>
+                    <text-property name="displayName">RecommendedProduct</text-property>
+                    <expression name="expression" type="javascript">dataSetRow["RecommendedProduct"]</expression>
+                    <property name="dataType">string</property>
+                </structure>
+            </list-property>
+            <column id="76"/>
+            <header>
+                <row id="68">
+                    <cell id="69">
+                        <label id="70">
+                            <text-property name="text">RecommendedProduct</text-property>
+                        </label>
+                    </cell>
+                </row>
+            </header>
+            <detail>
+                <row id="71">
+                    <cell id="72">
+                        <property name="verticalAlign">bottom</property>
+                        <data id="73">
+                            <property name="resultSetColumn">RecommendedProduct</property>
+                        </data>
+                    </cell>
+                </row>
+            </detail>
+            <footer>
+                <row id="74">
+                    <cell id="75"/>
+                </row>
+            </footer>
+        </table>
         <label id="26"/>
         <table id="46">
             <property name="dataSet">Recommendation</property>

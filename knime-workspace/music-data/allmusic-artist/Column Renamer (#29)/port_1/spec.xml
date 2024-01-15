@@ -12,7 +12,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="49"/>
+                <entry key="array-size" type="xint" value="52"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -160,148 +160,166 @@
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Efdemin"/>
+                        <entry key="StringCell" type="xstring" value="Dismember"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Electric Wizard"/>
+                        <entry key="StringCell" type="xstring" value="Efdemin"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Iron Maiden"/>
+                        <entry key="StringCell" type="xstring" value="Electric Wizard"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Johnny Cash"/>
+                        <entry key="StringCell" type="xstring" value="Iron Maiden"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Katatonia"/>
+                        <entry key="StringCell" type="xstring" value="Johnny Cash"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Led Zeppelin"/>
+                        <entry key="StringCell" type="xstring" value="Katatonia"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Leonard Cohen"/>
+                        <entry key="StringCell" type="xstring" value="Led Zeppelin"/>
                     </config>
                 </config>
                 <config key="31">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Mars Red Sky"/>
+                        <entry key="StringCell" type="xstring" value="Leonard Cohen"/>
                     </config>
                 </config>
                 <config key="32">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Nick Cave &amp; the Bad Seeds"/>
+                        <entry key="StringCell" type="xstring" value="Mars Red Sky"/>
                     </config>
                 </config>
                 <config key="33">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Nuclear Assault"/>
+                        <entry key="StringCell" type="xstring" value="My Sleeping Karma"/>
                     </config>
                 </config>
                 <config key="34">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Paradise Lost"/>
+                        <entry key="StringCell" type="xstring" value="Nick Cave &amp; the Bad Seeds"/>
                     </config>
                 </config>
                 <config key="35">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Pentagram"/>
+                        <entry key="StringCell" type="xstring" value="Nuclear Assault"/>
                     </config>
                 </config>
                 <config key="36">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Pixies"/>
+                        <entry key="StringCell" type="xstring" value="Paradise Lost"/>
                     </config>
                 </config>
                 <config key="37">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="PJ Harvey"/>
+                        <entry key="StringCell" type="xstring" value="Pentagram"/>
                     </config>
                 </config>
                 <config key="38">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Psychic Ills"/>
+                        <entry key="StringCell" type="xstring" value="Pixies"/>
                     </config>
                 </config>
                 <config key="39">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="R.E.M."/>
+                        <entry key="StringCell" type="xstring" value="PJ Harvey"/>
                     </config>
                 </config>
                 <config key="40">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Saint Vitus"/>
+                        <entry key="StringCell" type="xstring" value="Psychic Ills"/>
                     </config>
                 </config>
                 <config key="41">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Sleep"/>
+                        <entry key="StringCell" type="xstring" value="R.E.M."/>
                     </config>
                 </config>
                 <config key="42">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Son House"/>
+                        <entry key="StringCell" type="xstring" value="Saint Vitus"/>
                     </config>
                 </config>
                 <config key="43">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Techno Animal"/>
+                        <entry key="StringCell" type="xstring" value="Sleep"/>
                     </config>
                 </config>
                 <config key="44">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="The Cramps"/>
+                        <entry key="StringCell" type="xstring" value="Son House"/>
                     </config>
                 </config>
                 <config key="45">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="The Modern Jazz Quartet"/>
+                        <entry key="StringCell" type="xstring" value="Techno Animal"/>
                     </config>
                 </config>
                 <config key="46">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Turnstile"/>
+                        <entry key="StringCell" type="xstring" value="Testament"/>
                     </config>
                 </config>
                 <config key="47">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Witchcraft"/>
+                        <entry key="StringCell" type="xstring" value="The Cramps"/>
                     </config>
                 </config>
                 <config key="48">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="The Modern Jazz Quartet"/>
+                    </config>
+                </config>
+                <config key="49">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Turnstile"/>
+                    </config>
+                </config>
+                <config key="50">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Witchcraft"/>
+                    </config>
+                </config>
+                <config key="51">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="YOB"/>
@@ -322,7 +340,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="49"/>
+                <entry key="array-size" type="xint" value="52"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -470,148 +488,166 @@
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/efdemin-mn0000729957"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/dismember-mn0000171969"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/electric-wizard-mn0000164175"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/efdemin-mn0000729957"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/iron-maiden-mn0000098465"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/electric-wizard-mn0000164175"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/johnny-cash-mn0000816890"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/iron-maiden-mn0000098465"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/katatonia-mn0000855252"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/johnny-cash-mn0000816890"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/led-zeppelin-mn0000139026"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/katatonia-mn0000855252"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/leonard-cohen-mn0000071209"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/led-zeppelin-mn0000139026"/>
                     </config>
                 </config>
                 <config key="31">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/mars-red-sky-mn0002803877"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/leonard-cohen-mn0000071209"/>
                     </config>
                 </config>
                 <config key="32">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/nick-cave-the-bad-seeds-mn0000866271"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/mars-red-sky-mn0002803877"/>
                     </config>
                 </config>
                 <config key="33">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/nuclear-assault-mn0000461391"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/my-sleeping-karma-mn0001754743"/>
                     </config>
                 </config>
                 <config key="34">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/paradise-lost-mn0000018691"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/nick-cave-the-bad-seeds-mn0000866271"/>
                     </config>
                 </config>
                 <config key="35">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/pentagram-mn0000308932"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/nuclear-assault-mn0000461391"/>
                     </config>
                 </config>
                 <config key="36">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/pixies-mn0000895136"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/paradise-lost-mn0000018691"/>
                     </config>
                 </config>
                 <config key="37">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/pj-harvey-mn0000000335"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/pentagram-mn0000308932"/>
                     </config>
                 </config>
                 <config key="38">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/psychic-ills-mn0000715443"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/pixies-mn0000895136"/>
                     </config>
                 </config>
                 <config key="39">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/rem-mn0000325459"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/pj-harvey-mn0000000335"/>
                     </config>
                 </config>
                 <config key="40">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/saint-vitus-mn0000287259"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/psychic-ills-mn0000715443"/>
                     </config>
                 </config>
                 <config key="41">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/sleep-mn0000021578"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/rem-mn0000325459"/>
                     </config>
                 </config>
                 <config key="42">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/son-house-mn0000753094"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/saint-vitus-mn0000287259"/>
                     </config>
                 </config>
                 <config key="43">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/techno-animal-mn0000024102"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/sleep-mn0000021578"/>
                     </config>
                 </config>
                 <config key="44">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/the-cramps-mn0000137580"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/son-house-mn0000753094"/>
                     </config>
                 </config>
                 <config key="45">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/the-modern-jazz-quartet-mn0000567325"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/techno-animal-mn0000024102"/>
                     </config>
                 </config>
                 <config key="46">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/turnstile-mn0001569643"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/testament-mn0000751910"/>
                     </config>
                 </config>
                 <config key="47">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/witchcraft-mn0000164592"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/the-cramps-mn0000137580"/>
                     </config>
                 </config>
                 <config key="48">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/the-modern-jazz-quartet-mn0000567325"/>
+                    </config>
+                </config>
+                <config key="49">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/turnstile-mn0001569643"/>
+                    </config>
+                </config>
+                <config key="50">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/witchcraft-mn0000164592"/>
+                    </config>
+                </config>
+                <config key="51">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/yob-mn0000683342"/>
@@ -632,7 +668,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="49"/>
+                <entry key="array-size" type="xint" value="52"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -780,148 +816,166 @@
                 <config key="24">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="efdemin-mn0000729957"/>
+                        <entry key="StringCell" type="xstring" value="dismember-mn0000171969"/>
                     </config>
                 </config>
                 <config key="25">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="electric-wizard-mn0000164175"/>
+                        <entry key="StringCell" type="xstring" value="efdemin-mn0000729957"/>
                     </config>
                 </config>
                 <config key="26">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="iron-maiden-mn0000098465"/>
+                        <entry key="StringCell" type="xstring" value="electric-wizard-mn0000164175"/>
                     </config>
                 </config>
                 <config key="27">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="johnny-cash-mn0000816890"/>
+                        <entry key="StringCell" type="xstring" value="iron-maiden-mn0000098465"/>
                     </config>
                 </config>
                 <config key="28">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="katatonia-mn0000855252"/>
+                        <entry key="StringCell" type="xstring" value="johnny-cash-mn0000816890"/>
                     </config>
                 </config>
                 <config key="29">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="led-zeppelin-mn0000139026"/>
+                        <entry key="StringCell" type="xstring" value="katatonia-mn0000855252"/>
                     </config>
                 </config>
                 <config key="30">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="leonard-cohen-mn0000071209"/>
+                        <entry key="StringCell" type="xstring" value="led-zeppelin-mn0000139026"/>
                     </config>
                 </config>
                 <config key="31">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="mars-red-sky-mn0002803877"/>
+                        <entry key="StringCell" type="xstring" value="leonard-cohen-mn0000071209"/>
                     </config>
                 </config>
                 <config key="32">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="nick-cave-the-bad-seeds-mn0000866271"/>
+                        <entry key="StringCell" type="xstring" value="mars-red-sky-mn0002803877"/>
                     </config>
                 </config>
                 <config key="33">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="nuclear-assault-mn0000461391"/>
+                        <entry key="StringCell" type="xstring" value="my-sleeping-karma-mn0001754743"/>
                     </config>
                 </config>
                 <config key="34">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="paradise-lost-mn0000018691"/>
+                        <entry key="StringCell" type="xstring" value="nick-cave-the-bad-seeds-mn0000866271"/>
                     </config>
                 </config>
                 <config key="35">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="pentagram-mn0000308932"/>
+                        <entry key="StringCell" type="xstring" value="nuclear-assault-mn0000461391"/>
                     </config>
                 </config>
                 <config key="36">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="pixies-mn0000895136"/>
+                        <entry key="StringCell" type="xstring" value="paradise-lost-mn0000018691"/>
                     </config>
                 </config>
                 <config key="37">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="pj-harvey-mn0000000335"/>
+                        <entry key="StringCell" type="xstring" value="pentagram-mn0000308932"/>
                     </config>
                 </config>
                 <config key="38">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="psychic-ills-mn0000715443"/>
+                        <entry key="StringCell" type="xstring" value="pixies-mn0000895136"/>
                     </config>
                 </config>
                 <config key="39">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="rem-mn0000325459"/>
+                        <entry key="StringCell" type="xstring" value="pj-harvey-mn0000000335"/>
                     </config>
                 </config>
                 <config key="40">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="saint-vitus-mn0000287259"/>
+                        <entry key="StringCell" type="xstring" value="psychic-ills-mn0000715443"/>
                     </config>
                 </config>
                 <config key="41">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="sleep-mn0000021578"/>
+                        <entry key="StringCell" type="xstring" value="rem-mn0000325459"/>
                     </config>
                 </config>
                 <config key="42">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="son-house-mn0000753094"/>
+                        <entry key="StringCell" type="xstring" value="saint-vitus-mn0000287259"/>
                     </config>
                 </config>
                 <config key="43">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="techno-animal-mn0000024102"/>
+                        <entry key="StringCell" type="xstring" value="sleep-mn0000021578"/>
                     </config>
                 </config>
                 <config key="44">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="the-cramps-mn0000137580"/>
+                        <entry key="StringCell" type="xstring" value="son-house-mn0000753094"/>
                     </config>
                 </config>
                 <config key="45">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="the-modern-jazz-quartet-mn0000567325"/>
+                        <entry key="StringCell" type="xstring" value="techno-animal-mn0000024102"/>
                     </config>
                 </config>
                 <config key="46">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="turnstile-mn0001569643"/>
+                        <entry key="StringCell" type="xstring" value="testament-mn0000751910"/>
                     </config>
                 </config>
                 <config key="47">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="witchcraft-mn0000164592"/>
+                        <entry key="StringCell" type="xstring" value="the-cramps-mn0000137580"/>
                     </config>
                 </config>
                 <config key="48">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="the-modern-jazz-quartet-mn0000567325"/>
+                    </config>
+                </config>
+                <config key="49">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="turnstile-mn0001569643"/>
+                    </config>
+                </config>
+                <config key="50">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="witchcraft-mn0000164592"/>
+                    </config>
+                </config>
+                <config key="51">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="yob-mn0000683342"/>
@@ -1200,7 +1254,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/arcade-fire-mn0000185591/discographyAjax"/>
+                        <entry key="StringCell" type="xstring" value="https://www.allmusic.com/artist/dismember-mn0000171969/discographyAjax"/>
                     </config>
                 </config>
             </config>
@@ -1269,7 +1323,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="            &lt;div class=&quot;advertising inContentLeaderboard&quot;&gt;%%00010            &lt;div id=&quot;discoLB&quot;&gt;%%00010            &lt;/div&gt;%%00010        &lt;/div&gt;%%00010        &lt;div id=&quot;discography&quot; class=&quot;artistContentSubModule&quot;&gt;%%00010        &lt;div id=&quot;discographyFilters&quot;&gt;%%00010            &lt;div&gt;%%00010                &lt;select id=&quot;releaseType&quot;&gt;%%00010                                            &lt;option value=&quot;main&quot;&gt;Main Albums&lt;/option&gt;                                            &lt;option value=&quot;compilations&quot;&gt;Compilations&lt;/option&gt;                                            &lt;option value=&quot;singles&quot;&gt;Singles &amp; EPs&lt;/option&gt;                                            &lt;option value=&quot;video&quot;&gt;Videos&lt;/option&gt;                                        &lt;option value=&quot;all&quot;&gt;All&lt;/option&gt;%%00010                &lt;/select&gt;%%00010            &lt;/div&gt;%%00010            &lt;div&gt;%%00010                &lt;select id=&quot;sortByType&quot;&gt;%%00010                    &lt;option value=&quot;[1,0]&quot;&gt;Year &lt;span&gt;(Oldest to Newest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[1,1]&quot;&gt;Year &lt;span&gt;(Newest to Oldest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[3,1]&quot;&gt;AllMusic Rating &lt;span&gt;(Highest to Lowest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[3,0]&quot;&gt;AllMusic Rating &lt;span&gt;(Lowest to Highest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[4,1]&quot;&gt;User Ratings &lt;span&gt;(Highest to Lowest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[4,0]&quot;&gt;User Ratings &lt;span&gt;(Lowest to Highest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[2,0]&quot;&gt;Album Title &lt;span&gt;(A-Z)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[2,1]&quot;&gt;Album Title &lt;span&gt;(Z-A)&lt;/span&gt;&lt;/option&gt;%%00010                &lt;/select&gt;%%00010            &lt;/div&gt;%%00010        &lt;/div&gt;%%00010        &lt;div id=&quot;discographyResults&quot;&gt;%%00010            &lt;table class=&quot;discographyTable&quot;&gt;%%00010    &lt;thead&gt;%%00010    &lt;tr&gt;%%00010        &lt;th&gt;&lt;/th&gt;%%00010        &lt;th&gt;Year&lt;/th&gt;%%00010        &lt;th&gt;Credit&lt;/th&gt;%%00010        &lt;th&gt;AllMusic Rating&lt;/th&gt;%%00010        &lt;th&gt;User Rating&lt;/th&gt;%%00010    &lt;/tr&gt;%%00010    &lt;/thead&gt;%%00010    &lt;tbody&gt;%%00010            &lt;tr class=&quot;pick&quot;&gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/funeral-mw0000384072&quot;%%00010                   title=&quot;Funeral&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=6SL_sC3J65RpW2jmEw5zDFWnbEN5fCjifro6xhIBuB4=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Funeral&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;2004-09-14-Funeral&quot;&gt;%%00010                2004            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Funeral&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/funeral-mw0000384072&quot; title=&quot;Funeral&quot;&gt;Funeral&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/funeral-mw0000384072&quot; title=&quot;Funeral&quot;&gt;Funeral&lt;/a&gt;                    &lt;/div&gt;%%00010                                            &lt;a href=&quot;/album/funeral-mw0000384072&quot;%%00010                           class=&quot;hasReviewLink&quot;%%00010                           title=&quot;Album Review&quot;&gt;%%00010                                    &lt;span class=&quot;hasReview&quot; aria-label=&quot;Read album review&quot;&gt;&lt;/span&gt;%%00010                                &lt;/a&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Merge&quot; title=&quot;Merge&quot;&gt;Merge&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;9&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic9&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;9-5914&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage09&quot;%%00010                     data-avg-rating-id=&quot;MW0000384072&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/neon-bible-mw0000562187&quot;%%00010                   title=&quot;Neon Bible&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=kvZPoRaS1dbSkbrK2wFR4N_M69_UI9rrJSVvWL2-yAg=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Neon Bible&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;2007-03-06-Neon Bible&quot;&gt;%%00010                2007            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Neon Bible&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/neon-bible-mw0000562187&quot; title=&quot;Neon Bible&quot;&gt;Neon Bible&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/neon-bible-mw0000562187&quot; title=&quot;Neon Bible&quot;&gt;Neon Bible&lt;/a&gt;                    &lt;/div&gt;%%00010                                            &lt;a href=&quot;/album/neon-bible-mw0000562187&quot;%%00010                           class=&quot;hasReviewLink&quot;%%00010                           title=&quot;Album Review&quot;&gt;%%00010                                    &lt;span class=&quot;hasReview&quot; aria-label=&quot;Read album review&quot;&gt;&lt;/span&gt;%%00010                                &lt;/a&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Merge&quot; title=&quot;Merge&quot;&gt;Merge&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;7&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic7&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;9-3904&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage09&quot;%%00010                     data-avg-rating-id=&quot;MW0000562187&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/the-suburbs-mw0002010991&quot;%%00010                   title=&quot;The Suburbs&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=DYv4C1sqBjc-DKl2Fvz3aFWnbEN5fCjifro6xhIBuB4=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;The Suburbs&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;2010-08-03-The Suburbs&quot;&gt;%%00010                2010            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;The Suburbs&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/the-suburbs-mw0002010991&quot; title=&quot;The Suburbs&quot;&gt;The Suburbs&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/the-suburbs-mw0002010991&quot; title=&quot;The Suburbs&quot;&gt;The Suburbs&lt;/a&gt;                    &lt;/div&gt;%%00010                                            &lt;a href=&quot;/album/the-suburbs-mw0002010991&quot;%%00010                           class=&quot;hasReviewLink&quot;%%00010                           title=&quot;Album Review&quot;&gt;%%00010                                    &lt;span class=&quot;hasReview&quot; aria-label=&quot;Read album review&quot;&gt;&lt;/span&gt;%%00010                                &lt;/a&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Merge&quot; title=&quot;Merge&quot;&gt;Merge&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;9&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic9&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;9-4938&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage09&quot;%%00010                     data-avg-rating-id=&quot;MW0002010991&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/reflektor-mw0002581228&quot;%%00010                   title=&quot;Reflektor&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=cDDL_hG-kgkcT7WoLmp5-t_M69_UI9rrJSVvWL2-yAg=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Reflektor&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;2013-10-28-Reflektor&quot;&gt;%%00010                2013            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Reflektor&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/reflektor-mw0002581228&quot; title=&quot;Reflektor&quot;&gt;Reflektor&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/reflektor-mw0002581228&quot; title=&quot;Reflektor&quot;&gt;Reflektor&lt;/a&gt;                    &lt;/div&gt;%%00010                                            &lt;a href=&quot;/album/reflektor-mw0002581228&quot;%%00010                           class=&quot;hasReviewLink&quot;%%00010                           title=&quot;Album Review&quot;&gt;%%00010                                    &lt;span class=&quot;hasReview&quot; aria-label=&quot;Read album review&quot;&gt;&lt;/span&gt;%%00010                                &lt;/a&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Merge&quot; title=&quot;Merge&quot;&gt;Merge&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;6&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic6&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;8-3411&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage08&quot;%%00010                     data-avg-rating-id=&quot;MW0002581228&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/everything-now-mw0003061982&quot;%%00010                   title=&quot;Everything Now&quot;&gt;&lt;img data-src=&quot;https://fastly-s3.allmusic.com/release-covers/170/0004/733/0004733113.jpg&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Everything Now&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;2017-07-28-Everything Now&quot;&gt;%%00010                2017            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Everything Now&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/everything-now-mw0003061982&quot; title=&quot;Everything Now&quot;&gt;Everything Now&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/everything-now-mw0003061982&quot; title=&quot;Everything Now&quot;&gt;Everything Now&lt;/a&gt;                    &lt;/div&gt;%%00010                                            &lt;a href=&quot;/album/everything-now-mw0003061982&quot;%%00010                           class=&quot;hasReviewLink&quot;%%00010                           title=&quot;Album Review&quot;&gt;%%00010                                    &lt;span class=&quot;hasReview&quot; aria-label=&quot;Read album review&quot;&gt;&lt;/span&gt;%%00010                                &lt;/a&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Columbia&quot; title=&quot;Columbia&quot;&gt;Columbia&lt;/a&gt; / &lt;a href=&quot;//www.allmusic.com/search/labels/Sony+Music&quot; title=&quot;Sony Music&quot;&gt;Sony Music&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;5&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic5&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;6-976&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage06&quot;%%00010                     data-avg-rating-id=&quot;MW0003061982&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/we-mw0003691640&quot;%%00010                   title=&quot;WE&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=9Tl16jOV6f0pRoyAPsnhVphUoDg0hsvx4F4sL4oO-nA=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;WE&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;2022-05-06-WE&quot;&gt;%%00010                2022            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;WE&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/we-mw0003691640&quot; title=&quot;WE&quot;&gt;WE&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/we-mw0003691640&quot; title=&quot;WE&quot;&gt;WE&lt;/a&gt;                    &lt;/div&gt;%%00010                                            &lt;a href=&quot;/album/we-mw0003691640&quot;%%00010                           class=&quot;hasReviewLink&quot;%%00010                           title=&quot;Album Review&quot;&gt;%%00010                                    &lt;span class=&quot;hasReview&quot; aria-label=&quot;Read album review&quot;&gt;&lt;/span&gt;%%00010                                &lt;/a&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Columbia&quot; title=&quot;Columbia&quot;&gt;Columbia&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;6&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic6&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;6-389&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage06&quot;%%00010                     data-avg-rating-id=&quot;MW0003691640&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010        &lt;/tbody&gt;%%00010&lt;/table&gt;%%00010        &lt;/div&gt;%%00010        &lt;div id=&quot;albumPickMsg&quot;&gt;%%00010            &lt;a href=&quot;/faq/topic/albumtrackpicks&quot; title=&quot;About album picks&quot;&gt;blue highlight denotes album pick&lt;/a&gt;%%00010        &lt;/div&gt;%%00010    &lt;/div&gt;%%00010"/>
+                        <entry key="StringCell" type="xstring" value="            &lt;div class=&quot;advertising inContentLeaderboard&quot;&gt;%%00010            &lt;div id=&quot;discoLB&quot;&gt;%%00010            &lt;/div&gt;%%00010        &lt;/div&gt;%%00010        &lt;div id=&quot;discography&quot; class=&quot;artistContentSubModule&quot;&gt;%%00010        &lt;div id=&quot;discographyFilters&quot;&gt;%%00010            &lt;div&gt;%%00010                &lt;select id=&quot;releaseType&quot;&gt;%%00010                                            &lt;option value=&quot;main&quot;&gt;Main Albums&lt;/option&gt;                                            &lt;option value=&quot;compilations&quot;&gt;Compilations&lt;/option&gt;                                            &lt;option value=&quot;singles&quot;&gt;Singles &amp; EPs&lt;/option&gt;                                            &lt;option value=&quot;video&quot;&gt;Videos&lt;/option&gt;                                        &lt;option value=&quot;all&quot;&gt;All&lt;/option&gt;%%00010                &lt;/select&gt;%%00010            &lt;/div&gt;%%00010            &lt;div&gt;%%00010                &lt;select id=&quot;sortByType&quot;&gt;%%00010                    &lt;option value=&quot;[1,0]&quot;&gt;Year &lt;span&gt;(Oldest to Newest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[1,1]&quot;&gt;Year &lt;span&gt;(Newest to Oldest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[3,1]&quot;&gt;AllMusic Rating &lt;span&gt;(Highest to Lowest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[3,0]&quot;&gt;AllMusic Rating &lt;span&gt;(Lowest to Highest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[4,1]&quot;&gt;User Ratings &lt;span&gt;(Highest to Lowest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[4,0]&quot;&gt;User Ratings &lt;span&gt;(Lowest to Highest)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[2,0]&quot;&gt;Album Title &lt;span&gt;(A-Z)&lt;/span&gt;&lt;/option&gt;%%00010                    &lt;option value=&quot;[2,1]&quot;&gt;Album Title &lt;span&gt;(Z-A)&lt;/span&gt;&lt;/option&gt;%%00010                &lt;/select&gt;%%00010            &lt;/div&gt;%%00010        &lt;/div&gt;%%00010        &lt;div id=&quot;discographyResults&quot;&gt;%%00010            &lt;table class=&quot;discographyTable&quot;&gt;%%00010    &lt;thead&gt;%%00010    &lt;tr&gt;%%00010        &lt;th&gt;&lt;/th&gt;%%00010        &lt;th&gt;Year&lt;/th&gt;%%00010        &lt;th&gt;Credit&lt;/th&gt;%%00010        &lt;th&gt;AllMusic Rating&lt;/th&gt;%%00010        &lt;th&gt;User Rating&lt;/th&gt;%%00010    &lt;/tr&gt;%%00010    &lt;/thead&gt;%%00010    &lt;tbody&gt;%%00010            &lt;tr class=&quot;pick&quot;&gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/like-an-everflowing-stream-mw0000179541&quot;%%00010                   title=&quot;Like an Everflowing Stream&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=XIdxkuv1f8aBAULTm45l44Af7E_1E-2MlBBPmPAXRBU=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Like an Everflowing Stream&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;1991-??-??-Like an Everflowing Stream&quot;&gt;%%00010                1991            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Like an Everflowing Stream&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/like-an-everflowing-stream-mw0000179541&quot; title=&quot;Like an Everflowing Stream&quot;&gt;Like an Everflowing Stream&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/like-an-everflowing-stream-mw0000179541&quot; title=&quot;Like an Everflowing Stream&quot;&gt;Like an Everflowing Stream&lt;/a&gt;                    &lt;/div&gt;%%00010                                            &lt;a href=&quot;/album/like-an-everflowing-stream-mw0000179541&quot;%%00010                           class=&quot;hasReviewLink&quot;%%00010                           title=&quot;Album Review&quot;&gt;%%00010                                    &lt;span class=&quot;hasReview&quot; aria-label=&quot;Read album review&quot;&gt;&lt;/span&gt;%%00010                                &lt;/a&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Nuclear+Blast&quot; title=&quot;Nuclear Blast&quot;&gt;Nuclear Blast&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;9&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic9&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;9-164&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage09&quot;%%00010                     data-avg-rating-id=&quot;MW0000179541&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/pieces-mw0000106176&quot;%%00010                   title=&quot;Pieces&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=vT5CMb9TSnqU1XBEdDZMSR_TZlp6n_cq-Emr2zx15tU=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Pieces&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;1992-??-??-Pieces&quot;&gt;%%00010                1992            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Pieces&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/pieces-mw0000106176&quot; title=&quot;Pieces&quot;&gt;Pieces&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/pieces-mw0000106176&quot; title=&quot;Pieces&quot;&gt;Pieces&lt;/a&gt;                    &lt;/div&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Nuclear+Blast&quot; title=&quot;Nuclear Blast&quot;&gt;Nuclear Blast&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;4&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic4&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;7-15&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage07&quot;%%00010                     data-avg-rating-id=&quot;MW0000106176&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/indecent-obscene-mw0000645476&quot;%%00010                   title=&quot;Indecent &amp;amp; Obscene&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=23zkj-hvU5OjHulyUOd92j6KsMttLlyBmmVTZ6_CLs0=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Indecent &amp;amp; Obscene&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;1993-09-07-Indecent &amp;amp; Obscene&quot;&gt;%%00010                1993            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Indecent &amp;amp; Obscene&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/indecent-obscene-mw0000645476&quot; title=&quot;Indecent &amp;amp; Obscene&quot;&gt;Indecent &amp;amp; Obscene&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/indecent-obscene-mw0000645476&quot; title=&quot;Indecent &amp;amp; Obscene&quot;&gt;Indecent &amp;amp; Obscene&lt;/a&gt;                    &lt;/div&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Nuclear+Blast&quot; title=&quot;Nuclear Blast&quot;&gt;Nuclear Blast&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;5&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic5&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;9-38&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage09&quot;%%00010                     data-avg-rating-id=&quot;MW0000645476&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/massive-killing-capacity-mw0000180769&quot;%%00010                   title=&quot;Massive Killing Capacity&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=0kx6zpgxyM2AB-1R3bCt-FWnbEN5fCjifro6xhIBuB4=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Massive Killing Capacity&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;1995-09-05-Massive Killing Capacity&quot;&gt;%%00010                1995            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Massive Killing Capacity&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/massive-killing-capacity-mw0000180769&quot; title=&quot;Massive Killing Capacity&quot;&gt;Massive Killing Capacity&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/massive-killing-capacity-mw0000180769&quot; title=&quot;Massive Killing Capacity&quot;&gt;Massive Killing Capacity&lt;/a&gt;                    &lt;/div&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Nuclear+Blast&quot; title=&quot;Nuclear Blast&quot;&gt;Nuclear Blast&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;7&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic7&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;8-39&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage08&quot;%%00010                     data-avg-rating-id=&quot;MW0000180769&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/death-metal-mw0000110918&quot;%%00010                   title=&quot;Death Metal&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=hdOqWEAB__Iww0SjW-Z7LQSijaXJlYnq0St31qpAJWo=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Death Metal&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;1997-08-26-Death Metal&quot;&gt;%%00010                1997            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Death Metal&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/death-metal-mw0000110918&quot; title=&quot;Death Metal&quot;&gt;Death Metal&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/death-metal-mw0000110918&quot; title=&quot;Death Metal&quot;&gt;Death Metal&lt;/a&gt;                    &lt;/div&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Nuclear+Blast&quot; title=&quot;Nuclear Blast&quot;&gt;Nuclear Blast&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic0&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;7-55&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage07&quot;%%00010                     data-avg-rating-id=&quot;MW0000110918&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/hate-campaign-mw0000055966&quot;%%00010                   title=&quot;Hate Campaign&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=QKXT5txrPDAaOvxGDdPP9z6KsMttLlyBmmVTZ6_CLs0=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Hate Campaign&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;2000-02-29-Hate Campaign&quot;&gt;%%00010                2000            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Hate Campaign&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/hate-campaign-mw0000055966&quot; title=&quot;Hate Campaign&quot;&gt;Hate Campaign&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/hate-campaign-mw0000055966&quot; title=&quot;Hate Campaign&quot;&gt;Hate Campaign&lt;/a&gt;                    &lt;/div&gt;%%00010                                            &lt;a href=&quot;/album/hate-campaign-mw0000055966&quot;%%00010                           class=&quot;hasReviewLink&quot;%%00010                           title=&quot;Album Review&quot;&gt;%%00010                                    &lt;span class=&quot;hasReview&quot; aria-label=&quot;Read album review&quot;&gt;&lt;/span&gt;%%00010                                &lt;/a&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Nuclear+Blast&quot; title=&quot;Nuclear Blast&quot;&gt;Nuclear Blast&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;5&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic5&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;7-22&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage07&quot;%%00010                     data-avg-rating-id=&quot;MW0000055966&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/where-ironcrosses-grow-mw0000696892&quot;%%00010                   title=&quot;Where Ironcrosses Grow&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=mQH7pq-Vo1wBK2w1xieLqB_TZlp6n_cq-Emr2zx15tU=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Where Ironcrosses Grow&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;2004-04-20-Where Ironcrosses Grow&quot;&gt;%%00010                2004            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Where Ironcrosses Grow&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/where-ironcrosses-grow-mw0000696892&quot; title=&quot;Where Ironcrosses Grow&quot;&gt;Where Ironcrosses Grow&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/where-ironcrosses-grow-mw0000696892&quot; title=&quot;Where Ironcrosses Grow&quot;&gt;Where Ironcrosses Grow&lt;/a&gt;                    &lt;/div&gt;%%00010                                            &lt;a href=&quot;/album/where-ironcrosses-grow-mw0000696892&quot;%%00010                           class=&quot;hasReviewLink&quot;%%00010                           title=&quot;Album Review&quot;&gt;%%00010                                    &lt;span class=&quot;hasReview&quot; aria-label=&quot;Read album review&quot;&gt;&lt;/span&gt;%%00010                                &lt;/a&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Candlelight+Records&quot; title=&quot;Candlelight Records&quot;&gt;Candlelight Records&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;5&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic5&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;7-23&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage07&quot;%%00010                     data-avg-rating-id=&quot;MW0000696892&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/the-god-that-never-was-mw0000351005&quot;%%00010                   title=&quot;The God That Never Was&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=LdFxsSmVIBg3g3gLgcI6Qg4Q1ghY8VaPylnm7PwcKNY=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;The God That Never Was&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;2006-03-07-The God That Never Was&quot;&gt;%%00010                2006            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;The God That Never Was&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/the-god-that-never-was-mw0000351005&quot; title=&quot;The God That Never Was&quot;&gt;The God That Never Was&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/the-god-that-never-was-mw0000351005&quot; title=&quot;The God That Never Was&quot;&gt;The God That Never Was&lt;/a&gt;                    &lt;/div&gt;%%00010                                            &lt;a href=&quot;/album/the-god-that-never-was-mw0000351005&quot;%%00010                           class=&quot;hasReviewLink&quot;%%00010                           title=&quot;Album Review&quot;&gt;%%00010                                    &lt;span class=&quot;hasReview&quot; aria-label=&quot;Read album review&quot;&gt;&lt;/span&gt;%%00010                                &lt;/a&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Candlelight+Records&quot; title=&quot;Candlelight Records&quot;&gt;Candlelight Records&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;6&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic6&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;8-23&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage08&quot;%%00010                     data-avg-rating-id=&quot;MW0000351005&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010            &lt;tr &gt;%%00010            &lt;td class=&quot;cover&quot;&gt;%%00010                                &lt;a href=&quot;/album/dismember-mw0000503123&quot;%%00010                   title=&quot;Dismember&quot;&gt;&lt;img data-src=&quot;https://rovimusic.rovicorp.com/image.jpg?c=jc2TETW1b_rKAoZpZOOEWd_M69_UI9rrJSVvWL2-yAg=&amp;f=2&quot; class=&quot;lazyload&quot;%%00010                                                                       alt=&quot;Dismember&quot;%%00010                                                                       onerror=&quot;this.src='https://fastly-gce.allmusic.com/images/no_image/album_100x100.png'&quot;&gt;&lt;/a&gt;%%00010            &lt;/td&gt;%%00010            &lt;td class=&quot;year&quot;%%00010                data-text=&quot;2008-04-01-Dismember&quot;&gt;%%00010                2008            &lt;/td&gt;%%00010            &lt;td class=&quot;meta&quot; data-text=&quot;Dismember&quot;&gt;%%00010                &lt;span class=&quot;title&quot;&gt;%%00010                                        &lt;div class=&quot;desktopOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/dismember-mw0000503123&quot; title=&quot;Dismember&quot;&gt;Dismember&lt;/a&gt;                    &lt;/div&gt;%%00010                    &lt;div class=&quot;mobileOnly&quot;&gt;%%00010                    &lt;a href=&quot;https://www.allmusic.com/album/dismember-mw0000503123&quot; title=&quot;Dismember&quot;&gt;Dismember&lt;/a&gt;                    &lt;/div&gt;%%00010                                            &lt;a href=&quot;/album/dismember-mw0000503123&quot;%%00010                           class=&quot;hasReviewLink&quot;%%00010                           title=&quot;Album Review&quot;&gt;%%00010                                    &lt;span class=&quot;hasReview&quot; aria-label=&quot;Read album review&quot;&gt;&lt;/span&gt;%%00010                                &lt;/a&gt;%%00010                                    &lt;/span&gt;%%00010                                    &lt;span class=&quot;label&quot;&gt;%%00010                                &lt;a href=&quot;//www.allmusic.com/search/labels/Regain+Records&quot; title=&quot;Regain Records&quot;&gt;Regain Records&lt;/a&gt;                            &lt;/span&gt;%%00010                            &lt;/td&gt;%%00010            &lt;td class=&quot;musicRating&quot; data-text=&quot;5&quot;&gt;%%00010                &lt;div class=&quot;allmusicRating ratingAllmusic5&quot; title=&quot;AllMusic Rating&quot;&gt;&lt;/div&gt;%%00010            &lt;/td&gt;%%00010                        &lt;td class=&quot;avgRating&quot;%%00010                data-text=&quot;8-10&quot;&gt;%%00010                &lt;div class=&quot;averageUserRating ratingAverage08&quot;%%00010                     data-avg-rating-id=&quot;MW0000503123&quot; title=&quot;Average User Rating&quot;&gt;&lt;/div&gt;%%00010                &lt;span class=&quot;count&quot;&gt;(&lt;span class=&quot;averageRatingCount&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;%%00010            &lt;/td&gt;%%00010        &lt;/tr&gt;%%00010        &lt;/tbody&gt;%%00010&lt;/table&gt;%%00010        &lt;/div&gt;%%00010        &lt;div id=&quot;albumPickMsg&quot;&gt;%%00010            &lt;a href=&quot;/faq/topic/albumtrackpicks&quot; title=&quot;About album picks&quot;&gt;blue highlight denotes album pick&lt;/a&gt;%%00010        &lt;/div&gt;%%00010    &lt;/div&gt;%%00010"/>
                     </config>
                 </config>
             </config>

@@ -12,7 +12,7 @@
         <entry key="newColName" type="xstring" value="indexArtistUri"/>
         <entry key="pattern" type="xstring" value="(.+)"/>
         <entry key="replaceAllOccurences" type="xboolean" value="false"/>
-        <entry key="replacement" type="xstring" value="http://localhost:9200/artist/_doc/$1"/>
+        <entry key="replacement" type="xstring" value="http://togodo:9200/artist/_doc/$1"/>
         <entry key="enableEscaping" type="xboolean" value="false"/>
         <entry key="findPattern" type="xboolean" value="true"/>
         <entry key="patternIsRegex" type="xboolean" value="true"/>
@@ -53,12 +53,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 31"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1, Cols: 33"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="7da30f30-7b2a-4e65-880a-f316608f32a8"/>
+        <entry key="file_store_id" type="xstring" value="277eb1b4-794d-4b86-b82d-677d3bae3d8e"/>
     </config>
 </config>

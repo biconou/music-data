@@ -1,0 +1,155 @@
+{
+  "id" : "dismember-mn0000171969",
+  "name" : "Dismember",
+  "activeDates" : "1990s",
+  "birthDate" : "1988",
+  "birthPlace" : "",
+  "styles" : [ {
+    "name" : "Death Metal",
+    "url" : "https://www.allmusic.com/style/death-metal-ma0000002547"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  }, {
+    "name" : "Scandinavian Metal",
+    "url" : "https://www.allmusic.com/style/scandinavian-metal-ma0000012324"
+  } ],
+  "decades" : "1990s",
+  "genres" : "Pop/Rock",
+  "discography" : [ {
+    "albumYear" : "1991",
+    "albumTitle" : "Like an Everflowing Stream",
+    "musicRating" : "9",
+    "avgRating" : "9-164"
+  }, {
+    "albumYear" : "1992",
+    "albumTitle" : "Pieces",
+    "musicRating" : "4",
+    "avgRating" : "7-15"
+  }, {
+    "albumYear" : "1993",
+    "albumTitle" : "Indecent & Obscene",
+    "musicRating" : "5",
+    "avgRating" : "9-38"
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "Massive Killing Capacity",
+    "musicRating" : "7",
+    "avgRating" : "8-39"
+  }, {
+    "albumYear" : "1997",
+    "albumTitle" : "Death Metal",
+    "musicRating" : "",
+    "avgRating" : "7-55"
+  }, {
+    "albumYear" : "2000",
+    "albumTitle" : "Hate Campaign",
+    "musicRating" : "5",
+    "avgRating" : "7-22"
+  }, {
+    "albumYear" : "2004",
+    "albumTitle" : "Where Ironcrosses Grow",
+    "musicRating" : "5",
+    "avgRating" : "7-23"
+  }, {
+    "albumYear" : "2006",
+    "albumTitle" : "The God That Never Was",
+    "musicRating" : "6",
+    "avgRating" : "8-23"
+  }, {
+    "albumYear" : "2008",
+    "albumTitle" : "Dismember",
+    "musicRating" : "5",
+    "avgRating" : "8-10"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Benediction",
+      "ArtistId" : "benediction-mn0000149315"
+    }, {
+      "artist" : "Cathedral",
+      "ArtistId" : "cathedral-mn0000179809"
+    }, {
+      "artist" : "Hypocrisy",
+      "ArtistId" : "hypocrisy-mn0000273895"
+    }, {
+      "artist" : "Incubus",
+      "ArtistId" : "incubus-mn0000772745"
+    }, {
+      "artist" : "Revenant",
+      "ArtistId" : "revenant-mn0001629954"
+    }, {
+      "artist" : "Amorphis",
+      "ArtistId" : "amorphis-mn0000022590"
+    }, {
+      "artist" : "Crisis",
+      "ArtistId" : "crisis-mn0000134345"
+    }, {
+      "artist" : "Darkthrone",
+      "ArtistId" : "darkthrone-mn0000678769"
+    }, {
+      "artist" : "Grave",
+      "ArtistId" : "grave-mn0000739801"
+    }, {
+      "artist" : "Hatebreed",
+      "ArtistId" : "hatebreed-mn0000561105"
+    }, {
+      "artist" : "Meshuggah",
+      "ArtistId" : "meshuggah-mn0000453041"
+    }, {
+      "artist" : "Nuclear Death",
+      "ArtistId" : "nuclear-death-mn0001593724"
+    }, {
+      "artist" : "Omen",
+      "ArtistId" : "omen-mn0000467041"
+    }, {
+      "artist" : "Only Living Witness",
+      "ArtistId" : "only-living-witness-mn0000470416"
+    }, {
+      "artist" : "Paradise Lost",
+      "ArtistId" : "paradise-lost-mn0000018691"
+    }, {
+      "artist" : "Asinhell",
+      "ArtistId" : "asinhell-mn0004468311"
+    }, {
+      "artist" : "Obituary",
+      "ArtistId" : "obituary-mn0000465562"
+    } ],
+    "influencers" : [ {
+      "artist" : "Bathory",
+      "ArtistId" : "bathory-mn0000151787"
+    }, {
+      "artist" : "Celtic Frost",
+      "ArtistId" : "celtic-frost-mn0000191063"
+    }, {
+      "artist" : "Candlemass",
+      "ArtistId" : "candlemass-mn0000648407"
+    }, {
+      "artist" : "Rotting Christ",
+      "ArtistId" : "rotting-christ-mn0000851665"
+    }, {
+      "artist" : "Sodom",
+      "ArtistId" : "sodom-mn0000031324"
+    } ],
+    "followers" : [ {
+      "artist" : "Carnal Savagery",
+      "ArtistId" : "carnal-savagery-mn0004038220"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Carnage",
+      "ArtistId" : "carnage-mn0000151769"
+    }, {
+      "artist" : "Entombed",
+      "ArtistId" : "entombed-mn0000741177"
+    }, {
+      "artist" : "Carbonized",
+      "ArtistId" : "carbonized-mn0001616453"
+    }, {
+      "artist" : "Mercyful Fate",
+      "ArtistId" : "mercyful-fate-mn0000343954"
+    }, {
+      "artist" : "Unleashed",
+      "ArtistId" : "unleashed-mn0000222869"
+    } ]
+  }
+}
