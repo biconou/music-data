@@ -12,7 +12,7 @@
             <entry key="include" type="xboolean" value="true"/>
             <entry key="deepFiltering" type="xboolean" value="false"/>
             <entry key="CaseSensitive" type="xboolean" value="true"/>
-            <entry key="Pattern" type="xstring" value="arcade-fire-mn0000185591"/>
+            <entry key="Pattern" type="xstring" value="dismember-mn0000171969"/>
             <entry key="hasWildCards" type="xboolean" value="false"/>
             <entry key="isRegExpr" type="xboolean" value="false"/>
         </config>
@@ -59,6 +59,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="83a600d2-e795-4239-a3bd-451ca60a3139"/>
+        <entry key="file_store_id" type="xstring" value="bc6efd33-3af7-4366-b36b-d95a6657bdc9"/>
     </config>
 </config>
