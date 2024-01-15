@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "styles",
+  "info": {
+    "singularName": "style",
+    "pluralName": "styles",
+    "displayName": "style"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "allmusic_url": {
+      "type": "string"
+    },
+    "allmusic_type": {
+      "type": "enumeration",
+      "enum": [
+        "genre",
+        "subgenre",
+        "style"
+      ]
+    }
+  }
+}
