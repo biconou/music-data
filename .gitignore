@@ -2,3 +2,4 @@ __pycache__
 .metadata
 .metadata-windows-save
 .pytest_cache
+data/work
