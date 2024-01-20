@@ -14,13 +14,13 @@
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
                 <entry key="array-size" type="xint" value="2"/>
-                <entry key="0" type="xstring" value="subgenre-name"/>
+                <entry key="0" type="xstring" value="subgenre-name (#1)"/>
                 <entry key="1" type="xstring" value="subgenre-url"/>
             </config>
             <config key="excluded_names">
                 <entry key="array-size" type="xint" value="0"/>
             </config>
-            <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
+            <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
             <config key="name_pattern">
                 <entry key="pattern" type="xstring" value=""/>
                 <entry key="type" type="xstring" value="Wildcard"/>
@@ -105,6 +105,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="4ff45ff9-dfe6-44de-a09e-a365c8e5429d"/>
+        <entry key="file_store_id" type="xstring" value="0237b613-0e15-4cda-9679-5bd0d051d95e"/>
     </config>
 </config>

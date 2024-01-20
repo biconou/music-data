@@ -27,7 +27,7 @@
                     <entry key="location_present" type="xboolean" value="true"/>
                     <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
                     <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-                    <entry key="path" type="xstring" value="/data/styles.csv"/>
+                    <entry key="path" type="xstring" value="/data/artists-styles.csv"/>
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -89,6 +89,6 @@
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="5189880f-8862-4407-b1bf-aeb4d95f679f"/>
+        <entry key="file_store_id" type="xstring" value="8840694c-7938-45d1-a492-e7a48ef6a89c"/>
     </config>
 </config>

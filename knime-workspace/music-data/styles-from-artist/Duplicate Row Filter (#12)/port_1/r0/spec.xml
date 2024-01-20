@@ -44,7 +44,7 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.LongCell"/>
                 <config key="org.knime.core.data.def.LongCell">
-                    <entry key="LongCell" type="xlong" value="-9223372036854775594"/>
+                    <entry key="LongCell" type="xlong" value="-9223372036854775591"/>
                 </config>
             </config>
         </config>

@@ -7,6 +7,14 @@
     </config>
     <config key="model">
         <config key="settings">
+            <entry key="read_mode_Internals" type="xstring" value="LEGACY"/>
+            <entry key="column_name" type="xstring" value="neo4j-template"/>
+            <entry key="use_path" type="xboolean" value="true"/>
+            <entry key="json_path" type="xstring" value="$"/>
+            <entry key="fail_if_not_found" type="xboolean" value="false"/>
+            <entry key="allow_comments" type="xboolean" value="false"/>
+            <entry key="append_path_column_Internals" type="xboolean" value="false"/>
+            <entry key="path_column_name_Internals" type="xstring" value="Path"/>
             <config key="file_selection_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_ReaderFileChooser"/>
                 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -55,14 +63,6 @@
                     </config>
                 </config>
             </config>
-            <entry key="read_mode_Internals" type="xstring" value="LEGACY"/>
-            <entry key="column_name" type="xstring" value="neo4j-template"/>
-            <entry key="use_path" type="xboolean" value="true"/>
-            <entry key="json_path" type="xstring" value="$"/>
-            <entry key="fail_if_not_found" type="xboolean" value="false"/>
-            <entry key="allow_comments" type="xboolean" value="false"/>
-            <entry key="append_path_column_Internals" type="xboolean" value="false"/>
-            <entry key="path_column_name_Internals" type="xstring" value="Path"/>
         </config>
         <config key="limit_rows">
             <entry key="skip_data_rows" type="xboolean" value="false"/>
@@ -102,6 +102,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="0c272443-ea61-4bda-9fa3-5bfc0eada5e5"/>
+        <entry key="file_store_id" type="xstring" value="8d11f14e-dcb9-44b1-b9e1-6b7041f257e9"/>
     </config>
 </config>

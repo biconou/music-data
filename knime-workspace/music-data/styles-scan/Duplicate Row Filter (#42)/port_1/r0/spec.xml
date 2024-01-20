@@ -22,55 +22,55 @@
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Punk/New Wave"/>
+                        <entry key="StringCell" type="xstring" value="Jazz Instrument"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Heavy Metal"/>
+                        <entry key="StringCell" type="xstring" value="Punk/New Wave"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Techno"/>
+                        <entry key="StringCell" type="xstring" value="Heavy Metal"/>
                     </config>
                 </config>
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Soul"/>
+                        <entry key="StringCell" type="xstring" value="Techno"/>
                     </config>
                 </config>
                 <config key="5">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Cuban Traditions"/>
+                        <entry key="StringCell" type="xstring" value="Soul"/>
                     </config>
                 </config>
                 <config key="6">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Western European Traditions"/>
+                        <entry key="StringCell" type="xstring" value="Cuban Traditions"/>
                     </config>
                 </config>
                 <config key="7">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Jungle/Drum'n'Bass"/>
+                        <entry key="StringCell" type="xstring" value="Western European Traditions"/>
                     </config>
                 </config>
                 <config key="8">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Experimental Electronic"/>
+                        <entry key="StringCell" type="xstring" value="Jungle/Drum'n'Bass"/>
                     </config>
                 </config>
                 <config key="9">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Jazz Instrument"/>
+                        <entry key="StringCell" type="xstring" value="Experimental Electronic"/>
                     </config>
                 </config>
                 <config key="10">
@@ -116,55 +116,55 @@
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/subgenre/punk-new-wave-ma0000011872"/>
+                        <entry key="StringCell" type="xstring" value="/subgenre/jazz-instrument-ma0000002947"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/subgenre/heavy-metal-ma0000002721"/>
+                        <entry key="StringCell" type="xstring" value="/subgenre/punk-new-wave-ma0000011872"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/subgenre/techno-ma0000002893"/>
+                        <entry key="StringCell" type="xstring" value="/subgenre/heavy-metal-ma0000002721"/>
                     </config>
                 </config>
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/subgenre/soul-ma0000002865"/>
+                        <entry key="StringCell" type="xstring" value="/subgenre/techno-ma0000002893"/>
                     </config>
                 </config>
                 <config key="5">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/subgenre/cuban-traditions-ma0000002540"/>
+                        <entry key="StringCell" type="xstring" value="/subgenre/soul-ma0000002865"/>
                     </config>
                 </config>
                 <config key="6">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/subgenre/western-european-traditions-ma0000004467"/>
+                        <entry key="StringCell" type="xstring" value="/subgenre/cuban-traditions-ma0000002540"/>
                     </config>
                 </config>
                 <config key="7">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/subgenre/jungle-drumnbass-ma0000002557"/>
+                        <entry key="StringCell" type="xstring" value="/subgenre/western-european-traditions-ma0000004467"/>
                     </config>
                 </config>
                 <config key="8">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/subgenre/experimental-electronic-ma0000012210"/>
+                        <entry key="StringCell" type="xstring" value="/subgenre/jungle-drumnbass-ma0000002557"/>
                     </config>
                 </config>
                 <config key="9">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="/subgenre/jazz-instrument-ma0000002947"/>
+                        <entry key="StringCell" type="xstring" value="/subgenre/experimental-electronic-ma0000012210"/>
                     </config>
                 </config>
                 <config key="10">
