@@ -23,57 +23,57 @@
     "albumYear" : "1984",
     "albumTitle" : "From Her to Eternity",
     "musicRating" : "8",
-    "avgRating" : "9-978"
+    "avgRating" : "9-981"
   }, {
     "albumYear" : "1985",
     "albumTitle" : "The Firstborn Is Dead",
     "musicRating" : "7",
-    "avgRating" : "9-868"
+    "avgRating" : "9-870"
   }, {
     "albumYear" : "1986",
     "albumTitle" : "Kicking Against the Pricks",
     "musicRating" : "7",
-    "avgRating" : "9-845"
+    "avgRating" : "9-847"
   }, {
     "albumYear" : "1986",
     "albumTitle" : "Your Funeral... My Trial",
     "musicRating" : "8",
-    "avgRating" : "9-1010"
+    "avgRating" : "9-1013"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Tender Prey",
     "musicRating" : "8",
-    "avgRating" : "9-1100"
+    "avgRating" : "9-1104"
   }, {
     "albumYear" : "1990",
     "albumTitle" : "The Good Son",
     "musicRating" : "7",
-    "avgRating" : "9-912"
+    "avgRating" : "9-914"
   }, {
     "albumYear" : "1992",
     "albumTitle" : "Henry's Dream",
     "musicRating" : "6",
-    "avgRating" : "9-854"
+    "avgRating" : "9-857"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "Live Seeds",
     "musicRating" : "7",
-    "avgRating" : "9-250"
+    "avgRating" : "9-252"
   }, {
     "albumYear" : "1994",
     "albumTitle" : "Let Love In",
     "musicRating" : "9",
-    "avgRating" : "9-2247"
+    "avgRating" : "9-2253"
   }, {
     "albumYear" : "1996",
     "albumTitle" : "Murder Ballads",
     "musicRating" : "7",
-    "avgRating" : "9-1195"
+    "avgRating" : "9-1201"
   }, {
     "albumYear" : "1997",
     "albumTitle" : "The Boatman's Call",
     "musicRating" : "8",
-    "avgRating" : "9-1466"
+    "avgRating" : "9-1471"
   }, {
     "albumYear" : "1998",
     "albumTitle" : "Live at the Royal Albert Hall",
@@ -83,47 +83,47 @@
     "albumYear" : "2001",
     "albumTitle" : "No More Shall We Part",
     "musicRating" : "8",
-    "avgRating" : "9-1169"
+    "avgRating" : "9-1176"
   }, {
     "albumYear" : "2003",
     "albumTitle" : "Nocturama",
     "musicRating" : "4",
-    "avgRating" : "8-824"
+    "avgRating" : "8-828"
   }, {
     "albumYear" : "2004",
     "albumTitle" : "Abattoir Blues/The Lyre of Orpheus",
     "musicRating" : "8",
-    "avgRating" : "9-1325"
+    "avgRating" : "9-1334"
   }, {
     "albumYear" : "2007",
     "albumTitle" : "The Abattoir Blues Tour",
     "musicRating" : "6",
-    "avgRating" : "8-179"
+    "avgRating" : "8-180"
   }, {
     "albumYear" : "2008",
     "albumTitle" : "Dig, Lazarus, Dig!!!",
     "musicRating" : "8",
-    "avgRating" : "9-1498"
+    "avgRating" : "9-1504"
   }, {
     "albumYear" : "2013",
     "albumTitle" : "Push the Sky Away",
     "musicRating" : "6",
-    "avgRating" : "9-1349"
+    "avgRating" : "9-1351"
   }, {
     "albumYear" : "2016",
     "albumTitle" : "Skeleton Tree",
     "musicRating" : "9",
-    "avgRating" : "10-1469"
+    "avgRating" : "10-1475"
   }, {
     "albumYear" : "2019",
     "albumTitle" : "Ghosteen",
     "musicRating" : "8",
-    "avgRating" : "9-1217"
+    "avgRating" : "9-1226"
   }, {
     "albumYear" : "2020",
     "albumTitle" : "Idiot Prayer: Nick Cave Alone at Alexandra Palace",
     "musicRating" : "",
-    "avgRating" : "8-101"
+    "avgRating" : "8-102"
   } ],
   "related" : {
     "similars" : [ {
@@ -163,7 +163,22 @@
       "artist" : "The Gun Club",
       "ArtistId" : "the-gun-club-mn0000091438"
     } ],
-    "influencers" : [ ],
+    "influencers" : [ {
+      "artist" : "Nico",
+      "ArtistId" : "nico-mn0000868306"
+    }, {
+      "artist" : "Scott Walker",
+      "ArtistId" : "scott-walker-mn0000253142"
+    }, {
+      "artist" : "Suicide",
+      "ArtistId" : "suicide-mn0000487186"
+    }, {
+      "artist" : "The Stooges",
+      "ArtistId" : "the-stooges-mn0000562304"
+    }, {
+      "artist" : "The Velvet Underground",
+      "ArtistId" : "the-velvet-underground-mn0000840402"
+    } ],
     "followers" : [ {
       "artist" : "Cage the Elephant",
       "ArtistId" : "cage-the-elephant-mn0001061166"

@@ -29,27 +29,27 @@
     "albumYear" : "1973",
     "albumTitle" : "Aerosmith",
     "musicRating" : "6",
-    "avgRating" : "8-1628"
+    "avgRating" : "8-1637"
   }, {
     "albumYear" : "1974",
     "albumTitle" : "Get Your Wings",
     "musicRating" : "8",
-    "avgRating" : "9-1301"
+    "avgRating" : "9-1306"
   }, {
     "albumYear" : "1975",
     "albumTitle" : "Toys in the Attic",
     "musicRating" : "9",
-    "avgRating" : "9-2597"
+    "avgRating" : "9-2612"
   }, {
     "albumYear" : "1976",
     "albumTitle" : "Rocks",
     "musicRating" : "9",
-    "avgRating" : "9-1931"
+    "avgRating" : "9-1950"
   }, {
     "albumYear" : "1977",
     "albumTitle" : "Draw the Line",
     "musicRating" : "6",
-    "avgRating" : "8-1033"
+    "avgRating" : "8-1035"
   }, {
     "albumYear" : "1978",
     "albumTitle" : "Live Bootleg",
@@ -64,32 +64,32 @@
     "albumYear" : "1982",
     "albumTitle" : "Rock in a Hard Place",
     "musicRating" : "2",
-    "avgRating" : "6-456"
+    "avgRating" : "6-457"
   }, {
     "albumYear" : "1985",
     "albumTitle" : "Done with Mirrors",
     "musicRating" : "7",
-    "avgRating" : "7-1081"
+    "avgRating" : "7-1082"
   }, {
     "albumYear" : "1987",
     "albumTitle" : "Permanent Vacation",
     "musicRating" : "7",
-    "avgRating" : "8-1193"
+    "avgRating" : "8-1194"
   }, {
     "albumYear" : "1989",
     "albumTitle" : "Pump",
     "musicRating" : "8",
-    "avgRating" : "8-1489"
+    "avgRating" : "8-1492"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "Get a Grip",
     "musicRating" : "4",
-    "avgRating" : "8-1256"
+    "avgRating" : "8-1258"
   }, {
     "albumYear" : "1997",
     "albumTitle" : "Nine Lives",
     "musicRating" : "4",
-    "avgRating" : "7-825"
+    "avgRating" : "7-826"
   }, {
     "albumYear" : "2001",
     "albumTitle" : "Just Push Play",
@@ -99,7 +99,7 @@
     "albumYear" : "2004",
     "albumTitle" : "Honkin' on Bobo",
     "musicRating" : "6",
-    "avgRating" : "7-776"
+    "avgRating" : "7-779"
   }, {
     "albumYear" : "2005",
     "albumTitle" : "Rockin' the Joint",
@@ -109,12 +109,12 @@
     "albumYear" : "2012",
     "albumTitle" : "Music from Another Dimension!",
     "musicRating" : "5",
-    "avgRating" : "6-681"
+    "avgRating" : "6-684"
   }, {
     "albumYear" : "2015",
     "albumTitle" : "Rocks Donington 2014",
     "musicRating" : "",
-    "avgRating" : "5-30"
+    "avgRating" : "5-31"
   } ],
   "related" : {
     "similars" : [ {

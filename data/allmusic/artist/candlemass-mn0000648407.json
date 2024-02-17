@@ -20,22 +20,22 @@
     "albumYear" : "1986",
     "albumTitle" : "Epicus Doomicus Metallicus",
     "musicRating" : "8",
-    "avgRating" : "10-446"
+    "avgRating" : "10-449"
   }, {
     "albumYear" : "1987",
     "albumTitle" : "Nightfall",
     "musicRating" : "8",
-    "avgRating" : "10-446"
+    "avgRating" : "10-449"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Ancient Dreams",
     "musicRating" : "5",
-    "avgRating" : "8-254"
+    "avgRating" : "9-304"
   }, {
     "albumYear" : "1989",
     "albumTitle" : "Tales of Creation",
     "musicRating" : "4",
-    "avgRating" : "10-310"
+    "avgRating" : "10-312"
   }, {
     "albumYear" : "1991",
     "albumTitle" : "Live",
@@ -45,7 +45,7 @@
     "albumYear" : "1995",
     "albumTitle" : "Chapter VI",
     "musicRating" : "3",
-    "avgRating" : "4-86"
+    "avgRating" : "4-93"
   }, {
     "albumYear" : "1998",
     "albumTitle" : "Dactylis Glomerata",
@@ -60,7 +60,7 @@
     "albumYear" : "2003",
     "albumTitle" : "Doomed for Live: Reunion 2002",
     "musicRating" : "",
-    "avgRating" : "10-23"
+    "avgRating" : "10-26"
   }, {
     "albumYear" : "2003",
     "albumTitle" : "Diamonds of Doom",
@@ -70,7 +70,7 @@
     "albumYear" : "2006",
     "albumTitle" : "Candlemass",
     "musicRating" : "7",
-    "avgRating" : "7-150"
+    "avgRating" : "7-152"
   }, {
     "albumYear" : "2007",
     "albumTitle" : "The King of the Grey Islands",
@@ -100,12 +100,12 @@
     "albumYear" : "2012",
     "albumTitle" : "Psalms for the Dead",
     "musicRating" : "5",
-    "avgRating" : "8-165"
+    "avgRating" : "8-166"
   }, {
     "albumYear" : "2019",
     "albumTitle" : "The Door to Doom",
     "musicRating" : "",
-    "avgRating" : "8-194"
+    "avgRating" : "8-198"
   }, {
     "albumYear" : "2022",
     "albumTitle" : "Don't Fear the Reaper",
@@ -115,7 +115,7 @@
     "albumYear" : "2022",
     "albumTitle" : "Sweet Evil Sun",
     "musicRating" : "",
-    "avgRating" : "6-33"
+    "avgRating" : "6-34"
   }, {
     "albumYear" : "",
     "albumTitle" : "No Sleep Till Athens: Live",

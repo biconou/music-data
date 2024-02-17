@@ -20,22 +20,22 @@
     "albumYear" : "1980",
     "albumTitle" : "Iron Maiden",
     "musicRating" : "8",
-    "avgRating" : "9-2313"
+    "avgRating" : "9-2325"
   }, {
     "albumYear" : "1981",
     "albumTitle" : "Killers",
     "musicRating" : "7",
-    "avgRating" : "9-1919"
+    "avgRating" : "9-1929"
   }, {
     "albumYear" : "1982",
     "albumTitle" : "The Number of the Beast",
     "musicRating" : "9",
-    "avgRating" : "10-3093"
+    "avgRating" : "10-3106"
   }, {
     "albumYear" : "1983",
     "albumTitle" : "Piece of Mind",
     "musicRating" : "8",
-    "avgRating" : "9-2259"
+    "avgRating" : "9-2269"
   }, {
     "albumYear" : "1983",
     "albumTitle" : "Brain Damage Tour of Europe",
@@ -45,82 +45,82 @@
     "albumYear" : "1984",
     "albumTitle" : "Powerslave",
     "musicRating" : "8",
-    "avgRating" : "10-2551"
+    "avgRating" : "10-2566"
   }, {
     "albumYear" : "1985",
     "albumTitle" : "Live After Death",
     "musicRating" : "8",
-    "avgRating" : "10-1133"
+    "avgRating" : "10-1137"
   }, {
     "albumYear" : "1986",
     "albumTitle" : "Somewhere in Time",
     "musicRating" : "6",
-    "avgRating" : "9-2104"
+    "avgRating" : "9-2114"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Seventh Son of a Seventh Son",
     "musicRating" : "8",
-    "avgRating" : "9-2257"
+    "avgRating" : "9-2266"
   }, {
     "albumYear" : "1990",
     "albumTitle" : "No Prayer for the Dying",
     "musicRating" : "3",
-    "avgRating" : "6-1214"
+    "avgRating" : "6-1218"
   }, {
     "albumYear" : "1992",
     "albumTitle" : "Fear of the Dark",
     "musicRating" : "3",
-    "avgRating" : "7-1494"
+    "avgRating" : "7-1499"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "A Real Live One",
     "musicRating" : "7",
-    "avgRating" : "8-311"
+    "avgRating" : "8-313"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "A Real Dead One",
     "musicRating" : "3",
-    "avgRating" : "7-250"
+    "avgRating" : "7-251"
   }, {
     "albumYear" : "1994",
     "albumTitle" : "Live at Donington 1992",
     "musicRating" : "5",
-    "avgRating" : "8-240"
+    "avgRating" : "8-241"
   }, {
     "albumYear" : "1995",
     "albumTitle" : "The X Factor",
     "musicRating" : "3",
-    "avgRating" : "6-938"
+    "avgRating" : "6-944"
   }, {
     "albumYear" : "1998",
     "albumTitle" : "Virtual XI",
     "musicRating" : "3",
-    "avgRating" : "5-882"
+    "avgRating" : "5-886"
   }, {
     "albumYear" : "2000",
     "albumTitle" : "Brave New World",
     "musicRating" : "6",
-    "avgRating" : "9-1563"
+    "avgRating" : "9-1569"
   }, {
     "albumYear" : "2002",
     "albumTitle" : "Rock in Rio",
     "musicRating" : "3",
-    "avgRating" : "9-378"
+    "avgRating" : "9-379"
   }, {
     "albumYear" : "2003",
     "albumTitle" : "Dance of Death",
     "musicRating" : "7",
-    "avgRating" : "8-1304"
+    "avgRating" : "8-1313"
   }, {
     "albumYear" : "2005",
     "albumTitle" : "Death on the Road",
     "musicRating" : "5",
-    "avgRating" : "8-316"
+    "avgRating" : "8-318"
   }, {
     "albumYear" : "2006",
     "albumTitle" : "A Matter of Life and Death",
     "musicRating" : "6",
-    "avgRating" : "8-1184"
+    "avgRating" : "8-1190"
   }, {
     "albumYear" : "2009",
     "albumTitle" : "Flight 666 [Original Soundtrack]",
@@ -130,27 +130,27 @@
     "albumYear" : "2010",
     "albumTitle" : "The Final Frontier",
     "musicRating" : "6",
-    "avgRating" : "8-1284"
+    "avgRating" : "8-1291"
   }, {
     "albumYear" : "2015",
     "albumTitle" : "The Book of Souls",
     "musicRating" : "7",
-    "avgRating" : "9-1479"
+    "avgRating" : "9-1486"
   }, {
     "albumYear" : "2017",
     "albumTitle" : "The Book of Souls: Live Chapter",
     "musicRating" : "6",
-    "avgRating" : "8-155"
+    "avgRating" : "8-156"
   }, {
     "albumYear" : "2020",
     "albumTitle" : "Nights of the Dead, Legacy of the Beast: Live in Mexico City",
     "musicRating" : "",
-    "avgRating" : "8-59"
+    "avgRating" : "8-60"
   }, {
     "albumYear" : "2021",
     "albumTitle" : "Senjutsu",
     "musicRating" : "7",
-    "avgRating" : "7-550"
+    "avgRating" : "7-556"
   } ],
   "related" : {
     "similars" : [ {

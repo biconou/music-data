@@ -26,17 +26,17 @@
     "albumYear" : "2000",
     "albumTitle" : "Mer de Noms",
     "musicRating" : "7",
-    "avgRating" : "9-1136"
+    "avgRating" : "9-1142"
   }, {
     "albumYear" : "2003",
     "albumTitle" : "Thirteenth Step",
     "musicRating" : "7",
-    "avgRating" : "9-1077"
+    "avgRating" : "9-1080"
   }, {
     "albumYear" : "2004",
     "albumTitle" : "eMOTIVe",
     "musicRating" : "3",
-    "avgRating" : "7-372"
+    "avgRating" : "7-373"
   }, {
     "albumYear" : "2013",
     "albumTitle" : "Stone & Echo: Recorded Live at Red Rocks Amphitheatre",
@@ -46,7 +46,7 @@
     "albumYear" : "2018",
     "albumTitle" : "Eat the Elephant",
     "musicRating" : "7",
-    "avgRating" : "7-498"
+    "avgRating" : "7-499"
   } ],
   "related" : {
     "similars" : [ {

@@ -20,17 +20,17 @@
     "albumYear" : "2015",
     "albumTitle" : "Non Stop Feeling",
     "musicRating" : "",
-    "avgRating" : "8-49"
+    "avgRating" : "8-51"
   }, {
     "albumYear" : "2018",
     "albumTitle" : "Time & Space",
     "musicRating" : "",
-    "avgRating" : "9-63"
+    "avgRating" : "9-66"
   }, {
     "albumYear" : "2021",
     "albumTitle" : "Glow On",
     "musicRating" : "8",
-    "avgRating" : "9-146"
+    "avgRating" : "9-148"
   } ],
   "related" : {
     "similars" : [ {
@@ -84,6 +84,9 @@
     }, {
       "artist" : "High Vis",
       "ArtistId" : "high-vis-mn0004247757"
+    }, {
+      "artist" : "Pinkshift",
+      "ArtistId" : "pinkshift-mn0004267924"
     }, {
       "artist" : "Proper.",
       "ArtistId" : "proper-mn0003864650"

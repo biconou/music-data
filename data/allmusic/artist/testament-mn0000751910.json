@@ -1,0 +1,443 @@
+{
+  "id" : "testament-mn0000751910",
+  "name" : "Testament",
+  "activeDates" : "1980s - 2020s",
+  "birthDate" : "1983",
+  "birthPlace" : "Berkeley, CA",
+  "styles" : [ {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  }, {
+    "name" : "Hard Rock",
+    "url" : "https://www.allmusic.com/style/hard-rock-ma0000002636"
+  }, {
+    "name" : "Speed/Thrash Metal",
+    "url" : "https://www.allmusic.com/style/speed-thrash-metal-ma0000002874"
+  } ],
+  "decades" : "1980s - 2020s",
+  "genres" : "Pop/Rock",
+  "discography" : [ {
+    "albumYear" : "1987",
+    "albumTitle" : "The Legacy",
+    "musicRating" : "8",
+    "avgRating" : "8-595"
+  }, {
+    "albumYear" : "1988",
+    "albumTitle" : "The New Order",
+    "musicRating" : "8",
+    "avgRating" : "9-520"
+  }, {
+    "albumYear" : "1989",
+    "albumTitle" : "Practice What You Preach",
+    "musicRating" : "5",
+    "avgRating" : "8-458"
+  }, {
+    "albumYear" : "1990",
+    "albumTitle" : "Souls of Black",
+    "musicRating" : "4",
+    "avgRating" : "5-412"
+  }, {
+    "albumYear" : "1992",
+    "albumTitle" : "The Ritual",
+    "musicRating" : "6",
+    "avgRating" : "9-550"
+  }, {
+    "albumYear" : "1993",
+    "albumTitle" : "Return to the Apocalyptic City",
+    "musicRating" : "3",
+    "avgRating" : "6-53"
+  }, {
+    "albumYear" : "1994",
+    "albumTitle" : "Low",
+    "musicRating" : "7",
+    "avgRating" : "8-436"
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "Live at the Fillmore",
+    "musicRating" : "5",
+    "avgRating" : "9-190"
+  }, {
+    "albumYear" : "1997",
+    "albumTitle" : "Demonic",
+    "musicRating" : "5",
+    "avgRating" : "6-212"
+  }, {
+    "albumYear" : "1999",
+    "albumTitle" : "The Gathering",
+    "musicRating" : "8",
+    "avgRating" : "10-647"
+  }, {
+    "albumYear" : "2001",
+    "albumTitle" : "First Strike Still Deadly",
+    "musicRating" : "1",
+    "avgRating" : "9-235"
+  }, {
+    "albumYear" : "2005",
+    "albumTitle" : "Live in London",
+    "musicRating" : "6",
+    "avgRating" : "8-48"
+  }, {
+    "albumYear" : "2008",
+    "albumTitle" : "The Formation of Damnation",
+    "musicRating" : "6",
+    "avgRating" : "8-450"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "Dark Roots of Earth",
+    "musicRating" : "7",
+    "avgRating" : "9-720"
+  }, {
+    "albumYear" : "2013",
+    "albumTitle" : "Dark Roots of Thrash",
+    "musicRating" : "6",
+    "avgRating" : "8-142"
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "Brotherhood of the Snake",
+    "musicRating" : "6",
+    "avgRating" : "8-446"
+  }, {
+    "albumYear" : "2020",
+    "albumTitle" : "Titans of Creation",
+    "musicRating" : "7",
+    "avgRating" : "7-202"
+  }, {
+    "albumYear" : "2022",
+    "albumTitle" : "Jesus Is All I Need",
+    "musicRating" : "",
+    "avgRating" : "10-1"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Anthrax",
+      "ArtistId" : "anthrax-mn0000490952"
+    }, {
+      "artist" : "D.R.I.",
+      "ArtistId" : "dri-mn0000786360"
+    }, {
+      "artist" : "Exodus",
+      "ArtistId" : "exodus-mn0000125822"
+    }, {
+      "artist" : "Forced Entry",
+      "ArtistId" : "forced-entry-mn0000737852"
+    }, {
+      "artist" : "Kreator",
+      "ArtistId" : "kreator-mn0000103324"
+    }, {
+      "artist" : "Megadeth",
+      "ArtistId" : "megadeth-mn0000406294"
+    }, {
+      "artist" : "Overkill",
+      "ArtistId" : "overkill-mn0000420504"
+    }, {
+      "artist" : "Anihilated",
+      "ArtistId" : "anihilated-mn0001763831"
+    }, {
+      "artist" : "Annihilator",
+      "ArtistId" : "annihilator-mn0000588450"
+    }, {
+      "artist" : "Coroner",
+      "ArtistId" : "coroner-mn0000122138"
+    }, {
+      "artist" : "Deicide",
+      "ArtistId" : "deicide-mn0000194008"
+    }, {
+      "artist" : "Destruction",
+      "ArtistId" : "destruction-mn0000201593"
+    }, {
+      "artist" : "Flotsam and Jetsam",
+      "ArtistId" : "flotsam-and-jetsam-mn0000179522"
+    }, {
+      "artist" : "Heathen",
+      "ArtistId" : "heathen-mn0000951336"
+    }, {
+      "artist" : "Hirax",
+      "ArtistId" : "hirax-mn0000681354"
+    }, {
+      "artist" : "Iced Earth",
+      "ArtistId" : "iced-earth-mn0000769486"
+    }, {
+      "artist" : "King Diamond",
+      "ArtistId" : "king-diamond-mn0000770007"
+    }, {
+      "artist" : "Lizzy Borden",
+      "ArtistId" : "lizzy-borden-mn0000269894"
+    }, {
+      "artist" : "Metal Church",
+      "ArtistId" : "metal-church-mn0000882431"
+    }, {
+      "artist" : "Nuclear Assault",
+      "ArtistId" : "nuclear-assault-mn0000461391"
+    }, {
+      "artist" : "Sodom",
+      "ArtistId" : "sodom-mn0000031324"
+    }, {
+      "artist" : "Stormtroopers of Death",
+      "ArtistId" : "stormtroopers-of-death-mn0001176358"
+    }, {
+      "artist" : "Tankard",
+      "ArtistId" : "tankard-mn0000003103"
+    }, {
+      "artist" : "Vio-Lence",
+      "ArtistId" : "vio-lence-mn0000810872"
+    }, {
+      "artist" : "Xentrix",
+      "ArtistId" : "xentrix-mn0000577898"
+    }, {
+      "artist" : "Acrophet",
+      "ArtistId" : "acrophet-mn0000925335"
+    }, {
+      "artist" : "Anacrusis",
+      "ArtistId" : "anacrusis-mn0000750092"
+    }, {
+      "artist" : "Artillery",
+      "ArtistId" : "artillery-mn0000605605"
+    }, {
+      "artist" : "Cyclone Temple",
+      "ArtistId" : "cyclone-temple-mn0000145666"
+    }, {
+      "artist" : "Dark Angel",
+      "ArtistId" : "dark-angel-mn0000678802"
+    }, {
+      "artist" : "Defiance",
+      "ArtistId" : "defiance-mn0000190845"
+    }, {
+      "artist" : "Evildead",
+      "ArtistId" : "evildead-mn0000789779"
+    }, {
+      "artist" : "Evile",
+      "ArtistId" : "evile-mn0000640149"
+    }, {
+      "artist" : "Extrema",
+      "ArtistId" : "extrema-mn0001911133"
+    }, {
+      "artist" : "Faith or Fear",
+      "ArtistId" : "faith-or-fear-mn0000167132"
+    }, {
+      "artist" : "Forbidden",
+      "ArtistId" : "forbidden-mn0000153589"
+    }, {
+      "artist" : "Gothic Slam",
+      "ArtistId" : "gothic-slam-mn0000197263"
+    }, {
+      "artist" : "Lääz Rockit",
+      "ArtistId" : "l%C3%A4%C3%A4z-rockit-mn0000098266"
+    }, {
+      "artist" : "Mortal Sin",
+      "ArtistId" : "mortal-sin-mn0000595067"
+    }, {
+      "artist" : "Onslaught",
+      "ArtistId" : "onslaught-mn0000888979"
+    }, {
+      "artist" : "Re-Animator",
+      "ArtistId" : "re-animator-mn0001442964"
+    }, {
+      "artist" : "Sacred Reich",
+      "ArtistId" : "sacred-reich-mn0000276576"
+    }, {
+      "artist" : "Sacrifice",
+      "ArtistId" : "sacrifice-mn0000233558"
+    }, {
+      "artist" : "Toxik",
+      "ArtistId" : "toxik-mn0000744978"
+    }, {
+      "artist" : "Uncle Slam",
+      "ArtistId" : "uncle-slam-mn0000219475"
+    }, {
+      "artist" : "Venom",
+      "ArtistId" : "venom-mn0000315403"
+    }, {
+      "artist" : "W.A.S.P.",
+      "ArtistId" : "wasp-mn0000815090"
+    }, {
+      "artist" : "Wargasm",
+      "ArtistId" : "wargasm-mn0000232995"
+    }, {
+      "artist" : "Whiplash",
+      "ArtistId" : "whiplash-mn0000818692"
+    }, {
+      "artist" : "Wrathchild America",
+      "ArtistId" : "wrathchild-america-mn0000959503"
+    }, {
+      "artist" : "Armored Saint",
+      "ArtistId" : "armored-saint-mn0000505646"
+    }, {
+      "artist" : "Atheist",
+      "ArtistId" : "atheist-mn0000931546"
+    }, {
+      "artist" : "Charlie Benante",
+      "ArtistId" : "charlie-benante-mn0000168308"
+    }, {
+      "artist" : "Dio",
+      "ArtistId" : "dio-mn0000263937"
+    }, {
+      "artist" : "Gatecreeper",
+      "ArtistId" : "gatecreeper-mn0003545408"
+    }, {
+      "artist" : "Hexx",
+      "ArtistId" : "hexx-mn0000675486"
+    }, {
+      "artist" : "Iron Reagan",
+      "ArtistId" : "iron-reagan-mn0003070894"
+    }, {
+      "artist" : "Mercyful Fate",
+      "ArtistId" : "mercyful-fate-mn0000343954"
+    }, {
+      "artist" : "Nevermore",
+      "ArtistId" : "nevermore-mn0000387484"
+    }, {
+      "artist" : "Power Trip",
+      "ArtistId" : "power-trip-mn0000886971"
+    }, {
+      "artist" : "Realm",
+      "ArtistId" : "realm-mn0000346979"
+    }, {
+      "artist" : "Stu Block",
+      "ArtistId" : "stu-block-mn0000469475"
+    }, {
+      "artist" : "Stygian",
+      "ArtistId" : "stygian-mn0000482607"
+    }, {
+      "artist" : "Toranaga",
+      "ArtistId" : "toranaga-mn0000792848"
+    }, {
+      "artist" : "Watchtower",
+      "ArtistId" : "watchtower-mn0000237653"
+    } ],
+    "influencers" : [ {
+      "artist" : "Aerosmith",
+      "ArtistId" : "aerosmith-mn0000604852"
+    }, {
+      "artist" : "Black Sabbath",
+      "ArtistId" : "black-sabbath-mn0000771438"
+    }, {
+      "artist" : "Motörhead",
+      "ArtistId" : "mot%C3%B6rhead-mn0000501407"
+    }, {
+      "artist" : "Sex Pistols",
+      "ArtistId" : "sex-pistols-mn0000418740"
+    }, {
+      "artist" : "Slayer",
+      "ArtistId" : "slayer-mn0000022124"
+    }, {
+      "artist" : "Saxon",
+      "ArtistId" : "saxon-mn0000259800"
+    }, {
+      "artist" : "Deep Purple",
+      "ArtistId" : "deep-purple-mn0000192382"
+    }, {
+      "artist" : "Havok",
+      "ArtistId" : "havok-mn0002717160"
+    }, {
+      "artist" : "Iron Maiden",
+      "ArtistId" : "iron-maiden-mn0000098465"
+    }, {
+      "artist" : "Judas Priest",
+      "ArtistId" : "judas-priest-mn0000246611"
+    }, {
+      "artist" : "Kiss",
+      "ArtistId" : "kiss-mn0000084209"
+    }, {
+      "artist" : "Led Zeppelin",
+      "ArtistId" : "led-zeppelin-mn0000139026"
+    }, {
+      "artist" : "Metallica",
+      "ArtistId" : "metallica-mn0000446509"
+    }, {
+      "artist" : "Rush",
+      "ArtistId" : "rush-mn0000203008"
+    }, {
+      "artist" : "Scorpions",
+      "ArtistId" : "scorpions-mn0000299471"
+    } ],
+    "followers" : [ {
+      "artist" : "Aversion",
+      "ArtistId" : "aversion-mn0000064841"
+    }, {
+      "artist" : "Cannibal Corpse",
+      "ArtistId" : "cannibal-corpse-mn0000545534"
+    }, {
+      "artist" : "Death Angel",
+      "ArtistId" : "death-angel-mn0000230845"
+    }, {
+      "artist" : "Disciples of Power",
+      "ArtistId" : "disciples-of-power-mn0001414753"
+    }, {
+      "artist" : "Entombed",
+      "ArtistId" : "entombed-mn0000741177"
+    }, {
+      "artist" : "Exhorder",
+      "ArtistId" : "exhorder-mn0000163386"
+    }, {
+      "artist" : "Gojira",
+      "ArtistId" : "gojira-mn0000721409"
+    }, {
+      "artist" : "Killswitch Engage",
+      "ArtistId" : "killswitch-engage-mn0000771792"
+    }, {
+      "artist" : "Korn",
+      "ArtistId" : "korn-mn0000112789"
+    }, {
+      "artist" : "Lunatics Without Skateboards",
+      "ArtistId" : "lunatics-without-skateboards-mn0002004798"
+    }, {
+      "artist" : "Midas Touch",
+      "ArtistId" : "midas-touch-mn0000891703"
+    }, {
+      "artist" : "Morbid Angel",
+      "ArtistId" : "morbid-angel-mn0000928351"
+    }, {
+      "artist" : "Nightwish",
+      "ArtistId" : "nightwish-mn0000868628"
+    }, {
+      "artist" : "Pantera",
+      "ArtistId" : "pantera-mn0000005441"
+    }, {
+      "artist" : "Sepultura",
+      "ArtistId" : "sepultura-mn0000741746"
+    }, {
+      "artist" : "Sevendust",
+      "ArtistId" : "sevendust-mn0000016132"
+    }, {
+      "artist" : "Shadows Fall",
+      "ArtistId" : "shadows-fall-mn0000159655"
+    }, {
+      "artist" : "Sons of Texas",
+      "ArtistId" : "sons-of-texas-mn0003365345"
+    }, {
+      "artist" : "Terror",
+      "ArtistId" : "terror-mn0000748485"
+    }, {
+      "artist" : "Warbringer",
+      "ArtistId" : "warbringer-mn0000668508"
+    }, {
+      "artist" : "White Zombie",
+      "ArtistId" : "white-zombie-mn0000820115"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Savatage",
+      "ArtistId" : "savatage-mn0000255347"
+    }, {
+      "artist" : "Disincarnate",
+      "ArtistId" : "disincarnate-mn0000169160"
+    }, {
+      "artist" : "Dragonlord",
+      "ArtistId" : "dragonlord-mn0000170973"
+    }, {
+      "artist" : "Cancer",
+      "ArtistId" : "cancer-mn0000652713"
+    }, {
+      "artist" : "Death",
+      "ArtistId" : "death-mn0000228323"
+    }, {
+      "artist" : "Legacy",
+      "ArtistId" : "legacy-mn0002022855"
+    }, {
+      "artist" : "Obituary",
+      "ArtistId" : "obituary-mn0000465562"
+    }, {
+      "artist" : "Sadus",
+      "ArtistId" : "sadus-mn0000828595"
+    } ]
+  }
+}

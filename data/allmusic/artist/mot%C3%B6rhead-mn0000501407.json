@@ -1,0 +1,505 @@
+{
+  "id" : "mot%C3%B6rhead-mn0000501407",
+  "name" : "Motörhead",
+  "activeDates" : "1970s - 2010s",
+  "birthDate" : "1975",
+  "birthPlace" : "London, England",
+  "styles" : [ {
+    "name" : "British Metal",
+    "url" : "https://www.allmusic.com/style/british-metal-ma0000012103"
+  }, {
+    "name" : "New Wave of British Heavy Metal",
+    "url" : "https://www.allmusic.com/style/new-wave-of-british-heavy-metal-ma0000004491"
+  }, {
+    "name" : "Heavy Metal",
+    "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+  }, {
+    "name" : "Speed/Thrash Metal",
+    "url" : "https://www.allmusic.com/style/speed-thrash-metal-ma0000002874"
+  }, {
+    "name" : "Hard Rock",
+    "url" : "https://www.allmusic.com/style/hard-rock-ma0000002636"
+  } ],
+  "decades" : "1970s - 2010s",
+  "genres" : "Pop/Rock",
+  "discography" : [ {
+    "albumYear" : "1977",
+    "albumTitle" : "Motörhead",
+    "musicRating" : "5",
+    "avgRating" : "8-824"
+  }, {
+    "albumYear" : "1979",
+    "albumTitle" : "Bomber",
+    "musicRating" : "7",
+    "avgRating" : "8-1019"
+  }, {
+    "albumYear" : "1979",
+    "albumTitle" : "Overkill",
+    "musicRating" : "8",
+    "avgRating" : "9-1532"
+  }, {
+    "albumYear" : "1980",
+    "albumTitle" : "Ace of Spades",
+    "musicRating" : "8",
+    "avgRating" : "9-1538"
+  }, {
+    "albumYear" : "1980",
+    "albumTitle" : "On Parole",
+    "musicRating" : "5",
+    "avgRating" : "7-388"
+  }, {
+    "albumYear" : "1981",
+    "albumTitle" : "No Sleep 'Til Hammersmith",
+    "musicRating" : "8",
+    "avgRating" : "9-681"
+  }, {
+    "albumYear" : "1982",
+    "albumTitle" : "Iron Fist",
+    "musicRating" : "7",
+    "avgRating" : "8-674"
+  }, {
+    "albumYear" : "1983",
+    "albumTitle" : "Another Perfect Day",
+    "musicRating" : "6",
+    "avgRating" : "9-664"
+  }, {
+    "albumYear" : "1986",
+    "albumTitle" : "Orgasmatron",
+    "musicRating" : "5",
+    "avgRating" : "9-580"
+  }, {
+    "albumYear" : "1987",
+    "albumTitle" : "Rock 'n' Roll",
+    "musicRating" : "3",
+    "avgRating" : "7-328"
+  }, {
+    "albumYear" : "1988",
+    "albumTitle" : "No Sleep at All",
+    "musicRating" : "3",
+    "avgRating" : "8-81"
+  }, {
+    "albumYear" : "1989",
+    "albumTitle" : "Blitzkrieg on Birmingham '77",
+    "musicRating" : "",
+    "avgRating" : "7-68"
+  }, {
+    "albumYear" : "1991",
+    "albumTitle" : "1916",
+    "musicRating" : "5",
+    "avgRating" : "9-503"
+  }, {
+    "albumYear" : "1991",
+    "albumTitle" : "1916 Live...Everything Louder than Everything Else",
+    "musicRating" : "5",
+    "avgRating" : "8-8"
+  }, {
+    "albumYear" : "1991",
+    "albumTitle" : "Meltdown",
+    "musicRating" : "5",
+    "avgRating" : "8-9"
+  }, {
+    "albumYear" : "1992",
+    "albumTitle" : "March ör Die",
+    "musicRating" : "3",
+    "avgRating" : "8-314"
+  }, {
+    "albumYear" : "1993",
+    "albumTitle" : "Bastards",
+    "musicRating" : "7",
+    "avgRating" : "9-452"
+  }, {
+    "albumYear" : "1994",
+    "albumTitle" : "Aces High",
+    "musicRating" : "",
+    "avgRating" : "7-8"
+  }, {
+    "albumYear" : "1995",
+    "albumTitle" : "Sacrifice",
+    "musicRating" : "6",
+    "avgRating" : "7-266"
+  }, {
+    "albumYear" : "1996",
+    "albumTitle" : "Overnight Sensation",
+    "musicRating" : "7",
+    "avgRating" : "8-316"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Snake Bite Love",
+    "musicRating" : "4",
+    "avgRating" : "8-201"
+  }, {
+    "albumYear" : "1999",
+    "albumTitle" : "Everything Louder Than Everyone Else",
+    "musicRating" : "5",
+    "avgRating" : "8-81"
+  }, {
+    "albumYear" : "2000",
+    "albumTitle" : "We Are Motörhead",
+    "musicRating" : "5",
+    "avgRating" : "7-210"
+  }, {
+    "albumYear" : "2002",
+    "albumTitle" : "Hammered",
+    "musicRating" : "5",
+    "avgRating" : "7-222"
+  }, {
+    "albumYear" : "2004",
+    "albumTitle" : "Inferno",
+    "musicRating" : "5",
+    "avgRating" : "9-350"
+  }, {
+    "albumYear" : "2006",
+    "albumTitle" : "Kiss of Death",
+    "musicRating" : "6",
+    "avgRating" : "8-304"
+  }, {
+    "albumYear" : "2008",
+    "albumTitle" : "Motorizer",
+    "musicRating" : "6",
+    "avgRating" : "8-376"
+  }, {
+    "albumYear" : "2010",
+    "albumTitle" : "The Wörld Is Yours",
+    "musicRating" : "6",
+    "avgRating" : "8-490"
+  }, {
+    "albumYear" : "2011",
+    "albumTitle" : "The Wörld Is Ours, Vol. 1: Everywhere Further than Everyplace Else",
+    "musicRating" : "5",
+    "avgRating" : "8-173"
+  }, {
+    "albumYear" : "2012",
+    "albumTitle" : "The Wörld Is Ours, Vol. 2: Anyplace Crazy as Anywhere Else",
+    "musicRating" : "",
+    "avgRating" : "8-75"
+  }, {
+    "albumYear" : "2013",
+    "albumTitle" : "Aftershock",
+    "musicRating" : "6",
+    "avgRating" : "7-437"
+  }, {
+    "albumYear" : "2015",
+    "albumTitle" : "Bad Magic",
+    "musicRating" : "6",
+    "avgRating" : "7-451"
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "Tribute to Motörhead",
+    "musicRating" : "",
+    "avgRating" : "8-8"
+  }, {
+    "albumYear" : "2016",
+    "albumTitle" : "Clean Your Clock",
+    "musicRating" : "",
+    "avgRating" : "8-32"
+  }, {
+    "albumYear" : "2018",
+    "albumTitle" : "Live at Brixton Academy",
+    "musicRating" : "",
+    "avgRating" : "8-11"
+  }, {
+    "albumYear" : "2021",
+    "albumTitle" : "Live to Win",
+    "musicRating" : "",
+    "avgRating" : "7-5"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Motörhead Plugged In!",
+    "musicRating" : "5",
+    "avgRating" : "7-73"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "Diamond Head",
+      "ArtistId" : "diamond-head-mn0000251604"
+    }, {
+      "artist" : "Girlschool",
+      "ArtistId" : "girlschool-mn0000553810"
+    }, {
+      "artist" : "Iron Maiden",
+      "ArtistId" : "iron-maiden-mn0000098465"
+    }, {
+      "artist" : "Judas Priest",
+      "ArtistId" : "judas-priest-mn0000246611"
+    }, {
+      "artist" : "Saxon",
+      "ArtistId" : "saxon-mn0000259800"
+    }, {
+      "artist" : "Budgie",
+      "ArtistId" : "budgie-mn0000623985"
+    }, {
+      "artist" : "Fastway",
+      "ArtistId" : "fastway-mn0000796576"
+    }, {
+      "artist" : "Metallica",
+      "ArtistId" : "metallica-mn0000446509"
+    }, {
+      "artist" : "Ozzy Osbourne",
+      "ArtistId" : "ozzy-osbourne-mn0000424244"
+    }, {
+      "artist" : "The Pink Fairies",
+      "ArtistId" : "the-pink-fairies-mn0000483986"
+    }, {
+      "artist" : "UFO",
+      "ArtistId" : "ufo-mn0000809999"
+    }, {
+      "artist" : "Venom",
+      "ArtistId" : "venom-mn0000315403"
+    }, {
+      "artist" : "Voivod",
+      "ArtistId" : "voivod-mn0000186096"
+    }, {
+      "artist" : "Anthrax",
+      "ArtistId" : "anthrax-mn0000490952"
+    }, {
+      "artist" : "Blue Öyster Cult",
+      "ArtistId" : "blue-%C3yster-cult-mn0000061938"
+    }, {
+      "artist" : "Celtic Frost",
+      "ArtistId" : "celtic-frost-mn0000191063"
+    }, {
+      "artist" : "Deliverance",
+      "ArtistId" : "deliverance-mn0000816380"
+    }, {
+      "artist" : "Dio",
+      "ArtistId" : "dio-mn0000263937"
+    }, {
+      "artist" : "Killing Joke",
+      "ArtistId" : "killing-joke-mn0000081493"
+    }, {
+      "artist" : "Megadeth",
+      "ArtistId" : "megadeth-mn0000406294"
+    }, {
+      "artist" : "Pantera",
+      "ArtistId" : "pantera-mn0000005441"
+    }, {
+      "artist" : "Queensrÿche",
+      "ArtistId" : "queensr%C3%BFche-mn0000315339"
+    }, {
+      "artist" : "Rainbow",
+      "ArtistId" : "rainbow-mn0000391933"
+    }, {
+      "artist" : "Slayer",
+      "ArtistId" : "slayer-mn0000022124"
+    }, {
+      "artist" : "Spartan Warrior",
+      "ArtistId" : "spartan-warrior-mn0001774988"
+    }, {
+      "artist" : "Vardis",
+      "ArtistId" : "vardis-mn0000262914"
+    }, {
+      "artist" : "Blitzkrieg",
+      "ArtistId" : "blitzkrieg-mn0000051319"
+    }, {
+      "artist" : "Chrome Molly",
+      "ArtistId" : "chrome-molly-mn0000778227"
+    }, {
+      "artist" : "Deep Purple",
+      "ArtistId" : "deep-purple-mn0000192382"
+    }, {
+      "artist" : "Manowar",
+      "ArtistId" : "manowar-mn0000673208"
+    }, {
+      "artist" : "Thin Lizzy",
+      "ArtistId" : "thin-lizzy-mn0000590479"
+    }, {
+      "artist" : "AC/DC",
+      "ArtistId" : "ac-dc-mn0000574772"
+    }, {
+      "artist" : "Alice Cooper",
+      "ArtistId" : "alice-cooper-mn0000005953"
+    }, {
+      "artist" : "Angel Witch",
+      "ArtistId" : "angel-witch-mn0000754879"
+    }, {
+      "artist" : "Black Sites",
+      "ArtistId" : "black-sites-mn0003568183"
+    }, {
+      "artist" : "Danzig",
+      "ArtistId" : "danzig-mn0000957085"
+    }, {
+      "artist" : "Eddie & the Hot Rods",
+      "ArtistId" : "eddie-the-hot-rods-mn0000165736"
+    }, {
+      "artist" : "Exciter",
+      "ArtistId" : "exciter-mn0000159561"
+    }, {
+      "artist" : "Halford",
+      "ArtistId" : "halford-mn0000660461"
+    }, {
+      "artist" : "Kiss",
+      "ArtistId" : "kiss-mn0000084209"
+    }, {
+      "artist" : "Loudness",
+      "ArtistId" : "loudness-mn0000829717"
+    }, {
+      "artist" : "Machine Head",
+      "ArtistId" : "machine-head-mn0000221445"
+    }, {
+      "artist" : "Metal Church",
+      "ArtistId" : "metal-church-mn0000882431"
+    }, {
+      "artist" : "Phil Campbell",
+      "ArtistId" : "phil-campbell-mn0002296409"
+    }, {
+      "artist" : "Soggy",
+      "ArtistId" : "soggy-mn0003180147"
+    }, {
+      "artist" : "Testament",
+      "ArtistId" : "testament-mn0000751910"
+    } ],
+    "influencers" : [ {
+      "artist" : "Black Sabbath",
+      "ArtistId" : "black-sabbath-mn0000771438"
+    }, {
+      "artist" : "MC5",
+      "ArtistId" : "mc5-mn0000182598"
+    }, {
+      "artist" : "Ramones",
+      "ArtistId" : "ramones-mn0000490004"
+    }, {
+      "artist" : "The Damned",
+      "ArtistId" : "the-damned-mn0000138520"
+    }, {
+      "artist" : "Deep Purple",
+      "ArtistId" : "deep-purple-mn0000192382"
+    }, {
+      "artist" : "The Stooges",
+      "ArtistId" : "the-stooges-mn0000562304"
+    }, {
+      "artist" : "Blue Cheer",
+      "ArtistId" : "blue-cheer-mn0000059537"
+    }, {
+      "artist" : "Hawkwind",
+      "ArtistId" : "hawkwind-mn0000672011"
+    }, {
+      "artist" : "Led Zeppelin",
+      "ArtistId" : "led-zeppelin-mn0000139026"
+    }, {
+      "artist" : "Sex Pistols",
+      "ArtistId" : "sex-pistols-mn0000418740"
+    }, {
+      "artist" : "Steppenwolf",
+      "ArtistId" : "steppenwolf-mn0000022928"
+    }, {
+      "artist" : "The Clash",
+      "ArtistId" : "the-clash-mn0000075747"
+    }, {
+      "artist" : "The Kingsmen",
+      "ArtistId" : "the-kingsmen-mn0000773642"
+    }, {
+      "artist" : "The Trashmen",
+      "ArtistId" : "the-trashmen-mn0000007729"
+    }, {
+      "artist" : "The Yardbirds",
+      "ArtistId" : "the-yardbirds-mn0000489303"
+    } ],
+    "followers" : [ {
+      "artist" : "Amen",
+      "ArtistId" : "amen-mn0000022388"
+    }, {
+      "artist" : "Amyl and the Sniffers",
+      "ArtistId" : "amyl-and-the-sniffers-mn0003701122"
+    }, {
+      "artist" : "Anthrax",
+      "ArtistId" : "anthrax-mn0000490952"
+    }, {
+      "artist" : "Blue Snaggletooth",
+      "ArtistId" : "blue-snaggletooth-mn0002840697"
+    }, {
+      "artist" : "Broken Teeth",
+      "ArtistId" : "broken-teeth-mn0000937336"
+    }, {
+      "artist" : "Dark Angel",
+      "ArtistId" : "dark-angel-mn0000678802"
+    }, {
+      "artist" : "Diamond Head",
+      "ArtistId" : "diamond-head-mn0000251604"
+    }, {
+      "artist" : "Exodus",
+      "ArtistId" : "exodus-mn0000125822"
+    }, {
+      "artist" : "Fu Manchu",
+      "ArtistId" : "fu-manchu-mn0000988529"
+    }, {
+      "artist" : "G.B.H.",
+      "ArtistId" : "gbh-mn0000202235"
+    }, {
+      "artist" : "Guns N' Roses",
+      "ArtistId" : "guns-n-roses-mn0000540883"
+    }, {
+      "artist" : "Holy Mountain",
+      "ArtistId" : "holy-mountain-mn0003243579"
+    }, {
+      "artist" : "Iron Maiden",
+      "ArtistId" : "iron-maiden-mn0000098465"
+    }, {
+      "artist" : "King Diamond",
+      "ArtistId" : "king-diamond-mn0000770007"
+    }, {
+      "artist" : "Machine Head",
+      "ArtistId" : "machine-head-mn0000221445"
+    }, {
+      "artist" : "Megadeth",
+      "ArtistId" : "megadeth-mn0000406294"
+    }, {
+      "artist" : "Metallica",
+      "ArtistId" : "metallica-mn0000446509"
+    }, {
+      "artist" : "Nashville Pussy",
+      "ArtistId" : "nashville-pussy-mn0000316536"
+    }, {
+      "artist" : "Overkill",
+      "ArtistId" : "overkill-mn0000420504"
+    }, {
+      "artist" : "Pantera",
+      "ArtistId" : "pantera-mn0000005441"
+    }, {
+      "artist" : "Royal Trux",
+      "ArtistId" : "royal-trux-mn0000293843"
+    }, {
+      "artist" : "Slayer",
+      "ArtistId" : "slayer-mn0000022124"
+    }, {
+      "artist" : "Tetrarch",
+      "ArtistId" : "tetrarch-mn0003963561"
+    }, {
+      "artist" : "The Amazons",
+      "ArtistId" : "the-amazons-mn0003493507"
+    }, {
+      "artist" : "Twisted Sister",
+      "ArtistId" : "twisted-sister-mn0000165663"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Hawkwind",
+      "ArtistId" : "hawkwind-mn0000672011"
+    }, {
+      "artist" : "Mick Farren",
+      "ArtistId" : "mick-farren-mn0000892495"
+    }, {
+      "artist" : "Phil Campbell",
+      "ArtistId" : "phil-campbell-mn0002296409"
+    }, {
+      "artist" : "Philthy Phil and Fast Eddie",
+      "ArtistId" : "philthy-phil-and-fast-eddie-mn0001748595"
+    }, {
+      "artist" : "Plasmatics",
+      "ArtistId" : "plasmatics-mn0000894239"
+    }, {
+      "artist" : "Social Deviants",
+      "ArtistId" : "social-deviants-mn0000031208"
+    }, {
+      "artist" : "The Pink Fairies",
+      "ArtistId" : "the-pink-fairies-mn0000483986"
+    }, {
+      "artist" : "Würzel",
+      "ArtistId" : "w%C3%BCrzel-mn0000685054"
+    }, {
+      "artist" : "Lemmy",
+      "ArtistId" : "lemmy-mn0000238341"
+    }, {
+      "artist" : "Fastway",
+      "ArtistId" : "fastway-mn0000796576"
+    } ]
+  }
+}

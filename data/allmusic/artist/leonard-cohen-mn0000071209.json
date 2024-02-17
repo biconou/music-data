@@ -20,17 +20,17 @@
     "albumYear" : "1967",
     "albumTitle" : "Songs of Leonard Cohen",
     "musicRating" : "9",
-    "avgRating" : "10-2050"
+    "avgRating" : "10-2053"
   }, {
     "albumYear" : "1969",
     "albumTitle" : "Songs from a Room",
     "musicRating" : "7",
-    "avgRating" : "9-1380"
+    "avgRating" : "9-1383"
   }, {
     "albumYear" : "1971",
     "albumTitle" : "Songs of Love and Hate",
     "musicRating" : "8",
-    "avgRating" : "10-1269"
+    "avgRating" : "10-1272"
   }, {
     "albumYear" : "1973",
     "albumTitle" : "Live Songs",
@@ -40,42 +40,42 @@
     "albumYear" : "1974",
     "albumTitle" : "New Skin for the Old Ceremony",
     "musicRating" : "7",
-    "avgRating" : "9-1005"
+    "avgRating" : "9-1007"
   }, {
     "albumYear" : "1977",
     "albumTitle" : "Death of a Ladies' Man",
     "musicRating" : "7",
-    "avgRating" : "8-544"
+    "avgRating" : "8-545"
   }, {
     "albumYear" : "1979",
     "albumTitle" : "Recent Songs",
     "musicRating" : "7",
-    "avgRating" : "8-421"
+    "avgRating" : "8-423"
   }, {
     "albumYear" : "1984",
     "albumTitle" : "Various Positions",
     "musicRating" : "7",
-    "avgRating" : "9-576"
+    "avgRating" : "9-580"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "I'm Your Man",
     "musicRating" : "8",
-    "avgRating" : "9-1000"
+    "avgRating" : "9-1005"
   }, {
     "albumYear" : "1992",
     "albumTitle" : "The Future",
     "musicRating" : "6",
-    "avgRating" : "9-564"
+    "avgRating" : "9-566"
   }, {
     "albumYear" : "2001",
     "albumTitle" : "Ten New Songs",
     "musicRating" : "6",
-    "avgRating" : "9-524"
+    "avgRating" : "9-526"
   }, {
     "albumYear" : "2004",
     "albumTitle" : "Dear Heather",
     "musicRating" : "6",
-    "avgRating" : "8-350"
+    "avgRating" : "8-351"
   }, {
     "albumYear" : "2007",
     "albumTitle" : "Book of Longing",
@@ -85,7 +85,7 @@
     "albumYear" : "2009",
     "albumTitle" : "Live in London",
     "musicRating" : "7",
-    "avgRating" : "9-359"
+    "avgRating" : "9-360"
   }, {
     "albumYear" : "2010",
     "albumTitle" : "Songs from the Road",
@@ -95,12 +95,12 @@
     "albumYear" : "2012",
     "albumTitle" : "Old Ideas",
     "musicRating" : "7",
-    "avgRating" : "9-642"
+    "avgRating" : "9-643"
   }, {
     "albumYear" : "2014",
     "albumTitle" : "Popular Problems",
     "musicRating" : "7",
-    "avgRating" : "9-682"
+    "avgRating" : "9-684"
   }, {
     "albumYear" : "2014",
     "albumTitle" : "Live in Dublin",
@@ -115,12 +115,12 @@
     "albumYear" : "2016",
     "albumTitle" : "You Want It Darker",
     "musicRating" : "7",
-    "avgRating" : "9-932"
+    "avgRating" : "9-934"
   }, {
     "albumYear" : "2019",
     "albumTitle" : "Thanks for the Dance",
     "musicRating" : "7",
-    "avgRating" : "9-209"
+    "avgRating" : "9-212"
   } ],
   "related" : {
     "similars" : [ {
@@ -494,6 +494,9 @@
     }, {
       "artist" : "Sam Brothers",
       "ArtistId" : "sam-brothers-mn0001611882"
+    }, {
+      "artist" : "Vera Sola",
+      "ArtistId" : "vera-sola-mn0003780916"
     }, {
       "artist" : "Aesop Rock",
       "ArtistId" : "aesop-rock-mn0000929573"

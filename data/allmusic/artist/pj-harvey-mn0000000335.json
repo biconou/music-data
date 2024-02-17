@@ -26,57 +26,57 @@
     "albumYear" : "1992",
     "albumTitle" : "Dry",
     "musicRating" : "8",
-    "avgRating" : "9-1335"
+    "avgRating" : "9-1340"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "Rid of Me",
     "musicRating" : "9",
-    "avgRating" : "9-2044"
+    "avgRating" : "9-2055"
   }, {
     "albumYear" : "1995",
     "albumTitle" : "To Bring You My Love",
     "musicRating" : "8",
-    "avgRating" : "9-1483"
+    "avgRating" : "9-1491"
   }, {
     "albumYear" : "1996",
     "albumTitle" : "Dance Hall at Louse Point",
     "musicRating" : "5",
-    "avgRating" : "8-322"
+    "avgRating" : "8-324"
   }, {
     "albumYear" : "1998",
     "albumTitle" : "Is This Desire?",
     "musicRating" : "5",
-    "avgRating" : "9-693"
+    "avgRating" : "9-694"
   }, {
     "albumYear" : "2000",
     "albumTitle" : "Stories From the City, Stories From the Sea",
     "musicRating" : "7",
-    "avgRating" : "9-1308"
+    "avgRating" : "9-1312"
   }, {
     "albumYear" : "2004",
     "albumTitle" : "Uh Huh Her",
     "musicRating" : "7",
-    "avgRating" : "8-716"
+    "avgRating" : "8-719"
   }, {
     "albumYear" : "2007",
     "albumTitle" : "White Chalk",
     "musicRating" : "7",
-    "avgRating" : "9-702"
+    "avgRating" : "9-704"
   }, {
     "albumYear" : "2009",
     "albumTitle" : "A Woman a Man Walked By",
     "musicRating" : "7",
-    "avgRating" : "8-600"
+    "avgRating" : "8-601"
   }, {
     "albumYear" : "2011",
     "albumTitle" : "Let England Shake",
     "musicRating" : "9",
-    "avgRating" : "9-1395"
+    "avgRating" : "9-1403"
   }, {
     "albumYear" : "2016",
     "albumTitle" : "The Hope Six Demolition Project",
     "musicRating" : "6",
-    "avgRating" : "8-501"
+    "avgRating" : "8-503"
   }, {
     "albumYear" : "2019",
     "albumTitle" : "All About Eve",
@@ -91,7 +91,7 @@
     "albumYear" : "2023",
     "albumTitle" : "I Inside the Old Year Dying",
     "musicRating" : "8",
-    "avgRating" : "9-162"
+    "avgRating" : "9-181"
   } ],
   "related" : {
     "similars" : [ {
@@ -417,6 +417,9 @@
     }, {
       "artist" : "Venice May",
       "ArtistId" : "venice-may-mn0003818983"
+    }, {
+      "artist" : "Vera Sola",
+      "ArtistId" : "vera-sola-mn0003780916"
     }, {
       "artist" : "Yeah Yeah Yeahs",
       "ArtistId" : "yeah-yeah-yeahs-mn0000681154"

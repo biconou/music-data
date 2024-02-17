@@ -47,22 +47,22 @@
     "albumYear" : "1985",
     "albumTitle" : "Hunting High and Low",
     "musicRating" : "7",
-    "avgRating" : "9-757"
+    "avgRating" : "9-761"
   }, {
     "albumYear" : "1986",
     "albumTitle" : "Scoundrel Days",
     "musicRating" : "6",
-    "avgRating" : "9-394"
+    "avgRating" : "9-397"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Stay on These Roads",
     "musicRating" : "3",
-    "avgRating" : "8-274"
+    "avgRating" : "8-275"
   }, {
     "albumYear" : "1990",
     "albumTitle" : "East of the Sun, West of the Moon",
     "musicRating" : "5",
-    "avgRating" : "8-240"
+    "avgRating" : "8-241"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "Memorial Beach",
@@ -112,7 +112,7 @@
     "albumYear" : "2022",
     "albumTitle" : "True North",
     "musicRating" : "6",
-    "avgRating" : "7-69"
+    "avgRating" : "7-75"
   } ],
   "related" : {
     "similars" : [ {

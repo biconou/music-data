@@ -23,17 +23,17 @@
     "albumYear" : "1984",
     "albumTitle" : "Morbid Tales",
     "musicRating" : "8",
-    "avgRating" : "9-250"
+    "avgRating" : "9-249"
   }, {
     "albumYear" : "1985",
     "albumTitle" : "To Mega Therion",
     "musicRating" : "9",
-    "avgRating" : "10-533"
+    "avgRating" : "10-538"
   }, {
     "albumYear" : "1987",
     "albumTitle" : "Into the Pandemonium",
     "musicRating" : "8",
-    "avgRating" : "9-305"
+    "avgRating" : "9-306"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Cold Lake",
@@ -43,7 +43,7 @@
     "albumYear" : "1989",
     "albumTitle" : "Vanity/Nemesis",
     "musicRating" : "7",
-    "avgRating" : "7-104"
+    "avgRating" : "7-105"
   }, {
     "albumYear" : "2006",
     "albumTitle" : "Monotheist",
@@ -212,6 +212,9 @@
     }, {
       "artist" : "Slaughter",
       "ArtistId" : "slaughter-mn0001292067"
+    }, {
+      "artist" : "Triumph of Death",
+      "ArtistId" : "triumph-of-death-mn0004486472"
     } ],
     "influencers" : [ {
       "artist" : "Accept",
