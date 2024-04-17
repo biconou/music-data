@@ -20,22 +20,22 @@
     "albumYear" : "1980",
     "albumTitle" : "Iron Maiden",
     "musicRating" : "8",
-    "avgRating" : "9-2325"
+    "avgRating" : "9-2328"
   }, {
     "albumYear" : "1981",
     "albumTitle" : "Killers",
     "musicRating" : "7",
-    "avgRating" : "9-1929"
+    "avgRating" : "9-1930"
   }, {
     "albumYear" : "1982",
     "albumTitle" : "The Number of the Beast",
     "musicRating" : "9",
-    "avgRating" : "10-3106"
+    "avgRating" : "10-3109"
   }, {
     "albumYear" : "1983",
     "albumTitle" : "Piece of Mind",
     "musicRating" : "8",
-    "avgRating" : "9-2269"
+    "avgRating" : "9-2270"
   }, {
     "albumYear" : "1983",
     "albumTitle" : "Brain Damage Tour of Europe",
@@ -45,7 +45,7 @@
     "albumYear" : "1984",
     "albumTitle" : "Powerslave",
     "musicRating" : "8",
-    "avgRating" : "10-2566"
+    "avgRating" : "10-2569"
   }, {
     "albumYear" : "1985",
     "albumTitle" : "Live After Death",
@@ -55,22 +55,22 @@
     "albumYear" : "1986",
     "albumTitle" : "Somewhere in Time",
     "musicRating" : "6",
-    "avgRating" : "9-2114"
+    "avgRating" : "9-2117"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Seventh Son of a Seventh Son",
     "musicRating" : "8",
-    "avgRating" : "9-2266"
+    "avgRating" : "9-2267"
   }, {
     "albumYear" : "1990",
     "albumTitle" : "No Prayer for the Dying",
     "musicRating" : "3",
-    "avgRating" : "6-1218"
+    "avgRating" : "6-1219"
   }, {
     "albumYear" : "1992",
     "albumTitle" : "Fear of the Dark",
     "musicRating" : "3",
-    "avgRating" : "7-1499"
+    "avgRating" : "7-1500"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "A Real Live One",
@@ -100,7 +100,7 @@
     "albumYear" : "2000",
     "albumTitle" : "Brave New World",
     "musicRating" : "6",
-    "avgRating" : "9-1569"
+    "avgRating" : "9-1571"
   }, {
     "albumYear" : "2002",
     "albumTitle" : "Rock in Rio",
@@ -110,7 +110,7 @@
     "albumYear" : "2003",
     "albumTitle" : "Dance of Death",
     "musicRating" : "7",
-    "avgRating" : "8-1313"
+    "avgRating" : "8-1315"
   }, {
     "albumYear" : "2005",
     "albumTitle" : "Death on the Road",
@@ -130,12 +130,12 @@
     "albumYear" : "2010",
     "albumTitle" : "The Final Frontier",
     "musicRating" : "6",
-    "avgRating" : "8-1291"
+    "avgRating" : "8-1292"
   }, {
     "albumYear" : "2015",
     "albumTitle" : "The Book of Souls",
     "musicRating" : "7",
-    "avgRating" : "9-1486"
+    "avgRating" : "9-1488"
   }, {
     "albumYear" : "2017",
     "albumTitle" : "The Book of Souls: Live Chapter",

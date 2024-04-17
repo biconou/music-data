@@ -31,12 +31,12 @@
     "albumYear" : "1993",
     "albumTitle" : "Rid of Me",
     "musicRating" : "9",
-    "avgRating" : "9-2055"
+    "avgRating" : "9-2057"
   }, {
     "albumYear" : "1995",
     "albumTitle" : "To Bring You My Love",
     "musicRating" : "8",
-    "avgRating" : "9-1491"
+    "avgRating" : "9-1492"
   }, {
     "albumYear" : "1996",
     "albumTitle" : "Dance Hall at Louse Point",
@@ -46,12 +46,12 @@
     "albumYear" : "1998",
     "albumTitle" : "Is This Desire?",
     "musicRating" : "5",
-    "avgRating" : "9-694"
+    "avgRating" : "9-695"
   }, {
     "albumYear" : "2000",
     "albumTitle" : "Stories From the City, Stories From the Sea",
     "musicRating" : "7",
-    "avgRating" : "9-1312"
+    "avgRating" : "9-1313"
   }, {
     "albumYear" : "2004",
     "albumTitle" : "Uh Huh Her",
@@ -226,6 +226,9 @@
     }, {
       "artist" : "Louise Post",
       "ArtistId" : "louise-post-mn0000260991"
+    }, {
+      "artist" : "Mary Timony",
+      "ArtistId" : "mary-timony-mn0000379524"
     }, {
       "artist" : "Nina Nastasia",
       "ArtistId" : "nina-nastasia-mn0000414095"

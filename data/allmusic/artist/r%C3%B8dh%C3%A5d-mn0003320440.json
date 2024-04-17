@@ -1,0 +1,52 @@
+{
+  "id" : "r%C3%B8dh%C3%A5d-mn0003320440",
+  "name" : "Rødhåd",
+  "activeDates" : "2010s - 2020s",
+  "birthDate" : "Berlin, Germany",
+  "birthPlace" : "",
+  "styles" : [ {
+    "name" : "Techno",
+    "url" : "https://www.allmusic.com/style/techno-ma0000002893"
+  } ],
+  "decades" : "2010s - 2020s",
+  "genres" : "Electronic",
+  "discography" : [ {
+    "albumYear" : "2017",
+    "albumTitle" : "Anxious",
+    "musicRating" : "",
+    "avgRating" : "7-4"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "FJAAK",
+      "ArtistId" : "fjaak-mn0003273124"
+    }, {
+      "artist" : "Paula Temple",
+      "ArtistId" : "paula-temple-mn0000751768"
+    }, {
+      "artist" : "Marcel Dettmann",
+      "ArtistId" : "marcel-dettmann-mn0000934264"
+    }, {
+      "artist" : "Marco Bailey",
+      "ArtistId" : "marco-bailey-mn0000565682"
+    }, {
+      "artist" : "Skee Mask",
+      "ArtistId" : "skee-mask-mn0003739557"
+    }, {
+      "artist" : "Charlotte de Witte",
+      "ArtistId" : "charlotte-de-witte-mn0003386641"
+    }, {
+      "artist" : "Kobosil",
+      "ArtistId" : "kobosil-mn0003155772"
+    }, {
+      "artist" : "Voiski",
+      "ArtistId" : "voiski-mn0002504644"
+    }, {
+      "artist" : "Vril",
+      "ArtistId" : "vril-mn0002761723"
+    } ],
+    "influencers" : [ ],
+    "followers" : [ ],
+    "associatedwith" : [ ]
+  }
+}

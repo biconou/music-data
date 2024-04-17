@@ -20,12 +20,12 @@
     "albumYear" : "1988",
     "albumTitle" : "Surfer Rosa",
     "musicRating" : "9",
-    "avgRating" : "10-4280"
+    "avgRating" : "10-4281"
   }, {
     "albumYear" : "1989",
     "albumTitle" : "Doolittle",
     "musicRating" : "9",
-    "avgRating" : "10-4577"
+    "avgRating" : "10-4581"
   }, {
     "albumYear" : "1990",
     "albumTitle" : "Bossanova",
@@ -55,7 +55,7 @@
     "albumYear" : "2022",
     "albumTitle" : "Doggerel",
     "musicRating" : "6",
-    "avgRating" : "6-188"
+    "avgRating" : "6-189"
   } ],
   "related" : {
     "similars" : [ {

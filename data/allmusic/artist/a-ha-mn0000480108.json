@@ -47,37 +47,37 @@
     "albumYear" : "1985",
     "albumTitle" : "Hunting High and Low",
     "musicRating" : "7",
-    "avgRating" : "9-761"
+    "avgRating" : "9-762"
   }, {
     "albumYear" : "1986",
     "albumTitle" : "Scoundrel Days",
     "musicRating" : "6",
-    "avgRating" : "9-397"
+    "avgRating" : "9-398"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Stay on These Roads",
     "musicRating" : "3",
-    "avgRating" : "8-275"
+    "avgRating" : "8-276"
   }, {
     "albumYear" : "1990",
     "albumTitle" : "East of the Sun, West of the Moon",
     "musicRating" : "5",
-    "avgRating" : "8-241"
+    "avgRating" : "8-242"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "Memorial Beach",
     "musicRating" : "1",
-    "avgRating" : "8-231"
+    "avgRating" : "8-232"
   }, {
     "albumYear" : "2000",
     "albumTitle" : "Minor Earth Major Sky",
     "musicRating" : "5",
-    "avgRating" : "8-215"
+    "avgRating" : "8-216"
   }, {
     "albumYear" : "2002",
     "albumTitle" : "Lifelines",
     "musicRating" : "5",
-    "avgRating" : "8-175"
+    "avgRating" : "8-176"
   }, {
     "albumYear" : "2003",
     "albumTitle" : "How Can I Sleep with Your Voice in My Head",
@@ -87,22 +87,22 @@
     "albumYear" : "2005",
     "albumTitle" : "Analogue",
     "musicRating" : "4",
-    "avgRating" : "8-176"
+    "avgRating" : "8-177"
   }, {
     "albumYear" : "2009",
     "albumTitle" : "Foot of the Mountain",
     "musicRating" : "6",
-    "avgRating" : "8-188"
+    "avgRating" : "8-189"
   }, {
     "albumYear" : "2015",
     "albumTitle" : "Cast in Steel",
     "musicRating" : "",
-    "avgRating" : "8-138"
+    "avgRating" : "8-139"
   }, {
     "albumYear" : "2017",
     "albumTitle" : "Acoustic Hits: MTV Unplugged",
     "musicRating" : "",
-    "avgRating" : ""
+    "avgRating" : "8-1"
   }, {
     "albumYear" : "2017",
     "albumTitle" : "MTV Unplugged: Summer Solstice",
@@ -112,7 +112,7 @@
     "albumYear" : "2022",
     "albumTitle" : "True North",
     "musicRating" : "6",
-    "avgRating" : "7-75"
+    "avgRating" : "7-76"
   } ],
   "related" : {
     "similars" : [ {
