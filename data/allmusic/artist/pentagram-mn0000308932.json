@@ -65,11 +65,6 @@
     "musicRating" : "",
     "avgRating" : "10-3"
   }, {
-    "albumYear" : "2024",
-    "albumTitle" : "Eternal Life of Madness",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
     "albumYear" : "",
     "albumTitle" : "Curious Volume",
     "musicRating" : "",
@@ -116,13 +111,13 @@
       "artist" : "Dwarr",
       "ArtistId" : "dwarr-mn0002512644"
     }, {
+      "artist" : "The Gates of Slumber",
+      "ArtistId" : "the-gates-of-slumber-mn0000996941"
+    }, {
       "artist" : "The Rods",
       "ArtistId" : "the-rods-mn0000835269"
     } ],
     "influencers" : [ {
-      "artist" : "Black Sabbath",
-      "ArtistId" : "black-sabbath-mn0000771438"
-    }, {
       "artist" : "Blue Cheer",
       "ArtistId" : "blue-cheer-mn0000059537"
     }, {

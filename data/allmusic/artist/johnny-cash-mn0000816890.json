@@ -35,37 +35,37 @@
     "albumYear" : "1957",
     "albumTitle" : "With His Hot and Blue Guitar",
     "musicRating" : "8",
-    "avgRating" : "9-1022"
+    "avgRating" : "9-1025"
   }, {
     "albumYear" : "1958",
     "albumTitle" : "The Fabulous Johnny Cash",
     "musicRating" : "8",
-    "avgRating" : "9-259"
+    "avgRating" : "9-260"
   }, {
     "albumYear" : "1958",
     "albumTitle" : "Sings the Songs That Made Him Famous",
     "musicRating" : "7",
-    "avgRating" : "9-160"
+    "avgRating" : "9-163"
   }, {
     "albumYear" : "1959",
     "albumTitle" : "Hymns by Johnny Cash",
     "musicRating" : "7",
-    "avgRating" : "8-96"
+    "avgRating" : "8-97"
   }, {
     "albumYear" : "1959",
     "albumTitle" : "Songs of Our Soil",
     "musicRating" : "7",
-    "avgRating" : "9-116"
+    "avgRating" : "9-117"
   }, {
     "albumYear" : "1960",
     "albumTitle" : "Now, There Was a Song!",
     "musicRating" : "8",
-    "avgRating" : "9-103"
+    "avgRating" : "9-104"
   }, {
     "albumYear" : "1960",
     "albumTitle" : "Ride This Train",
     "musicRating" : "8",
-    "avgRating" : "8-156"
+    "avgRating" : "8-157"
   }, {
     "albumYear" : "1960",
     "albumTitle" : "Sings Hank Williams",
@@ -100,22 +100,22 @@
     "albumYear" : "1963",
     "albumTitle" : "Blood, Sweat and Tears",
     "musicRating" : "5",
-    "avgRating" : "8-85"
+    "avgRating" : "8-86"
   }, {
     "albumYear" : "1963",
     "albumTitle" : "Ring of Fire: The Best of Johnny Cash",
     "musicRating" : "7",
-    "avgRating" : "9-116"
+    "avgRating" : "9-119"
   }, {
     "albumYear" : "1964",
     "albumTitle" : "Bitter Tears (Ballads of the American Indian)",
     "musicRating" : "8",
-    "avgRating" : "9-171"
+    "avgRating" : "9-174"
   }, {
     "albumYear" : "1964",
     "albumTitle" : "I Walk the Line",
     "musicRating" : "8",
-    "avgRating" : "9-499"
+    "avgRating" : "9-502"
   }, {
     "albumYear" : "1964",
     "albumTitle" : "Keep on the Sunnyside",
@@ -125,17 +125,17 @@
     "albumYear" : "1965",
     "albumTitle" : "Ballads of the True West 2",
     "musicRating" : "8",
-    "avgRating" : "9-11"
+    "avgRating" : "9-12"
   }, {
     "albumYear" : "1965",
     "albumTitle" : "Orange Blossom Special",
     "musicRating" : "7",
-    "avgRating" : "9-186"
+    "avgRating" : "9-188"
   }, {
     "albumYear" : "1965",
     "albumTitle" : "Sings the Ballads of the True West",
     "musicRating" : "9",
-    "avgRating" : "9-178"
+    "avgRating" : "9-180"
   }, {
     "albumYear" : "1965",
     "albumTitle" : "The Sons of Katie Elder",
@@ -145,17 +145,17 @@
     "albumYear" : "1966",
     "albumTitle" : "Happiness Is You",
     "musicRating" : "4",
-    "avgRating" : "7-42"
+    "avgRating" : "7-43"
   }, {
     "albumYear" : "1966",
     "albumTitle" : "Mean as Hell!",
     "musicRating" : "7",
-    "avgRating" : "8-30"
+    "avgRating" : "8-31"
   }, {
     "albumYear" : "1966",
     "albumTitle" : "Everybody Loves a Nut",
     "musicRating" : "7",
-    "avgRating" : "8-57"
+    "avgRating" : "8-58"
   }, {
     "albumYear" : "1966",
     "albumTitle" : "That's What You Get for Loving Me",
@@ -165,17 +165,17 @@
     "albumYear" : "1967",
     "albumTitle" : "Carryin' On",
     "musicRating" : "4",
-    "avgRating" : "8-66"
+    "avgRating" : "8-67"
   }, {
     "albumYear" : "1968",
     "albumTitle" : "At Folsom Prison [1968]",
     "musicRating" : "9",
-    "avgRating" : "10-1602"
+    "avgRating" : "10-1622"
   }, {
     "albumYear" : "1968",
     "albumTitle" : "From Sea to Shining Sea",
     "musicRating" : "5",
-    "avgRating" : "8-36"
+    "avgRating" : "8-37"
   }, {
     "albumYear" : "1968",
     "albumTitle" : "Heart of Cash",
@@ -185,7 +185,7 @@
     "albumYear" : "1968",
     "albumTitle" : "Old Golden Throat",
     "musicRating" : "5",
-    "avgRating" : "8-16"
+    "avgRating" : "8-17"
   }, {
     "albumYear" : "1969",
     "albumTitle" : "Grand Canyon Suite",
@@ -195,7 +195,7 @@
     "albumYear" : "1969",
     "albumTitle" : "Hello, I'm Johnny Cash",
     "musicRating" : "7",
-    "avgRating" : "9-108"
+    "avgRating" : "9-110"
   }, {
     "albumYear" : "1969",
     "albumTitle" : "Jackson",
@@ -210,12 +210,12 @@
     "albumYear" : "1969",
     "albumTitle" : "At San Quentin [1969]",
     "musicRating" : "9",
-    "avgRating" : "10-1183"
+    "avgRating" : "10-1191"
   }, {
     "albumYear" : "1970",
     "albumTitle" : "The Johnny Cash Show",
     "musicRating" : "7",
-    "avgRating" : "9-72"
+    "avgRating" : "9-73"
   }, {
     "albumYear" : "1970",
     "albumTitle" : "Little Fauss and Big Halsy [Original Soundtrack]",
@@ -230,7 +230,7 @@
     "albumYear" : "1971",
     "albumTitle" : "Man in Black",
     "musicRating" : "5",
-    "avgRating" : "9-84"
+    "avgRating" : "9-86"
   }, {
     "albumYear" : "1971",
     "albumTitle" : "The Man, The World, His Music",
@@ -240,7 +240,7 @@
     "albumYear" : "1972",
     "albumTitle" : "America: A 200-Year Salute in Story and Song",
     "musicRating" : "3",
-    "avgRating" : "7-48"
+    "avgRating" : "7-49"
   }, {
     "albumYear" : "1972",
     "albumTitle" : "Johnny Cash Family Christmas",
@@ -250,7 +250,7 @@
     "albumYear" : "1972",
     "albumTitle" : "A Thing Called Love",
     "musicRating" : "5",
-    "avgRating" : "8-30"
+    "avgRating" : "8-31"
   }, {
     "albumYear" : "1973",
     "albumTitle" : "Country & Western Superstar",
@@ -260,7 +260,7 @@
     "albumYear" : "1973",
     "albumTitle" : "Johnny Cash and His Woman",
     "musicRating" : "3",
-    "avgRating" : "8-20"
+    "avgRating" : "8-21"
   }, {
     "albumYear" : "1973",
     "albumTitle" : "På Österåker",
@@ -275,7 +275,7 @@
     "albumYear" : "1973",
     "albumTitle" : "Any Old Wind That Blows",
     "musicRating" : "3",
-    "avgRating" : "7-27"
+    "avgRating" : "7-28"
   }, {
     "albumYear" : "1973",
     "albumTitle" : "The Gospel Road",
@@ -285,12 +285,12 @@
     "albumYear" : "1974",
     "albumTitle" : "John R. Cash",
     "musicRating" : "7",
-    "avgRating" : "9-43"
+    "avgRating" : "9-44"
   }, {
     "albumYear" : "1974",
     "albumTitle" : "Junkie and the Juicehead Minus Me",
     "musicRating" : "5",
-    "avgRating" : "8-20"
+    "avgRating" : "8-21"
   }, {
     "albumYear" : "1974",
     "albumTitle" : "I Walk the Line [Original Soundtrack]",
@@ -300,7 +300,7 @@
     "albumYear" : "1974",
     "albumTitle" : "Ragged Old Flag",
     "musicRating" : "5",
-    "avgRating" : "8-58"
+    "avgRating" : "8-59"
   }, {
     "albumYear" : "1975",
     "albumTitle" : "Ridin' the Rails: The Great American Train Story",
@@ -310,7 +310,7 @@
     "albumYear" : "1975",
     "albumTitle" : "The Johnny Cash Children's Album",
     "musicRating" : "5",
-    "avgRating" : "8-35"
+    "avgRating" : "8-36"
   }, {
     "albumYear" : "1975",
     "albumTitle" : "Look at Them Beans",
@@ -320,7 +320,7 @@
     "albumYear" : "1975",
     "albumTitle" : "Sings Precious Memories",
     "musicRating" : "4",
-    "avgRating" : "8-27"
+    "avgRating" : "8-28"
   }, {
     "albumYear" : "1976",
     "albumTitle" : "Destination Victoria Station",
@@ -330,27 +330,27 @@
     "albumYear" : "1976",
     "albumTitle" : "One Piece at a Time",
     "musicRating" : "5",
-    "avgRating" : "9-61"
+    "avgRating" : "9-62"
   }, {
     "albumYear" : "1976",
     "albumTitle" : "Strawberry Cake",
     "musicRating" : "3",
-    "avgRating" : "8-15"
+    "avgRating" : "8-16"
   }, {
     "albumYear" : "1977",
     "albumTitle" : "Last Gunfighter Ballad",
     "musicRating" : "3",
-    "avgRating" : "8-26"
+    "avgRating" : "7-27"
   }, {
     "albumYear" : "1977",
     "albumTitle" : "The Rambler",
     "musicRating" : "3",
-    "avgRating" : "7-39"
+    "avgRating" : "7-40"
   }, {
     "albumYear" : "1978",
     "albumTitle" : "Gone Girl",
     "musicRating" : "3",
-    "avgRating" : "7-34"
+    "avgRating" : "7-35"
   }, {
     "albumYear" : "1978",
     "albumTitle" : "I Would Like to See You Again",
@@ -360,7 +360,7 @@
     "albumYear" : "1979",
     "albumTitle" : "Silver",
     "musicRating" : "2",
-    "avgRating" : "8-52"
+    "avgRating" : "8-53"
   }, {
     "albumYear" : "1980",
     "albumTitle" : "A Believer Sings the Truth",
@@ -375,12 +375,12 @@
     "albumYear" : "1980",
     "albumTitle" : "Rockabilly Blues",
     "musicRating" : "5",
-    "avgRating" : "8-44"
+    "avgRating" : "8-45"
   }, {
     "albumYear" : "1981",
     "albumTitle" : "The Baron",
     "musicRating" : "3",
-    "avgRating" : "8-26"
+    "avgRating" : "8-27"
   }, {
     "albumYear" : "1982",
     "albumTitle" : "Inside a Swedish Prison",
@@ -390,7 +390,7 @@
     "albumYear" : "1982",
     "albumTitle" : "Adventures of Johnny Cash",
     "musicRating" : "4",
-    "avgRating" : "8-24"
+    "avgRating" : "8-25"
   }, {
     "albumYear" : "1982",
     "albumTitle" : "The Survivors Live",
@@ -400,7 +400,7 @@
     "albumYear" : "1983",
     "albumTitle" : "Johnny 99",
     "musicRating" : "7",
-    "avgRating" : "9-55"
+    "avgRating" : "9-58"
   }, {
     "albumYear" : "1983",
     "albumTitle" : "Koncert V Praze: In Prague Live",
@@ -410,7 +410,7 @@
     "albumYear" : "1985",
     "albumTitle" : "Rainbow",
     "musicRating" : "",
-    "avgRating" : "8-22"
+    "avgRating" : "7-23"
   }, {
     "albumYear" : "1986",
     "albumTitle" : "Believe in Him",
@@ -425,7 +425,7 @@
     "albumYear" : "1986",
     "albumTitle" : "Heroes",
     "musicRating" : "7",
-    "avgRating" : "9-62"
+    "avgRating" : "9-64"
   }, {
     "albumYear" : "1987",
     "albumTitle" : "Johnny Cash Is Coming to Town",
@@ -445,17 +445,17 @@
     "albumYear" : "1988",
     "albumTitle" : "Water From the Wells of Home",
     "musicRating" : "3",
-    "avgRating" : "7-40"
+    "avgRating" : "7-41"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Classic Cash: Hall of Fame Series",
     "musicRating" : "1",
-    "avgRating" : "8-32"
+    "avgRating" : "8-33"
   }, {
     "albumYear" : "1989",
     "albumTitle" : "Boom Chicka Boom",
     "musicRating" : "7",
-    "avgRating" : "8-42"
+    "avgRating" : "8-43"
   }, {
     "albumYear" : "1990",
     "albumTitle" : "The Mystery of Life",
@@ -470,27 +470,27 @@
     "albumYear" : "1994",
     "albumTitle" : "American Recordings",
     "musicRating" : "8",
-    "avgRating" : "9-1057"
+    "avgRating" : "9-1062"
   }, {
     "albumYear" : "1996",
     "albumTitle" : "Unchained",
     "musicRating" : "6",
-    "avgRating" : "9-487"
+    "avgRating" : "9-489"
   }, {
     "albumYear" : "1998",
     "albumTitle" : "VH1 Storytellers",
     "musicRating" : "5",
-    "avgRating" : "8-116"
+    "avgRating" : "8-117"
   }, {
     "albumYear" : "2000",
     "albumTitle" : "American III: Solitary Man",
     "musicRating" : "5",
-    "avgRating" : "9-546"
+    "avgRating" : "9-548"
   }, {
     "albumYear" : "2002",
     "albumTitle" : "American IV: The Man Comes Around",
     "musicRating" : "4",
-    "avgRating" : "9-1086"
+    "avgRating" : "9-1089"
   }, {
     "albumYear" : "2003",
     "albumTitle" : "A Concert Behind Prison Walls",
@@ -500,17 +500,17 @@
     "albumYear" : "2004",
     "albumTitle" : "My Mother's Hymn Book",
     "musicRating" : "8",
-    "avgRating" : "9-168"
+    "avgRating" : "9-170"
   }, {
     "albumYear" : "2006",
     "albumTitle" : "American V: A Hundred Highways",
     "musicRating" : "7",
-    "avgRating" : "9-545"
+    "avgRating" : "9-547"
   }, {
     "albumYear" : "2010",
     "albumTitle" : "American VI: Ain't No Grave",
     "musicRating" : "7",
-    "avgRating" : "9-399"
+    "avgRating" : "9-401"
   }, {
     "albumYear" : "",
     "albumTitle" : "Up Country",

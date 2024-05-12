@@ -20,7 +20,7 @@
     "albumYear" : "1991",
     "albumTitle" : "Like an Everflowing Stream",
     "musicRating" : "9",
-    "avgRating" : "9-164"
+    "avgRating" : "9-165"
   }, {
     "albumYear" : "1992",
     "albumTitle" : "Pieces",
@@ -35,12 +35,12 @@
     "albumYear" : "1995",
     "albumTitle" : "Massive Killing Capacity",
     "musicRating" : "7",
-    "avgRating" : "8-39"
+    "avgRating" : "8-40"
   }, {
     "albumYear" : "1997",
     "albumTitle" : "Death Metal",
     "musicRating" : "",
-    "avgRating" : "7-55"
+    "avgRating" : "7-58"
   }, {
     "albumYear" : "2000",
     "albumTitle" : "Hate Campaign",
@@ -111,6 +111,9 @@
     }, {
       "artist" : "Asinhell",
       "ArtistId" : "asinhell-mn0004468311"
+    }, {
+      "artist" : "Deicide",
+      "ArtistId" : "deicide-mn0000194008"
     }, {
       "artist" : "Obituary",
       "ArtistId" : "obituary-mn0000465562"

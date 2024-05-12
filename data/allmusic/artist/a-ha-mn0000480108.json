@@ -47,57 +47,57 @@
     "albumYear" : "1985",
     "albumTitle" : "Hunting High and Low",
     "musicRating" : "7",
-    "avgRating" : "9-762"
+    "avgRating" : "9-768"
   }, {
     "albumYear" : "1986",
     "albumTitle" : "Scoundrel Days",
     "musicRating" : "6",
-    "avgRating" : "9-398"
+    "avgRating" : "9-402"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Stay on These Roads",
     "musicRating" : "3",
-    "avgRating" : "8-276"
+    "avgRating" : "8-280"
   }, {
     "albumYear" : "1990",
     "albumTitle" : "East of the Sun, West of the Moon",
     "musicRating" : "5",
-    "avgRating" : "8-242"
+    "avgRating" : "8-246"
   }, {
     "albumYear" : "1993",
     "albumTitle" : "Memorial Beach",
     "musicRating" : "1",
-    "avgRating" : "8-232"
+    "avgRating" : "8-237"
   }, {
     "albumYear" : "2000",
     "albumTitle" : "Minor Earth Major Sky",
     "musicRating" : "5",
-    "avgRating" : "8-216"
+    "avgRating" : "8-219"
   }, {
     "albumYear" : "2002",
     "albumTitle" : "Lifelines",
     "musicRating" : "5",
-    "avgRating" : "8-176"
+    "avgRating" : "8-180"
   }, {
     "albumYear" : "2003",
     "albumTitle" : "How Can I Sleep with Your Voice in My Head",
     "musicRating" : "5",
-    "avgRating" : "8-74"
+    "avgRating" : "8-75"
   }, {
     "albumYear" : "2005",
     "albumTitle" : "Analogue",
     "musicRating" : "4",
-    "avgRating" : "8-177"
+    "avgRating" : "8-180"
   }, {
     "albumYear" : "2009",
     "albumTitle" : "Foot of the Mountain",
     "musicRating" : "6",
-    "avgRating" : "8-189"
+    "avgRating" : "8-191"
   }, {
     "albumYear" : "2015",
     "albumTitle" : "Cast in Steel",
     "musicRating" : "",
-    "avgRating" : "8-139"
+    "avgRating" : "8-142"
   }, {
     "albumYear" : "2017",
     "albumTitle" : "Acoustic Hits: MTV Unplugged",
@@ -107,12 +107,12 @@
     "albumYear" : "2017",
     "albumTitle" : "MTV Unplugged: Summer Solstice",
     "musicRating" : "7",
-    "avgRating" : "8-100"
+    "avgRating" : "8-101"
   }, {
     "albumYear" : "2022",
     "albumTitle" : "True North",
     "musicRating" : "6",
-    "avgRating" : "7-76"
+    "avgRating" : "7-80"
   } ],
   "related" : {
     "similars" : [ {

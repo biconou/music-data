@@ -20,17 +20,17 @@
     "albumYear" : "1986",
     "albumTitle" : "Epicus Doomicus Metallicus",
     "musicRating" : "8",
-    "avgRating" : "10-449"
+    "avgRating" : "10-450"
   }, {
     "albumYear" : "1987",
     "albumTitle" : "Nightfall",
     "musicRating" : "8",
-    "avgRating" : "10-449"
+    "avgRating" : "10-452"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Ancient Dreams",
     "musicRating" : "5",
-    "avgRating" : "9-304"
+    "avgRating" : "9-308"
   }, {
     "albumYear" : "1989",
     "albumTitle" : "Tales of Creation",
@@ -45,7 +45,7 @@
     "albumYear" : "1995",
     "albumTitle" : "Chapter VI",
     "musicRating" : "3",
-    "avgRating" : "4-93"
+    "avgRating" : "4-94"
   }, {
     "albumYear" : "1998",
     "albumTitle" : "Dactylis Glomerata",
@@ -70,7 +70,7 @@
     "albumYear" : "2006",
     "albumTitle" : "Candlemass",
     "musicRating" : "7",
-    "avgRating" : "7-152"
+    "avgRating" : "7-154"
   }, {
     "albumYear" : "2007",
     "albumTitle" : "The King of the Grey Islands",
@@ -85,7 +85,7 @@
     "albumYear" : "2009",
     "albumTitle" : "Death Magic Doom",
     "musicRating" : "7",
-    "avgRating" : "8-218"
+    "avgRating" : "8-219"
   }, {
     "albumYear" : "2010",
     "albumTitle" : "Doomology [Box Set]",
@@ -100,12 +100,12 @@
     "albumYear" : "2012",
     "albumTitle" : "Psalms for the Dead",
     "musicRating" : "5",
-    "avgRating" : "8-166"
+    "avgRating" : "7-167"
   }, {
     "albumYear" : "2019",
     "albumTitle" : "The Door to Doom",
     "musicRating" : "",
-    "avgRating" : "8-198"
+    "avgRating" : "8-200"
   }, {
     "albumYear" : "2022",
     "albumTitle" : "Don't Fear the Reaper",
@@ -115,7 +115,12 @@
     "albumYear" : "2022",
     "albumTitle" : "Sweet Evil Sun",
     "musicRating" : "",
-    "avgRating" : "6-35"
+    "avgRating" : "6-36"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Tritonus Nights",
+    "musicRating" : "",
+    "avgRating" : ""
   }, {
     "albumYear" : "",
     "albumTitle" : "No Sleep Till Athens: Live",

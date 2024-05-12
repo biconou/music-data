@@ -67,12 +67,12 @@
     "avgRating" : "9-5"
   }, {
     "albumYear" : "1990",
-    "albumTitle" : "Mozart: String Quartets 20 KV 499, 21 KV 575",
+    "albumTitle" : "Mozart: String Quartets 22 KV 589, 23 KV 590",
     "musicRating" : "",
     "avgRating" : "10-1"
   }, {
     "albumYear" : "1990",
-    "albumTitle" : "Mozart: String Quartets 22 KV 589, 23 KV 590",
+    "albumTitle" : "Mozart: String Quartets 20 KV 499, 21 KV 575",
     "musicRating" : "",
     "avgRating" : "10-1"
   }, {
@@ -317,6 +317,11 @@
     "avgRating" : ""
   }, {
     "albumYear" : "2008",
+    "albumTitle" : "20th Century Masterpieces",
+    "musicRating" : "",
+    "avgRating" : "8-3"
+  }, {
+    "albumYear" : "2008",
     "albumTitle" : "Janácek: String Quartets Nos. 1 \"Kreutzer Sonata\" & 2 \"Intimate Letters\";  Dvorák: Piano Quintet - Dumka",
     "musicRating" : "9",
     "avgRating" : ""
@@ -366,13 +371,8 @@
     "musicRating" : "",
     "avgRating" : ""
   }, {
-    "albumYear" : "",
-    "albumTitle" : "Joseph Haydn : Streichquartette Op. 76, 3 \"The Emperor\", Op. 74,3  \"The Rider\"",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Haydn: String Quartets & Piano Trios",
+    "albumYear" : "2024",
+    "albumTitle" : "Schumann, Brahms, Dvorák",
     "musicRating" : "",
     "avgRating" : ""
   }, {
@@ -382,19 +382,19 @@
     "avgRating" : ""
   }, {
     "albumYear" : "",
-    "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 22 KV 589 & Nr. 23 KV 590 [1977]",
+    "albumTitle" : "Joseph Haydn : Streichquartette Op. 76, 3 \"The Emperor\", Op. 74,3  \"The Rider\"",
     "musicRating" : "",
     "avgRating" : ""
   }, {
     "albumYear" : "",
-    "albumTitle" : "Alban Berg Quartett: The Complete Recordings",
+    "albumTitle" : "Bartók: String Quartets Nos. 1-6",
     "musicRating" : "",
     "avgRating" : ""
   }, {
     "albumYear" : "",
-    "albumTitle" : "String Quartets",
+    "albumTitle" : "Haydn: String Quartets & Piano Trios",
     "musicRating" : "",
-    "avgRating" : "8-2"
+    "avgRating" : ""
   }, {
     "albumYear" : "",
     "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 18 KV 464 & Nr. 19 KV 465 [1977]",
@@ -402,7 +402,7 @@
     "avgRating" : ""
   }, {
     "albumYear" : "",
-    "albumTitle" : "Beethoven: String Quartets, Op. 59 No. 3 \"Razumovsky\" & Op. 74 Harp",
+    "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 22 KV 589 & Nr. 23 KV 590 [1977]",
     "musicRating" : "",
     "avgRating" : ""
   }, {
@@ -412,12 +412,22 @@
     "avgRating" : ""
   }, {
     "albumYear" : "",
-    "albumTitle" : "Beethoven: String Quartets op. 127 & 131",
+    "albumTitle" : "String Quartets",
+    "musicRating" : "",
+    "avgRating" : "8-2"
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Beethoven: String Quartets op. 132 & 135",
     "musicRating" : "",
     "avgRating" : ""
   }, {
     "albumYear" : "",
-    "albumTitle" : "Beethoven: String Quartets op. 132 & 135",
+    "albumTitle" : "Beethoven: String Quartets, Op. 59 No. 3 \"Razumovsky\" & Op. 74 Harp",
+    "musicRating" : "",
+    "avgRating" : ""
+  }, {
+    "albumYear" : "",
+    "albumTitle" : "Beethoven: String Quartets op. 127 & 131",
     "musicRating" : "",
     "avgRating" : ""
   }, {
@@ -430,11 +440,6 @@
     "albumTitle" : "Beethoven: Die frühen Streichquartette op. 18",
     "musicRating" : "",
     "avgRating" : "9-3"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Bartók: String Quartets Nos. 1-6",
-    "musicRating" : "",
-    "avgRating" : ""
   }, {
     "albumYear" : "",
     "albumTitle" : "Schubert: Streichquartett No. 15",
@@ -482,9 +487,9 @@
     "avgRating" : ""
   }, {
     "albumYear" : "",
-    "albumTitle" : "20th Century Masterpieces",
+    "albumTitle" : "Alban Berg Quartett: The Complete Recordings",
     "musicRating" : "",
-    "avgRating" : "8-3"
+    "avgRating" : ""
   } ],
   "related" : {
     "similars" : [ {

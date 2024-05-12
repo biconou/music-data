@@ -26,92 +26,92 @@
     "albumYear" : "1975",
     "albumTitle" : "High Voltage [Australia]",
     "musicRating" : "6",
-    "avgRating" : "8-428"
+    "avgRating" : "8-430"
   }, {
     "albumYear" : "1975",
     "albumTitle" : "T.N.T.",
     "musicRating" : "7",
-    "avgRating" : "9-777"
+    "avgRating" : "9-781"
   }, {
     "albumYear" : "1976",
     "albumTitle" : "High Voltage",
     "musicRating" : "8",
-    "avgRating" : "9-2528"
+    "avgRating" : "9-2544"
   }, {
     "albumYear" : "1976",
     "albumTitle" : "Dirty Deeds Done Dirt Cheap",
     "musicRating" : "9",
-    "avgRating" : "9-3472"
+    "avgRating" : "9-3497"
   }, {
     "albumYear" : "1977",
     "albumTitle" : "Let There Be Rock",
     "musicRating" : "8",
-    "avgRating" : "9-2324"
+    "avgRating" : "9-2343"
   }, {
     "albumYear" : "1978",
     "albumTitle" : "Powerage",
     "musicRating" : "6",
-    "avgRating" : "9-1748"
+    "avgRating" : "9-1761"
   }, {
     "albumYear" : "1978",
     "albumTitle" : "If You Want Blood You've Got It",
     "musicRating" : "6",
-    "avgRating" : "9-1496"
+    "avgRating" : "9-1501"
   }, {
     "albumYear" : "1979",
     "albumTitle" : "Highway to Hell",
     "musicRating" : "9",
-    "avgRating" : "9-4332"
+    "avgRating" : "9-4356"
   }, {
     "albumYear" : "1980",
     "albumTitle" : "Back in Black",
     "musicRating" : "9",
-    "avgRating" : "10-5106"
+    "avgRating" : "10-5154"
   }, {
     "albumYear" : "1981",
     "albumTitle" : "For Those About to Rock We Salute You",
     "musicRating" : "5",
-    "avgRating" : "8-1574"
+    "avgRating" : "8-1583"
   }, {
     "albumYear" : "1983",
     "albumTitle" : "Flick of the Switch",
     "musicRating" : "3",
-    "avgRating" : "7-934"
+    "avgRating" : "7-944"
   }, {
     "albumYear" : "1985",
     "albumTitle" : "Fly on the Wall",
     "musicRating" : "5",
-    "avgRating" : "6-831"
+    "avgRating" : "6-837"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Blow Up Your Video",
     "musicRating" : "4",
-    "avgRating" : "7-850"
+    "avgRating" : "7-854"
   }, {
     "albumYear" : "1990",
-    "albumTitle" : "The Razor's Edge",
+    "albumTitle" : "The Razors Edge",
     "musicRating" : "5",
-    "avgRating" : "8-1305"
+    "avgRating" : "8-1312"
   }, {
     "albumYear" : "1992",
     "albumTitle" : "Live",
     "musicRating" : "5",
-    "avgRating" : "8-974"
+    "avgRating" : "8-981"
   }, {
     "albumYear" : "1995",
     "albumTitle" : "Ballbreaker",
     "musicRating" : "5",
-    "avgRating" : "7-1095"
+    "avgRating" : "7-1099"
   }, {
     "albumYear" : "2000",
     "albumTitle" : "Stiff Upper Lip",
     "musicRating" : "7",
-    "avgRating" : "7-1470"
+    "avgRating" : "7-1475"
   }, {
     "albumYear" : "2008",
     "albumTitle" : "Black Ice",
     "musicRating" : "5",
-    "avgRating" : "7-1451"
+    "avgRating" : "7-1457"
   }, {
     "albumYear" : "2012",
     "albumTitle" : "Live at River Plate",
@@ -121,12 +121,12 @@
     "albumYear" : "2014",
     "albumTitle" : "Rock or Bust",
     "musicRating" : "7",
-    "avgRating" : "8-884"
+    "avgRating" : "8-887"
   }, {
     "albumYear" : "2020",
     "albumTitle" : "Power Up",
     "musicRating" : "7",
-    "avgRating" : "8-473"
+    "avgRating" : "8-479"
   } ],
   "related" : {
     "similars" : [ {

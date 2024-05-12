@@ -32,7 +32,7 @@
     "albumYear" : "2003",
     "albumTitle" : "Dopesmoker",
     "musicRating" : "8",
-    "avgRating" : "9-516"
+    "avgRating" : "9-520"
   }, {
     "albumYear" : "2018",
     "albumTitle" : "The Sciences",
@@ -166,6 +166,9 @@
     }, {
       "artist" : "Harsh Toke",
       "ArtistId" : "harsh-toke-mn0003175115"
+    }, {
+      "artist" : "High on Fire",
+      "ArtistId" : "high-on-fire-mn0000676530"
     }, {
       "artist" : "JOY",
       "ArtistId" : "joy-mn0003279366"
