@@ -20,22 +20,22 @@
     "albumYear" : "1988",
     "albumTitle" : "Surfer Rosa",
     "musicRating" : "9",
-    "avgRating" : "10-4307"
+    "avgRating" : "10-4310"
   }, {
     "albumYear" : "1989",
     "albumTitle" : "Doolittle",
     "musicRating" : "9",
-    "avgRating" : "10-4617"
+    "avgRating" : "10-4622"
   }, {
     "albumYear" : "1990",
     "albumTitle" : "Bossanova",
     "musicRating" : "8",
-    "avgRating" : "9-2061"
+    "avgRating" : "9-2062"
   }, {
     "albumYear" : "1991",
     "albumTitle" : "Trompe le Monde",
     "musicRating" : "7",
-    "avgRating" : "9-1539"
+    "avgRating" : "9-1540"
   }, {
     "albumYear" : "2014",
     "albumTitle" : "Indie Cindy",
@@ -55,7 +55,7 @@
     "albumYear" : "2022",
     "albumTitle" : "Doggerel",
     "musicRating" : "6",
-    "avgRating" : "6-198"
+    "avgRating" : "6-199"
   } ],
   "related" : {
     "similars" : [ {

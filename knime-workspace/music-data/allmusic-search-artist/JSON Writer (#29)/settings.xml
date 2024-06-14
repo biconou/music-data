@@ -38,7 +38,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="json_column" type="xstring" value="allmusicArtistMain"/>
+        <entry key="json_column" type="xstring" value="artistJson"/>
         <config key="remove_json_column_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -56,7 +56,7 @@
         </config>
         <config key="filename_column">
             <entry key="useRowID" type="xboolean" value="false"/>
-            <entry key="columnName" type="xstring" value="allmusicArtistId"/>
+            <entry key="columnName" type="xstring" value="artistId"/>
         </config>
         <config key="compress_json_files_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
@@ -66,10 +66,6 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Skipped 3 row(s) due to missing values."/>
-    </config>
     <entry key="factory" type="xstring" value="org.knime.json.node.filehandling.writer.JSONWriterNodeFactory2"/>
     <entry key="node-name" type="xstring" value="JSON Writer"/>
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
@@ -94,12 +90,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 13, Cols: 12"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 5, Cols: 8"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="a92763d5-b0d9-4574-93bc-06e3aa9c2f6a"/>
+        <entry key="file_store_id" type="xstring" value="b368a082-0e2b-4b4d-a7b3-2b2ca10d8b33"/>
     </config>
 </config>

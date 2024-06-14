@@ -1,0 +1,202 @@
+{
+  "id" : "grant-lee-buffalo-mn0000740833",
+  "name" : "Grant Lee Buffalo",
+  "activeDates" : "1990s - 2010s",
+  "birthDate" : "1991",
+  "birthPlace" : "Los Angeles, CA",
+  "styles" : [ {
+    "name" : "Adult Alternative Pop/Rock",
+    "url" : "https://www.allmusic.com/style/adult-alternative-pop-rock-ma0000004488"
+  }, {
+    "name" : "Alternative Pop/Rock",
+    "url" : "https://www.allmusic.com/style/alternative-pop-rock-ma0000002422"
+  }, {
+    "name" : "Alternative/Indie Rock",
+    "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
+  }, {
+    "name" : "Americana",
+    "url" : "https://www.allmusic.com/style/americana-ma0000004415"
+  }, {
+    "name" : "Alternative Singer/Songwriter",
+    "url" : "https://www.allmusic.com/style/alternative-singer-songwriter-ma0000012100"
+  } ],
+  "decades" : "1990s - 2010s",
+  "genres" : "Pop/Rock",
+  "discography" : [ {
+    "albumYear" : "1993",
+    "albumTitle" : "Fuzzy",
+    "musicRating" : "8",
+    "avgRating" : "9-347"
+  }, {
+    "albumYear" : "1994",
+    "albumTitle" : "Mighty Joe Moon",
+    "musicRating" : "8",
+    "avgRating" : "9-311"
+  }, {
+    "albumYear" : "1996",
+    "albumTitle" : "Copperopolis",
+    "musicRating" : "6",
+    "avgRating" : "8-171"
+  }, {
+    "albumYear" : "1998",
+    "albumTitle" : "Jubilee",
+    "musicRating" : "7",
+    "avgRating" : "9-87"
+  } ],
+  "related" : {
+    "similars" : [ {
+      "artist" : "American Music Club",
+      "ArtistId" : "american-music-club-mn0000011810"
+    }, {
+      "artist" : "Lisa Germano",
+      "ArtistId" : "lisa-germano-mn0000299500"
+    }, {
+      "artist" : "Vic Chesnutt",
+      "ArtistId" : "vic-chesnutt-mn0000206973"
+    }, {
+      "artist" : "16 Horsepower",
+      "ArtistId" : "16-horsepower-mn0000899350"
+    }, {
+      "artist" : "Counting Crows",
+      "ArtistId" : "counting-crows-mn0000128495"
+    }, {
+      "artist" : "Cracker",
+      "ArtistId" : "cracker-mn0000780625"
+    }, {
+      "artist" : "Graham Colton Band",
+      "ArtistId" : "graham-colton-band-mn0002158915"
+    }, {
+      "artist" : "Hederos & Hellberg",
+      "ArtistId" : "hederos-hellberg-mn0001428497"
+    }, {
+      "artist" : "Joe Firstman",
+      "ArtistId" : "joe-firstman-mn0000783941"
+    }, {
+      "artist" : "Lift to Experience",
+      "ArtistId" : "lift-to-experience-mn0000265732"
+    }, {
+      "artist" : "Mark Lanegan",
+      "ArtistId" : "mark-lanegan-mn0000287350"
+    }, {
+      "artist" : "Matt Langlois",
+      "ArtistId" : "matt-langlois-mn0001837087"
+    }, {
+      "artist" : "Power13",
+      "ArtistId" : "power13-mn0000474374"
+    }, {
+      "artist" : "The Czars",
+      "ArtistId" : "the-czars-mn0000784410"
+    }, {
+      "artist" : "Shawn Amos",
+      "ArtistId" : "shawn-amos-mn0000013006"
+    }, {
+      "artist" : "Goo Goo Dolls",
+      "ArtistId" : "goo-goo-dolls-mn0000949630"
+    }, {
+      "artist" : "Greg Dulli",
+      "ArtistId" : "greg-dulli-mn0000159583"
+    }, {
+      "artist" : "Los Lobos",
+      "ArtistId" : "los-lobos-mn0000354733"
+    } ],
+    "influencers" : [ {
+      "artist" : "Bob Dylan",
+      "ArtistId" : "bob-dylan-mn0000066915"
+    }, {
+      "artist" : "Giant Sand",
+      "ArtistId" : "giant-sand-mn0000549805"
+    }, {
+      "artist" : "R.E.M.",
+      "ArtistId" : "rem-mn0000325459"
+    }, {
+      "artist" : "The Band",
+      "ArtistId" : "the-band-mn0000038490"
+    }, {
+      "artist" : "David Bowie",
+      "ArtistId" : "david-bowie-mn0000531986"
+    }, {
+      "artist" : "Van Morrison",
+      "ArtistId" : "van-morrison-mn0000307461"
+    }, {
+      "artist" : "Nick Cave",
+      "ArtistId" : "nick-cave-mn0000397880"
+    }, {
+      "artist" : "Alejandro Escovedo",
+      "ArtistId" : "alejandro-escovedo-mn0000621423"
+    }, {
+      "artist" : "American Music Club",
+      "ArtistId" : "american-music-club-mn0000011810"
+    }, {
+      "artist" : "Hank Williams",
+      "ArtistId" : "hank-williams-mn0000549797"
+    }, {
+      "artist" : "Hüsker Dü",
+      "ArtistId" : "h%C3%BCsker-d%C3%BC-mn0000639053"
+    }, {
+      "artist" : "John Doe",
+      "ArtistId" : "john-doe-mn0000183430"
+    }, {
+      "artist" : "Neil Young",
+      "ArtistId" : "neil-young-mn0000379125"
+    }, {
+      "artist" : "The Flying Burrito Brothers",
+      "ArtistId" : "the-flying-burrito-brothers-mn0000194703"
+    }, {
+      "artist" : "The Silos",
+      "ArtistId" : "the-silos-mn0000421400"
+    }, {
+      "artist" : "The Waterboys",
+      "ArtistId" : "the-waterboys-mn0000924508"
+    }, {
+      "artist" : "Throwing Muses",
+      "ArtistId" : "throwing-muses-mn0000925528"
+    } ],
+    "followers" : [ {
+      "artist" : "Calexico",
+      "ArtistId" : "calexico-mn0000944293"
+    }, {
+      "artist" : "Drive-By Truckers",
+      "ArtistId" : "drive-by-truckers-mn0000201668"
+    }, {
+      "artist" : "My Morning Jacket",
+      "ArtistId" : "my-morning-jacket-mn0000520583"
+    }, {
+      "artist" : "Oakley Hall",
+      "ArtistId" : "oakley-hall-mn0000886459"
+    }, {
+      "artist" : "Okkervil River",
+      "ArtistId" : "okkervil-river-mn0000460390"
+    }, {
+      "artist" : "Old 97's",
+      "ArtistId" : "old-97s-mn0000461698"
+    }, {
+      "artist" : "Palace",
+      "ArtistId" : "palace-mn0000011506"
+    }, {
+      "artist" : "Sea Power",
+      "ArtistId" : "sea-power-mn0000621281"
+    }, {
+      "artist" : "The Pernice Brothers",
+      "ArtistId" : "the-pernice-brothers-mn0000311539"
+    }, {
+      "artist" : "The Sheila Divine",
+      "ArtistId" : "the-sheila-divine-mn0000493425"
+    }, {
+      "artist" : "Whiskeytown",
+      "ArtistId" : "whiskeytown-mn0000246169"
+    }, {
+      "artist" : "Wilco",
+      "ArtistId" : "wilco-mn0000254215"
+    } ],
+    "associatedwith" : [ {
+      "artist" : "Grant-Lee Phillips",
+      "ArtistId" : "grant-lee-phillips-mn0000741110"
+    }, {
+      "artist" : "Shiva Burlesque",
+      "ArtistId" : "shiva-burlesque-mn0000027254"
+    }, {
+      "artist" : "Rusty Truck",
+      "ArtistId" : "rusty-truck-mn0000210902"
+    } ]
+  }
+}

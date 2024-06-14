@@ -46,12 +46,12 @@
     "albumYear" : "1977",
     "albumTitle" : "Let There Be Rock",
     "musicRating" : "8",
-    "avgRating" : "9-2343"
+    "avgRating" : "9-2342"
   }, {
     "albumYear" : "1978",
     "albumTitle" : "Powerage",
     "musicRating" : "6",
-    "avgRating" : "9-1761"
+    "avgRating" : "9-1763"
   }, {
     "albumYear" : "1978",
     "albumTitle" : "If You Want Blood You've Got It",
@@ -61,27 +61,27 @@
     "albumYear" : "1979",
     "albumTitle" : "Highway to Hell",
     "musicRating" : "9",
-    "avgRating" : "9-4356"
+    "avgRating" : "9-4362"
   }, {
     "albumYear" : "1980",
     "albumTitle" : "Back in Black",
     "musicRating" : "9",
-    "avgRating" : "10-5154"
+    "avgRating" : "10-5156"
   }, {
     "albumYear" : "1981",
     "albumTitle" : "For Those About to Rock We Salute You",
     "musicRating" : "5",
-    "avgRating" : "8-1583"
+    "avgRating" : "8-1584"
   }, {
     "albumYear" : "1983",
     "albumTitle" : "Flick of the Switch",
     "musicRating" : "3",
-    "avgRating" : "7-944"
+    "avgRating" : "7-943"
   }, {
     "albumYear" : "1985",
     "albumTitle" : "Fly on the Wall",
     "musicRating" : "5",
-    "avgRating" : "6-837"
+    "avgRating" : "6-836"
   }, {
     "albumYear" : "1988",
     "albumTitle" : "Blow Up Your Video",
@@ -111,7 +111,7 @@
     "albumYear" : "2008",
     "albumTitle" : "Black Ice",
     "musicRating" : "5",
-    "avgRating" : "7-1457"
+    "avgRating" : "7-1458"
   }, {
     "albumYear" : "2012",
     "albumTitle" : "Live at River Plate",
@@ -270,6 +270,9 @@
     }, {
       "artist" : "Molly Hatchet",
       "ArtistId" : "molly-hatchet-mn0000923384"
+    }, {
+      "artist" : "Slash",
+      "ArtistId" : "slash-mn0000021009"
     }, {
       "artist" : "Tom Keifer",
       "ArtistId" : "tom-keifer-mn0000931912"

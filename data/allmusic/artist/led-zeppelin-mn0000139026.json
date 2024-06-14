@@ -1,8 +1,8 @@
 {
   "id" : "led-zeppelin-mn0000139026",
   "name" : "Led Zeppelin",
-  "activeDates" : "1960s - 2000s",
-  "birthDate" : "July, 1968",
+  "activeDates" : "1960s - 1980s",
+  "birthDate" : "1968",
   "birthPlace" : "England",
   "styles" : [ {
     "name" : "Album Rock",
@@ -29,53 +29,53 @@
     "name" : "Heavy Metal",
     "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
   } ],
-  "decades" : "1960s - 2000s",
+  "decades" : "1960s - 1980s",
   "genres" : "Pop/Rock, Blues",
   "discography" : [ {
     "albumYear" : "1969",
     "albumTitle" : "Led Zeppelin",
     "musicRating" : "9",
-    "avgRating" : "10-8805"
+    "avgRating" : "10-8810"
   }, {
     "albumYear" : "1969",
     "albumTitle" : "Led Zeppelin II",
     "musicRating" : "9",
-    "avgRating" : "10-8794"
+    "avgRating" : "10-8799"
   }, {
     "albumYear" : "1970",
     "albumTitle" : "Led Zeppelin III",
     "musicRating" : "9",
-    "avgRating" : "9-8350"
+    "avgRating" : "9-8353"
   }, {
     "albumYear" : "1971",
     "albumTitle" : "Led Zeppelin IV",
     "musicRating" : "9",
-    "avgRating" : "10-9730"
+    "avgRating" : "10-9736"
   }, {
     "albumYear" : "1973",
     "albumTitle" : "Houses of the Holy",
     "musicRating" : "9",
-    "avgRating" : "9-7668"
+    "avgRating" : "9-7669"
   }, {
     "albumYear" : "1975",
     "albumTitle" : "Physical Graffiti",
     "musicRating" : "9",
-    "avgRating" : "10-6498"
+    "avgRating" : "10-6501"
   }, {
     "albumYear" : "1976",
     "albumTitle" : "Presence",
     "musicRating" : "6",
-    "avgRating" : "8-3613"
+    "avgRating" : "8-3615"
   }, {
     "albumYear" : "1976",
     "albumTitle" : "The Song Remains the Same",
     "musicRating" : "5",
-    "avgRating" : "8-4622"
+    "avgRating" : "8-4623"
   }, {
     "albumYear" : "1979",
     "albumTitle" : "In Through the Out Door",
     "musicRating" : "6",
-    "avgRating" : "8-3364"
+    "avgRating" : "8-3366"
   }, {
     "albumYear" : "1982",
     "albumTitle" : "Coda",
