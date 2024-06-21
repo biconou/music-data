@@ -1,4 +1,5 @@
-  # Azurite
-  __blobstorage__
-  __azurite_db_blob__*
-  __azurite_db_table__*
+# Azurite
+__blobstorage__
+__azurite_db_blob*
+__azurite_db_table*
+__azurite_db_queue*

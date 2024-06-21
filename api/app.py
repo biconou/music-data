@@ -86,7 +86,6 @@ def parse_artist(artistId,htmlContent):
 def search_artist():
     query = request.args.get('query')
     search_artist_url = compute_allmusic_search_artist_url(query)
-    print(search_artist_url)
     html_content = fetch_html_content(search_artist_url)
     artist = parse_search_artist(html_content)
     return jsonify(artist)
