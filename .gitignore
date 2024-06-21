@@ -1,5 +1,4 @@
-__pycache__
-.metadata
-.metadata-windows-save
-.pytest_cache
-data/work
+  # Azurite
+  __blobstorage__
+  __azurite_db_blob__*
+  __azurite_db_table__*
