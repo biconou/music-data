@@ -5,6 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import json
+from allmusicgrabber.artist import *
 
 app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
 
@@ -25,9 +26,6 @@ def fetch_html_content(url,referer=None):
         return None
 
 # search-artist
-def compute_allmusic_search_artist_url(query):
-    return "https://www.allmusic.com/search/artists/" + quote_plus(query)
-
 def parse_search_artist(html_content):
     try :
         soup = BeautifulSoup(html_content, 'html.parser')
