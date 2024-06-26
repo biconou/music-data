@@ -24,6 +24,15 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::style.style"
+    },
+    "genres": {
+      "type": "string"
+    },
+    "decades": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
     }
   }
 }
