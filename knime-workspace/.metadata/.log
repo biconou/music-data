@@ -1,0 +1,23 @@
+!SESSION 2024-01-13 14:11:00.340 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.knime.product 1 0 2024-01-13 14:11:51.650
+!MESSAGE ShellExec command: ./create_env.sh
+
+!ENTRY org.knime.product 1 0 2024-01-13 14:11:51.651
+!MESSAGE ShellExec directory : /mnt/DATA/software/knime_5.2.0/plugins/org.knime.pythonscripting.channel.v1.bin.linux.x86_64_5.2.0.v202311291805/bin
+
+!ENTRY org.knime.product 1 0 2024-01-13 14:13:14.733
+!MESSAGE Standard output: No KNIME_PYTHON_PACKAGE_REPO_URL set, downloading packages
+Current directory: /mnt/DATA/software/knime_5.2.0/plugins/org.knime.pythonscripting.channel.v1.bin.linux.x86_64_5.2.0.v202311291805/bin
+Directory name: org.knime.pythonscripting.channel.v1.bin.linux.x86_64_5.2.0.v202311291805
+Extension name: org_knime_pythonscripting
+The environment variable 'KNIME_PYTHON_BUNDLING_PATH' is not set
+The installation home is set to: /mnt/DATA/software/knime_5.2.0/plugins/org.knime.pythonscripting.channel.v1.bin.linux.x86_64_5.2.0.v202311291805/bin/../../..
+The bundling parent is set to: /mnt/DATA/software/knime_5.2.0/plugins/org.knime.pythonscripting.channel.v1.bin.linux.x86_64_5.2.0.v202311291805/bin/../../../bundling/envs
+The bundle path is set to: /mnt/DATA/software/knime_5.2.0/plugins/org.knime.pythonscripting.channel.v1.bin.linux.x86_64_5.2.0.v202311291805/bin/../../../bundling/envs/org_knime_pythonscripting
+

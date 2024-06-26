@@ -1,0 +1,38 @@
+{
+    "version": "5.2.0.v202311301336",
+    "created": "2024-01-13 13:11",
+    "nodestats": {
+        "nodes": [
+            {
+                "id": "org.knime.base.node.io.filehandling.linereader.LineReaderNodeFactory2",
+                "nodename": "Line Reader",
+                "nrexecs": 0,
+                "nrfails": 1,
+                "exectime": 93,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            }
+        ],
+        "metaNodes": {
+        },
+        "wrappedNodes": {
+        },
+        "createdVia": {
+        }
+    },
+    "uptime": 153412,
+    "workflowsOpened": 2,
+    "remoteWorkflowsOpened": 0,
+    "columnarStorageWorkflowsOpened": 0,
+    "workflowsImported": 0,
+    "workflowsExported": 0,
+    "webUIPerspectiveSwitches": 1,
+    "javaUIPerspectiveSwitches": 1,
+    "lastUsedPerspective": "starter",
+    "launches": 2,
+    "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart": 82794,
+    "crashes": 0,
+    "properlyShutDown": true
+}

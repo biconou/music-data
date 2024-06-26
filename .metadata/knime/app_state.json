@@ -1,0 +1,20 @@
+{
+  "version" : "5.2.0.v202311301336",
+  "projects" : [ {
+    "name" : "allmusic-artist",
+    "active" : false,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "knime-workspace/music-data/allmusic-artist"
+    }
+  }, {
+    "name" : "allmusic-search-artist",
+    "active" : true,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "knime-workspace/music-data/allmusic-search-artist"
+    }
+  } ]
+}

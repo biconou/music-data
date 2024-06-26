@@ -1,0 +1,372 @@
+!SESSION 2024-05-19 09:29:03.587 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Framework arguments:  -reset -workflowDir=/mnt/DATA/develop/music-data/knime-workspace/music-data/test3/ -application org.knime.product.KNIME_BATCH_APPLICATION
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -consoleLog -reset -data /mnt/DATA/develop/music-data/ -workflowDir=/mnt/DATA/develop/music-data/knime-workspace/music-data/test3/ -application org.knime.product.KNIME_BATCH_APPLICATION
+
+!ENTRY org.eclipse.osgi 4 0 2024-05-19 09:29:08.318
+!MESSAGE Application error
+!STACK 1
+java.lang.ExceptionInInitializerError
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Unknown Source)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1282)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1227)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1219)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory.<clinit>(ArrowColumnStoreFactory.java:93)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory$ArrowColumnStoreFactoryCreator.createFactory(ArrowColumnStoreFactory.java:196)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory$ArrowColumnStoreFactoryCreator.createFactory(ArrowColumnStoreFactory.java:1)
+	at org.knime.core.data.columnar.ColumnStoreFactoryRegistry.createInstance(ColumnStoreFactoryRegistry.java:102)
+	at org.knime.core.data.columnar.ColumnStoreFactoryRegistry.getOrCreateInstance(ColumnStoreFactoryRegistry.java:116)
+	at org.knime.core.data.columnar.table.ColumnarContainerTableLoader.singletonColumnStoreFactoryAvailable(ColumnarContainerTableLoader.java:85)
+	at org.knime.core.data.columnar.table.ColumnarContainerTableLoader.canLoad(ColumnarContainerTableLoader.java:74)
+	at org.knime.core.node.ExtensionTableRegistry.lambda$3(ExtensionTableRegistry.java:130)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(Unknown Source)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+	at org.knime.core.node.ExtensionTableRegistry.loadExtensionTable(ExtensionTableRegistry.java:131)
+	at org.knime.core.node.ExtensionTable.loadExtensionTable(ExtensionTable.java:308)
+	at org.knime.core.node.BufferedDataTable.loadFromFile(BufferedDataTable.java:888)
+	at org.knime.core.node.FileNodePersistor.loadBufferedDataTable(FileNodePersistor.java:478)
+	at org.knime.core.node.FileNodePersistor.loadPort(FileNodePersistor.java:367)
+	at org.knime.core.node.FileNodePersistor.loadPorts(FileNodePersistor.java:331)
+	at org.knime.core.node.FileNodePersistor.load(FileNodePersistor.java:996)
+	at org.knime.core.node.workflow.FileNativeNodeContainerPersistor.loadNCAndWashModelSettings(FileNativeNodeContainerPersistor.java:256)
+	at org.knime.core.node.workflow.FileSingleNodeContainerPersistor.loadNodeContainer(FileSingleNodeContainerPersistor.java:267)
+	at org.knime.core.node.workflow.WorkflowManager.postLoad(WorkflowManager.java:8919)
+	at org.knime.core.node.workflow.WorkflowManager.loadContent(WorkflowManager.java:8821)
+	at org.knime.core.node.workflow.WorkflowManager.postLoad(WorkflowManager.java:8935)
+	at org.knime.core.node.workflow.WorkflowManager.loadContent(WorkflowManager.java:8821)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8684)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8605)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8578)
+	at org.knime.core.node.workflow.WorkflowManager.loadProject(WorkflowManager.java:8423)
+	at org.knime.core.node.workflow.BatchExecutor.loadWorkflow(BatchExecutor.java:750)
+	at org.knime.core.node.workflow.BatchExecutor.runOne(BatchExecutor.java:917)
+	at org.knime.core.node.workflow.BatchExecutor.runAll(BatchExecutor.java:899)
+	at org.knime.core.node.workflow.BatchExecutor.mainRun(BatchExecutor.java:673)
+	at org.knime.product.headless.KNIMEBatchApplication.runBatchExecutor(KNIMEBatchApplication.java:134)
+	at org.knime.product.headless.KNIMEBatchApplication.start(KNIMEBatchApplication.java:87)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make void java.lang.Runtime.load0(java.lang.Class,java.lang.String) accessible: module java.base does not "opens java.lang" to unnamed module @73a1a1b4
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.Method.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.Method.setAccessible(Unknown Source)
+	at org.bytedeco.javacpp.Loader.loadLibrary(Loader.java:1753)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1322)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1227)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1203)
+	at org.bytedeco.lz4.global.lz4.<clinit>(lz4.java:14)
+	... 58 more
+!SESSION 2024-05-19 09:30:10.552 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Framework arguments:  -reset -workflowDir=/mnt/DATA/develop/music-data/knime-workspace/music-data/test3/ -application org.knime.product.KNIME_BATCH_APPLICATION
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -consoleLog -reset -data /mnt/DATA/develop/music-data/ -workflowDir=/mnt/DATA/develop/music-data/knime-workspace/music-data/test3/ -application org.knime.product.KNIME_BATCH_APPLICATION
+
+!ENTRY org.eclipse.osgi 4 0 2024-05-19 09:30:14.899
+!MESSAGE Application error
+!STACK 1
+java.lang.ExceptionInInitializerError
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Unknown Source)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1282)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1227)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1219)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory.<clinit>(ArrowColumnStoreFactory.java:93)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory$ArrowColumnStoreFactoryCreator.createFactory(ArrowColumnStoreFactory.java:196)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory$ArrowColumnStoreFactoryCreator.createFactory(ArrowColumnStoreFactory.java:1)
+	at org.knime.core.data.columnar.ColumnStoreFactoryRegistry.createInstance(ColumnStoreFactoryRegistry.java:102)
+	at org.knime.core.data.columnar.ColumnStoreFactoryRegistry.getOrCreateInstance(ColumnStoreFactoryRegistry.java:116)
+	at org.knime.core.data.columnar.table.ColumnarContainerTableLoader.singletonColumnStoreFactoryAvailable(ColumnarContainerTableLoader.java:85)
+	at org.knime.core.data.columnar.table.ColumnarContainerTableLoader.canLoad(ColumnarContainerTableLoader.java:74)
+	at org.knime.core.node.ExtensionTableRegistry.lambda$3(ExtensionTableRegistry.java:130)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(Unknown Source)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+	at org.knime.core.node.ExtensionTableRegistry.loadExtensionTable(ExtensionTableRegistry.java:131)
+	at org.knime.core.node.ExtensionTable.loadExtensionTable(ExtensionTable.java:308)
+	at org.knime.core.node.BufferedDataTable.loadFromFile(BufferedDataTable.java:888)
+	at org.knime.core.node.FileNodePersistor.loadBufferedDataTable(FileNodePersistor.java:478)
+	at org.knime.core.node.FileNodePersistor.loadPort(FileNodePersistor.java:367)
+	at org.knime.core.node.FileNodePersistor.loadPorts(FileNodePersistor.java:331)
+	at org.knime.core.node.FileNodePersistor.load(FileNodePersistor.java:996)
+	at org.knime.core.node.workflow.FileNativeNodeContainerPersistor.loadNCAndWashModelSettings(FileNativeNodeContainerPersistor.java:256)
+	at org.knime.core.node.workflow.FileSingleNodeContainerPersistor.loadNodeContainer(FileSingleNodeContainerPersistor.java:267)
+	at org.knime.core.node.workflow.WorkflowManager.postLoad(WorkflowManager.java:8919)
+	at org.knime.core.node.workflow.WorkflowManager.loadContent(WorkflowManager.java:8821)
+	at org.knime.core.node.workflow.WorkflowManager.postLoad(WorkflowManager.java:8935)
+	at org.knime.core.node.workflow.WorkflowManager.loadContent(WorkflowManager.java:8821)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8684)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8605)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8578)
+	at org.knime.core.node.workflow.WorkflowManager.loadProject(WorkflowManager.java:8423)
+	at org.knime.core.node.workflow.BatchExecutor.loadWorkflow(BatchExecutor.java:750)
+	at org.knime.core.node.workflow.BatchExecutor.runOne(BatchExecutor.java:917)
+	at org.knime.core.node.workflow.BatchExecutor.runAll(BatchExecutor.java:899)
+	at org.knime.core.node.workflow.BatchExecutor.mainRun(BatchExecutor.java:673)
+	at org.knime.product.headless.KNIMEBatchApplication.runBatchExecutor(KNIMEBatchApplication.java:134)
+	at org.knime.product.headless.KNIMEBatchApplication.start(KNIMEBatchApplication.java:87)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make void java.lang.Runtime.load0(java.lang.Class,java.lang.String) accessible: module java.base does not "opens java.lang" to unnamed module @5eb041b5
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.Method.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.Method.setAccessible(Unknown Source)
+	at org.bytedeco.javacpp.Loader.loadLibrary(Loader.java:1753)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1322)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1227)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1203)
+	at org.bytedeco.lz4.global.lz4.<clinit>(lz4.java:14)
+	... 58 more
+!SESSION 2024-05-19 09:49:34.784 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Framework arguments:  -reset -workflowDir=/mnt/DATA/develop/music-data/knime-workspace/music-data/test3/ -application org.knime.product.KNIME_BATCH_APPLICATION
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -consoleLog -reset -data /mnt/DATA/develop/music-data/ -workflowDir=/mnt/DATA/develop/music-data/knime-workspace/music-data/test3/ -application org.knime.product.KNIME_BATCH_APPLICATION
+
+!ENTRY org.eclipse.osgi 4 0 2024-05-19 09:49:39.225
+!MESSAGE Application error
+!STACK 1
+java.lang.ExceptionInInitializerError
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Unknown Source)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1282)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1227)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1219)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory.<clinit>(ArrowColumnStoreFactory.java:93)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory$ArrowColumnStoreFactoryCreator.createFactory(ArrowColumnStoreFactory.java:196)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory$ArrowColumnStoreFactoryCreator.createFactory(ArrowColumnStoreFactory.java:1)
+	at org.knime.core.data.columnar.ColumnStoreFactoryRegistry.createInstance(ColumnStoreFactoryRegistry.java:102)
+	at org.knime.core.data.columnar.ColumnStoreFactoryRegistry.getOrCreateInstance(ColumnStoreFactoryRegistry.java:116)
+	at org.knime.core.data.columnar.table.ColumnarContainerTableLoader.singletonColumnStoreFactoryAvailable(ColumnarContainerTableLoader.java:85)
+	at org.knime.core.data.columnar.table.ColumnarContainerTableLoader.canLoad(ColumnarContainerTableLoader.java:74)
+	at org.knime.core.node.ExtensionTableRegistry.lambda$3(ExtensionTableRegistry.java:130)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(Unknown Source)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+	at org.knime.core.node.ExtensionTableRegistry.loadExtensionTable(ExtensionTableRegistry.java:131)
+	at org.knime.core.node.ExtensionTable.loadExtensionTable(ExtensionTable.java:308)
+	at org.knime.core.node.BufferedDataTable.loadFromFile(BufferedDataTable.java:888)
+	at org.knime.core.node.FileNodePersistor.loadBufferedDataTable(FileNodePersistor.java:478)
+	at org.knime.core.node.FileNodePersistor.loadPort(FileNodePersistor.java:367)
+	at org.knime.core.node.FileNodePersistor.loadPorts(FileNodePersistor.java:331)
+	at org.knime.core.node.FileNodePersistor.load(FileNodePersistor.java:996)
+	at org.knime.core.node.workflow.FileNativeNodeContainerPersistor.loadNCAndWashModelSettings(FileNativeNodeContainerPersistor.java:256)
+	at org.knime.core.node.workflow.FileSingleNodeContainerPersistor.loadNodeContainer(FileSingleNodeContainerPersistor.java:267)
+	at org.knime.core.node.workflow.WorkflowManager.postLoad(WorkflowManager.java:8919)
+	at org.knime.core.node.workflow.WorkflowManager.loadContent(WorkflowManager.java:8821)
+	at org.knime.core.node.workflow.WorkflowManager.postLoad(WorkflowManager.java:8935)
+	at org.knime.core.node.workflow.WorkflowManager.loadContent(WorkflowManager.java:8821)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8684)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8605)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8578)
+	at org.knime.core.node.workflow.WorkflowManager.loadProject(WorkflowManager.java:8423)
+	at org.knime.core.node.workflow.BatchExecutor.loadWorkflow(BatchExecutor.java:750)
+	at org.knime.core.node.workflow.BatchExecutor.runOne(BatchExecutor.java:917)
+	at org.knime.core.node.workflow.BatchExecutor.runAll(BatchExecutor.java:899)
+	at org.knime.core.node.workflow.BatchExecutor.mainRun(BatchExecutor.java:673)
+	at org.knime.product.headless.KNIMEBatchApplication.runBatchExecutor(KNIMEBatchApplication.java:134)
+	at org.knime.product.headless.KNIMEBatchApplication.start(KNIMEBatchApplication.java:87)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make void java.lang.Runtime.load0(java.lang.Class,java.lang.String) accessible: module java.base does not "opens java.lang" to unnamed module @57617a75
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.Method.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.Method.setAccessible(Unknown Source)
+	at org.bytedeco.javacpp.Loader.loadLibrary(Loader.java:1753)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1322)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1227)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1203)
+	at org.bytedeco.lz4.global.lz4.<clinit>(lz4.java:14)
+	... 58 more
+!SESSION 2024-05-19 11:24:52.358 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Framework arguments:  -reset -workflowDir=/mnt/DATA/develop/music-data/knime-workspace/music-data/test3/ -application org.knime.product.KNIME_BATCH_APPLICATION
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -consoleLog -reset -data /mnt/DATA/develop/music-data/ -workflowDir=/mnt/DATA/develop/music-data/knime-workspace/music-data/test3/ -application org.knime.product.KNIME_BATCH_APPLICATION
+
+!ENTRY org.eclipse.osgi 4 0 2024-05-19 11:24:56.629
+!MESSAGE Application error
+!STACK 1
+java.lang.ExceptionInInitializerError
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Unknown Source)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1282)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1227)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1219)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory.<clinit>(ArrowColumnStoreFactory.java:93)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory$ArrowColumnStoreFactoryCreator.createFactory(ArrowColumnStoreFactory.java:196)
+	at org.knime.core.columnar.arrow.ArrowColumnStoreFactory$ArrowColumnStoreFactoryCreator.createFactory(ArrowColumnStoreFactory.java:1)
+	at org.knime.core.data.columnar.ColumnStoreFactoryRegistry.createInstance(ColumnStoreFactoryRegistry.java:102)
+	at org.knime.core.data.columnar.ColumnStoreFactoryRegistry.getOrCreateInstance(ColumnStoreFactoryRegistry.java:116)
+	at org.knime.core.data.columnar.table.ColumnarContainerTableLoader.singletonColumnStoreFactoryAvailable(ColumnarContainerTableLoader.java:85)
+	at org.knime.core.data.columnar.table.ColumnarContainerTableLoader.canLoad(ColumnarContainerTableLoader.java:74)
+	at org.knime.core.node.ExtensionTableRegistry.lambda$3(ExtensionTableRegistry.java:130)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(Unknown Source)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+	at org.knime.core.node.ExtensionTableRegistry.loadExtensionTable(ExtensionTableRegistry.java:131)
+	at org.knime.core.node.ExtensionTable.loadExtensionTable(ExtensionTable.java:308)
+	at org.knime.core.node.BufferedDataTable.loadFromFile(BufferedDataTable.java:888)
+	at org.knime.core.node.FileNodePersistor.loadBufferedDataTable(FileNodePersistor.java:478)
+	at org.knime.core.node.FileNodePersistor.loadPort(FileNodePersistor.java:367)
+	at org.knime.core.node.FileNodePersistor.loadPorts(FileNodePersistor.java:331)
+	at org.knime.core.node.FileNodePersistor.load(FileNodePersistor.java:996)
+	at org.knime.core.node.workflow.FileNativeNodeContainerPersistor.loadNCAndWashModelSettings(FileNativeNodeContainerPersistor.java:256)
+	at org.knime.core.node.workflow.FileSingleNodeContainerPersistor.loadNodeContainer(FileSingleNodeContainerPersistor.java:267)
+	at org.knime.core.node.workflow.WorkflowManager.postLoad(WorkflowManager.java:8919)
+	at org.knime.core.node.workflow.WorkflowManager.loadContent(WorkflowManager.java:8821)
+	at org.knime.core.node.workflow.WorkflowManager.postLoad(WorkflowManager.java:8935)
+	at org.knime.core.node.workflow.WorkflowManager.loadContent(WorkflowManager.java:8821)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8684)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8605)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8578)
+	at org.knime.core.node.workflow.WorkflowManager.loadProject(WorkflowManager.java:8423)
+	at org.knime.core.node.workflow.BatchExecutor.loadWorkflow(BatchExecutor.java:750)
+	at org.knime.core.node.workflow.BatchExecutor.runOne(BatchExecutor.java:917)
+	at org.knime.core.node.workflow.BatchExecutor.runAll(BatchExecutor.java:899)
+	at org.knime.core.node.workflow.BatchExecutor.mainRun(BatchExecutor.java:673)
+	at org.knime.product.headless.KNIMEBatchApplication.runBatchExecutor(KNIMEBatchApplication.java:134)
+	at org.knime.product.headless.KNIMEBatchApplication.start(KNIMEBatchApplication.java:87)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make void java.lang.Runtime.load0(java.lang.Class,java.lang.String) accessible: module java.base does not "opens java.lang" to unnamed module @333efb51
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.Method.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.Method.setAccessible(Unknown Source)
+	at org.bytedeco.javacpp.Loader.loadLibrary(Loader.java:1753)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1322)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1227)
+	at org.bytedeco.javacpp.Loader.load(Loader.java:1203)
+	at org.bytedeco.lz4.global.lz4.<clinit>(lz4.java:14)
+	... 58 more
+!SESSION 2024-05-19 16:29:14.880 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 2 2 2024-05-19 16:29:29.666
+!MESSAGE Invalid preference category path: org.rdkit.knime.nodes.preferences (bundle: org.rdkit.knime.types, page: org.rdkit.knime.types.preferences.RDKitTypes)
+
+!ENTRY org.eclipse.ui 2 2 2024-05-19 16:29:29.668
+!MESSAGE Invalid preference category path: org.rdkit.knime.nodes.preferences (bundle: org.rdkit.knime.types, page: org.rdkit.knime.types.preferences.RDKit2DDepiction)
+!SESSION 2024-05-22 22:13:57.872 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 2 2 2024-05-22 22:14:13.768
+!MESSAGE Invalid preference category path: org.rdkit.knime.nodes.preferences (bundle: org.rdkit.knime.types, page: org.rdkit.knime.types.preferences.RDKitTypes)
+
+!ENTRY org.eclipse.ui 2 2 2024-05-22 22:14:13.771
+!MESSAGE Invalid preference category path: org.rdkit.knime.nodes.preferences (bundle: org.rdkit.knime.types, page: org.rdkit.knime.types.preferences.RDKit2DDepiction)
+!SESSION 2024-05-23 08:27:34.164 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 2 2 2024-05-23 08:27:48.852
+!MESSAGE Invalid preference category path: org.rdkit.knime.nodes.preferences (bundle: org.rdkit.knime.types, page: org.rdkit.knime.types.preferences.RDKitTypes)
+
+!ENTRY org.eclipse.ui 2 2 2024-05-23 08:27:48.855
+!MESSAGE Invalid preference category path: org.rdkit.knime.nodes.preferences (bundle: org.rdkit.knime.types, page: org.rdkit.knime.types.preferences.RDKit2DDepiction)
+!SESSION 2024-06-26 17:55:21.192 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 2 2 2024-06-26 18:03:23.916
+!MESSAGE Invalid preference category path: org.rdkit.knime.nodes.preferences (bundle: org.rdkit.knime.types, page: org.rdkit.knime.types.preferences.RDKitTypes)
+
+!ENTRY org.eclipse.ui 2 2 2024-06-26 18:03:23.918
+!MESSAGE Invalid preference category path: org.rdkit.knime.nodes.preferences (bundle: org.rdkit.knime.types, page: org.rdkit.knime.types.preferences.RDKit2DDepiction)

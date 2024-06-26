@@ -1,0 +1,2 @@
+jdbc:postgresql://togodo:5433/airsonic
+jdbc:postgresql://<host>:<port>/[database]
