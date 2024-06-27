@@ -12,11 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "allmusic_id": {
-      "type": "string",
-      "required": false,
-      "unique": true
-    },
     "name": {
       "type": "string"
     },
@@ -33,6 +28,12 @@
     },
     "url": {
       "type": "string"
+    },
+    "discography": {
+      "type": "json"
+    },
+    "allmusic_id": {
+      "type": "uid"
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "id" : "led-zeppelin-mn0000139026",
-  "name" : "Led Zeppelin",
   "activeDates" : "1960s - 1980s",
   "birthDate" : "1968",
   "birthPlace" : "England",
+  "id" : "led-zeppelin-mn0000139026",
+  "name" : "Led Zeppelin",
   "styles" : [ {
     "name" : "Album Rock",
     "url" : "https://www.allmusic.com/style/album-rock-ma0000004459"
@@ -29,637 +29,643 @@
     "name" : "Heavy Metal",
     "url" : "https://www.allmusic.com/style/heavy-metal-ma0000002721"
   } ],
-  "decades" : "1960s - 1980s",
+  "decades" : "1960s - 2000s",
   "genres" : "Pop/Rock, Blues",
-  "discography" : [ {
-    "albumYear" : "1969",
-    "albumTitle" : "Led Zeppelin",
-    "musicRating" : "9",
-    "avgRating" : "10-8810"
-  }, {
-    "albumYear" : "1969",
-    "albumTitle" : "Led Zeppelin II",
-    "musicRating" : "9",
-    "avgRating" : "10-8799"
-  }, {
-    "albumYear" : "1970",
-    "albumTitle" : "Led Zeppelin III",
-    "musicRating" : "9",
-    "avgRating" : "9-8353"
-  }, {
-    "albumYear" : "1971",
-    "albumTitle" : "Led Zeppelin IV",
-    "musicRating" : "9",
-    "avgRating" : "10-9736"
-  }, {
-    "albumYear" : "1973",
-    "albumTitle" : "Houses of the Holy",
-    "musicRating" : "9",
-    "avgRating" : "9-7669"
-  }, {
-    "albumYear" : "1975",
-    "albumTitle" : "Physical Graffiti",
-    "musicRating" : "9",
-    "avgRating" : "10-6501"
-  }, {
-    "albumYear" : "1976",
-    "albumTitle" : "Presence",
-    "musicRating" : "6",
-    "avgRating" : "8-3615"
-  }, {
-    "albumYear" : "1976",
-    "albumTitle" : "The Song Remains the Same",
-    "musicRating" : "5",
-    "avgRating" : "8-4623"
-  }, {
-    "albumYear" : "1979",
-    "albumTitle" : "In Through the Out Door",
-    "musicRating" : "6",
-    "avgRating" : "8-3366"
-  }, {
-    "albumYear" : "1982",
-    "albumTitle" : "Coda",
-    "musicRating" : "6",
-    "avgRating" : "7-2661"
-  }, {
-    "albumYear" : "2012",
-    "albumTitle" : "Celebration Day",
-    "musicRating" : "7",
-    "avgRating" : "9-3122"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Before Led Zeppelin",
-    "musicRating" : "",
-    "avgRating" : "7-7"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Led Zeppelin",
+      "albumYear" : "1969",
+      "avgRating" : "10-8833",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Led Zeppelin II",
+      "albumYear" : "1969",
+      "avgRating" : "10-8823",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Led Zeppelin III",
+      "albumYear" : "1970",
+      "avgRating" : "9-8376",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Led Zeppelin IV",
+      "albumYear" : "1971",
+      "avgRating" : "10-9767",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Houses of the Holy",
+      "albumYear" : "1973",
+      "avgRating" : "9-7688",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Physical Graffiti",
+      "albumYear" : "1975",
+      "avgRating" : "10-6519",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Presence",
+      "albumYear" : "1976",
+      "avgRating" : "8-3620",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "The Song Remains the Same",
+      "albumYear" : "1976",
+      "avgRating" : "8-4628",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "In Through the Out Door",
+      "albumYear" : "1979",
+      "avgRating" : "8-3372",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Coda",
+      "albumYear" : "1982",
+      "avgRating" : "7-2664",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Celebration Day",
+      "albumYear" : "2012",
+      "avgRating" : "9-3123",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Before Led Zeppelin",
+      "albumYear" : "",
+      "avgRating" : "7-7",
+      "musicRating" : ""
+    } ],
+    "id" : "led-zeppelin-mn0000139026"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Black Sabbath",
-      "ArtistId" : "black-sabbath-mn0000771438"
-    }, {
-      "artist" : "Cream",
-      "ArtistId" : "cream-mn0000112462"
-    }, {
-      "artist" : "Deep Purple",
-      "ArtistId" : "deep-purple-mn0000192382"
-    }, {
-      "artist" : "Jeff Beck",
-      "ArtistId" : "jeff-beck-mn0000240865"
-    }, {
-      "artist" : "Jimi Hendrix",
-      "ArtistId" : "jimi-hendrix-mn0000354105"
-    }, {
-      "artist" : "Aerosmith",
-      "ArtistId" : "aerosmith-mn0000604852"
-    }, {
-      "artist" : "Bonham",
-      "ArtistId" : "bonham-mn0000768455"
-    }, {
-      "artist" : "Humble Pie",
-      "ArtistId" : "humble-pie-mn0000805661"
-    }, {
-      "artist" : "Kingdom Come",
-      "ArtistId" : "kingdom-come-mn0000096804"
-    }, {
-      "artist" : "Queen",
-      "ArtistId" : "queen-mn0000858827"
-    }, {
-      "artist" : "Rush",
-      "ArtistId" : "rush-mn0000203008"
-    }, {
-      "artist" : "AC/DC",
-      "ArtistId" : "ac-dc-mn0000574772"
-    }, {
-      "artist" : "Alice Cooper",
-      "ArtistId" : "alice-cooper-mn0000005953"
-    }, {
-      "artist" : "Bad Company",
-      "ArtistId" : "bad-company-mn0000075100"
-    }, {
-      "artist" : "Cactus",
-      "ArtistId" : "cactus-mn0000520215"
-    }, {
-      "artist" : "Free",
-      "ArtistId" : "free-mn0000193216"
-    }, {
-      "artist" : "Grand Funk Railroad",
-      "ArtistId" : "grand-funk-railroad-mn0000659517"
-    }, {
-      "artist" : "Jeremy Spencer",
-      "ArtistId" : "jeremy-spencer-mn0000322666"
-    }, {
-      "artist" : "Mott the Hoople",
-      "ArtistId" : "mott-the-hoople-mn0000596126"
-    }, {
-      "artist" : "Savoy Brown",
-      "ArtistId" : "savoy-brown-mn0000838524"
-    }, {
-      "artist" : "T. Rex",
-      "ArtistId" : "t-rex-mn0000005882"
-    }, {
-      "artist" : "Ten Years After",
-      "ArtistId" : "ten-years-after-mn0000020050"
-    }, {
-      "artist" : "The Pretty Things",
-      "ArtistId" : "the-pretty-things-mn0000489676"
-    }, {
-      "artist" : "The Who",
-      "ArtistId" : "the-who-mn0000577627"
-    }, {
-      "artist" : "Trapeze",
-      "ArtistId" : "trapeze-mn0000746220"
-    }, {
-      "artist" : "Van Halen",
-      "ArtistId" : "van-halen-mn0000260206"
-    }, {
-      "artist" : "Whitesnake",
-      "ArtistId" : "whitesnake-mn0000251595"
-    }, {
-      "artist" : "Detective",
-      "ArtistId" : "detective-mn0000244088"
-    }, {
-      "artist" : "Mountain",
-      "ArtistId" : "mountain-mn0000503913"
-    }, {
-      "artist" : "Blue Cheer",
-      "ArtistId" : "blue-cheer-mn0000059537"
-    }, {
-      "artist" : "Captain Beyond",
-      "ArtistId" : "captain-beyond-mn0000944933"
-    }, {
-      "artist" : "Golden Earring",
-      "ArtistId" : "golden-earring-mn0000669303"
-    }, {
-      "artist" : "Saxon",
-      "ArtistId" : "saxon-mn0000259800"
-    }, {
-      "artist" : "The Allman Brothers Band",
-      "ArtistId" : "the-allman-brothers-band-mn0000745964"
-    } ],
-    "influencers" : [ {
-      "artist" : "Chuck Berry",
-      "ArtistId" : "chuck-berry-mn0000120521"
-    }, {
-      "artist" : "Elvis Presley",
-      "ArtistId" : "elvis-presley-mn0000180228"
-    }, {
-      "artist" : "Fairport Convention",
-      "ArtistId" : "fairport-convention-mn0000162233"
-    }, {
-      "artist" : "Howlin' Wolf",
-      "ArtistId" : "howlin-wolf-mn0000276085"
-    }, {
-      "artist" : "Muddy Waters",
-      "ArtistId" : "muddy-waters-mn0000608701"
-    }, {
-      "artist" : "Otis Rush",
-      "ArtistId" : "otis-rush-mn0000894956"
-    }, {
-      "artist" : "Sonny Boy Williamson II",
-      "ArtistId" : "sonny-boy-williamson-ii-mn0000036031"
-    }, {
-      "artist" : "Willie Dixon",
-      "ArtistId" : "willie-dixon-mn0000959770"
-    }, {
-      "artist" : "Anne Briggs",
-      "ArtistId" : "anne-briggs-mn0000486661"
-    }, {
-      "artist" : "Bert Jansch",
-      "ArtistId" : "bert-jansch-mn0000756656"
-    }, {
-      "artist" : "Cream",
-      "ArtistId" : "cream-mn0000112462"
-    }, {
-      "artist" : "Jimi Hendrix",
-      "ArtistId" : "jimi-hendrix-mn0000354105"
-    }, {
-      "artist" : "John Renbourn",
-      "ArtistId" : "john-renbourn-mn0000192925"
-    }, {
-      "artist" : "Roy Harper",
-      "ArtistId" : "roy-harper-mn0000345427"
-    }, {
-      "artist" : "The Beatles",
-      "ArtistId" : "the-beatles-mn0000754032"
-    }, {
-      "artist" : "The Creation",
-      "ArtistId" : "the-creation-mn0000110341"
-    }, {
-      "artist" : "The Rolling Stones",
-      "ArtistId" : "the-rolling-stones-mn0000894465"
-    }, {
-      "artist" : "Blind Willie Johnson",
-      "ArtistId" : "blind-willie-johnson-mn0000040137"
-    }, {
-      "artist" : "Davy Graham",
-      "ArtistId" : "davy-graham-mn0000814036"
-    }, {
-      "artist" : "Fleetwood Mac",
-      "ArtistId" : "fleetwood-mac-mn0000182900"
-    }, {
-      "artist" : "Ike Turner",
-      "ArtistId" : "ike-turner-mn0000080970"
-    }, {
-      "artist" : "James Cotton",
-      "ArtistId" : "james-cotton-mn0000131841"
-    }, {
-      "artist" : "Johnny Burnette",
-      "ArtistId" : "johnny-burnette-mn0000241813"
-    }, {
-      "artist" : "Lead Belly",
-      "ArtistId" : "lead-belly-mn0000124390"
-    }, {
-      "artist" : "Memphis Minnie",
-      "ArtistId" : "memphis-minnie-mn0000352499"
-    }, {
-      "artist" : "Moby Grape",
-      "ArtistId" : "moby-grape-mn0000569914"
-    }, {
-      "artist" : "Robert Johnson",
-      "ArtistId" : "robert-johnson-mn0000832288"
-    }, {
-      "artist" : "Small Faces",
-      "ArtistId" : "small-faces-mn0000423267"
-    }, {
-      "artist" : "Jake Holmes",
-      "ArtistId" : "jake-holmes-mn0000133626"
-    }, {
-      "artist" : "Spirit",
-      "ArtistId" : "spirit-mn0000746010"
-    }, {
-      "artist" : "Tim Rose",
-      "ArtistId" : "tim-rose-mn0000499714"
-    } ],
-    "followers" : [ {
-      "artist" : "AC/DC",
-      "ArtistId" : "ac-dc-mn0000574772"
-    }, {
-      "artist" : "Aerosmith",
-      "ArtistId" : "aerosmith-mn0000604852"
-    }, {
-      "artist" : "Deep Purple",
-      "ArtistId" : "deep-purple-mn0000192382"
-    }, {
-      "artist" : "Heart",
-      "ArtistId" : "heart-mn0000671953"
-    }, {
-      "artist" : "Jane's Addiction",
-      "ArtistId" : "janes-addiction-mn0000806829"
-    }, {
-      "artist" : "Judas Priest",
-      "ArtistId" : "judas-priest-mn0000246611"
-    }, {
-      "artist" : "The Cult",
-      "ArtistId" : "the-cult-mn0000139908"
-    }, {
-      "artist" : "Thin Lizzy",
-      "ArtistId" : "thin-lizzy-mn0000590479"
-    }, {
-      "artist" : "Van Halen",
-      "ArtistId" : "van-halen-mn0000260206"
-    }, {
-      "artist" : "Bad Company",
-      "ArtistId" : "bad-company-mn0000075100"
-    }, {
-      "artist" : "Bon Jovi",
-      "ArtistId" : "bon-jovi-mn0000069534"
-    }, {
-      "artist" : "Bonham",
-      "ArtistId" : "bonham-mn0000768455"
-    }, {
-      "artist" : "Boston",
-      "ArtistId" : "boston-mn0000079960"
-    }, {
-      "artist" : "Cheap Trick",
-      "ArtistId" : "cheap-trick-mn0000105354"
-    }, {
-      "artist" : "Def Leppard",
-      "ArtistId" : "def-leppard-mn0000193320"
-    }, {
-      "artist" : "Diamond Head",
-      "ArtistId" : "diamond-head-mn0000251604"
-    }, {
-      "artist" : "Dio",
-      "ArtistId" : "dio-mn0000263937"
-    }, {
-      "artist" : "Great White",
-      "ArtistId" : "great-white-mn0000799100"
-    }, {
-      "artist" : "Guns N' Roses",
-      "ArtistId" : "guns-n-roses-mn0000540883"
-    }, {
-      "artist" : "Iron Maiden",
-      "ArtistId" : "iron-maiden-mn0000098465"
-    }, {
-      "artist" : "Joan Jett",
-      "ArtistId" : "joan-jett-mn0000137173"
-    }, {
-      "artist" : "Kiss",
-      "ArtistId" : "kiss-mn0000084209"
-    }, {
-      "artist" : "Lenny Kravitz",
-      "ArtistId" : "lenny-kravitz-mn0000200074"
-    }, {
-      "artist" : "Lez Zeppelin",
-      "ArtistId" : "lez-zeppelin-mn0000924276"
-    }, {
-      "artist" : "Metallica",
-      "ArtistId" : "metallica-mn0000446509"
-    }, {
-      "artist" : "Michael Schenker",
-      "ArtistId" : "michael-schenker-mn0000397545"
-    }, {
-      "artist" : "Montrose",
-      "ArtistId" : "montrose-mn0000492466"
-    }, {
-      "artist" : "Poison",
-      "ArtistId" : "poison-mn0000355616"
-    }, {
-      "artist" : "Queen",
-      "ArtistId" : "queen-mn0000858827"
-    }, {
-      "artist" : "Queens of the Stone Age",
-      "ArtistId" : "queens-of-the-stone-age-mn0000376422"
-    }, {
-      "artist" : "Queensrÿche",
-      "ArtistId" : "queensr%C3%BFche-mn0000315339"
-    }, {
-      "artist" : "Soundgarden",
-      "ArtistId" : "soundgarden-mn0000001098"
-    }, {
-      "artist" : "Spinal Tap",
-      "ArtistId" : "spinal-tap-mn0000012654"
-    }, {
-      "artist" : "Twisted Sister",
-      "ArtistId" : "twisted-sister-mn0000165663"
-    }, {
-      "artist" : "UFO",
-      "ArtistId" : "ufo-mn0000809999"
-    }, {
-      "artist" : "Whitesnake",
-      "ArtistId" : "whitesnake-mn0000251595"
-    }, {
-      "artist" : "Black Oak Arkansas",
-      "ArtistId" : "black-oak-arkansas-mn0000093849"
-    }, {
-      "artist" : "Dread Zeppelin",
-      "ArtistId" : "dread-zeppelin-mn0000198266"
-    }, {
-      "artist" : "Hanoi Rocks",
-      "ArtistId" : "hanoi-rocks-mn0000948171"
-    }, {
-      "artist" : "Journey",
-      "ArtistId" : "journey-mn0000291043"
-    }, {
-      "artist" : "King's X",
-      "ArtistId" : "kings-x-mn0000771419"
-    }, {
-      "artist" : "Kingdom Come",
-      "ArtistId" : "kingdom-come-mn0000096804"
-    }, {
-      "artist" : "Kix",
-      "ArtistId" : "kix-mn0000098944"
-    }, {
-      "artist" : "Lita Ford",
-      "ArtistId" : "lita-ford-mn0000305468"
-    }, {
-      "artist" : "Living Colour",
-      "ArtistId" : "living-colour-mn0000825087"
-    }, {
-      "artist" : "Meresha",
-      "ArtistId" : "meresha-mn0003386569"
-    }, {
-      "artist" : "Mötley Crüe",
-      "ArtistId" : "m%C3%B6tley-cr%C3%BCe-mn0000500992"
-    }, {
-      "artist" : "Nazareth",
-      "ArtistId" : "nazareth-mn0000377891"
-    }, {
-      "artist" : "Nirvana",
-      "ArtistId" : "nirvana-mn0000357406"
-    }, {
-      "artist" : "Primus",
-      "ArtistId" : "primus-mn0000359326"
-    }, {
-      "artist" : "Quiet Riot",
-      "ArtistId" : "quiet-riot-mn0000859868"
-    }, {
-      "artist" : "Rainbow",
-      "ArtistId" : "rainbow-mn0000391933"
-    }, {
-      "artist" : "Ratt",
-      "ArtistId" : "ratt-mn0000340152"
-    }, {
-      "artist" : "Screaming Trees",
-      "ArtistId" : "screaming-trees-mn0000312353"
-    }, {
-      "artist" : "Steve Vai",
-      "ArtistId" : "steve-vai-mn0000045475"
-    }, {
-      "artist" : "Stone Temple Pilots",
-      "ArtistId" : "stone-temple-pilots-mn0000626463"
-    }, {
-      "artist" : "Styx",
-      "ArtistId" : "styx-mn0000923033"
-    }, {
-      "artist" : "Tesla",
-      "ArtistId" : "tesla-mn0000029808"
-    }, {
-      "artist" : "The Black Keys",
-      "ArtistId" : "the-black-keys-mn0000755918"
-    }, {
-      "artist" : "The Dead Weather",
-      "ArtistId" : "the-dead-weather-mn0002006721"
-    }, {
-      "artist" : "The Gutter Twins",
-      "ArtistId" : "the-gutter-twins-mn0000936386"
-    }, {
-      "artist" : "The Smashing Pumpkins",
-      "ArtistId" : "the-smashing-pumpkins-mn0000036521"
-    }, {
-      "artist" : "Tori Amos",
-      "ArtistId" : "tori-amos-mn0000792530"
-    }, {
-      "artist" : "Uriah Heep",
-      "ArtistId" : "uriah-heep-mn0000835648"
-    }, {
-      "artist" : "Wolfmother",
-      "ArtistId" : "wolfmother-mn0000086250"
-    }, {
-      "artist" : "Yngwie Malmsteen",
-      "ArtistId" : "yngwie-malmsteen-mn0000689367"
-    }, {
-      "artist" : "Black Rebel Motorcycle Club",
-      "ArtistId" : "black-rebel-motorcycle-club-mn0000771388"
-    }, {
-      "artist" : "Blind Melon",
-      "ArtistId" : "blind-melon-mn0000050251"
-    }, {
-      "artist" : "Faster Pussycat",
-      "ArtistId" : "faster-pussycat-mn0000177117"
-    }, {
-      "artist" : "Fates Warning",
-      "ArtistId" : "fates-warning-mn0000160975"
-    }, {
-      "artist" : "Flotsam and Jetsam",
-      "ArtistId" : "flotsam-and-jetsam-mn0000179522"
-    }, {
-      "artist" : "Foghat",
-      "ArtistId" : "foghat-mn0000201297"
-    }, {
-      "artist" : "Foreigner",
-      "ArtistId" : "foreigner-mn0000987621"
-    }, {
-      "artist" : "Golden Earring",
-      "ArtistId" : "golden-earring-mn0000669303"
-    }, {
-      "artist" : "Green River",
-      "ArtistId" : "green-river-mn0000799771"
-    }, {
-      "artist" : "Hum",
-      "ArtistId" : "hum-mn0000166658"
-    }, {
-      "artist" : "Jeff Buckley",
-      "ArtistId" : "jeff-buckley-mn0000240665"
-    }, {
-      "artist" : "Masters of Reality",
-      "ArtistId" : "masters-of-reality-mn0000385180"
-    }, {
-      "artist" : "Mother Love Bone",
-      "ArtistId" : "mother-love-bone-mn0000502269"
-    }, {
-      "artist" : "Rush",
-      "ArtistId" : "rush-mn0000203008"
-    }, {
-      "artist" : "Scorpions",
-      "ArtistId" : "scorpions-mn0000299471"
-    }, {
-      "artist" : "Spooky Tooth",
-      "ArtistId" : "spooky-tooth-mn0000159052"
-    }, {
-      "artist" : "The Black Crowes",
-      "ArtistId" : "the-black-crowes-mn0000048566"
-    }, {
-      "artist" : "The Stone Roses",
-      "ArtistId" : "the-stone-roses-mn0000564333"
-    }, {
-      "artist" : "Aeges",
-      "ArtistId" : "aeges-mn0002886482"
-    }, {
-      "artist" : "Alabama Shakes",
-      "ArtistId" : "alabama-shakes-mn0002802154"
-    }, {
-      "artist" : "Asking Alexandria",
-      "ArtistId" : "asking-alexandria-mn0001590871"
-    }, {
-      "artist" : "Aubrie Sellers",
-      "ArtistId" : "aubrie-sellers-mn0002770089"
-    }, {
-      "artist" : "BØRNS",
-      "ArtistId" : "b%C3rns-mn0003323342"
-    }, {
-      "artist" : "Caleb Johnson",
-      "ArtistId" : "caleb-johnson-mn0003291654"
-    }, {
-      "artist" : "Ceramic Animal",
-      "ArtistId" : "ceramic-animal-mn0003713773"
-    }, {
-      "artist" : "Dirty Honey",
-      "ArtistId" : "dirty-honey-mn0003836081"
-    }, {
-      "artist" : "Exodus",
-      "ArtistId" : "exodus-mn0000125822"
-    }, {
-      "artist" : "Farewell, My Love",
-      "ArtistId" : "farewell-my-love-mn0003263688"
-    }, {
-      "artist" : "Francesco Yates",
-      "ArtistId" : "francesco-yates-mn0003278115"
-    }, {
-      "artist" : "Holy Holy",
-      "ArtistId" : "holy-holy-mn0003268252"
-    }, {
-      "artist" : "John King",
-      "ArtistId" : "john-king-mn0003326655"
-    }, {
-      "artist" : "King Princess",
-      "ArtistId" : "king-princess-mn0003736051"
-    }, {
-      "artist" : "Little Matador",
-      "ArtistId" : "little-matador-mn0003234763"
-    }, {
-      "artist" : "Mastodon",
-      "ArtistId" : "mastodon-mn0000382565"
-    }, {
-      "artist" : "Max Webster",
-      "ArtistId" : "max-webster-mn0000395404"
-    }, {
-      "artist" : "Monks of Mellonwah",
-      "ArtistId" : "monks-of-mellonwah-mn0002932773"
-    }, {
-      "artist" : "Overkill",
-      "ArtistId" : "overkill-mn0000420504"
-    }, {
-      "artist" : "Samsara Blues Experiment",
-      "ArtistId" : "samsara-blues-experiment-mn0003060942"
-    }, {
-      "artist" : "Shaboozey",
-      "ArtistId" : "shaboozey-mn0003690780"
-    }, {
-      "artist" : "Shawn Mendes",
-      "ArtistId" : "shawn-mendes-mn0003276902"
-    }, {
-      "artist" : "Sivert Høyem",
-      "ArtistId" : "sivert-h%C3%B8yem-mn0001314128"
-    }, {
-      "artist" : "Star Dancer",
-      "ArtistId" : "star-dancer-mn0003512801"
-    }, {
-      "artist" : "Stonefield",
-      "ArtistId" : "stonefield-mn0000452077"
-    }, {
-      "artist" : "Testament",
-      "ArtistId" : "testament-mn0000751910"
-    }, {
-      "artist" : "The Amazons",
-      "ArtistId" : "the-amazons-mn0003493507"
-    }, {
-      "artist" : "Two Friends",
-      "ArtistId" : "two-friends-mn0001247888"
-    }, {
-      "artist" : "Yelawolf",
-      "ArtistId" : "yelawolf-mn0000463676"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Jimmy Page",
-      "ArtistId" : "jimmy-page-mn0000089021"
-    }, {
-      "artist" : "John Paul Jones",
-      "ArtistId" : "john-paul-jones-mn0000231997"
-    }, {
-      "artist" : "The Firm",
-      "ArtistId" : "the-firm-mn0000760417"
-    }, {
-      "artist" : "The Honeydrippers",
-      "ArtistId" : "the-honeydrippers-mn0000075473"
-    }, {
-      "artist" : "The Yardbirds",
-      "ArtistId" : "the-yardbirds-mn0000489303"
-    }, {
-      "artist" : "Page & Plant",
-      "ArtistId" : "page-plant-mn0001752569"
-    }, {
-      "artist" : "Band of Joy",
-      "ArtistId" : "band-of-joy-mn0000636328"
-    }, {
-      "artist" : "Them Crooked Vultures",
-      "ArtistId" : "them-crooked-vultures-mn0002043528"
-    }, {
-      "artist" : "Coverdale/Page",
-      "ArtistId" : "coverdale-page-mn0000120742"
-    }, {
-      "artist" : "Priory Of Brion",
-      "ArtistId" : "priory-of-brion-mn0001828450"
-    } ]
+    "id" : "led-zeppelin-mn0000139026",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "jimmy-page-mn0000089021",
+        "artist" : "Jimmy Page"
+      }, {
+        "ArtistId" : "john-paul-jones-mn0000231997",
+        "artist" : "John Paul Jones"
+      }, {
+        "ArtistId" : "the-firm-mn0000760417",
+        "artist" : "The Firm"
+      }, {
+        "ArtistId" : "the-honeydrippers-mn0000075473",
+        "artist" : "The Honeydrippers"
+      }, {
+        "ArtistId" : "the-yardbirds-mn0000489303",
+        "artist" : "The Yardbirds"
+      }, {
+        "ArtistId" : "page-plant-mn0001752569",
+        "artist" : "Page & Plant"
+      }, {
+        "ArtistId" : "band-of-joy-mn0000636328",
+        "artist" : "Band of Joy"
+      }, {
+        "ArtistId" : "them-crooked-vultures-mn0002043528",
+        "artist" : "Them Crooked Vultures"
+      }, {
+        "ArtistId" : "coverdale-page-mn0000120742",
+        "artist" : "Coverdale/Page"
+      }, {
+        "ArtistId" : "priory-of-brion-mn0001828450",
+        "artist" : "Priory Of Brion"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "ac-dc-mn0000574772",
+        "artist" : "AC/DC"
+      }, {
+        "ArtistId" : "aerosmith-mn0000604852",
+        "artist" : "Aerosmith"
+      }, {
+        "ArtistId" : "deep-purple-mn0000192382",
+        "artist" : "Deep Purple"
+      }, {
+        "ArtistId" : "heart-mn0000671953",
+        "artist" : "Heart"
+      }, {
+        "ArtistId" : "janes-addiction-mn0000806829",
+        "artist" : "Jane's Addiction"
+      }, {
+        "ArtistId" : "judas-priest-mn0000246611",
+        "artist" : "Judas Priest"
+      }, {
+        "ArtistId" : "the-cult-mn0000139908",
+        "artist" : "The Cult"
+      }, {
+        "ArtistId" : "thin-lizzy-mn0000590479",
+        "artist" : "Thin Lizzy"
+      }, {
+        "ArtistId" : "van-halen-mn0000260206",
+        "artist" : "Van Halen"
+      }, {
+        "ArtistId" : "bad-company-mn0000075100",
+        "artist" : "Bad Company"
+      }, {
+        "ArtistId" : "bon-jovi-mn0000069534",
+        "artist" : "Bon Jovi"
+      }, {
+        "ArtistId" : "bonham-mn0000768455",
+        "artist" : "Bonham"
+      }, {
+        "ArtistId" : "boston-mn0000079960",
+        "artist" : "Boston"
+      }, {
+        "ArtistId" : "cheap-trick-mn0000105354",
+        "artist" : "Cheap Trick"
+      }, {
+        "ArtistId" : "def-leppard-mn0000193320",
+        "artist" : "Def Leppard"
+      }, {
+        "ArtistId" : "diamond-head-mn0000251604",
+        "artist" : "Diamond Head"
+      }, {
+        "ArtistId" : "dio-mn0000263937",
+        "artist" : "Dio"
+      }, {
+        "ArtistId" : "great-white-mn0000799100",
+        "artist" : "Great White"
+      }, {
+        "ArtistId" : "guns-n-roses-mn0000540883",
+        "artist" : "Guns N' Roses"
+      }, {
+        "ArtistId" : "iron-maiden-mn0000098465",
+        "artist" : "Iron Maiden"
+      }, {
+        "ArtistId" : "joan-jett-mn0000137173",
+        "artist" : "Joan Jett"
+      }, {
+        "ArtistId" : "kiss-mn0000084209",
+        "artist" : "Kiss"
+      }, {
+        "ArtistId" : "lenny-kravitz-mn0000200074",
+        "artist" : "Lenny Kravitz"
+      }, {
+        "ArtistId" : "lez-zeppelin-mn0000924276",
+        "artist" : "Lez Zeppelin"
+      }, {
+        "ArtistId" : "metallica-mn0000446509",
+        "artist" : "Metallica"
+      }, {
+        "ArtistId" : "michael-schenker-mn0000397545",
+        "artist" : "Michael Schenker"
+      }, {
+        "ArtistId" : "montrose-mn0000492466",
+        "artist" : "Montrose"
+      }, {
+        "ArtistId" : "poison-mn0000355616",
+        "artist" : "Poison"
+      }, {
+        "ArtistId" : "queen-mn0000858827",
+        "artist" : "Queen"
+      }, {
+        "ArtistId" : "queens-of-the-stone-age-mn0000376422",
+        "artist" : "Queens of the Stone Age"
+      }, {
+        "ArtistId" : "queensr%C3%BFche-mn0000315339",
+        "artist" : "Queensrÿche"
+      }, {
+        "ArtistId" : "soundgarden-mn0000001098",
+        "artist" : "Soundgarden"
+      }, {
+        "ArtistId" : "spinal-tap-mn0000012654",
+        "artist" : "Spinal Tap"
+      }, {
+        "ArtistId" : "twisted-sister-mn0000165663",
+        "artist" : "Twisted Sister"
+      }, {
+        "ArtistId" : "ufo-mn0000809999",
+        "artist" : "UFO"
+      }, {
+        "ArtistId" : "whitesnake-mn0000251595",
+        "artist" : "Whitesnake"
+      }, {
+        "ArtistId" : "black-oak-arkansas-mn0000093849",
+        "artist" : "Black Oak Arkansas"
+      }, {
+        "ArtistId" : "dread-zeppelin-mn0000198266",
+        "artist" : "Dread Zeppelin"
+      }, {
+        "ArtistId" : "hanoi-rocks-mn0000948171",
+        "artist" : "Hanoi Rocks"
+      }, {
+        "ArtistId" : "journey-mn0000291043",
+        "artist" : "Journey"
+      }, {
+        "ArtistId" : "kings-x-mn0000771419",
+        "artist" : "King's X"
+      }, {
+        "ArtistId" : "kingdom-come-mn0000096804",
+        "artist" : "Kingdom Come"
+      }, {
+        "ArtistId" : "kix-mn0000098944",
+        "artist" : "Kix"
+      }, {
+        "ArtistId" : "lita-ford-mn0000305468",
+        "artist" : "Lita Ford"
+      }, {
+        "ArtistId" : "living-colour-mn0000825087",
+        "artist" : "Living Colour"
+      }, {
+        "ArtistId" : "meresha-mn0003386569",
+        "artist" : "Meresha"
+      }, {
+        "ArtistId" : "m%C3%B6tley-cr%C3%BCe-mn0000500992",
+        "artist" : "Mötley Crüe"
+      }, {
+        "ArtistId" : "nazareth-mn0000377891",
+        "artist" : "Nazareth"
+      }, {
+        "ArtistId" : "nirvana-mn0000357406",
+        "artist" : "Nirvana"
+      }, {
+        "ArtistId" : "primus-mn0000359326",
+        "artist" : "Primus"
+      }, {
+        "ArtistId" : "quiet-riot-mn0000859868",
+        "artist" : "Quiet Riot"
+      }, {
+        "ArtistId" : "rainbow-mn0000391933",
+        "artist" : "Rainbow"
+      }, {
+        "ArtistId" : "ratt-mn0000340152",
+        "artist" : "Ratt"
+      }, {
+        "ArtistId" : "screaming-trees-mn0000312353",
+        "artist" : "Screaming Trees"
+      }, {
+        "ArtistId" : "steve-vai-mn0000045475",
+        "artist" : "Steve Vai"
+      }, {
+        "ArtistId" : "stone-temple-pilots-mn0000626463",
+        "artist" : "Stone Temple Pilots"
+      }, {
+        "ArtistId" : "styx-mn0000923033",
+        "artist" : "Styx"
+      }, {
+        "ArtistId" : "tesla-mn0000029808",
+        "artist" : "Tesla"
+      }, {
+        "ArtistId" : "the-black-keys-mn0000755918",
+        "artist" : "The Black Keys"
+      }, {
+        "ArtistId" : "the-dead-weather-mn0002006721",
+        "artist" : "The Dead Weather"
+      }, {
+        "ArtistId" : "the-gutter-twins-mn0000936386",
+        "artist" : "The Gutter Twins"
+      }, {
+        "ArtistId" : "the-smashing-pumpkins-mn0000036521",
+        "artist" : "The Smashing Pumpkins"
+      }, {
+        "ArtistId" : "tori-amos-mn0000792530",
+        "artist" : "Tori Amos"
+      }, {
+        "ArtistId" : "uriah-heep-mn0000835648",
+        "artist" : "Uriah Heep"
+      }, {
+        "ArtistId" : "wolfmother-mn0000086250",
+        "artist" : "Wolfmother"
+      }, {
+        "ArtistId" : "yngwie-malmsteen-mn0000689367",
+        "artist" : "Yngwie Malmsteen"
+      }, {
+        "ArtistId" : "black-rebel-motorcycle-club-mn0000771388",
+        "artist" : "Black Rebel Motorcycle Club"
+      }, {
+        "ArtistId" : "blind-melon-mn0000050251",
+        "artist" : "Blind Melon"
+      }, {
+        "ArtistId" : "faster-pussycat-mn0000177117",
+        "artist" : "Faster Pussycat"
+      }, {
+        "ArtistId" : "fates-warning-mn0000160975",
+        "artist" : "Fates Warning"
+      }, {
+        "ArtistId" : "flotsam-and-jetsam-mn0000179522",
+        "artist" : "Flotsam and Jetsam"
+      }, {
+        "ArtistId" : "foghat-mn0000201297",
+        "artist" : "Foghat"
+      }, {
+        "ArtistId" : "foreigner-mn0000987621",
+        "artist" : "Foreigner"
+      }, {
+        "ArtistId" : "golden-earring-mn0000669303",
+        "artist" : "Golden Earring"
+      }, {
+        "ArtistId" : "green-river-mn0000799771",
+        "artist" : "Green River"
+      }, {
+        "ArtistId" : "hum-mn0000166658",
+        "artist" : "Hum"
+      }, {
+        "ArtistId" : "jeff-buckley-mn0000240665",
+        "artist" : "Jeff Buckley"
+      }, {
+        "ArtistId" : "masters-of-reality-mn0000385180",
+        "artist" : "Masters of Reality"
+      }, {
+        "ArtistId" : "mother-love-bone-mn0000502269",
+        "artist" : "Mother Love Bone"
+      }, {
+        "ArtistId" : "rush-mn0000203008",
+        "artist" : "Rush"
+      }, {
+        "ArtistId" : "scorpions-mn0000299471",
+        "artist" : "Scorpions"
+      }, {
+        "ArtistId" : "spooky-tooth-mn0000159052",
+        "artist" : "Spooky Tooth"
+      }, {
+        "ArtistId" : "the-black-crowes-mn0000048566",
+        "artist" : "The Black Crowes"
+      }, {
+        "ArtistId" : "the-stone-roses-mn0000564333",
+        "artist" : "The Stone Roses"
+      }, {
+        "ArtistId" : "aeges-mn0002886482",
+        "artist" : "Aeges"
+      }, {
+        "ArtistId" : "alabama-shakes-mn0002802154",
+        "artist" : "Alabama Shakes"
+      }, {
+        "ArtistId" : "asking-alexandria-mn0001590871",
+        "artist" : "Asking Alexandria"
+      }, {
+        "ArtistId" : "aubrie-sellers-mn0002770089",
+        "artist" : "Aubrie Sellers"
+      }, {
+        "ArtistId" : "b%C3rns-mn0003323342",
+        "artist" : "BØRNS"
+      }, {
+        "ArtistId" : "caleb-johnson-mn0003291654",
+        "artist" : "Caleb Johnson"
+      }, {
+        "ArtistId" : "ceramic-animal-mn0003713773",
+        "artist" : "Ceramic Animal"
+      }, {
+        "ArtistId" : "dirty-honey-mn0003836081",
+        "artist" : "Dirty Honey"
+      }, {
+        "ArtistId" : "exodus-mn0000125822",
+        "artist" : "Exodus"
+      }, {
+        "ArtistId" : "farewell-my-love-mn0003263688",
+        "artist" : "Farewell, My Love"
+      }, {
+        "ArtistId" : "francesco-yates-mn0003278115",
+        "artist" : "Francesco Yates"
+      }, {
+        "ArtistId" : "holy-holy-mn0003268252",
+        "artist" : "Holy Holy"
+      }, {
+        "ArtistId" : "john-king-mn0003326655",
+        "artist" : "John King"
+      }, {
+        "ArtistId" : "king-princess-mn0003736051",
+        "artist" : "King Princess"
+      }, {
+        "ArtistId" : "little-matador-mn0003234763",
+        "artist" : "Little Matador"
+      }, {
+        "ArtistId" : "mastodon-mn0000382565",
+        "artist" : "Mastodon"
+      }, {
+        "ArtistId" : "max-webster-mn0000395404",
+        "artist" : "Max Webster"
+      }, {
+        "ArtistId" : "monks-of-mellonwah-mn0002932773",
+        "artist" : "Monks of Mellonwah"
+      }, {
+        "ArtistId" : "overkill-mn0000420504",
+        "artist" : "Overkill"
+      }, {
+        "ArtistId" : "samsara-blues-experiment-mn0003060942",
+        "artist" : "Samsara Blues Experiment"
+      }, {
+        "ArtistId" : "shaboozey-mn0003690780",
+        "artist" : "Shaboozey"
+      }, {
+        "ArtistId" : "shawn-mendes-mn0003276902",
+        "artist" : "Shawn Mendes"
+      }, {
+        "ArtistId" : "sivert-h%C3%B8yem-mn0001314128",
+        "artist" : "Sivert Høyem"
+      }, {
+        "ArtistId" : "star-dancer-mn0003512801",
+        "artist" : "Star Dancer"
+      }, {
+        "ArtistId" : "stonefield-mn0000452077",
+        "artist" : "Stonefield"
+      }, {
+        "ArtistId" : "testament-mn0000751910",
+        "artist" : "Testament"
+      }, {
+        "ArtistId" : "the-amazons-mn0003493507",
+        "artist" : "The Amazons"
+      }, {
+        "ArtistId" : "two-friends-mn0001247888",
+        "artist" : "Two Friends"
+      }, {
+        "ArtistId" : "yelawolf-mn0000463676",
+        "artist" : "Yelawolf"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "chuck-berry-mn0000120521",
+        "artist" : "Chuck Berry"
+      }, {
+        "ArtistId" : "elvis-presley-mn0000180228",
+        "artist" : "Elvis Presley"
+      }, {
+        "ArtistId" : "fairport-convention-mn0000162233",
+        "artist" : "Fairport Convention"
+      }, {
+        "ArtistId" : "howlin-wolf-mn0000276085",
+        "artist" : "Howlin' Wolf"
+      }, {
+        "ArtistId" : "muddy-waters-mn0000608701",
+        "artist" : "Muddy Waters"
+      }, {
+        "ArtistId" : "otis-rush-mn0000894956",
+        "artist" : "Otis Rush"
+      }, {
+        "ArtistId" : "sonny-boy-williamson-ii-mn0000036031",
+        "artist" : "Sonny Boy Williamson II"
+      }, {
+        "ArtistId" : "willie-dixon-mn0000959770",
+        "artist" : "Willie Dixon"
+      }, {
+        "ArtistId" : "anne-briggs-mn0000486661",
+        "artist" : "Anne Briggs"
+      }, {
+        "ArtistId" : "bert-jansch-mn0000756656",
+        "artist" : "Bert Jansch"
+      }, {
+        "ArtistId" : "cream-mn0000112462",
+        "artist" : "Cream"
+      }, {
+        "ArtistId" : "jimi-hendrix-mn0000354105",
+        "artist" : "Jimi Hendrix"
+      }, {
+        "ArtistId" : "john-renbourn-mn0000192925",
+        "artist" : "John Renbourn"
+      }, {
+        "ArtistId" : "roy-harper-mn0000345427",
+        "artist" : "Roy Harper"
+      }, {
+        "ArtistId" : "the-beatles-mn0000754032",
+        "artist" : "The Beatles"
+      }, {
+        "ArtistId" : "the-creation-mn0000110341",
+        "artist" : "The Creation"
+      }, {
+        "ArtistId" : "the-rolling-stones-mn0000894465",
+        "artist" : "The Rolling Stones"
+      }, {
+        "ArtistId" : "blind-willie-johnson-mn0000040137",
+        "artist" : "Blind Willie Johnson"
+      }, {
+        "ArtistId" : "davy-graham-mn0000814036",
+        "artist" : "Davy Graham"
+      }, {
+        "ArtistId" : "fleetwood-mac-mn0000182900",
+        "artist" : "Fleetwood Mac"
+      }, {
+        "ArtistId" : "ike-turner-mn0000080970",
+        "artist" : "Ike Turner"
+      }, {
+        "ArtistId" : "james-cotton-mn0000131841",
+        "artist" : "James Cotton"
+      }, {
+        "ArtistId" : "johnny-burnette-mn0000241813",
+        "artist" : "Johnny Burnette"
+      }, {
+        "ArtistId" : "lead-belly-mn0000124390",
+        "artist" : "Lead Belly"
+      }, {
+        "ArtistId" : "memphis-minnie-mn0000352499",
+        "artist" : "Memphis Minnie"
+      }, {
+        "ArtistId" : "moby-grape-mn0000569914",
+        "artist" : "Moby Grape"
+      }, {
+        "ArtistId" : "robert-johnson-mn0000832288",
+        "artist" : "Robert Johnson"
+      }, {
+        "ArtistId" : "small-faces-mn0000423267",
+        "artist" : "Small Faces"
+      }, {
+        "ArtistId" : "jake-holmes-mn0000133626",
+        "artist" : "Jake Holmes"
+      }, {
+        "ArtistId" : "spirit-mn0000746010",
+        "artist" : "Spirit"
+      }, {
+        "ArtistId" : "tim-rose-mn0000499714",
+        "artist" : "Tim Rose"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "black-sabbath-mn0000771438",
+        "artist" : "Black Sabbath"
+      }, {
+        "ArtistId" : "cream-mn0000112462",
+        "artist" : "Cream"
+      }, {
+        "ArtistId" : "deep-purple-mn0000192382",
+        "artist" : "Deep Purple"
+      }, {
+        "ArtistId" : "jeff-beck-mn0000240865",
+        "artist" : "Jeff Beck"
+      }, {
+        "ArtistId" : "jimi-hendrix-mn0000354105",
+        "artist" : "Jimi Hendrix"
+      }, {
+        "ArtistId" : "aerosmith-mn0000604852",
+        "artist" : "Aerosmith"
+      }, {
+        "ArtistId" : "bonham-mn0000768455",
+        "artist" : "Bonham"
+      }, {
+        "ArtistId" : "humble-pie-mn0000805661",
+        "artist" : "Humble Pie"
+      }, {
+        "ArtistId" : "kingdom-come-mn0000096804",
+        "artist" : "Kingdom Come"
+      }, {
+        "ArtistId" : "queen-mn0000858827",
+        "artist" : "Queen"
+      }, {
+        "ArtistId" : "rush-mn0000203008",
+        "artist" : "Rush"
+      }, {
+        "ArtistId" : "ac-dc-mn0000574772",
+        "artist" : "AC/DC"
+      }, {
+        "ArtistId" : "alice-cooper-mn0000005953",
+        "artist" : "Alice Cooper"
+      }, {
+        "ArtistId" : "bad-company-mn0000075100",
+        "artist" : "Bad Company"
+      }, {
+        "ArtistId" : "cactus-mn0000520215",
+        "artist" : "Cactus"
+      }, {
+        "ArtistId" : "free-mn0000193216",
+        "artist" : "Free"
+      }, {
+        "ArtistId" : "grand-funk-railroad-mn0000659517",
+        "artist" : "Grand Funk Railroad"
+      }, {
+        "ArtistId" : "jeremy-spencer-mn0000322666",
+        "artist" : "Jeremy Spencer"
+      }, {
+        "ArtistId" : "mott-the-hoople-mn0000596126",
+        "artist" : "Mott the Hoople"
+      }, {
+        "ArtistId" : "savoy-brown-mn0000838524",
+        "artist" : "Savoy Brown"
+      }, {
+        "ArtistId" : "t-rex-mn0000005882",
+        "artist" : "T. Rex"
+      }, {
+        "ArtistId" : "ten-years-after-mn0000020050",
+        "artist" : "Ten Years After"
+      }, {
+        "ArtistId" : "the-pretty-things-mn0000489676",
+        "artist" : "The Pretty Things"
+      }, {
+        "ArtistId" : "the-who-mn0000577627",
+        "artist" : "The Who"
+      }, {
+        "ArtistId" : "trapeze-mn0000746220",
+        "artist" : "Trapeze"
+      }, {
+        "ArtistId" : "van-halen-mn0000260206",
+        "artist" : "Van Halen"
+      }, {
+        "ArtistId" : "whitesnake-mn0000251595",
+        "artist" : "Whitesnake"
+      }, {
+        "ArtistId" : "detective-mn0000244088",
+        "artist" : "Detective"
+      }, {
+        "ArtistId" : "mountain-mn0000503913",
+        "artist" : "Mountain"
+      }, {
+        "ArtistId" : "blue-cheer-mn0000059537",
+        "artist" : "Blue Cheer"
+      }, {
+        "ArtistId" : "captain-beyond-mn0000944933",
+        "artist" : "Captain Beyond"
+      }, {
+        "ArtistId" : "golden-earring-mn0000669303",
+        "artist" : "Golden Earring"
+      }, {
+        "ArtistId" : "saxon-mn0000259800",
+        "artist" : "Saxon"
+      }, {
+        "ArtistId" : "the-allman-brothers-band-mn0000745964",
+        "artist" : "The Allman Brothers Band"
+      } ]
+    }
   }
 }

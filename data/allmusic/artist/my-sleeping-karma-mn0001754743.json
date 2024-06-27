@@ -1,9 +1,9 @@
 {
-  "id" : "my-sleeping-karma-mn0001754743",
-  "name" : "My Sleeping Karma",
   "activeDates" : "2000s - 2020s",
   "birthDate" : "",
   "birthPlace" : "",
+  "id" : "my-sleeping-karma-mn0001754743",
+  "name" : "My Sleeping Karma",
   "styles" : [ {
     "name" : "Alternative/Indie Rock",
     "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
@@ -13,136 +13,142 @@
   } ],
   "decades" : "2000s - 2020s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "2006",
-    "albumTitle" : "My Sleeping Karma",
-    "musicRating" : "",
-    "avgRating" : "9-11"
-  }, {
-    "albumYear" : "2008",
-    "albumTitle" : "Satya",
-    "musicRating" : "",
-    "avgRating" : "8-15"
-  }, {
-    "albumYear" : "2017",
-    "albumTitle" : "Mela Ananda: Live",
-    "musicRating" : "",
-    "avgRating" : "8-4"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Tri",
-    "musicRating" : "",
-    "avgRating" : "8-13"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Soma",
-    "musicRating" : "",
-    "avgRating" : "9-16"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Moksha",
-    "musicRating" : "",
-    "avgRating" : "8-21"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Atma",
-    "musicRating" : "",
-    "avgRating" : "7-4"
-  } ],
-  "related" : {
-    "similars" : [ {
-      "artist" : "Causa Sui",
-      "ArtistId" : "causa-sui-mn0000976112"
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "My Sleeping Karma",
+      "albumYear" : "2006",
+      "avgRating" : "9-11",
+      "musicRating" : ""
     }, {
-      "artist" : "Colour Haze",
-      "ArtistId" : "colour-haze-mn0000719325"
+      "albumTitle" : "Satya",
+      "albumYear" : "2008",
+      "avgRating" : "8-15",
+      "musicRating" : ""
     }, {
-      "artist" : "35007",
-      "ArtistId" : "35007-mn0000581468"
+      "albumTitle" : "Mela Ananda: Live",
+      "albumYear" : "2017",
+      "avgRating" : "8-4",
+      "musicRating" : ""
     }, {
-      "artist" : "Dragontears",
-      "ArtistId" : "dragontears-mn0002088183"
+      "albumTitle" : "Tri",
+      "albumYear" : "",
+      "avgRating" : "8-13",
+      "musicRating" : ""
     }, {
-      "artist" : "Farflung",
-      "ArtistId" : "farflung-mn0000174071"
+      "albumTitle" : "Soma",
+      "albumYear" : "",
+      "avgRating" : "9-16",
+      "musicRating" : ""
     }, {
-      "artist" : "Secret Saucer",
-      "ArtistId" : "secret-saucer-mn0001405764"
+      "albumTitle" : "Moksha",
+      "albumYear" : "",
+      "avgRating" : "8-21",
+      "musicRating" : ""
     }, {
-      "artist" : "Øresund Space Collective",
-      "ArtistId" : "%C3resund-space-collective-mn0001443065"
-    }, {
-      "artist" : "Do Make Say Think",
-      "ArtistId" : "do-make-say-think-mn0000169906"
-    }, {
-      "artist" : "Explosions in the Sky",
-      "ArtistId" : "explosions-in-the-sky-mn0000789055"
-    }, {
-      "artist" : "First Band From Outer Space",
-      "ArtistId" : "first-band-from-outer-space-mn0000479410"
-    }, {
-      "artist" : "I Like Trains",
-      "ArtistId" : "i-like-trains-mn0000480609"
-    }, {
-      "artist" : "Linda Martini",
-      "ArtistId" : "linda-martini-mn0001427259"
-    }, {
-      "artist" : "Ozric Tentacles",
-      "ArtistId" : "ozric-tentacles-mn0000499489"
-    }, {
-      "artist" : "Super Numeri",
-      "ArtistId" : "super-numeri-mn0000027453"
-    }, {
-      "artist" : "Teeth of the Sea",
-      "ArtistId" : "teeth-of-the-sea-mn0001583944"
-    }, {
-      "artist" : "Tia Carrere",
-      "ArtistId" : "tia-carrere-mn0000588771"
-    }, {
-      "artist" : "Assemble Head in Sunburst Sound",
-      "ArtistId" : "assemble-head-in-sunburst-sound-mn0000940165"
-    }, {
-      "artist" : "Followed By Ghosts",
-      "ArtistId" : "followed-by-ghosts-mn0002087729"
-    }, {
-      "artist" : "Godspeed You! Black Emperor",
-      "ArtistId" : "godspeed-you%21-black-emperor-mn0000665945"
-    }, {
-      "artist" : "Hidria Spacefolk",
-      "ArtistId" : "hidria-spacefolk-mn0002111209"
-    }, {
-      "artist" : "Litmus",
-      "ArtistId" : "litmus-mn0002013722"
-    }, {
-      "artist" : "Los Natas",
-      "ArtistId" : "los-natas-mn0000357504"
-    }, {
-      "artist" : "Monkey3",
-      "ArtistId" : "monkey3-mn0001526446"
-    }, {
-      "artist" : "ROVO",
-      "ArtistId" : "rovo-mn0000353059"
-    }, {
-      "artist" : "SubArachnoid Space",
-      "ArtistId" : "subarachnoid-space-mn0000486006"
-    }, {
-      "artist" : "Yawning Man",
-      "ArtistId" : "yawning-man-mn0001005793"
-    }, {
-      "artist" : "And So I Watch You from Afar",
-      "ArtistId" : "and-so-i-watch-you-from-afar-mn0001571478"
-    }, {
-      "artist" : "Siena Root",
-      "ArtistId" : "siena-root-mn0000557999"
-    }, {
-      "artist" : "White Hills",
-      "ArtistId" : "white-hills-mn0001068859"
-    }, {
-      "artist" : "Dakota/Dakota",
-      "ArtistId" : "dakota-dakota-mn0001369472"
+      "albumTitle" : "Atma",
+      "albumYear" : "",
+      "avgRating" : "7-4",
+      "musicRating" : ""
     } ],
-    "influencers" : [ ],
-    "followers" : [ ],
-    "associatedwith" : [ ]
+    "id" : "my-sleeping-karma-mn0001754743"
+  },
+  "related" : {
+    "id" : "my-sleeping-karma-mn0001754743",
+    "related" : {
+      "associatedwith" : [ ],
+      "followers" : [ ],
+      "influencers" : [ ],
+      "similars" : [ {
+        "ArtistId" : "causa-sui-mn0000976112",
+        "artist" : "Causa Sui"
+      }, {
+        "ArtistId" : "colour-haze-mn0000719325",
+        "artist" : "Colour Haze"
+      }, {
+        "ArtistId" : "35007-mn0000581468",
+        "artist" : "35007"
+      }, {
+        "ArtistId" : "dragontears-mn0002088183",
+        "artist" : "Dragontears"
+      }, {
+        "ArtistId" : "farflung-mn0000174071",
+        "artist" : "Farflung"
+      }, {
+        "ArtistId" : "secret-saucer-mn0001405764",
+        "artist" : "Secret Saucer"
+      }, {
+        "ArtistId" : "%C3resund-space-collective-mn0001443065",
+        "artist" : "Øresund Space Collective"
+      }, {
+        "ArtistId" : "do-make-say-think-mn0000169906",
+        "artist" : "Do Make Say Think"
+      }, {
+        "ArtistId" : "explosions-in-the-sky-mn0000789055",
+        "artist" : "Explosions in the Sky"
+      }, {
+        "ArtistId" : "first-band-from-outer-space-mn0000479410",
+        "artist" : "First Band From Outer Space"
+      }, {
+        "ArtistId" : "i-like-trains-mn0000480609",
+        "artist" : "I Like Trains"
+      }, {
+        "ArtistId" : "linda-martini-mn0001427259",
+        "artist" : "Linda Martini"
+      }, {
+        "ArtistId" : "ozric-tentacles-mn0000499489",
+        "artist" : "Ozric Tentacles"
+      }, {
+        "ArtistId" : "super-numeri-mn0000027453",
+        "artist" : "Super Numeri"
+      }, {
+        "ArtistId" : "teeth-of-the-sea-mn0001583944",
+        "artist" : "Teeth of the Sea"
+      }, {
+        "ArtistId" : "tia-carrere-mn0000588771",
+        "artist" : "Tia Carrere"
+      }, {
+        "ArtistId" : "assemble-head-in-sunburst-sound-mn0000940165",
+        "artist" : "Assemble Head in Sunburst Sound"
+      }, {
+        "ArtistId" : "followed-by-ghosts-mn0002087729",
+        "artist" : "Followed By Ghosts"
+      }, {
+        "ArtistId" : "godspeed-you%21-black-emperor-mn0000665945",
+        "artist" : "Godspeed You! Black Emperor"
+      }, {
+        "ArtistId" : "hidria-spacefolk-mn0002111209",
+        "artist" : "Hidria Spacefolk"
+      }, {
+        "ArtistId" : "litmus-mn0002013722",
+        "artist" : "Litmus"
+      }, {
+        "ArtistId" : "los-natas-mn0000357504",
+        "artist" : "Los Natas"
+      }, {
+        "ArtistId" : "monkey3-mn0001526446",
+        "artist" : "Monkey3"
+      }, {
+        "ArtistId" : "rovo-mn0000353059",
+        "artist" : "ROVO"
+      }, {
+        "ArtistId" : "subarachnoid-space-mn0000486006",
+        "artist" : "SubArachnoid Space"
+      }, {
+        "ArtistId" : "yawning-man-mn0001005793",
+        "artist" : "Yawning Man"
+      }, {
+        "ArtistId" : "and-so-i-watch-you-from-afar-mn0001571478",
+        "artist" : "And So I Watch You from Afar"
+      }, {
+        "ArtistId" : "siena-root-mn0000557999",
+        "artist" : "Siena Root"
+      }, {
+        "ArtistId" : "white-hills-mn0001068859",
+        "artist" : "White Hills"
+      }, {
+        "ArtistId" : "dakota-dakota-mn0001369472",
+        "artist" : "Dakota/Dakota"
+      } ]
+    }
   }
 }

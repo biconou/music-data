@@ -1,9 +1,9 @@
 {
-  "id" : "add-n-to-x-mn0000601225",
-  "name" : "Add N to (X)",
   "activeDates" : "1990s - 2000s",
   "birthDate" : "1994",
   "birthPlace" : "London, England",
+  "id" : "add-n-to-x-mn0000601225",
+  "name" : "Add N to (X)",
   "styles" : [ {
     "name" : "Alternative/Indie Rock",
     "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
@@ -16,152 +16,158 @@
   } ],
   "decades" : "1990s - 2000s",
   "genres" : "Electronic, Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "1996",
-    "albumTitle" : "Vero Electronics",
-    "musicRating" : "5",
-    "avgRating" : "7-34"
-  }, {
-    "albumYear" : "1998",
-    "albumTitle" : "On the Wires of Our Nerves",
-    "musicRating" : "7",
-    "avgRating" : "8-45"
-  }, {
-    "albumYear" : "1999",
-    "albumTitle" : "Avant Hard",
-    "musicRating" : "8",
-    "avgRating" : "9-125"
-  }, {
-    "albumYear" : "2000",
-    "albumTitle" : "Add Insult to Injury",
-    "musicRating" : "7",
-    "avgRating" : "8-60"
-  }, {
-    "albumYear" : "2001",
-    "albumTitle" : "Alternative 3",
-    "musicRating" : "",
-    "avgRating" : "7-2"
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "Loud Like Nature",
-    "musicRating" : "8",
-    "avgRating" : "8-55"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Vero Electronics",
+      "albumYear" : "1996",
+      "avgRating" : "7-34",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "On the Wires of Our Nerves",
+      "albumYear" : "1998",
+      "avgRating" : "8-45",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Avant Hard",
+      "albumYear" : "1999",
+      "avgRating" : "8-125",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Add Insult to Injury",
+      "albumYear" : "2000",
+      "avgRating" : "8-60",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Alternative 3",
+      "albumYear" : "2001",
+      "avgRating" : "7-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Loud Like Nature",
+      "albumYear" : "2002",
+      "avgRating" : "8-55",
+      "musicRating" : "8"
+    } ],
+    "id" : "add-n-to-x-mn0000601225"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Ghost Power",
-      "ArtistId" : "ghost-power-mn0004213300"
-    }, {
-      "artist" : "Boards of Canada",
-      "ArtistId" : "boards-of-canada-mn0000758999"
-    }, {
-      "artist" : "Broadcast",
-      "ArtistId" : "broadcast-mn0000937150"
-    }, {
-      "artist" : "Cripples",
-      "ArtistId" : "cripples-mn0000785419"
-    }, {
-      "artist" : "Earl Brutus",
-      "ArtistId" : "earl-brutus-mn0000138980"
-    }, {
-      "artist" : "Emperor Penguin",
-      "ArtistId" : "emperor-penguin-mn0000196986"
-    }, {
-      "artist" : "Jean-Jacques Perrey",
-      "ArtistId" : "jean-jacques-perrey-mn0000189641"
-    }, {
-      "artist" : "Jonny Trunk",
-      "ArtistId" : "jonny-trunk-mn0000940087"
-    }, {
-      "artist" : "Komputer",
-      "ArtistId" : "komputer-mn0000110444"
-    }, {
-      "artist" : "Mouse on Mars",
-      "ArtistId" : "mouse-on-mars-mn0000929800"
-    }, {
-      "artist" : "Raymond Scott",
-      "ArtistId" : "raymond-scott-mn0000873886"
-    }, {
-      "artist" : "Six Finger Satellite",
-      "ArtistId" : "six-finger-satellite-mn0000746791"
-    }, {
-      "artist" : "Stereolab",
-      "ArtistId" : "stereolab-mn0000026520"
-    }, {
-      "artist" : "Suicide",
-      "ArtistId" : "suicide-mn0000487186"
-    }, {
-      "artist" : "Sukia",
-      "ArtistId" : "sukia-mn0000922495"
-    }, {
-      "artist" : "Trans Am",
-      "ArtistId" : "trans-am-mn0000011892"
-    }, {
-      "artist" : "Wendy Carlos",
-      "ArtistId" : "wendy-carlos-mn0000203175"
-    }, {
-      "artist" : "Brainiac",
-      "ArtistId" : "brainiac-mn0000515755"
-    }, {
-      "artist" : "Clinic",
-      "ArtistId" : "clinic-mn0000161487"
-    }, {
-      "artist" : "Keiki",
-      "ArtistId" : "keiki-mn0002978777"
-    }, {
-      "artist" : "Lazer Crystal",
-      "ArtistId" : "lazer-crystal-mn0001030754"
-    }, {
-      "artist" : "The Octopus Project",
-      "ArtistId" : "the-octopus-project-mn0000893493"
-    } ],
-    "influencers" : [ {
-      "artist" : "Bruce Haack",
-      "ArtistId" : "bruce-haack-mn0000529565"
-    }, {
-      "artist" : "Can",
-      "ArtistId" : "can-mn0000645612"
-    }, {
-      "artist" : "Kraftwerk",
-      "ArtistId" : "kraftwerk-mn0000104714"
-    }, {
-      "artist" : "Neu!",
-      "ArtistId" : "neu%21-mn0000387815"
-    }, {
-      "artist" : "Throbbing Gristle",
-      "ArtistId" : "throbbing-gristle-mn0000926604"
-    }, {
-      "artist" : "Cabaret Voltaire",
-      "ArtistId" : "cabaret-voltaire-mn0000635413"
-    }, {
-      "artist" : "David Bowie",
-      "ArtistId" : "david-bowie-mn0000531986"
-    }, {
-      "artist" : "Roxy Music",
-      "ArtistId" : "roxy-music-mn0000852855"
-    }, {
-      "artist" : "Silver Apples",
-      "ArtistId" : "silver-apples-mn0000755494"
-    }, {
-      "artist" : "Suicide",
-      "ArtistId" : "suicide-mn0000487186"
-    }, {
-      "artist" : "This Heat",
-      "ArtistId" : "this-heat-mn0000592289"
-    } ],
-    "followers" : [ {
-      "artist" : "Future Islands",
-      "ArtistId" : "future-islands-mn0001772438"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Large Number",
-      "ArtistId" : "large-number-mn0000122025"
-    }, {
-      "artist" : "Goldfrapp",
-      "ArtistId" : "goldfrapp-mn0000952786"
-    }, {
-      "artist" : "Relaxed Muscle",
-      "ArtistId" : "relaxed-muscle-mn0000662941"
-    } ]
+    "id" : "add-n-to-x-mn0000601225",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "large-number-mn0000122025",
+        "artist" : "Large Number"
+      }, {
+        "ArtistId" : "goldfrapp-mn0000952786",
+        "artist" : "Goldfrapp"
+      }, {
+        "ArtistId" : "relaxed-muscle-mn0000662941",
+        "artist" : "Relaxed Muscle"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "future-islands-mn0001772438",
+        "artist" : "Future Islands"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "bruce-haack-mn0000529565",
+        "artist" : "Bruce Haack"
+      }, {
+        "ArtistId" : "can-mn0000645612",
+        "artist" : "Can"
+      }, {
+        "ArtistId" : "kraftwerk-mn0000104714",
+        "artist" : "Kraftwerk"
+      }, {
+        "ArtistId" : "neu%21-mn0000387815",
+        "artist" : "Neu!"
+      }, {
+        "ArtistId" : "throbbing-gristle-mn0000926604",
+        "artist" : "Throbbing Gristle"
+      }, {
+        "ArtistId" : "cabaret-voltaire-mn0000635413",
+        "artist" : "Cabaret Voltaire"
+      }, {
+        "ArtistId" : "david-bowie-mn0000531986",
+        "artist" : "David Bowie"
+      }, {
+        "ArtistId" : "roxy-music-mn0000852855",
+        "artist" : "Roxy Music"
+      }, {
+        "ArtistId" : "silver-apples-mn0000755494",
+        "artist" : "Silver Apples"
+      }, {
+        "ArtistId" : "suicide-mn0000487186",
+        "artist" : "Suicide"
+      }, {
+        "ArtistId" : "this-heat-mn0000592289",
+        "artist" : "This Heat"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "ghost-power-mn0004213300",
+        "artist" : "Ghost Power"
+      }, {
+        "ArtistId" : "boards-of-canada-mn0000758999",
+        "artist" : "Boards of Canada"
+      }, {
+        "ArtistId" : "broadcast-mn0000937150",
+        "artist" : "Broadcast"
+      }, {
+        "ArtistId" : "cripples-mn0000785419",
+        "artist" : "Cripples"
+      }, {
+        "ArtistId" : "earl-brutus-mn0000138980",
+        "artist" : "Earl Brutus"
+      }, {
+        "ArtistId" : "emperor-penguin-mn0000196986",
+        "artist" : "Emperor Penguin"
+      }, {
+        "ArtistId" : "jean-jacques-perrey-mn0000189641",
+        "artist" : "Jean-Jacques Perrey"
+      }, {
+        "ArtistId" : "jonny-trunk-mn0000940087",
+        "artist" : "Jonny Trunk"
+      }, {
+        "ArtistId" : "komputer-mn0000110444",
+        "artist" : "Komputer"
+      }, {
+        "ArtistId" : "mouse-on-mars-mn0000929800",
+        "artist" : "Mouse on Mars"
+      }, {
+        "ArtistId" : "raymond-scott-mn0000873886",
+        "artist" : "Raymond Scott"
+      }, {
+        "ArtistId" : "six-finger-satellite-mn0000746791",
+        "artist" : "Six Finger Satellite"
+      }, {
+        "ArtistId" : "stereolab-mn0000026520",
+        "artist" : "Stereolab"
+      }, {
+        "ArtistId" : "suicide-mn0000487186",
+        "artist" : "Suicide"
+      }, {
+        "ArtistId" : "sukia-mn0000922495",
+        "artist" : "Sukia"
+      }, {
+        "ArtistId" : "trans-am-mn0000011892",
+        "artist" : "Trans Am"
+      }, {
+        "ArtistId" : "wendy-carlos-mn0000203175",
+        "artist" : "Wendy Carlos"
+      }, {
+        "ArtistId" : "brainiac-mn0000515755",
+        "artist" : "Brainiac"
+      }, {
+        "ArtistId" : "clinic-mn0000161487",
+        "artist" : "Clinic"
+      }, {
+        "ArtistId" : "keiki-mn0002978777",
+        "artist" : "Keiki"
+      }, {
+        "ArtistId" : "lazer-crystal-mn0001030754",
+        "artist" : "Lazer Crystal"
+      }, {
+        "ArtistId" : "the-octopus-project-mn0000893493",
+        "artist" : "The Octopus Project"
+      } ]
+    }
   }
 }

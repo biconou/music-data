@@ -1,9 +1,9 @@
 {
-  "id" : "alain-bashung-mn0000620759",
-  "name" : "Alain Bashung",
   "activeDates" : "1960s - 2000s",
   "birthDate" : "December 1, 1947",
   "birthPlace" : "Paris, France",
+  "id" : "alain-bashung-mn0000620759",
+  "name" : "Alain Bashung",
   "styles" : [ {
     "name" : "French Chanson",
     "url" : "https://www.allmusic.com/style/french-chanson-ma0000002605"
@@ -22,234 +22,240 @@
   } ],
   "decades" : "1960s - 2000s",
   "genres" : "Pop/Rock, Vocal, International",
-  "discography" : [ {
-    "albumYear" : "1979",
-    "albumTitle" : "Roulette Russe",
-    "musicRating" : "",
-    "avgRating" : "8-32"
-  }, {
-    "albumYear" : "1981",
-    "albumTitle" : "Pizza",
-    "musicRating" : "",
-    "avgRating" : "9-39"
-  }, {
-    "albumYear" : "1982",
-    "albumTitle" : "Play Blessures",
-    "musicRating" : "",
-    "avgRating" : "8-45"
-  }, {
-    "albumYear" : "1983",
-    "albumTitle" : "Figure Imposée",
-    "musicRating" : "",
-    "avgRating" : "7-22"
-  }, {
-    "albumYear" : "1985",
-    "albumTitle" : "Live Tour",
-    "musicRating" : "",
-    "avgRating" : "9-13"
-  }, {
-    "albumYear" : "1986",
-    "albumTitle" : "Passé le Rio Grande",
-    "musicRating" : "",
-    "avgRating" : "8-28"
-  }, {
-    "albumYear" : "1989",
-    "albumTitle" : "Novice",
-    "musicRating" : "",
-    "avgRating" : "9-31"
-  }, {
-    "albumYear" : "1990",
-    "albumTitle" : "Tour Novice",
-    "musicRating" : "5",
-    "avgRating" : "8-10"
-  }, {
-    "albumYear" : "1991",
-    "albumTitle" : "Osez Joséphine",
-    "musicRating" : "8",
-    "avgRating" : "9-91"
-  }, {
-    "albumYear" : "1992",
-    "albumTitle" : "Reservé aux Indiens",
-    "musicRating" : "",
-    "avgRating" : "7-7"
-  }, {
-    "albumYear" : "1994",
-    "albumTitle" : "Bijou, Bijou",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1994",
-    "albumTitle" : "Chatterton",
-    "musicRating" : "5",
-    "avgRating" : "9-47"
-  }, {
-    "albumYear" : "1996",
-    "albumTitle" : "Confessions Publiques",
-    "musicRating" : "7",
-    "avgRating" : "9-22"
-  }, {
-    "albumYear" : "1998",
-    "albumTitle" : "Fantaisie Militaire",
-    "musicRating" : "8",
-    "avgRating" : "9-114"
-  }, {
-    "albumYear" : "2000",
-    "albumTitle" : "Alain Bashung: Master Serie, Vol.2",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2000",
-    "albumTitle" : "Mes Petites Entreprises",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2000",
-    "albumTitle" : "Climax",
-    "musicRating" : "",
-    "avgRating" : "9-14"
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "L' Imprudence",
-    "musicRating" : "",
-    "avgRating" : "9-60"
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "Cantique Des Cantiques",
-    "musicRating" : "",
-    "avgRating" : "4-5"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "Bashung",
-    "musicRating" : "",
-    "avgRating" : "9-2"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "La Tournee Des Grands Espaces",
-    "musicRating" : "",
-    "avgRating" : "9-15"
-  }, {
-    "albumYear" : "2008",
-    "albumTitle" : "Bleu Pétrole",
-    "musicRating" : "7",
-    "avgRating" : "9-103"
-  }, {
-    "albumYear" : "2009",
-    "albumTitle" : "Dimanches à l'Eysee",
-    "musicRating" : "",
-    "avgRating" : "9-11"
-  }, {
-    "albumYear" : "2010",
-    "albumTitle" : "Osez Bashung",
-    "musicRating" : "",
-    "avgRating" : "8-4"
-  }, {
-    "albumYear" : "2011",
-    "albumTitle" : "L' Homme à Tête de Chou",
-    "musicRating" : "",
-    "avgRating" : "9-15"
-  }, {
-    "albumYear" : "2022",
-    "albumTitle" : "En Studio",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Roman Photos",
-    "musicRating" : "",
-    "avgRating" : "7-4"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "A Paraitre",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Quadromania",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "From Baschung to Bashung",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Integrale Immortal",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Documents/Duos/Raretés, Vol. 2",
-    "musicRating" : "",
-    "avgRating" : "9-2"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Documents/Duos/Raretés, Vol. 4",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Documents/Duos/Raretés, Vol. 1",
-    "musicRating" : "",
-    "avgRating" : "9-2"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "De Baschung à Bashung",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Alain Bashung [2014]",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "3 CD Originaux : En Amont/Bleu Pétrole/Osez Bashung",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "2 CD Originaux: Bleu Pétrole/En Amont",
-    "musicRating" : "",
-    "avgRating" : ""
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Roulette Russe",
+      "albumYear" : "1979",
+      "avgRating" : "8-33",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Pizza",
+      "albumYear" : "1981",
+      "avgRating" : "9-40",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Play Blessures",
+      "albumYear" : "1982",
+      "avgRating" : "8-46",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Figure Imposée",
+      "albumYear" : "1983",
+      "avgRating" : "7-23",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Live Tour",
+      "albumYear" : "1985",
+      "avgRating" : "9-13",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Passé le Rio Grande",
+      "albumYear" : "1986",
+      "avgRating" : "8-29",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Novice",
+      "albumYear" : "1989",
+      "avgRating" : "9-32",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Tour Novice",
+      "albumYear" : "1990",
+      "avgRating" : "8-10",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Osez Joséphine",
+      "albumYear" : "1991",
+      "avgRating" : "9-93",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Reservé aux Indiens",
+      "albumYear" : "1992",
+      "avgRating" : "7-7",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Bijou, Bijou",
+      "albumYear" : "1994",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Chatterton",
+      "albumYear" : "1994",
+      "avgRating" : "9-48",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Confessions Publiques",
+      "albumYear" : "1996",
+      "avgRating" : "9-23",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Fantaisie Militaire",
+      "albumYear" : "1998",
+      "avgRating" : "9-116",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Alain Bashung: Master Serie, Vol.2",
+      "albumYear" : "2000",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mes Petites Entreprises",
+      "albumYear" : "2000",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Climax",
+      "albumYear" : "2000",
+      "avgRating" : "9-15",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "L' Imprudence",
+      "albumYear" : "2002",
+      "avgRating" : "9-61",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Cantique Des Cantiques",
+      "albumYear" : "2002",
+      "avgRating" : "4-5",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Bashung",
+      "albumYear" : "2004",
+      "avgRating" : "9-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "La Tournee Des Grands Espaces",
+      "albumYear" : "2004",
+      "avgRating" : "9-15",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Bleu Pétrole",
+      "albumYear" : "2008",
+      "avgRating" : "9-104",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Dimanches à l'Eysee",
+      "albumYear" : "2009",
+      "avgRating" : "9-11",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Osez Bashung",
+      "albumYear" : "2010",
+      "avgRating" : "8-5",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "L' Homme à Tête de Chou",
+      "albumYear" : "2011",
+      "avgRating" : "9-15",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "En Studio",
+      "albumYear" : "2022",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Roman Photos",
+      "albumYear" : "",
+      "avgRating" : "7-4",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "A Paraitre",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Quadromania",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "From Baschung to Bashung",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Integrale Immortal",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Documents/Duos/Raretés, Vol. 2",
+      "albumYear" : "",
+      "avgRating" : "9-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Documents/Duos/Raretés, Vol. 4",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Documents/Duos/Raretés, Vol. 1",
+      "albumYear" : "",
+      "avgRating" : "9-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "De Baschung à Bashung",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Alain Bashung [2014]",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "3 CD Originaux : En Amont/Bleu Pétrole/Osez Bashung",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "2 CD Originaux: Bleu Pétrole/En Amont",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    } ],
+    "id" : "alain-bashung-mn0000620759"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Alain Souchon",
-      "ArtistId" : "alain-souchon-mn0000905620"
-    }, {
-      "artist" : "Axelle Red",
-      "ArtistId" : "axelle-red-mn0000758165"
-    }, {
-      "artist" : "Étienne Daho",
-      "ArtistId" : "%C3tienne-daho-mn0000172597"
-    }, {
-      "artist" : "Eva Dahlgren",
-      "ArtistId" : "eva-dahlgren-mn0000203062"
-    }, {
-      "artist" : "Gabriel Yacoub",
-      "ArtistId" : "gabriel-yacoub-mn0000687800"
-    }, {
-      "artist" : "Julien Doré",
-      "ArtistId" : "julien-dor%C3%A9-mn0001067553"
-    }, {
-      "artist" : "Lily Margot",
-      "ArtistId" : "lily-margot-mn0002289967"
-    }, {
-      "artist" : "Robert Mirabal",
-      "ArtistId" : "robert-mirabal-mn0000282912"
-    }, {
-      "artist" : "Benjamin Biolay",
-      "ArtistId" : "benjamin-biolay-mn0000788635"
-    }, {
-      "artist" : "Les Rita Mitsouko",
-      "ArtistId" : "les-rita-mitsouko-mn0000819784"
-    } ],
-    "influencers" : [ {
-      "artist" : "Serge Gainsbourg",
-      "ArtistId" : "serge-gainsbourg-mn0000174822"
-    } ],
-    "followers" : [ ],
-    "associatedwith" : [ ]
+    "id" : "alain-bashung-mn0000620759",
+    "related" : {
+      "associatedwith" : [ ],
+      "followers" : [ ],
+      "influencers" : [ {
+        "ArtistId" : "serge-gainsbourg-mn0000174822",
+        "artist" : "Serge Gainsbourg"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "alain-souchon-mn0000905620",
+        "artist" : "Alain Souchon"
+      }, {
+        "ArtistId" : "axelle-red-mn0000758165",
+        "artist" : "Axelle Red"
+      }, {
+        "ArtistId" : "%C3tienne-daho-mn0000172597",
+        "artist" : "Étienne Daho"
+      }, {
+        "ArtistId" : "eva-dahlgren-mn0000203062",
+        "artist" : "Eva Dahlgren"
+      }, {
+        "ArtistId" : "gabriel-yacoub-mn0000687800",
+        "artist" : "Gabriel Yacoub"
+      }, {
+        "ArtistId" : "julien-dor%C3%A9-mn0001067553",
+        "artist" : "Julien Doré"
+      }, {
+        "ArtistId" : "lily-margot-mn0002289967",
+        "artist" : "Lily Margot"
+      }, {
+        "ArtistId" : "robert-mirabal-mn0000282912",
+        "artist" : "Robert Mirabal"
+      }, {
+        "ArtistId" : "benjamin-biolay-mn0000788635",
+        "artist" : "Benjamin Biolay"
+      }, {
+        "ArtistId" : "les-rita-mitsouko-mn0000819784",
+        "artist" : "Les Rita Mitsouko"
+      } ]
+    }
   }
 }

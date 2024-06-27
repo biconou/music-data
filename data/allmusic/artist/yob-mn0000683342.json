@@ -1,9 +1,9 @@
 {
-  "id" : "yob-mn0000683342",
-  "name" : "YOB",
   "activeDates" : "1990s - 2020s",
   "birthDate" : "1996",
   "birthPlace" : "Eugene, OR",
+  "id" : "yob-mn0000683342",
+  "name" : "YOB",
   "styles" : [ {
     "name" : "Doom Metal",
     "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
@@ -19,107 +19,113 @@
   } ],
   "decades" : "1990s - 2020s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "2002",
-    "albumTitle" : "Elaborations of Carbon",
-    "musicRating" : "",
-    "avgRating" : "6-3"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "Catharsis",
-    "musicRating" : "5",
-    "avgRating" : "7-38"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "The Illusion of Motion",
-    "musicRating" : "6",
-    "avgRating" : "8-42"
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "The Unreal Never Lived",
-    "musicRating" : "7",
-    "avgRating" : "9-63"
-  }, {
-    "albumYear" : "2009",
-    "albumTitle" : "The Great Cessation",
-    "musicRating" : "6",
-    "avgRating" : "8-65"
-  }, {
-    "albumYear" : "2011",
-    "albumTitle" : "Atma",
-    "musicRating" : "5",
-    "avgRating" : "9-84"
-  }, {
-    "albumYear" : "2014",
-    "albumTitle" : "Clearing the Path To Ascend",
-    "musicRating" : "7",
-    "avgRating" : "9-113"
-  }, {
-    "albumYear" : "2018",
-    "albumTitle" : "Our Raw Heart",
-    "musicRating" : "8",
-    "avgRating" : "9-113"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Live at Roadburn 2010",
-    "musicRating" : "",
-    "avgRating" : "6-4"
-  } ],
-  "related" : {
-    "similars" : [ {
-      "artist" : "High on Fire",
-      "ArtistId" : "high-on-fire-mn0000676530"
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Elaborations of Carbon",
+      "albumYear" : "2002",
+      "avgRating" : "6-4",
+      "musicRating" : ""
     }, {
-      "artist" : "Neurosis",
-      "ArtistId" : "neurosis-mn0000388198"
+      "albumTitle" : "Catharsis",
+      "albumYear" : "2003",
+      "avgRating" : "7-39",
+      "musicRating" : "5"
     }, {
-      "artist" : "Boris",
-      "ArtistId" : "boris-mn0000075383"
+      "albumTitle" : "The Illusion of Motion",
+      "albumYear" : "2004",
+      "avgRating" : "8-42",
+      "musicRating" : "6"
     }, {
-      "artist" : "Electric Wizard",
-      "ArtistId" : "electric-wizard-mn0000164175"
+      "albumTitle" : "The Unreal Never Lived",
+      "albumYear" : "2005",
+      "avgRating" : "9-63",
+      "musicRating" : "7"
     }, {
-      "artist" : "Sleep",
-      "ArtistId" : "sleep-mn0000021578"
+      "albumTitle" : "The Great Cessation",
+      "albumYear" : "2009",
+      "avgRating" : "8-66",
+      "musicRating" : "6"
     }, {
-      "artist" : "UFOmammut",
-      "ArtistId" : "ufomammut-mn0000122770"
+      "albumTitle" : "Atma",
+      "albumYear" : "2011",
+      "avgRating" : "9-84",
+      "musicRating" : "5"
     }, {
-      "artist" : "Aseethe",
-      "ArtistId" : "aseethe-mn0003562697"
+      "albumTitle" : "Clearing the Path to Ascend",
+      "albumYear" : "2014",
+      "avgRating" : "9-113",
+      "musicRating" : "7"
     }, {
-      "artist" : "The Atlas Moth",
-      "ArtistId" : "the-atlas-moth-mn0001089726"
+      "albumTitle" : "Our Raw Heart",
+      "albumYear" : "2018",
+      "avgRating" : "9-113",
+      "musicRating" : "8"
     }, {
-      "artist" : "The Kiss of Death",
-      "ArtistId" : "the-kiss-of-death-mn0000772935"
-    }, {
-      "artist" : "Black Cobra",
-      "ArtistId" : "black-cobra-mn0000983802"
-    }, {
-      "artist" : "Church of Misery",
-      "ArtistId" : "church-of-misery-mn0000127724"
-    }, {
-      "artist" : "Khemmis",
-      "ArtistId" : "khemmis-mn0003401932"
-    }, {
-      "artist" : "Lord Dying",
-      "ArtistId" : "lord-dying-mn0003109220"
-    }, {
-      "artist" : "Pallbearer",
-      "ArtistId" : "pallbearer-mn0002843741"
-    }, {
-      "artist" : "Pike vs. The Automaton",
-      "ArtistId" : "pike-vs-the-automaton-mn0004169790"
-    }, {
-      "artist" : "With the Dead",
-      "ArtistId" : "with-the-dead-mn0003425936"
+      "albumTitle" : "Live at Roadburn 2010",
+      "albumYear" : "",
+      "avgRating" : "6-4",
+      "musicRating" : ""
     } ],
-    "influencers" : [ ],
-    "followers" : [ ],
-    "associatedwith" : [ {
-      "artist" : "Middian",
-      "ArtistId" : "middian-mn0000939807"
-    } ]
+    "id" : "yob-mn0000683342"
+  },
+  "related" : {
+    "id" : "yob-mn0000683342",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "middian-mn0000939807",
+        "artist" : "Middian"
+      } ],
+      "followers" : [ ],
+      "influencers" : [ ],
+      "similars" : [ {
+        "ArtistId" : "high-on-fire-mn0000676530",
+        "artist" : "High on Fire"
+      }, {
+        "ArtistId" : "neurosis-mn0000388198",
+        "artist" : "Neurosis"
+      }, {
+        "ArtistId" : "boris-mn0000075383",
+        "artist" : "Boris"
+      }, {
+        "ArtistId" : "electric-wizard-mn0000164175",
+        "artist" : "Electric Wizard"
+      }, {
+        "ArtistId" : "sleep-mn0000021578",
+        "artist" : "Sleep"
+      }, {
+        "ArtistId" : "ufomammut-mn0000122770",
+        "artist" : "Ufomammut"
+      }, {
+        "ArtistId" : "aseethe-mn0003562697",
+        "artist" : "Aseethe"
+      }, {
+        "ArtistId" : "the-atlas-moth-mn0001089726",
+        "artist" : "The Atlas Moth"
+      }, {
+        "ArtistId" : "the-kiss-of-death-mn0000772935",
+        "artist" : "The Kiss of Death"
+      }, {
+        "ArtistId" : "black-cobra-mn0000983802",
+        "artist" : "Black Cobra"
+      }, {
+        "ArtistId" : "church-of-misery-mn0000127724",
+        "artist" : "Church of Misery"
+      }, {
+        "ArtistId" : "khemmis-mn0003401932",
+        "artist" : "Khemmis"
+      }, {
+        "ArtistId" : "lord-dying-mn0003109220",
+        "artist" : "Lord Dying"
+      }, {
+        "ArtistId" : "pallbearer-mn0002843741",
+        "artist" : "Pallbearer"
+      }, {
+        "ArtistId" : "pike-vs-the-automaton-mn0004169790",
+        "artist" : "Pike vs. The Automaton"
+      }, {
+        "ArtistId" : "with-the-dead-mn0003425936",
+        "artist" : "With the Dead"
+      } ]
+    }
   }
 }

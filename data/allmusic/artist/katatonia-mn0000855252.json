@@ -1,9 +1,9 @@
 {
-  "id" : "katatonia-mn0000855252",
-  "name" : "Katatonia",
   "activeDates" : "1990s - 2020s",
   "birthDate" : "1991",
   "birthPlace" : "Stockholm, Sweden",
+  "id" : "katatonia-mn0000855252",
+  "name" : "Katatonia",
   "styles" : [ {
     "name" : "Doom Metal",
     "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
@@ -25,204 +25,210 @@
   } ],
   "decades" : "1990s - 2020s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "1993",
-    "albumTitle" : "Dance of December Souls",
-    "musicRating" : "5",
-    "avgRating" : "8-101"
-  }, {
-    "albumYear" : "1995",
-    "albumTitle" : "For Funerals to Come",
-    "musicRating" : "3",
-    "avgRating" : "7-38"
-  }, {
-    "albumYear" : "1997",
-    "albumTitle" : "Brave Murder Day",
-    "musicRating" : "7",
-    "avgRating" : "9-132"
-  }, {
-    "albumYear" : "1998",
-    "albumTitle" : "Discouraged Ones",
-    "musicRating" : "8",
-    "avgRating" : "9-126"
-  }, {
-    "albumYear" : "1999",
-    "albumTitle" : "Tonight's Decision",
-    "musicRating" : "7",
-    "avgRating" : "8-118"
-  }, {
-    "albumYear" : "2001",
-    "albumTitle" : "Last Fair Deal Gone Down",
-    "musicRating" : "8",
-    "avgRating" : "9-198"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "Viva Emptiness",
-    "musicRating" : "8",
-    "avgRating" : "9-188"
-  }, {
-    "albumYear" : "2006",
-    "albumTitle" : "The Great Cold Distance",
-    "musicRating" : "7",
-    "avgRating" : "9-230"
-  }, {
-    "albumYear" : "2007",
-    "albumTitle" : "Live Consternation",
-    "musicRating" : "6",
-    "avgRating" : "8-23"
-  }, {
-    "albumYear" : "2009",
-    "albumTitle" : "Night Is the New Day",
-    "musicRating" : "6",
-    "avgRating" : "9-147"
-  }, {
-    "albumYear" : "2012",
-    "albumTitle" : "Dead End Kings",
-    "musicRating" : "7",
-    "avgRating" : "8-197"
-  }, {
-    "albumYear" : "2013",
-    "albumTitle" : "Dethroned & Uncrowned",
-    "musicRating" : "",
-    "avgRating" : "8-45"
-  }, {
-    "albumYear" : "2014",
-    "albumTitle" : "Last Fair Day Gone Night",
-    "musicRating" : "6",
-    "avgRating" : "7-25"
-  }, {
-    "albumYear" : "2015",
-    "albumTitle" : "Sanctitude",
-    "musicRating" : "",
-    "avgRating" : "9-31"
-  }, {
-    "albumYear" : "2016",
-    "albumTitle" : "The Fall of Hearts",
-    "musicRating" : "7",
-    "avgRating" : "9-128"
-  }, {
-    "albumYear" : "2020",
-    "albumTitle" : "City Burials",
-    "musicRating" : "7",
-    "avgRating" : "8-82"
-  }, {
-    "albumYear" : "2020",
-    "albumTitle" : "Dead Air",
-    "musicRating" : "",
-    "avgRating" : "9-14"
-  }, {
-    "albumYear" : "2023",
-    "albumTitle" : "Sky Void of Stars",
-    "musicRating" : "",
-    "avgRating" : "8-32"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Mnemosynean",
-    "musicRating" : "",
-    "avgRating" : "8-7"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Jhva Elohim Meth",
-    "musicRating" : "",
-    "avgRating" : "8-2"
-  } ],
-  "related" : {
-    "similars" : [ {
-      "artist" : "Anathema",
-      "ArtistId" : "anathema-mn0000749333"
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Dance of December Souls",
+      "albumYear" : "1993",
+      "avgRating" : "8-102",
+      "musicRating" : "5"
     }, {
-      "artist" : "My Dying Bride",
-      "ArtistId" : "my-dying-bride-mn0000617901"
+      "albumTitle" : "For Funerals to Come",
+      "albumYear" : "1995",
+      "avgRating" : "7-39",
+      "musicRating" : "3"
     }, {
-      "artist" : "Paradise Lost",
-      "ArtistId" : "paradise-lost-mn0000018691"
+      "albumTitle" : "Brave Murder Day",
+      "albumYear" : "1997",
+      "avgRating" : "9-134",
+      "musicRating" : "7"
     }, {
-      "artist" : "Amorphis",
-      "ArtistId" : "amorphis-mn0000022590"
+      "albumTitle" : "Discouraged Ones",
+      "albumYear" : "1998",
+      "avgRating" : "9-127",
+      "musicRating" : "8"
     }, {
-      "artist" : "Candlemass",
-      "ArtistId" : "candlemass-mn0000648407"
+      "albumTitle" : "Tonight's Decision",
+      "albumYear" : "1999",
+      "avgRating" : "8-119",
+      "musicRating" : "7"
     }, {
-      "artist" : "Fredrik Norrman",
-      "ArtistId" : "fredrik-norrman-mn0000939826"
+      "albumTitle" : "Last Fair Deal Gone Down",
+      "albumYear" : "2001",
+      "avgRating" : "9-199",
+      "musicRating" : "8"
     }, {
-      "artist" : "Novembers Doom",
-      "ArtistId" : "novembers-doom-mn0000458812"
+      "albumTitle" : "Viva Emptiness",
+      "albumYear" : "2003",
+      "avgRating" : "9-190",
+      "musicRating" : "8"
     }, {
-      "artist" : "Opeth",
-      "ArtistId" : "opeth-mn0000400717"
+      "albumTitle" : "The Great Cold Distance",
+      "albumYear" : "2006",
+      "avgRating" : "9-232",
+      "musicRating" : "7"
     }, {
-      "artist" : "Porcupine Tree",
-      "ArtistId" : "porcupine-tree-mn0000854203"
+      "albumTitle" : "Live Consternation",
+      "albumYear" : "2007",
+      "avgRating" : "8-23",
+      "musicRating" : "6"
     }, {
-      "artist" : "The Pineapple Thief",
-      "ArtistId" : "the-pineapple-thief-mn0000347161"
+      "albumTitle" : "Night Is the New Day",
+      "albumYear" : "2009",
+      "avgRating" : "9-149",
+      "musicRating" : "6"
     }, {
-      "artist" : "Foscor",
-      "ArtistId" : "foscor-mn0001933160"
+      "albumTitle" : "Dead End Kings",
+      "albumYear" : "2012",
+      "avgRating" : "8-199",
+      "musicRating" : "7"
     }, {
-      "artist" : "Gazpacho",
-      "ArtistId" : "gazpacho-mn0000162220"
+      "albumTitle" : "Dethroned & Uncrowned",
+      "albumYear" : "2013",
+      "avgRating" : "8-45",
+      "musicRating" : ""
     }, {
-      "artist" : "Iamthemorning",
-      "ArtistId" : "iamthemorning-mn0003095245"
+      "albumTitle" : "Last Fair Day Gone Night",
+      "albumYear" : "2014",
+      "avgRating" : "7-25",
+      "musicRating" : "6"
     }, {
-      "artist" : "Soilwork",
-      "ArtistId" : "soilwork-mn0000039406"
+      "albumTitle" : "Sanctitude",
+      "albumYear" : "2015",
+      "avgRating" : "9-31",
+      "musicRating" : ""
     }, {
-      "artist" : "Bewitched",
-      "ArtistId" : "bewitched-mn0000052895"
+      "albumTitle" : "The Fall of Hearts",
+      "albumYear" : "2016",
+      "avgRating" : "9-130",
+      "musicRating" : "7"
     }, {
-      "artist" : "Celtic Frost",
-      "ArtistId" : "celtic-frost-mn0000191063"
+      "albumTitle" : "City Burials",
+      "albumYear" : "2020",
+      "avgRating" : "8-84",
+      "musicRating" : "7"
     }, {
-      "artist" : "Cynic",
-      "ArtistId" : "cynic-mn0001866758"
+      "albumTitle" : "Dead Air",
+      "albumYear" : "2020",
+      "avgRating" : "9-14",
+      "musicRating" : ""
     }, {
-      "artist" : "Daylight Dies",
-      "ArtistId" : "daylight-dies-mn0000232597"
+      "albumTitle" : "Sky Void of Stars",
+      "albumYear" : "2023",
+      "avgRating" : "8-35",
+      "musicRating" : ""
     }, {
-      "artist" : "Elder",
-      "ArtistId" : "elder-mn0003703529"
+      "albumTitle" : "Mnemosynean",
+      "albumYear" : "",
+      "avgRating" : "8-8",
+      "musicRating" : ""
     }, {
-      "artist" : "Ghost Brigade",
-      "ArtistId" : "ghost-brigade-mn0000980278"
-    }, {
-      "artist" : "Green Carnation",
-      "ArtistId" : "green-carnation-mn0000799574"
-    }, {
-      "artist" : "Soen",
-      "ArtistId" : "soen-mn0002858295"
-    }, {
-      "artist" : "Ulver",
-      "ArtistId" : "ulver-mn0000179632"
-    }, {
-      "artist" : "Woods of Ypres",
-      "ArtistId" : "woods-of-ypres-mn0000662478"
+      "albumTitle" : "Jhva Elohim Meth",
+      "albumYear" : "",
+      "avgRating" : "8-2",
+      "musicRating" : ""
     } ],
-    "influencers" : [ ],
-    "followers" : [ ],
-    "associatedwith" : [ {
-      "artist" : "Lord Seth",
-      "ArtistId" : "lord-seth-mn0001350650"
-    }, {
-      "artist" : "Bloodbath",
-      "ArtistId" : "bloodbath-mn0000044820"
-    }, {
-      "artist" : "October Tide",
-      "ArtistId" : "october-tide-mn0000465526"
-    }, {
-      "artist" : "Dan Swanö",
-      "ArtistId" : "dan-swan%C3%B6-mn0000668986"
-    }, {
-      "artist" : "Guillaume Le Huche",
-      "ArtistId" : "guillaume-le-huche-mn0002315974"
-    }, {
-      "artist" : "Mikael Åkerfeldt",
-      "ArtistId" : "mikael-%C3kerfeldt-mn0000402515"
-    }, {
-      "artist" : "Mikael Oretoft",
-      "ArtistId" : "mikael-oretoft-mn0001555725"
-    } ]
+    "id" : "katatonia-mn0000855252"
+  },
+  "related" : {
+    "id" : "katatonia-mn0000855252",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "lord-seth-mn0001350650",
+        "artist" : "Lord Seth"
+      }, {
+        "ArtistId" : "bloodbath-mn0000044820",
+        "artist" : "Bloodbath"
+      }, {
+        "ArtistId" : "october-tide-mn0000465526",
+        "artist" : "October Tide"
+      }, {
+        "ArtistId" : "dan-swan%C3%B6-mn0000668986",
+        "artist" : "Dan Swanö"
+      }, {
+        "ArtistId" : "guillaume-le-huche-mn0002315974",
+        "artist" : "Guillaume Le Huche"
+      }, {
+        "ArtistId" : "mikael-%C3kerfeldt-mn0000402515",
+        "artist" : "Mikael Åkerfeldt"
+      }, {
+        "ArtistId" : "mikael-oretoft-mn0001555725",
+        "artist" : "Mikael Oretoft"
+      } ],
+      "followers" : [ ],
+      "influencers" : [ ],
+      "similars" : [ {
+        "ArtistId" : "anathema-mn0000749333",
+        "artist" : "Anathema"
+      }, {
+        "ArtistId" : "my-dying-bride-mn0000617901",
+        "artist" : "My Dying Bride"
+      }, {
+        "ArtistId" : "paradise-lost-mn0000018691",
+        "artist" : "Paradise Lost"
+      }, {
+        "ArtistId" : "amorphis-mn0000022590",
+        "artist" : "Amorphis"
+      }, {
+        "ArtistId" : "candlemass-mn0000648407",
+        "artist" : "Candlemass"
+      }, {
+        "ArtistId" : "fredrik-norrman-mn0000939826",
+        "artist" : "Fredrik Norrman"
+      }, {
+        "ArtistId" : "novembers-doom-mn0000458812",
+        "artist" : "Novembers Doom"
+      }, {
+        "ArtistId" : "opeth-mn0000400717",
+        "artist" : "Opeth"
+      }, {
+        "ArtistId" : "porcupine-tree-mn0000854203",
+        "artist" : "Porcupine Tree"
+      }, {
+        "ArtistId" : "the-pineapple-thief-mn0000347161",
+        "artist" : "The Pineapple Thief"
+      }, {
+        "ArtistId" : "foscor-mn0001933160",
+        "artist" : "Foscor"
+      }, {
+        "ArtistId" : "gazpacho-mn0000162220",
+        "artist" : "Gazpacho"
+      }, {
+        "ArtistId" : "iamthemorning-mn0003095245",
+        "artist" : "Iamthemorning"
+      }, {
+        "ArtistId" : "soilwork-mn0000039406",
+        "artist" : "Soilwork"
+      }, {
+        "ArtistId" : "bewitched-mn0000052895",
+        "artist" : "Bewitched"
+      }, {
+        "ArtistId" : "celtic-frost-mn0000191063",
+        "artist" : "Celtic Frost"
+      }, {
+        "ArtistId" : "cynic-mn0001866758",
+        "artist" : "Cynic"
+      }, {
+        "ArtistId" : "daylight-dies-mn0000232597",
+        "artist" : "Daylight Dies"
+      }, {
+        "ArtistId" : "elder-mn0003703529",
+        "artist" : "Elder"
+      }, {
+        "ArtistId" : "ghost-brigade-mn0000980278",
+        "artist" : "Ghost Brigade"
+      }, {
+        "ArtistId" : "green-carnation-mn0000799574",
+        "artist" : "Green Carnation"
+      }, {
+        "ArtistId" : "soen-mn0002858295",
+        "artist" : "Soen"
+      }, {
+        "ArtistId" : "ulver-mn0000179632",
+        "artist" : "Ulver"
+      }, {
+        "ArtistId" : "woods-of-ypres-mn0000662478",
+        "artist" : "Woods of Ypres"
+      } ]
+    }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "id" : "techno-animal-mn0000024102",
-  "name" : "Techno Animal",
   "activeDates" : "1990s - 2000s",
   "birthDate" : "1990",
   "birthPlace" : "London, England",
+  "id" : "techno-animal-mn0000024102",
+  "name" : "Techno Animal",
   "styles" : [ {
     "name" : "Alternative/Indie Rock",
     "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
@@ -31,129 +31,135 @@
   } ],
   "decades" : "1990s - 2000s",
   "genres" : "Electronic, Pop/Rock, Rap",
-  "discography" : [ {
-    "albumYear" : "1992",
-    "albumTitle" : "Ghosts",
-    "musicRating" : "5",
-    "avgRating" : "7-4"
-  }, {
-    "albumYear" : "1995",
-    "albumTitle" : "Re-Entry",
-    "musicRating" : "7",
-    "avgRating" : "9-28"
-  }, {
-    "albumYear" : "1998",
-    "albumTitle" : "Radio Hades",
-    "musicRating" : "5",
-    "avgRating" : "7-4"
-  }, {
-    "albumYear" : "1999",
-    "albumTitle" : "Symbiotics",
-    "musicRating" : "8",
-    "avgRating" : "9-16"
-  }, {
-    "albumYear" : "2001",
-    "albumTitle" : "The Brotherhood of the Bomb",
-    "musicRating" : "7",
-    "avgRating" : "9-32"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Ghosts",
+      "albumYear" : "1992",
+      "avgRating" : "7-4",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Re-Entry",
+      "albumYear" : "1995",
+      "avgRating" : "9-28",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Radio Hades",
+      "albumYear" : "1998",
+      "avgRating" : "7-4",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Symbiotics",
+      "albumYear" : "1999",
+      "avgRating" : "10-26",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "The Brotherhood of the Bomb",
+      "albumYear" : "2001",
+      "avgRating" : "9-33",
+      "musicRating" : "7"
+    } ],
+    "id" : "techno-animal-mn0000024102"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Alec Empire",
-      "ArtistId" : "alec-empire-mn0000935389"
-    }, {
-      "artist" : "Bisk",
-      "ArtistId" : "bisk-mn0000087623"
-    }, {
-      "artist" : "DJ Spooky",
-      "ArtistId" : "dj-spooky-mn0000663934"
-    }, {
-      "artist" : "DJ Vadim",
-      "ArtistId" : "dj-vadim-mn0000952169"
-    }, {
-      "artist" : "Download",
-      "ArtistId" : "download-mn0000201857"
-    }, {
-      "artist" : "Ice",
-      "ArtistId" : "ice-mn0000064062"
-    }, {
-      "artist" : "K.K. Null",
-      "ArtistId" : "kk-null-mn0000296551"
-    }, {
-      "artist" : "Lull",
-      "ArtistId" : "lull-mn0000319487"
-    }, {
-      "artist" : "Mouse on Mars",
-      "ArtistId" : "mouse-on-mars-mn0000929800"
-    }, {
-      "artist" : "New Kingdom",
-      "ArtistId" : "new-kingdom-mn0000330308"
-    }, {
-      "artist" : "Panacea",
-      "ArtistId" : "panacea-mn0000002278"
-    }, {
-      "artist" : "Rx",
-      "ArtistId" : "rx-mn0000214319"
-    }, {
-      "artist" : "Scorn",
-      "ArtistId" : "scorn-mn0000299378"
-    }, {
-      "artist" : "Slotek",
-      "ArtistId" : "slotek-mn0000750756"
-    }, {
-      "artist" : "The Tear Garden",
-      "ArtistId" : "the-tear-garden-mn0000918867"
-    }, {
-      "artist" : "We",
-      "ArtistId" : "we-mn0000212616"
-    }, {
-      "artist" : "Porter Ricks",
-      "ArtistId" : "porter-ricks-mn0000853291"
-    }, {
-      "artist" : "Spectre",
-      "ArtistId" : "spectre-mn0000742389"
-    }, {
-      "artist" : "Stereolab",
-      "ArtistId" : "stereolab-mn0000026520"
-    }, {
-      "artist" : "Ui",
-      "ArtistId" : "ui-mn0000184266"
-    }, {
-      "artist" : "The Third Eye Foundation",
-      "ArtistId" : "the-third-eye-foundation-mn0000592026"
-    }, {
-      "artist" : "4E",
-      "ArtistId" : "4e-mn0000478507"
-    }, {
-      "artist" : "Mark Stewart",
-      "ArtistId" : "mark-stewart-mn0000276849"
-    }, {
-      "artist" : "Meat Beat Manifesto",
-      "ArtistId" : "meat-beat-manifesto-mn0000402976"
-    }, {
-      "artist" : "Ming + FS",
-      "ArtistId" : "ming-fs-mn0000496926"
-    } ],
-    "influencers" : [ ],
-    "followers" : [ {
-      "artist" : "Old Apparatus",
-      "ArtistId" : "old-apparatus-mn0002644522"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Final",
-      "ArtistId" : "final-mn0001040799"
-    }, {
-      "artist" : "Godflesh",
-      "ArtistId" : "godflesh-mn0000561715"
-    }, {
-      "artist" : "Zonal",
-      "ArtistId" : "zonal-mn0003871614"
-    }, {
-      "artist" : "JK Flesh",
-      "ArtistId" : "jk-flesh-mn0000118520"
-    }, {
-      "artist" : "The Bug",
-      "ArtistId" : "the-bug-mn0000629224"
-    } ]
+    "id" : "techno-animal-mn0000024102",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "final-mn0001040799",
+        "artist" : "Final"
+      }, {
+        "ArtistId" : "godflesh-mn0000561715",
+        "artist" : "Godflesh"
+      }, {
+        "ArtistId" : "zonal-mn0003871614",
+        "artist" : "Zonal"
+      }, {
+        "ArtistId" : "jk-flesh-mn0000118520",
+        "artist" : "JK Flesh"
+      }, {
+        "ArtistId" : "the-bug-mn0000629224",
+        "artist" : "The Bug"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "old-apparatus-mn0002644522",
+        "artist" : "Old Apparatus"
+      } ],
+      "influencers" : [ ],
+      "similars" : [ {
+        "ArtistId" : "alec-empire-mn0000935389",
+        "artist" : "Alec Empire"
+      }, {
+        "ArtistId" : "bisk-mn0000087623",
+        "artist" : "Bisk"
+      }, {
+        "ArtistId" : "dj-spooky-mn0000663934",
+        "artist" : "DJ Spooky"
+      }, {
+        "ArtistId" : "dj-vadim-mn0000952169",
+        "artist" : "DJ Vadim"
+      }, {
+        "ArtistId" : "download-mn0000201857",
+        "artist" : "Download"
+      }, {
+        "ArtistId" : "ice-mn0000064062",
+        "artist" : "Ice"
+      }, {
+        "ArtistId" : "kk-null-mn0000296551",
+        "artist" : "K.K. Null"
+      }, {
+        "ArtistId" : "lull-mn0000319487",
+        "artist" : "Lull"
+      }, {
+        "ArtistId" : "mouse-on-mars-mn0000929800",
+        "artist" : "Mouse on Mars"
+      }, {
+        "ArtistId" : "new-kingdom-mn0000330308",
+        "artist" : "New Kingdom"
+      }, {
+        "ArtistId" : "panacea-mn0000002278",
+        "artist" : "Panacea"
+      }, {
+        "ArtistId" : "rx-mn0000214319",
+        "artist" : "Rx"
+      }, {
+        "ArtistId" : "scorn-mn0000299378",
+        "artist" : "Scorn"
+      }, {
+        "ArtistId" : "slotek-mn0000750756",
+        "artist" : "Slotek"
+      }, {
+        "ArtistId" : "the-tear-garden-mn0000918867",
+        "artist" : "The Tear Garden"
+      }, {
+        "ArtistId" : "we-mn0000212616",
+        "artist" : "We"
+      }, {
+        "ArtistId" : "porter-ricks-mn0000853291",
+        "artist" : "Porter Ricks"
+      }, {
+        "ArtistId" : "spectre-mn0000742389",
+        "artist" : "Spectre"
+      }, {
+        "ArtistId" : "stereolab-mn0000026520",
+        "artist" : "Stereolab"
+      }, {
+        "ArtistId" : "ui-mn0000184266",
+        "artist" : "Ui"
+      }, {
+        "ArtistId" : "the-third-eye-foundation-mn0000592026",
+        "artist" : "The Third Eye Foundation"
+      }, {
+        "ArtistId" : "4e-mn0000478507",
+        "artist" : "4E"
+      }, {
+        "ArtistId" : "mark-stewart-mn0000276849",
+        "artist" : "Mark Stewart"
+      }, {
+        "ArtistId" : "meat-beat-manifesto-mn0000402976",
+        "artist" : "Meat Beat Manifesto"
+      }, {
+        "ArtistId" : "ming-fs-mn0000496926",
+        "artist" : "Ming + FS"
+      } ]
+    }
   }
 }

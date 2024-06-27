@@ -1,9 +1,9 @@
 {
-  "id" : "saint-vitus-mn0000287259",
-  "name" : "Saint Vitus",
   "activeDates" : "1980s - 2020s",
   "birthDate" : "1980",
   "birthPlace" : "Los Angeles, CA",
+  "id" : "saint-vitus-mn0000287259",
+  "name" : "Saint Vitus",
   "styles" : [ {
     "name" : "Doom Metal",
     "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
@@ -22,186 +22,195 @@
   } ],
   "decades" : "1980s - 2020s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "1984",
-    "albumTitle" : "Saint Vitus",
-    "musicRating" : "5",
-    "avgRating" : "8-82"
-  }, {
-    "albumYear" : "1985",
-    "albumTitle" : "Hallow's Victim",
-    "musicRating" : "6",
-    "avgRating" : "9-41"
-  }, {
-    "albumYear" : "1986",
-    "albumTitle" : "Born Too Late",
-    "musicRating" : "7",
-    "avgRating" : "9-144"
-  }, {
-    "albumYear" : "1988",
-    "albumTitle" : "Mournful Cries",
-    "musicRating" : "6",
-    "avgRating" : "9-49"
-  }, {
-    "albumYear" : "1990",
-    "albumTitle" : "V",
-    "musicRating" : "6",
-    "avgRating" : "8-39"
-  }, {
-    "albumYear" : "1992",
-    "albumTitle" : "C.O.D.",
-    "musicRating" : "2",
-    "avgRating" : "7-26"
-  }, {
-    "albumYear" : "1995",
-    "albumTitle" : "Die Healing",
-    "musicRating" : "4",
-    "avgRating" : "8-36"
-  }, {
-    "albumYear" : "2001",
-    "albumTitle" : "Little Motor Mouth",
-    "musicRating" : "",
-    "avgRating" : "6-2"
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Live",
-    "musicRating" : "8",
-    "avgRating" : "9-32"
-  }, {
-    "albumYear" : "2012",
-    "albumTitle" : "Lillie: F-65",
-    "musicRating" : "5",
-    "avgRating" : "8-38"
-  }, {
-    "albumYear" : "2016",
-    "albumTitle" : "Live, Vol. 2",
-    "musicRating" : "",
-    "avgRating" : "9-7"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Saint Vitus",
+      "albumYear" : "1984",
+      "avgRating" : "8-82",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Hallow's Victim",
+      "albumYear" : "1985",
+      "avgRating" : "9-41",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Born Too Late",
+      "albumYear" : "1986",
+      "avgRating" : "9-144",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Mournful Cries",
+      "albumYear" : "1988",
+      "avgRating" : "9-49",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "V",
+      "albumYear" : "1990",
+      "avgRating" : "8-39",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "C.O.D.",
+      "albumYear" : "1992",
+      "avgRating" : "7-27",
+      "musicRating" : "2"
+    }, {
+      "albumTitle" : "Die Healing",
+      "albumYear" : "1995",
+      "avgRating" : "8-37",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Little Motor Mouth",
+      "albumYear" : "2001",
+      "avgRating" : "6-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Live",
+      "albumYear" : "2005",
+      "avgRating" : "9-32",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Lillie: F-65",
+      "albumYear" : "2012",
+      "avgRating" : "8-39",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Live, Vol. 2",
+      "albumYear" : "2016",
+      "avgRating" : "9-7",
+      "musicRating" : ""
+    } ],
+    "id" : "saint-vitus-mn0000287259"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Pentagram",
-      "ArtistId" : "pentagram-mn0000308932"
-    }, {
-      "artist" : "The Obsessed",
-      "ArtistId" : "the-obsessed-mn0000485881"
-    }, {
-      "artist" : "Trouble",
-      "ArtistId" : "trouble-mn0000747243"
-    }, {
-      "artist" : "Candlemass",
-      "ArtistId" : "candlemass-mn0000648407"
-    }, {
-      "artist" : "Crowbar",
-      "ArtistId" : "crowbar-mn0000109421"
-    }, {
-      "artist" : "Witchfinder General",
-      "ArtistId" : "witchfinder-general-mn0000671244"
-    }, {
-      "artist" : "Blind Dog",
-      "ArtistId" : "blind-dog-mn0000049811"
-    }, {
-      "artist" : "Brain Police",
-      "ArtistId" : "brain-police-mn0001274405"
-    }, {
-      "artist" : "Cathedral",
-      "ArtistId" : "cathedral-mn0000179809"
-    }, {
-      "artist" : "Cemetary",
-      "ArtistId" : "cemetary-mn0000188790"
-    }, {
-      "artist" : "Church of Misery",
-      "ArtistId" : "church-of-misery-mn0000127724"
-    }, {
-      "artist" : "Count Raven",
-      "ArtistId" : "count-raven-mn0000107059"
-    }, {
-      "artist" : "Electric Wizard",
-      "ArtistId" : "electric-wizard-mn0000164175"
-    }, {
-      "artist" : "Fireball Ministry",
-      "ArtistId" : "fireball-ministry-mn0000176458"
-    }, {
-      "artist" : "Goatsnake",
-      "ArtistId" : "goatsnake-mn0000667225"
-    }, {
-      "artist" : "Las Cruces",
-      "ArtistId" : "las-cruces-mn0000781797"
-    }, {
-      "artist" : "Monster Magnet",
-      "ArtistId" : "monster-magnet-mn0000495455"
-    }, {
-      "artist" : "Penance",
-      "ArtistId" : "penance-mn0000838637"
-    }, {
-      "artist" : "Serpent",
-      "ArtistId" : "serpent-mn0001230126"
-    }, {
-      "artist" : "Solitude Aeturnus",
-      "ArtistId" : "solitude-aeturnus-mn0000031211"
-    }, {
-      "artist" : "Sons of Otis",
-      "ArtistId" : "sons-of-otis-mn0000037617"
-    }, {
-      "artist" : "Sleep",
-      "ArtistId" : "sleep-mn0000021578"
-    }, {
-      "artist" : "Spiritual Beggars",
-      "ArtistId" : "spiritual-beggars-mn0000014408"
-    }, {
-      "artist" : "Dwarr",
-      "ArtistId" : "dwarr-mn0002512644"
-    }, {
-      "artist" : "Melvins",
-      "ArtistId" : "melvins-mn0000349157"
-    }, {
-      "artist" : "Samhain",
-      "ArtistId" : "samhain-mn0000832888"
-    }, {
-      "artist" : "Tricounty Terror",
-      "ArtistId" : "tricounty-terror-mn0003661917"
-    } ],
-    "influencers" : [ {
-      "artist" : "Black Sabbath",
-      "ArtistId" : "black-sabbath-mn0000771438"
-    }, {
-      "artist" : "Black Flag",
-      "ArtistId" : "black-flag-mn0000091650"
-    }, {
-      "artist" : "Blue Cheer",
-      "ArtistId" : "blue-cheer-mn0000059537"
-    }, {
-      "artist" : "Deep Purple",
-      "ArtistId" : "deep-purple-mn0000192382"
-    }, {
-      "artist" : "Minutemen",
-      "ArtistId" : "minutemen-mn0000474482"
-    }, {
-      "artist" : "Motörhead",
-      "ArtistId" : "mot%C3%B6rhead-mn0000501407"
-    } ],
-    "followers" : [ {
-      "artist" : "Cathedral",
-      "ArtistId" : "cathedral-mn0000179809"
-    }, {
-      "artist" : "Corrosion of Conformity",
-      "ArtistId" : "corrosion-of-conformity-mn0000105422"
-    }, {
-      "artist" : "Crowbar",
-      "ArtistId" : "crowbar-mn0000109421"
-    }, {
-      "artist" : "Pantera",
-      "ArtistId" : "pantera-mn0000005441"
-    }, {
-      "artist" : "Queens of the Stone Age",
-      "ArtistId" : "queens-of-the-stone-age-mn0000376422"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Spirit Caravan",
-      "ArtistId" : "spirit-caravan-mn0000014177"
-    }, {
-      "artist" : "The Obsessed",
-      "ArtistId" : "the-obsessed-mn0000485881"
-    } ]
+    "id" : "saint-vitus-mn0000287259",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "spirit-caravan-mn0000014177",
+        "artist" : "Spirit Caravan"
+      }, {
+        "ArtistId" : "the-obsessed-mn0000485881",
+        "artist" : "The Obsessed"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "cathedral-mn0000179809",
+        "artist" : "Cathedral"
+      }, {
+        "ArtistId" : "corrosion-of-conformity-mn0000105422",
+        "artist" : "Corrosion of Conformity"
+      }, {
+        "ArtistId" : "crowbar-mn0000109421",
+        "artist" : "Crowbar"
+      }, {
+        "ArtistId" : "pantera-mn0000005441",
+        "artist" : "Pantera"
+      }, {
+        "ArtistId" : "queens-of-the-stone-age-mn0000376422",
+        "artist" : "Queens of the Stone Age"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "black-sabbath-mn0000771438",
+        "artist" : "Black Sabbath"
+      }, {
+        "ArtistId" : "black-flag-mn0000091650",
+        "artist" : "Black Flag"
+      }, {
+        "ArtistId" : "blue-cheer-mn0000059537",
+        "artist" : "Blue Cheer"
+      }, {
+        "ArtistId" : "deep-purple-mn0000192382",
+        "artist" : "Deep Purple"
+      }, {
+        "ArtistId" : "minutemen-mn0000474482",
+        "artist" : "Minutemen"
+      }, {
+        "ArtistId" : "mot%C3%B6rhead-mn0000501407",
+        "artist" : "Motörhead"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "pentagram-mn0000308932",
+        "artist" : "Pentagram"
+      }, {
+        "ArtistId" : "the-obsessed-mn0000485881",
+        "artist" : "The Obsessed"
+      }, {
+        "ArtistId" : "trouble-mn0000747243",
+        "artist" : "Trouble"
+      }, {
+        "ArtistId" : "candlemass-mn0000648407",
+        "artist" : "Candlemass"
+      }, {
+        "ArtistId" : "crowbar-mn0000109421",
+        "artist" : "Crowbar"
+      }, {
+        "ArtistId" : "witchfinder-general-mn0000671244",
+        "artist" : "Witchfinder General"
+      }, {
+        "ArtistId" : "blind-dog-mn0000049811",
+        "artist" : "Blind Dog"
+      }, {
+        "ArtistId" : "brain-police-mn0001274405",
+        "artist" : "Brain Police"
+      }, {
+        "ArtistId" : "cathedral-mn0000179809",
+        "artist" : "Cathedral"
+      }, {
+        "ArtistId" : "cemetary-mn0000188790",
+        "artist" : "Cemetary"
+      }, {
+        "ArtistId" : "church-of-misery-mn0000127724",
+        "artist" : "Church of Misery"
+      }, {
+        "ArtistId" : "count-raven-mn0000107059",
+        "artist" : "Count Raven"
+      }, {
+        "ArtistId" : "electric-wizard-mn0000164175",
+        "artist" : "Electric Wizard"
+      }, {
+        "ArtistId" : "fireball-ministry-mn0000176458",
+        "artist" : "Fireball Ministry"
+      }, {
+        "ArtistId" : "goatsnake-mn0000667225",
+        "artist" : "Goatsnake"
+      }, {
+        "ArtistId" : "las-cruces-mn0000781797",
+        "artist" : "Las Cruces"
+      }, {
+        "ArtistId" : "monster-magnet-mn0000495455",
+        "artist" : "Monster Magnet"
+      }, {
+        "ArtistId" : "penance-mn0000838637",
+        "artist" : "Penance"
+      }, {
+        "ArtistId" : "serpent-mn0001230126",
+        "artist" : "Serpent"
+      }, {
+        "ArtistId" : "solitude-aeturnus-mn0000031211",
+        "artist" : "Solitude Aeturnus"
+      }, {
+        "ArtistId" : "sons-of-otis-mn0000037617",
+        "artist" : "Sons of Otis"
+      }, {
+        "ArtistId" : "sleep-mn0000021578",
+        "artist" : "Sleep"
+      }, {
+        "ArtistId" : "spiritual-beggars-mn0000014408",
+        "artist" : "Spiritual Beggars"
+      }, {
+        "ArtistId" : "dwarr-mn0002512644",
+        "artist" : "Dwarr"
+      }, {
+        "ArtistId" : "earth-tongue-mn0003838575",
+        "artist" : "Earth Tongue"
+      }, {
+        "ArtistId" : "melvins-mn0000349157",
+        "artist" : "Melvins"
+      }, {
+        "ArtistId" : "samhain-mn0000832888",
+        "artist" : "Samhain"
+      }, {
+        "ArtistId" : "tricounty-terror-mn0003661917",
+        "artist" : "Tricounty Terror"
+      } ]
+    }
   }
 }

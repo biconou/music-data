@@ -1,9 +1,9 @@
 {
-  "id" : "paradise-lost-mn0000018691",
-  "name" : "Paradise Lost",
   "activeDates" : "1980s - 2020s",
   "birthDate" : "1988",
   "birthPlace" : "Halifax, West Yorkshire, England",
+  "id" : "paradise-lost-mn0000018691",
+  "name" : "Paradise Lost",
   "styles" : [ {
     "name" : "Doom Metal",
     "url" : "https://www.allmusic.com/style/doom-metal-ma0000004496"
@@ -22,271 +22,277 @@
   } ],
   "decades" : "1980s - 2020s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "1990",
-    "albumTitle" : "Lost Paradise",
-    "musicRating" : "3",
-    "avgRating" : "7-86"
-  }, {
-    "albumYear" : "1991",
-    "albumTitle" : "Gothic",
-    "musicRating" : "5",
-    "avgRating" : "8-151"
-  }, {
-    "albumYear" : "1992",
-    "albumTitle" : "Shades of God",
-    "musicRating" : "7",
-    "avgRating" : "9-144"
-  }, {
-    "albumYear" : "1993",
-    "albumTitle" : "Icon",
-    "musicRating" : "8",
-    "avgRating" : "9-252"
-  }, {
-    "albumYear" : "1995",
-    "albumTitle" : "Draconian Times",
-    "musicRating" : "8",
-    "avgRating" : "9-259"
-  }, {
-    "albumYear" : "1997",
-    "albumTitle" : "One Second",
-    "musicRating" : "7",
-    "avgRating" : "8-288"
-  }, {
-    "albumYear" : "1999",
-    "albumTitle" : "Host",
-    "musicRating" : "5",
-    "avgRating" : "7-103"
-  }, {
-    "albumYear" : "1999",
-    "albumTitle" : "Permanent Solution",
-    "musicRating" : "",
-    "avgRating" : "5-2"
-  }, {
-    "albumYear" : "2001",
-    "albumTitle" : "Believe in Nothing",
-    "musicRating" : "5",
-    "avgRating" : "8-94"
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "Symbol of Life",
-    "musicRating" : "5",
-    "avgRating" : "8-102"
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Paradise Lost",
-    "musicRating" : "",
-    "avgRating" : "8-73"
-  }, {
-    "albumYear" : "2007",
-    "albumTitle" : "The Anatomy of Melancholy",
-    "musicRating" : "",
-    "avgRating" : "8-16"
-  }, {
-    "albumYear" : "2007",
-    "albumTitle" : "In Requiem",
-    "musicRating" : "5",
-    "avgRating" : "8-105"
-  }, {
-    "albumYear" : "2008",
-    "albumTitle" : "The Anatomy of Melancholy",
-    "musicRating" : "",
-    "avgRating" : "7-3"
-  }, {
-    "albumYear" : "2009",
-    "albumTitle" : "Faith Divides Us -- Death Unites Us",
-    "musicRating" : "6",
-    "avgRating" : "8-105"
-  }, {
-    "albumYear" : "2012",
-    "albumTitle" : "Tragic Idol",
-    "musicRating" : "6",
-    "avgRating" : "8-119"
-  }, {
-    "albumYear" : "2015",
-    "albumTitle" : "The Plague Within",
-    "musicRating" : "",
-    "avgRating" : "9-127"
-  }, {
-    "albumYear" : "2017",
-    "albumTitle" : "Medusa",
-    "musicRating" : "",
-    "avgRating" : "8-63"
-  }, {
-    "albumYear" : "2020",
-    "albumTitle" : "Obsidian",
-    "musicRating" : "7",
-    "avgRating" : "9-85"
-  }, {
-    "albumYear" : "2021",
-    "albumTitle" : "At the Mill",
-    "musicRating" : "",
-    "avgRating" : "8-2"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Say Just Words",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Lost & the Painless",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Draconian Times: Legacy Edition",
-    "musicRating" : "",
-    "avgRating" : "8-10"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Live at the Roundhouse",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Draconian Times: 25th Anniversary Edition",
-    "musicRating" : "",
-    "avgRating" : "10-2"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Lost Paradise",
+      "albumYear" : "1990",
+      "avgRating" : "7-86",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Gothic",
+      "albumYear" : "1991",
+      "avgRating" : "8-151",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Shades of God",
+      "albumYear" : "1992",
+      "avgRating" : "9-144",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Icon",
+      "albumYear" : "1993",
+      "avgRating" : "9-253",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Draconian Times",
+      "albumYear" : "1995",
+      "avgRating" : "9-260",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "One Second",
+      "albumYear" : "1997",
+      "avgRating" : "8-289",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Host",
+      "albumYear" : "1999",
+      "avgRating" : "7-103",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Permanent Solution",
+      "albumYear" : "1999",
+      "avgRating" : "5-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Believe in Nothing",
+      "albumYear" : "2001",
+      "avgRating" : "8-94",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Symbol of Life",
+      "albumYear" : "2002",
+      "avgRating" : "8-102",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Paradise Lost",
+      "albumYear" : "2005",
+      "avgRating" : "8-73",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "The Anatomy of Melancholy",
+      "albumYear" : "2007",
+      "avgRating" : "8-16",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "In Requiem",
+      "albumYear" : "2007",
+      "avgRating" : "8-105",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "The Anatomy of Melancholy",
+      "albumYear" : "2008",
+      "avgRating" : "7-3",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Faith Divides Us -- Death Unites Us",
+      "albumYear" : "2009",
+      "avgRating" : "8-105",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Tragic Idol",
+      "albumYear" : "2012",
+      "avgRating" : "8-119",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "The Plague Within",
+      "albumYear" : "2015",
+      "avgRating" : "9-127",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Medusa",
+      "albumYear" : "2017",
+      "avgRating" : "8-63",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Obsidian",
+      "albumYear" : "2020",
+      "avgRating" : "9-86",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "At the Mill",
+      "albumYear" : "2021",
+      "avgRating" : "8-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Say Just Words",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Lost & the Painless",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Draconian Times: Legacy Edition",
+      "albumYear" : "",
+      "avgRating" : "8-10",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Live at the Roundhouse",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Draconian Times: 25th Anniversary Edition",
+      "albumYear" : "",
+      "avgRating" : "10-2",
+      "musicRating" : ""
+    } ],
+    "id" : "paradise-lost-mn0000018691"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Anathema",
-      "ArtistId" : "anathema-mn0000749333"
-    }, {
-      "artist" : "My Dying Bride",
-      "ArtistId" : "my-dying-bride-mn0000617901"
-    }, {
-      "artist" : "Cathedral",
-      "ArtistId" : "cathedral-mn0000179809"
-    }, {
-      "artist" : "Theatre of Tragedy",
-      "ArtistId" : "theatre-of-tragedy-mn0000924630"
-    }, {
-      "artist" : "Bathory",
-      "ArtistId" : "bathory-mn0000151787"
-    }, {
-      "artist" : "Borknagar",
-      "ArtistId" : "borknagar-mn0000769823"
-    }, {
-      "artist" : "Candlemass",
-      "ArtistId" : "candlemass-mn0000648407"
-    }, {
-      "artist" : "Celtic Frost",
-      "ArtistId" : "celtic-frost-mn0000191063"
-    }, {
-      "artist" : "Cemetary",
-      "ArtistId" : "cemetary-mn0000188790"
-    }, {
-      "artist" : "Count Raven",
-      "ArtistId" : "count-raven-mn0000107059"
-    }, {
-      "artist" : "Crisis",
-      "ArtistId" : "crisis-mn0001209926"
-    }, {
-      "artist" : "Danzig",
-      "ArtistId" : "danzig-mn0000957085"
-    }, {
-      "artist" : "Dimmu Borgir",
-      "ArtistId" : "dimmu-borgir-mn0000214580"
-    }, {
-      "artist" : "Dismember",
-      "ArtistId" : "dismember-mn0000171969"
-    }, {
-      "artist" : "Heavenwood",
-      "ArtistId" : "heavenwood-mn0000534280"
-    }, {
-      "artist" : "Katatonia",
-      "ArtistId" : "katatonia-mn0000855252"
-    }, {
-      "artist" : "Lake of Tears",
-      "ArtistId" : "lake-of-tears-mn0000124554"
-    }, {
-      "artist" : "Memento Mori",
-      "ArtistId" : "memento-mori-mn0000351358"
-    }, {
-      "artist" : "Moonspell",
-      "ArtistId" : "moonspell-mn0000591187"
-    }, {
-      "artist" : "On Thorns I Lay",
-      "ArtistId" : "on-thorns-i-lay-mn0000337100"
-    }, {
-      "artist" : "Opeth",
-      "ArtistId" : "opeth-mn0000400717"
-    }, {
-      "artist" : "Pyogenesis",
-      "ArtistId" : "pyogenesis-mn0000373061"
-    }, {
-      "artist" : "Rotting Christ",
-      "ArtistId" : "rotting-christ-mn0000851665"
-    }, {
-      "artist" : "Slave Raider",
-      "ArtistId" : "slave-raider-mn0000021471"
-    }, {
-      "artist" : "Solitude Aeturnus",
-      "ArtistId" : "solitude-aeturnus-mn0000031211"
-    }, {
-      "artist" : "The God Machine",
-      "ArtistId" : "the-god-machine-mn0000060981"
-    }, {
-      "artist" : "Thought Industry",
-      "ArtistId" : "thought-industry-mn0000585940"
-    }, {
-      "artist" : "Trouble",
-      "ArtistId" : "trouble-mn0000747243"
-    }, {
-      "artist" : "Type O Negative",
-      "ArtistId" : "type-o-negative-mn0000206465"
-    }, {
-      "artist" : "Witchfinder General",
-      "ArtistId" : "witchfinder-general-mn0000671244"
-    }, {
-      "artist" : "Amorphis",
-      "ArtistId" : "amorphis-mn0000022590"
-    }, {
-      "artist" : "Draconian",
-      "ArtistId" : "draconian-mn0000678743"
-    }, {
-      "artist" : "Green Carnation",
-      "ArtistId" : "green-carnation-mn0000799574"
-    }, {
-      "artist" : "H.I.M.",
-      "ArtistId" : "him-mn0000577091"
-    }, {
-      "artist" : "Haunted By Silhouettes",
-      "ArtistId" : "haunted-by-silhouettes-mn0004193176"
-    }, {
-      "artist" : "Lacuna Coil",
-      "ArtistId" : "lacuna-coil-mn0000778655"
-    }, {
-      "artist" : "Novembers Doom",
-      "ArtistId" : "novembers-doom-mn0000458812"
-    }, {
-      "artist" : "Saxon",
-      "ArtistId" : "saxon-mn0000259800"
-    }, {
-      "artist" : "Soilwork",
-      "ArtistId" : "soilwork-mn0000039406"
-    } ],
-    "influencers" : [ {
-      "artist" : "Black Sabbath",
-      "ArtistId" : "black-sabbath-mn0000771438"
-    }, {
-      "artist" : "Cathedral",
-      "ArtistId" : "cathedral-mn0000179809"
-    }, {
-      "artist" : "Iron Maiden",
-      "ArtistId" : "iron-maiden-mn0000098465"
-    }, {
-      "artist" : "Metallica",
-      "ArtistId" : "metallica-mn0000446509"
-    }, {
-      "artist" : "The Mission",
-      "ArtistId" : "the-mission-mn0000477613"
-    }, {
-      "artist" : "The Sisters of Mercy",
-      "ArtistId" : "the-sisters-of-mercy-mn0000012809"
-    } ],
-    "followers" : [ ],
-    "associatedwith" : [ ]
+    "id" : "paradise-lost-mn0000018691",
+    "related" : {
+      "associatedwith" : [ ],
+      "followers" : [ ],
+      "influencers" : [ {
+        "ArtistId" : "black-sabbath-mn0000771438",
+        "artist" : "Black Sabbath"
+      }, {
+        "ArtistId" : "cathedral-mn0000179809",
+        "artist" : "Cathedral"
+      }, {
+        "ArtistId" : "iron-maiden-mn0000098465",
+        "artist" : "Iron Maiden"
+      }, {
+        "ArtistId" : "metallica-mn0000446509",
+        "artist" : "Metallica"
+      }, {
+        "ArtistId" : "the-mission-mn0000477613",
+        "artist" : "The Mission"
+      }, {
+        "ArtistId" : "the-sisters-of-mercy-mn0000012809",
+        "artist" : "The Sisters of Mercy"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "anathema-mn0000749333",
+        "artist" : "Anathema"
+      }, {
+        "ArtistId" : "my-dying-bride-mn0000617901",
+        "artist" : "My Dying Bride"
+      }, {
+        "ArtistId" : "cathedral-mn0000179809",
+        "artist" : "Cathedral"
+      }, {
+        "ArtistId" : "theatre-of-tragedy-mn0000924630",
+        "artist" : "Theatre of Tragedy"
+      }, {
+        "ArtistId" : "bathory-mn0000151787",
+        "artist" : "Bathory"
+      }, {
+        "ArtistId" : "borknagar-mn0000769823",
+        "artist" : "Borknagar"
+      }, {
+        "ArtistId" : "candlemass-mn0000648407",
+        "artist" : "Candlemass"
+      }, {
+        "ArtistId" : "celtic-frost-mn0000191063",
+        "artist" : "Celtic Frost"
+      }, {
+        "ArtistId" : "cemetary-mn0000188790",
+        "artist" : "Cemetary"
+      }, {
+        "ArtistId" : "count-raven-mn0000107059",
+        "artist" : "Count Raven"
+      }, {
+        "ArtistId" : "crisis-mn0001209926",
+        "artist" : "Crisis"
+      }, {
+        "ArtistId" : "danzig-mn0000957085",
+        "artist" : "Danzig"
+      }, {
+        "ArtistId" : "dimmu-borgir-mn0000214580",
+        "artist" : "Dimmu Borgir"
+      }, {
+        "ArtistId" : "dismember-mn0000171969",
+        "artist" : "Dismember"
+      }, {
+        "ArtistId" : "heavenwood-mn0000534280",
+        "artist" : "Heavenwood"
+      }, {
+        "ArtistId" : "katatonia-mn0000855252",
+        "artist" : "Katatonia"
+      }, {
+        "ArtistId" : "lake-of-tears-mn0000124554",
+        "artist" : "Lake of Tears"
+      }, {
+        "ArtistId" : "memento-mori-mn0000351358",
+        "artist" : "Memento Mori"
+      }, {
+        "ArtistId" : "moonspell-mn0000591187",
+        "artist" : "Moonspell"
+      }, {
+        "ArtistId" : "on-thorns-i-lay-mn0000337100",
+        "artist" : "On Thorns I Lay"
+      }, {
+        "ArtistId" : "opeth-mn0000400717",
+        "artist" : "Opeth"
+      }, {
+        "ArtistId" : "pyogenesis-mn0000373061",
+        "artist" : "Pyogenesis"
+      }, {
+        "ArtistId" : "rotting-christ-mn0000851665",
+        "artist" : "Rotting Christ"
+      }, {
+        "ArtistId" : "slave-raider-mn0000021471",
+        "artist" : "Slave Raider"
+      }, {
+        "ArtistId" : "solitude-aeturnus-mn0000031211",
+        "artist" : "Solitude Aeturnus"
+      }, {
+        "ArtistId" : "the-god-machine-mn0000060981",
+        "artist" : "The God Machine"
+      }, {
+        "ArtistId" : "thought-industry-mn0000585940",
+        "artist" : "Thought Industry"
+      }, {
+        "ArtistId" : "trouble-mn0000747243",
+        "artist" : "Trouble"
+      }, {
+        "ArtistId" : "type-o-negative-mn0000206465",
+        "artist" : "Type O Negative"
+      }, {
+        "ArtistId" : "witchfinder-general-mn0000671244",
+        "artist" : "Witchfinder General"
+      }, {
+        "ArtistId" : "amorphis-mn0000022590",
+        "artist" : "Amorphis"
+      }, {
+        "ArtistId" : "draconian-mn0000678743",
+        "artist" : "Draconian"
+      }, {
+        "ArtistId" : "green-carnation-mn0000799574",
+        "artist" : "Green Carnation"
+      }, {
+        "ArtistId" : "him-mn0000577091",
+        "artist" : "H.I.M."
+      }, {
+        "ArtistId" : "haunted-by-silhouettes-mn0004193176",
+        "artist" : "Haunted By Silhouettes"
+      }, {
+        "ArtistId" : "lacuna-coil-mn0000778655",
+        "artist" : "Lacuna Coil"
+      }, {
+        "ArtistId" : "novembers-doom-mn0000458812",
+        "artist" : "Novembers Doom"
+      }, {
+        "ArtistId" : "saxon-mn0000259800",
+        "artist" : "Saxon"
+      }, {
+        "ArtistId" : "soilwork-mn0000039406",
+        "artist" : "Soilwork"
+      } ]
+    }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "id" : "the-modern-jazz-quartet-mn0000567325",
-  "name" : "The Modern Jazz Quartet",
   "activeDates" : "1950s - 1990s",
   "birthDate" : "1952",
   "birthPlace" : "New York, NY",
+  "id" : "the-modern-jazz-quartet-mn0000567325",
+  "name" : "The Modern Jazz Quartet",
   "styles" : [ {
     "name" : "Cool",
     "url" : "https://www.allmusic.com/style/cool-ma0000002530"
@@ -16,437 +16,443 @@
   } ],
   "decades" : "1950s - 1990s",
   "genres" : "Jazz",
-  "discography" : [ {
-    "albumYear" : "1952",
-    "albumTitle" : "Modern Jazz Quartet [1952]",
-    "musicRating" : "6",
-    "avgRating" : "9-46"
-  }, {
-    "albumYear" : "1953",
-    "albumTitle" : "Modern Jazz Quartet, Vol. 2: 1954-1955",
-    "musicRating" : "8",
-    "avgRating" : "9-2"
-  }, {
-    "albumYear" : "1954",
-    "albumTitle" : "MJQ",
-    "musicRating" : "7",
-    "avgRating" : "9-22"
-  }, {
-    "albumYear" : "1955",
-    "albumTitle" : "Concorde",
-    "musicRating" : "7",
-    "avgRating" : "9-63"
-  }, {
-    "albumYear" : "1956",
-    "albumTitle" : "The Modern Jazz Quartet at the Music Inn, Vol. 1",
-    "musicRating" : "5",
-    "avgRating" : "9-19"
-  }, {
-    "albumYear" : "1956",
-    "albumTitle" : "Django",
-    "musicRating" : "7",
-    "avgRating" : "9-118"
-  }, {
-    "albumYear" : "1956",
-    "albumTitle" : "Fontessa",
-    "musicRating" : "8",
-    "avgRating" : "9-80"
-  }, {
-    "albumYear" : "1957",
-    "albumTitle" : "No Sun in Venice",
-    "musicRating" : "5",
-    "avgRating" : "9-25"
-  }, {
-    "albumYear" : "1957",
-    "albumTitle" : "The Modern Jazz Quartet and Oscar Peterson Trio at the Opera",
-    "musicRating" : "7",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "1957",
-    "albumTitle" : "The Modern Jazz Quartet",
-    "musicRating" : "5",
-    "avgRating" : "9-27"
-  }, {
-    "albumYear" : "1959",
-    "albumTitle" : "Odds Against Tomorrow",
-    "musicRating" : "8",
-    "avgRating" : "9-14"
-  }, {
-    "albumYear" : "1959",
-    "albumTitle" : "The Modern Jazz Quartet at Music Inn, Vol. 2",
-    "musicRating" : "8",
-    "avgRating" : "9-30"
-  }, {
-    "albumYear" : "1960",
-    "albumTitle" : "Dedicated to Connie",
-    "musicRating" : "8",
-    "avgRating" : "10-27"
-  }, {
-    "albumYear" : "1960",
-    "albumTitle" : "The Modern Jazz Quartet and Orchestra",
-    "musicRating" : "7",
-    "avgRating" : "9-16"
-  }, {
-    "albumYear" : "1960",
-    "albumTitle" : "European Concert, Vol. 1",
-    "musicRating" : "9",
-    "avgRating" : "10-70"
-  }, {
-    "albumYear" : "1960",
-    "albumTitle" : "The Modern Jazz Quartet Plays for Lovers",
-    "musicRating" : "7",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "1960",
-    "albumTitle" : "Patterns",
-    "musicRating" : "5",
-    "avgRating" : "8-4"
-  }, {
-    "albumYear" : "1960",
-    "albumTitle" : "Pyramid",
-    "musicRating" : "8",
-    "avgRating" : "10-112"
-  }, {
-    "albumYear" : "1960",
-    "albumTitle" : "Third Stream Music",
-    "musicRating" : "8",
-    "avgRating" : "9-45"
-  }, {
-    "albumYear" : "1962",
-    "albumTitle" : "At the Opera House",
-    "musicRating" : "5",
-    "avgRating" : "9-5"
-  }, {
-    "albumYear" : "1962",
-    "albumTitle" : "The Comedy",
-    "musicRating" : "3",
-    "avgRating" : "9-20"
-  }, {
-    "albumYear" : "1962",
-    "albumTitle" : "European Concert, Vol. 2",
-    "musicRating" : "8",
-    "avgRating" : "9-16"
-  }, {
-    "albumYear" : "1962",
-    "albumTitle" : "Lonely Woman",
-    "musicRating" : "9",
-    "avgRating" : "9-110"
-  }, {
-    "albumYear" : "1963",
-    "albumTitle" : "A Quartet Is a Quartet Is a Quartet",
-    "musicRating" : "6",
-    "avgRating" : "8-5"
-  }, {
-    "albumYear" : "1963",
-    "albumTitle" : "In a Crowd",
-    "musicRating" : "7",
-    "avgRating" : "9-4"
-  }, {
-    "albumYear" : "1964",
-    "albumTitle" : "The Sheriff",
-    "musicRating" : "5",
-    "avgRating" : "9-27"
-  }, {
-    "albumYear" : "1964",
-    "albumTitle" : "Collaboration",
-    "musicRating" : "8",
-    "avgRating" : "10-32"
-  }, {
-    "albumYear" : "1965",
-    "albumTitle" : "Jazz Dialogue",
-    "musicRating" : "5",
-    "avgRating" : "9-12"
-  }, {
-    "albumYear" : "1965",
-    "albumTitle" : "Plays George Gershwin's \"Porgy and Bess\"",
-    "musicRating" : "7",
-    "avgRating" : "9-31"
-  }, {
-    "albumYear" : "1966",
-    "albumTitle" : "Blues at Carnegie Hall",
-    "musicRating" : "7",
-    "avgRating" : "9-17"
-  }, {
-    "albumYear" : "1966",
-    "albumTitle" : "Place Vendôme",
-    "musicRating" : "4",
-    "avgRating" : "9-24"
-  }, {
-    "albumYear" : "1966",
-    "albumTitle" : "Vendome",
-    "musicRating" : "5",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1967",
-    "albumTitle" : "Live at the Lighthouse",
-    "musicRating" : "7",
-    "avgRating" : "8-16"
-  }, {
-    "albumYear" : "1968",
-    "albumTitle" : "Under the Jasmin Tree",
-    "musicRating" : "5",
-    "avgRating" : "9-14"
-  }, {
-    "albumYear" : "1969",
-    "albumTitle" : "Space",
-    "musicRating" : "5",
-    "avgRating" : "9-17"
-  }, {
-    "albumYear" : "196?",
-    "albumTitle" : "The Modern Jazz Quartet on Tour",
-    "musicRating" : "5",
-    "avgRating" : "8-1"
-  }, {
-    "albumYear" : "1971",
-    "albumTitle" : "Plastic Dreams",
-    "musicRating" : "6",
-    "avgRating" : "9-16"
-  }, {
-    "albumYear" : "1972",
-    "albumTitle" : "The Legendary Profile",
-    "musicRating" : "5",
-    "avgRating" : "9-18"
-  }, {
-    "albumYear" : "1973",
-    "albumTitle" : "In Memoriam",
-    "musicRating" : "3",
-    "avgRating" : "9-6"
-  }, {
-    "albumYear" : "1973",
-    "albumTitle" : "Blues on Bach",
-    "musicRating" : "7",
-    "avgRating" : "9-56"
-  }, {
-    "albumYear" : "1974",
-    "albumTitle" : "The Complete Last Concert",
-    "musicRating" : "9",
-    "avgRating" : "10-134"
-  }, {
-    "albumYear" : "1974",
-    "albumTitle" : "Little David",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1975",
-    "albumTitle" : "The Last Concert",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1981",
-    "albumTitle" : "Reunion at Budokan",
-    "musicRating" : "7",
-    "avgRating" : "10-8"
-  }, {
-    "albumYear" : "1982",
-    "albumTitle" : "Together Again: Live at the Montreux Jazz Festival '82",
-    "musicRating" : "7",
-    "avgRating" : "9-9"
-  }, {
-    "albumYear" : "1984",
-    "albumTitle" : "Echoes",
-    "musicRating" : "8",
-    "avgRating" : "10-20"
-  }, {
-    "albumYear" : "1985",
-    "albumTitle" : "Topsy: This One's for Basie",
-    "musicRating" : "7",
-    "avgRating" : "9-14"
-  }, {
-    "albumYear" : "1987",
-    "albumTitle" : "Three Windows",
-    "musicRating" : "5",
-    "avgRating" : "9-7"
-  }, {
-    "albumYear" : "1988",
-    "albumTitle" : "For Ellington",
-    "musicRating" : "7",
-    "avgRating" : "9-19"
-  }, {
-    "albumYear" : "1989",
-    "albumTitle" : "Rose of the Rio Grande",
-    "musicRating" : "5",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1994",
-    "albumTitle" : "A Night at the Opera",
-    "musicRating" : "",
-    "avgRating" : "10-5"
-  }, {
-    "albumYear" : "1994",
-    "albumTitle" : "MJQ & Friends: A 40th Anniversary Celebration",
-    "musicRating" : "8",
-    "avgRating" : "9-18"
-  }, {
-    "albumYear" : "2001",
-    "albumTitle" : "Live at the Theatre Royal, Bath",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2012",
-    "albumTitle" : "At Music Inn: Guest Artist Sonny Rollins",
-    "musicRating" : "",
-    "avgRating" : "8-2"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Modern Jazz Quartet [1952]",
+      "albumYear" : "1952",
+      "avgRating" : "9-46",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Modern Jazz Quartet, Vol. 2: 1954-1955",
+      "albumYear" : "1953",
+      "avgRating" : "9-2",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "MJQ",
+      "albumYear" : "1954",
+      "avgRating" : "9-23",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Concorde",
+      "albumYear" : "1955",
+      "avgRating" : "9-63",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "The Modern Jazz Quartet at the Music Inn, Vol. 1",
+      "albumYear" : "1956",
+      "avgRating" : "9-19",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Django",
+      "albumYear" : "1956",
+      "avgRating" : "9-119",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Fontessa",
+      "albumYear" : "1956",
+      "avgRating" : "9-82",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "No Sun in Venice",
+      "albumYear" : "1957",
+      "avgRating" : "9-25",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "The Modern Jazz Quartet and Oscar Peterson Trio at the Opera",
+      "albumYear" : "1957",
+      "avgRating" : "10-1",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "The Modern Jazz Quartet",
+      "albumYear" : "1957",
+      "avgRating" : "9-27",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Odds Against Tomorrow",
+      "albumYear" : "1959",
+      "avgRating" : "9-14",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "The Modern Jazz Quartet at Music Inn, Vol. 2",
+      "albumYear" : "1959",
+      "avgRating" : "9-30",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Dedicated to Connie",
+      "albumYear" : "1960",
+      "avgRating" : "10-27",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "The Modern Jazz Quartet and Orchestra",
+      "albumYear" : "1960",
+      "avgRating" : "9-16",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "European Concert, Vol. 1",
+      "albumYear" : "1960",
+      "avgRating" : "10-71",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "The Modern Jazz Quartet Plays for Lovers",
+      "albumYear" : "1960",
+      "avgRating" : "10-1",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Patterns",
+      "albumYear" : "1960",
+      "avgRating" : "8-4",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Pyramid",
+      "albumYear" : "1960",
+      "avgRating" : "10-112",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Third Stream Music",
+      "albumYear" : "1960",
+      "avgRating" : "9-45",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "At the Opera House",
+      "albumYear" : "1962",
+      "avgRating" : "9-5",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "The Comedy",
+      "albumYear" : "1962",
+      "avgRating" : "9-20",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "European Concert, Vol. 2",
+      "albumYear" : "1962",
+      "avgRating" : "9-16",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Lonely Woman",
+      "albumYear" : "1962",
+      "avgRating" : "9-111",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "A Quartet Is a Quartet Is a Quartet",
+      "albumYear" : "1963",
+      "avgRating" : "8-5",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "In a Crowd",
+      "albumYear" : "1963",
+      "avgRating" : "9-4",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "The Sheriff",
+      "albumYear" : "1964",
+      "avgRating" : "9-27",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Collaboration",
+      "albumYear" : "1964",
+      "avgRating" : "10-32",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Jazz Dialogue",
+      "albumYear" : "1965",
+      "avgRating" : "9-12",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Plays George Gershwin's \"Porgy and Bess\"",
+      "albumYear" : "1965",
+      "avgRating" : "9-31",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Blues at Carnegie Hall",
+      "albumYear" : "1966",
+      "avgRating" : "9-17",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Place Vendôme",
+      "albumYear" : "1966",
+      "avgRating" : "9-24",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Vendome",
+      "albumYear" : "1966",
+      "avgRating" : "",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Live at the Lighthouse",
+      "albumYear" : "1967",
+      "avgRating" : "8-16",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Under the Jasmin Tree",
+      "albumYear" : "1968",
+      "avgRating" : "9-14",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Space",
+      "albumYear" : "1969",
+      "avgRating" : "9-17",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "The Modern Jazz Quartet on Tour",
+      "albumYear" : "196?",
+      "avgRating" : "8-1",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Plastic Dreams",
+      "albumYear" : "1971",
+      "avgRating" : "9-16",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "The Legendary Profile",
+      "albumYear" : "1972",
+      "avgRating" : "9-18",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "In Memoriam",
+      "albumYear" : "1973",
+      "avgRating" : "9-6",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Blues on Bach",
+      "albumYear" : "1973",
+      "avgRating" : "9-56",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "The Complete Last Concert",
+      "albumYear" : "1974",
+      "avgRating" : "10-135",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Little David",
+      "albumYear" : "1974",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "The Last Concert",
+      "albumYear" : "1975",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Reunion at Budokan",
+      "albumYear" : "1981",
+      "avgRating" : "10-8",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Together Again: Live at the Montreux Jazz Festival '82",
+      "albumYear" : "1982",
+      "avgRating" : "9-9",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Echoes",
+      "albumYear" : "1984",
+      "avgRating" : "10-20",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Topsy: This One's for Basie",
+      "albumYear" : "1985",
+      "avgRating" : "9-14",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Three Windows",
+      "albumYear" : "1987",
+      "avgRating" : "9-7",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "For Ellington",
+      "albumYear" : "1988",
+      "avgRating" : "9-19",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Rose of the Rio Grande",
+      "albumYear" : "1989",
+      "avgRating" : "",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "A Night at the Opera",
+      "albumYear" : "1994",
+      "avgRating" : "10-5",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "MJQ & Friends: A 40th Anniversary Celebration",
+      "albumYear" : "1994",
+      "avgRating" : "9-18",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Live at the Theatre Royal, Bath",
+      "albumYear" : "2001",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "At Music Inn: Guest Artist Sonny Rollins",
+      "albumYear" : "2012",
+      "avgRating" : "7-3",
+      "musicRating" : ""
+    } ],
+    "id" : "the-modern-jazz-quartet-mn0000567325"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Ahmad Jamal",
-      "ArtistId" : "ahmad-jamal-mn0000127369"
-    }, {
-      "artist" : "Bill Evans",
-      "ArtistId" : "bill-evans-mn0000764702"
-    }, {
-      "artist" : "Billy Taylor",
-      "ArtistId" : "billy-taylor-mn0000768149"
-    }, {
-      "artist" : "Dave Brubeck",
-      "ArtistId" : "dave-brubeck-mn0000958533"
-    }, {
-      "artist" : "Erroll Garner",
-      "ArtistId" : "erroll-garner-mn0000206967"
-    }, {
-      "artist" : "Ramsey Lewis",
-      "ArtistId" : "ramsey-lewis-mn0000334770"
-    }, {
-      "artist" : "The Three Sounds",
-      "ArtistId" : "the-three-sounds-mn0000478633"
-    }, {
-      "artist" : "Gunther Schuller",
-      "ArtistId" : "gunther-schuller-mn0000645009"
-    }, {
-      "artist" : "Jimmy Giuffre",
-      "ArtistId" : "jimmy-giuffre-mn0000360956"
-    }, {
-      "artist" : "Kenny Clarke",
-      "ArtistId" : "kenny-clarke-mn0000081796"
-    }, {
-      "artist" : "Milt Jackson",
-      "ArtistId" : "milt-jackson-mn0000489845"
-    }, {
-      "artist" : "Roland Hanna",
-      "ArtistId" : "roland-hanna-mn0000011819"
-    }, {
-      "artist" : "The Great Jazz Trio",
-      "ArtistId" : "the-great-jazz-trio-mn0000070710"
-    }, {
-      "artist" : "Charles Mingus",
-      "ArtistId" : "charles-mingus-mn0000009680"
-    }, {
-      "artist" : "Dizzy Gillespie",
-      "ArtistId" : "dizzy-gillespie-mn0000162677"
-    }, {
-      "artist" : "John Lewis",
-      "ArtistId" : "john-lewis-mn0000424292"
-    }, {
-      "artist" : "Kenny Burrell",
-      "ArtistId" : "kenny-burrell-mn0000068780"
-    }, {
-      "artist" : "Lionel Hampton",
-      "ArtistId" : "lionel-hampton-mn0000833150"
-    }, {
-      "artist" : "Miles Davis",
-      "ArtistId" : "miles-davis-mn0000423829"
-    }, {
-      "artist" : "Oscar Peterson",
-      "ArtistId" : "oscar-peterson-mn0000489316"
-    }, {
-      "artist" : "Pete Rugolo",
-      "ArtistId" : "pete-rugolo-mn0000321194"
-    }, {
-      "artist" : "The Heath Brothers",
-      "ArtistId" : "the-heath-brothers-mn0000085303"
-    }, {
-      "artist" : "Thelonious Monk",
-      "ArtistId" : "thelonious-monk-mn0000490416"
-    }, {
-      "artist" : "Art Pepper",
-      "ArtistId" : "art-pepper-mn0000505047"
-    }, {
-      "artist" : "Coleman Hawkins",
-      "ArtistId" : "coleman-hawkins-mn0000776363"
-    }, {
-      "artist" : "Dexter Gordon",
-      "ArtistId" : "dexter-gordon-mn0000208404"
-    }, {
-      "artist" : "Lee Morgan",
-      "ArtistId" : "lee-morgan-mn0000226380"
-    }, {
-      "artist" : "Manhattan Jazz Quintet",
-      "ArtistId" : "manhattan-jazz-quintet-mn0000674690"
-    }, {
-      "artist" : "Pharoah Sanders",
-      "ArtistId" : "pharoah-sanders-mn0000330601"
-    }, {
-      "artist" : "Sonny Rollins",
-      "ArtistId" : "sonny-rollins-mn0000039656"
-    }, {
-      "artist" : "Charlie Parker",
-      "ArtistId" : "charlie-parker-mn0000211758"
-    }, {
-      "artist" : "Jazz at Lincoln Center Orchestra",
-      "ArtistId" : "jazz-at-lincoln-center-orchestra-mn0003431292"
-    } ],
-    "influencers" : [ {
-      "artist" : "Charlie Parker",
-      "ArtistId" : "charlie-parker-mn0000211758"
-    }, {
-      "artist" : "Count Basie",
-      "ArtistId" : "count-basie-mn0000127044"
-    }, {
-      "artist" : "Dave Brubeck",
-      "ArtistId" : "dave-brubeck-mn0000958533"
-    }, {
-      "artist" : "Duke Ellington",
-      "ArtistId" : "duke-ellington-mn0000120323"
-    }, {
-      "artist" : "Lucky Thompson",
-      "ArtistId" : "lucky-thompson-mn0000302799"
-    } ],
-    "followers" : [ {
-      "artist" : "Roy Ayers",
-      "ArtistId" : "roy-ayers-mn0000345168"
-    }, {
-      "artist" : "Bill Charlap",
-      "ArtistId" : "bill-charlap-mn0000763670"
-    }, {
-      "artist" : "Billy Taylor",
-      "ArtistId" : "billy-taylor-mn0000768149"
-    }, {
-      "artist" : "Buddy Montgomery",
-      "ArtistId" : "buddy-montgomery-mn0000537214"
-    }, {
-      "artist" : "Cyrus Chestnut",
-      "ArtistId" : "cyrus-chestnut-mn0000148978"
-    }, {
-      "artist" : "George Russell",
-      "ArtistId" : "george-russell-mn0000646353"
-    }, {
-      "artist" : "Jack Bruce",
-      "ArtistId" : "jack-bruce-mn0000152312"
-    }, {
-      "artist" : "Joe Locke",
-      "ArtistId" : "joe-locke-mn0000117125"
-    }, {
-      "artist" : "Robert Wyatt",
-      "ArtistId" : "robert-wyatt-mn0000292915"
-    }, {
-      "artist" : "Soft Machine",
-      "ArtistId" : "soft-machine-mn0000753685"
-    }, {
-      "artist" : "Stefon Harris",
-      "ArtistId" : "stefon-harris-mn0000019334"
-    }, {
-      "artist" : "Victor Feldman",
-      "ArtistId" : "victor-feldman-mn0000977537"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Modern Jazz Quartet & Friends",
-      "ArtistId" : "modern-jazz-quartet-friends-mn0000477619"
-    }, {
-      "artist" : "Modern Jazz Quartet & Orchestra",
-      "ArtistId" : "modern-jazz-quartet-orchestra-mn0001421699"
-    }, {
-      "artist" : "Modern Jazz Quartet Plus",
-      "ArtistId" : "modern-jazz-quartet-plus-mn0000567509"
-    } ]
+    "id" : "the-modern-jazz-quartet-mn0000567325",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "modern-jazz-quartet-friends-mn0000477619",
+        "artist" : "Modern Jazz Quartet & Friends"
+      }, {
+        "ArtistId" : "modern-jazz-quartet-orchestra-mn0001421699",
+        "artist" : "Modern Jazz Quartet & Orchestra"
+      }, {
+        "ArtistId" : "modern-jazz-quartet-plus-mn0000567509",
+        "artist" : "Modern Jazz Quartet Plus"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "roy-ayers-mn0000345168",
+        "artist" : "Roy Ayers"
+      }, {
+        "ArtistId" : "bill-charlap-mn0000763670",
+        "artist" : "Bill Charlap"
+      }, {
+        "ArtistId" : "billy-taylor-mn0000768149",
+        "artist" : "Billy Taylor"
+      }, {
+        "ArtistId" : "buddy-montgomery-mn0000537214",
+        "artist" : "Buddy Montgomery"
+      }, {
+        "ArtistId" : "cyrus-chestnut-mn0000148978",
+        "artist" : "Cyrus Chestnut"
+      }, {
+        "ArtistId" : "george-russell-mn0000646353",
+        "artist" : "George Russell"
+      }, {
+        "ArtistId" : "jack-bruce-mn0000152312",
+        "artist" : "Jack Bruce"
+      }, {
+        "ArtistId" : "joe-locke-mn0000117125",
+        "artist" : "Joe Locke"
+      }, {
+        "ArtistId" : "robert-wyatt-mn0000292915",
+        "artist" : "Robert Wyatt"
+      }, {
+        "ArtistId" : "soft-machine-mn0000753685",
+        "artist" : "Soft Machine"
+      }, {
+        "ArtistId" : "stefon-harris-mn0000019334",
+        "artist" : "Stefon Harris"
+      }, {
+        "ArtistId" : "victor-feldman-mn0000977537",
+        "artist" : "Victor Feldman"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "charlie-parker-mn0000211758",
+        "artist" : "Charlie Parker"
+      }, {
+        "ArtistId" : "count-basie-mn0000127044",
+        "artist" : "Count Basie"
+      }, {
+        "ArtistId" : "dave-brubeck-mn0000958533",
+        "artist" : "Dave Brubeck"
+      }, {
+        "ArtistId" : "duke-ellington-mn0000120323",
+        "artist" : "Duke Ellington"
+      }, {
+        "ArtistId" : "lucky-thompson-mn0000302799",
+        "artist" : "Lucky Thompson"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "ahmad-jamal-mn0000127369",
+        "artist" : "Ahmad Jamal"
+      }, {
+        "ArtistId" : "bill-evans-mn0000764702",
+        "artist" : "Bill Evans"
+      }, {
+        "ArtistId" : "billy-taylor-mn0000768149",
+        "artist" : "Billy Taylor"
+      }, {
+        "ArtistId" : "dave-brubeck-mn0000958533",
+        "artist" : "Dave Brubeck"
+      }, {
+        "ArtistId" : "erroll-garner-mn0000206967",
+        "artist" : "Erroll Garner"
+      }, {
+        "ArtistId" : "ramsey-lewis-mn0000334770",
+        "artist" : "Ramsey Lewis"
+      }, {
+        "ArtistId" : "the-three-sounds-mn0000478633",
+        "artist" : "The Three Sounds"
+      }, {
+        "ArtistId" : "gunther-schuller-mn0000645009",
+        "artist" : "Gunther Schuller"
+      }, {
+        "ArtistId" : "jimmy-giuffre-mn0000360956",
+        "artist" : "Jimmy Giuffre"
+      }, {
+        "ArtistId" : "kenny-clarke-mn0000081796",
+        "artist" : "Kenny Clarke"
+      }, {
+        "ArtistId" : "milt-jackson-mn0000489845",
+        "artist" : "Milt Jackson"
+      }, {
+        "ArtistId" : "roland-hanna-mn0000011819",
+        "artist" : "Roland Hanna"
+      }, {
+        "ArtistId" : "the-great-jazz-trio-mn0000070710",
+        "artist" : "The Great Jazz Trio"
+      }, {
+        "ArtistId" : "charles-mingus-mn0000009680",
+        "artist" : "Charles Mingus"
+      }, {
+        "ArtistId" : "dizzy-gillespie-mn0000162677",
+        "artist" : "Dizzy Gillespie"
+      }, {
+        "ArtistId" : "john-lewis-mn0000424292",
+        "artist" : "John Lewis"
+      }, {
+        "ArtistId" : "kenny-burrell-mn0000068780",
+        "artist" : "Kenny Burrell"
+      }, {
+        "ArtistId" : "lionel-hampton-mn0000833150",
+        "artist" : "Lionel Hampton"
+      }, {
+        "ArtistId" : "miles-davis-mn0000423829",
+        "artist" : "Miles Davis"
+      }, {
+        "ArtistId" : "oscar-peterson-mn0000489316",
+        "artist" : "Oscar Peterson"
+      }, {
+        "ArtistId" : "pete-rugolo-mn0000321194",
+        "artist" : "Pete Rugolo"
+      }, {
+        "ArtistId" : "the-heath-brothers-mn0000085303",
+        "artist" : "The Heath Brothers"
+      }, {
+        "ArtistId" : "thelonious-monk-mn0000490416",
+        "artist" : "Thelonious Monk"
+      }, {
+        "ArtistId" : "art-pepper-mn0000505047",
+        "artist" : "Art Pepper"
+      }, {
+        "ArtistId" : "coleman-hawkins-mn0000776363",
+        "artist" : "Coleman Hawkins"
+      }, {
+        "ArtistId" : "dexter-gordon-mn0000208404",
+        "artist" : "Dexter Gordon"
+      }, {
+        "ArtistId" : "lee-morgan-mn0000226380",
+        "artist" : "Lee Morgan"
+      }, {
+        "ArtistId" : "manhattan-jazz-quintet-mn0000674690",
+        "artist" : "Manhattan Jazz Quintet"
+      }, {
+        "ArtistId" : "pharoah-sanders-mn0000330601",
+        "artist" : "Pharoah Sanders"
+      }, {
+        "ArtistId" : "sonny-rollins-mn0000039656",
+        "artist" : "Sonny Rollins"
+      }, {
+        "ArtistId" : "charlie-parker-mn0000211758",
+        "artist" : "Charlie Parker"
+      }, {
+        "ArtistId" : "jazz-at-lincoln-center-orchestra-mn0003431292",
+        "artist" : "Jazz at Lincoln Center Orchestra"
+      } ]
+    }
   }
 }

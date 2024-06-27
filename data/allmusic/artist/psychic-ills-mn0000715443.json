@@ -1,9 +1,9 @@
 {
-  "id" : "psychic-ills-mn0000715443",
-  "name" : "Psychic Ills",
   "activeDates" : "2000s - 2010s",
   "birthDate" : "2003",
   "birthPlace" : "New York, NY",
+  "id" : "psychic-ills-mn0000715443",
+  "name" : "Psychic Ills",
   "styles" : [ {
     "name" : "Alternative/Indie Rock",
     "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
@@ -16,131 +16,137 @@
   } ],
   "decades" : "2000s - 2010s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "2006",
-    "albumTitle" : "Dins",
-    "musicRating" : "6",
-    "avgRating" : "8-77"
-  }, {
-    "albumYear" : "2009",
-    "albumTitle" : "Mirror Eye",
-    "musicRating" : "7",
-    "avgRating" : "7-172"
-  }, {
-    "albumYear" : "2011",
-    "albumTitle" : "Telesthetic Tape",
-    "musicRating" : "",
-    "avgRating" : "9-1"
-  }, {
-    "albumYear" : "2011",
-    "albumTitle" : "Hazed Dream",
-    "musicRating" : "6",
-    "avgRating" : "8-128"
-  }, {
-    "albumYear" : "2013",
-    "albumTitle" : "One Track Mind",
-    "musicRating" : "6",
-    "avgRating" : "8-109"
-  }, {
-    "albumYear" : "2016",
-    "albumTitle" : "Inner Journey Out",
-    "musicRating" : "6",
-    "avgRating" : "9-40"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Dins",
+      "albumYear" : "2006",
+      "avgRating" : "8-77",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Mirror Eye",
+      "albumYear" : "2009",
+      "avgRating" : "7-172",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Telesthetic Tape",
+      "albumYear" : "2011",
+      "avgRating" : "9-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Hazed Dream",
+      "albumYear" : "2011",
+      "avgRating" : "8-128",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "One Track Mind",
+      "albumYear" : "2013",
+      "avgRating" : "8-109",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Inner Journey Out",
+      "albumYear" : "2016",
+      "avgRating" : "9-40",
+      "musicRating" : "6"
+    } ],
+    "id" : "psychic-ills-mn0000715443"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Amen Dunes",
-      "ArtistId" : "amen-dunes-mn0001583338"
-    }, {
-      "artist" : "Artanker Convoy",
-      "ArtistId" : "artanker-convoy-mn0000665282"
-    }, {
-      "artist" : "Moon Duo",
-      "ArtistId" : "moon-duo-mn0002384394"
-    }, {
-      "artist" : "The Warlocks",
-      "ArtistId" : "the-warlocks-mn0000582173"
-    }, {
-      "artist" : "Woods",
-      "ArtistId" : "woods-mn0001421766"
-    }, {
-      "artist" : "Dead Meadow",
-      "ArtistId" : "dead-meadow-mn0000223523"
-    }, {
-      "artist" : "Dungen",
-      "ArtistId" : "dungen-mn0000611051"
-    }, {
-      "artist" : "Elephant Stone",
-      "ArtistId" : "elephant-stone-mn0001606201"
-    }, {
-      "artist" : "Föllakzoid",
-      "ArtistId" : "follakzoid-mn0002598068"
-    }, {
-      "artist" : "J. Spaceman",
-      "ArtistId" : "j-spaceman-mn0000777274"
-    }, {
-      "artist" : "Library of Sands",
-      "ArtistId" : "library-of-sands-mn0003122297"
-    }, {
-      "artist" : "Serena Maneesh",
-      "ArtistId" : "serena-maneesh-mn0000923675"
-    }, {
-      "artist" : "The Entrance Band",
-      "ArtistId" : "the-entrance-band-mn0001083821"
-    }, {
-      "artist" : "Wooden Shjips",
-      "ArtistId" : "wooden-shjips-mn0000723427"
-    }, {
-      "artist" : "Darker My Love",
-      "ArtistId" : "darker-my-love-mn0000717371"
-    }, {
-      "artist" : "King Gizzard & the Lizard Wizard",
-      "ArtistId" : "king-gizzard-the-lizard-wizard-mn0003085959"
-    }, {
-      "artist" : "The Amazing",
-      "ArtistId" : "the-amazing-mn0000666885"
-    }, {
-      "artist" : "The Black Angels",
-      "ArtistId" : "the-black-angels-mn0000711954"
-    }, {
-      "artist" : "The Hunt",
-      "ArtistId" : "the-hunt-mn0000533160"
-    }, {
-      "artist" : "Caleb Landry Jones",
-      "ArtistId" : "caleb-landry-jones-mn0003910207"
-    }, {
-      "artist" : "Gateway Drugs",
-      "ArtistId" : "gateway-drugs-mn0003365011"
-    }, {
-      "artist" : "Headroom",
-      "ArtistId" : "headroom-mn0003677103"
-    }, {
-      "artist" : "Prison",
-      "ArtistId" : "prison-mn0001288191"
-    }, {
-      "artist" : "Pure X",
-      "ArtistId" : "pure-x-mn0002682812"
-    }, {
-      "artist" : "Tess Parks",
-      "ArtistId" : "tess-parks-mn0003175123"
-    } ],
-    "influencers" : [ {
-      "artist" : "My Bloody Valentine",
-      "ArtistId" : "my-bloody-valentine-mn0000937003"
-    }, {
-      "artist" : "Sonic Youth",
-      "ArtistId" : "sonic-youth-mn0000755156"
-    }, {
-      "artist" : "Spacemen 3",
-      "ArtistId" : "spacemen-3-mn0000005251"
-    }, {
-      "artist" : "The Velvet Underground",
-      "ArtistId" : "the-velvet-underground-mn0000840402"
-    } ],
-    "followers" : [ ],
-    "associatedwith" : [ {
-      "artist" : "Rhyton",
-      "ArtistId" : "rhyton-mn0002833926"
-    } ]
+    "id" : "psychic-ills-mn0000715443",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "rhyton-mn0002833926",
+        "artist" : "Rhyton"
+      } ],
+      "followers" : [ ],
+      "influencers" : [ {
+        "ArtistId" : "my-bloody-valentine-mn0000937003",
+        "artist" : "My Bloody Valentine"
+      }, {
+        "ArtistId" : "sonic-youth-mn0000755156",
+        "artist" : "Sonic Youth"
+      }, {
+        "ArtistId" : "spacemen-3-mn0000005251",
+        "artist" : "Spacemen 3"
+      }, {
+        "ArtistId" : "the-velvet-underground-mn0000840402",
+        "artist" : "The Velvet Underground"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "amen-dunes-mn0001583338",
+        "artist" : "Amen Dunes"
+      }, {
+        "ArtistId" : "artanker-convoy-mn0000665282",
+        "artist" : "Artanker Convoy"
+      }, {
+        "ArtistId" : "moon-duo-mn0002384394",
+        "artist" : "Moon Duo"
+      }, {
+        "ArtistId" : "the-warlocks-mn0000582173",
+        "artist" : "The Warlocks"
+      }, {
+        "ArtistId" : "woods-mn0001421766",
+        "artist" : "Woods"
+      }, {
+        "ArtistId" : "dead-meadow-mn0000223523",
+        "artist" : "Dead Meadow"
+      }, {
+        "ArtistId" : "dungen-mn0000611051",
+        "artist" : "Dungen"
+      }, {
+        "ArtistId" : "elephant-stone-mn0001606201",
+        "artist" : "Elephant Stone"
+      }, {
+        "ArtistId" : "follakzoid-mn0002598068",
+        "artist" : "Föllakzoid"
+      }, {
+        "ArtistId" : "j-spaceman-mn0000777274",
+        "artist" : "J. Spaceman"
+      }, {
+        "ArtistId" : "library-of-sands-mn0003122297",
+        "artist" : "Library of Sands"
+      }, {
+        "ArtistId" : "serena-maneesh-mn0000923675",
+        "artist" : "Serena Maneesh"
+      }, {
+        "ArtistId" : "the-entrance-band-mn0001083821",
+        "artist" : "The Entrance Band"
+      }, {
+        "ArtistId" : "wooden-shjips-mn0000723427",
+        "artist" : "Wooden Shjips"
+      }, {
+        "ArtistId" : "darker-my-love-mn0000717371",
+        "artist" : "Darker My Love"
+      }, {
+        "ArtistId" : "king-gizzard-the-lizard-wizard-mn0003085959",
+        "artist" : "King Gizzard & the Lizard Wizard"
+      }, {
+        "ArtistId" : "the-amazing-mn0000666885",
+        "artist" : "The Amazing"
+      }, {
+        "ArtistId" : "the-black-angels-mn0000711954",
+        "artist" : "The Black Angels"
+      }, {
+        "ArtistId" : "the-hunt-mn0000533160",
+        "artist" : "The Hunt"
+      }, {
+        "ArtistId" : "caleb-landry-jones-mn0003910207",
+        "artist" : "Caleb Landry Jones"
+      }, {
+        "ArtistId" : "gateway-drugs-mn0003365011",
+        "artist" : "Gateway Drugs"
+      }, {
+        "ArtistId" : "headroom-mn0003677103",
+        "artist" : "Headroom"
+      }, {
+        "ArtistId" : "prison-mn0001288191",
+        "artist" : "Prison"
+      }, {
+        "ArtistId" : "pure-x-mn0002682812",
+        "artist" : "Pure X"
+      }, {
+        "ArtistId" : "tess-parks-mn0003175123",
+        "artist" : "Tess Parks"
+      } ]
+    }
   }
 }

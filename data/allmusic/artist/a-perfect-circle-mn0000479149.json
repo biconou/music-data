@@ -1,9 +1,9 @@
 {
-  "id" : "a-perfect-circle-mn0000479149",
-  "name" : "A Perfect Circle",
   "activeDates" : "1990s - 2020s",
   "birthDate" : "1999",
   "birthPlace" : "Los Angeles, CA",
+  "id" : "a-perfect-circle-mn0000479149",
+  "name" : "A Perfect Circle",
   "styles" : [ {
     "name" : "Alternative Metal",
     "url" : "https://www.allmusic.com/style/alternative-metal-ma0000012328"
@@ -22,209 +22,215 @@
   } ],
   "decades" : "1990s - 2020s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "2000",
-    "albumTitle" : "Mer de Noms",
-    "musicRating" : "7",
-    "avgRating" : "9-1146"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "Thirteenth Step",
-    "musicRating" : "7",
-    "avgRating" : "9-1081"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "eMOTIVe",
-    "musicRating" : "3",
-    "avgRating" : "7-375"
-  }, {
-    "albumYear" : "2013",
-    "albumTitle" : "Stone & Echo: Recorded Live at Red Rocks Amphitheatre",
-    "musicRating" : "",
-    "avgRating" : "9-30"
-  }, {
-    "albumYear" : "2018",
-    "albumTitle" : "Eat the Elephant",
-    "musicRating" : "7",
-    "avgRating" : "7-502"
-  }, {
-    "albumYear" : "2024",
-    "albumTitle" : "Cinquanta",
-    "musicRating" : "",
-    "avgRating" : ""
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Mer de Noms",
+      "albumYear" : "2000",
+      "avgRating" : "9-1148",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Thirteenth Step",
+      "albumYear" : "2003",
+      "avgRating" : "9-1081",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "eMOTIVe",
+      "albumYear" : "2004",
+      "avgRating" : "7-375",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Stone & Echo: Recorded Live at Red Rocks Amphitheatre",
+      "albumYear" : "2013",
+      "avgRating" : "9-30",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Eat the Elephant",
+      "albumYear" : "2018",
+      "avgRating" : "7-502",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Cinquanta",
+      "albumYear" : "2024",
+      "avgRating" : "",
+      "musicRating" : ""
+    } ],
+    "id" : "a-perfect-circle-mn0000479149"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Deftones",
-      "ArtistId" : "deftones-mn0000813946"
-    }, {
-      "artist" : "How to Destroy Angels",
-      "ArtistId" : "how-to-destroy-angels-mn0002459485"
-    }, {
-      "artist" : "Nine Inch Nails",
-      "ArtistId" : "nine-inch-nails-mn0000351733"
-    }, {
-      "artist" : "Tool",
-      "ArtistId" : "tool-mn0000790820"
-    }, {
-      "artist" : "AFI",
-      "ArtistId" : "afi-mn0000589630"
-    }, {
-      "artist" : "Ashes Divide",
-      "ArtistId" : "ashes-divide-mn0000560181"
-    }, {
-      "artist" : "Filter",
-      "ArtistId" : "filter-mn0000178122"
-    }, {
-      "artist" : "Stone Sour",
-      "ArtistId" : "stone-sour-mn0000626939"
-    }, {
-      "artist" : "Chevelle",
-      "ArtistId" : "chevelle-mn0000091549"
-    }, {
-      "artist" : "H.I.M.",
-      "ArtistId" : "him-mn0000577091"
-    }, {
-      "artist" : "Jimmy Chamberlin",
-      "ArtistId" : "jimmy-chamberlin-mn0000787688"
-    }, {
-      "artist" : "Killing Joke",
-      "ArtistId" : "killing-joke-mn0000081493"
-    }, {
-      "artist" : "Staind",
-      "ArtistId" : "staind-mn0000178799"
-    }, {
-      "artist" : "VAST",
-      "ArtistId" : "vast-mn0000313521"
-    }, {
-      "artist" : "10 Years",
-      "ArtistId" : "10-years-mn0000331323"
-    }, {
-      "artist" : "Davey Havoc",
-      "ArtistId" : "davey-havoc-mn0000527572"
-    }, {
-      "artist" : "Finger Eleven",
-      "ArtistId" : "finger-eleven-mn0000798587"
-    }, {
-      "artist" : "Incubus",
-      "ArtistId" : "incubus-mn0000772745"
-    }, {
-      "artist" : "Team Sleep",
-      "ArtistId" : "team-sleep-mn0000023832"
-    }, {
-      "artist" : "The Smashing Pumpkins",
-      "ArtistId" : "the-smashing-pumpkins-mn0000036521"
-    }, {
-      "artist" : "3",
-      "ArtistId" : "3-mn0001928175"
-    }, {
-      "artist" : "Amplifier",
-      "ArtistId" : "amplifier-mn0001891112"
-    }, {
-      "artist" : "Audioslave",
-      "ArtistId" : "audioslave-mn0000040743"
-    }, {
-      "artist" : "Billy Corgan",
-      "ArtistId" : "billy-corgan-mn0000070026"
-    }, {
-      "artist" : "Billy Howerdel",
-      "ArtistId" : "billy-howerdel-mn0000768019"
-    }, {
-      "artist" : "Emigrate",
-      "ArtistId" : "emigrate-mn0000725425"
-    }, {
-      "artist" : "Grey Daze",
-      "ArtistId" : "grey-daze-mn0000199389"
-    }, {
-      "artist" : "Jimmy Gnecco",
-      "ArtistId" : "jimmy-gnecco-mn0000129213"
-    }, {
-      "artist" : "Puscifer",
-      "ArtistId" : "puscifer-mn0000314056"
-    }, {
-      "artist" : "Venice May",
-      "ArtistId" : "venice-may-mn0003818983"
-    }, {
-      "artist" : "William Patrick Corgan",
-      "ArtistId" : "william-patrick-corgan-mn0003405670"
-    } ],
-    "influencers" : [ {
-      "artist" : "Jane's Addiction",
-      "ArtistId" : "janes-addiction-mn0000806829"
-    }, {
-      "artist" : "Alice in Chains",
-      "ArtistId" : "alice-in-chains-mn0000007920"
-    }, {
-      "artist" : "Black Sabbath",
-      "ArtistId" : "black-sabbath-mn0000771438"
-    }, {
-      "artist" : "Dream Theater",
-      "ArtistId" : "dream-theater-mn0000803544"
-    }, {
-      "artist" : "Guns N' Roses",
-      "ArtistId" : "guns-n-roses-mn0000540883"
-    }, {
-      "artist" : "Killing Joke",
-      "ArtistId" : "killing-joke-mn0000081493"
-    }, {
-      "artist" : "King Crimson",
-      "ArtistId" : "king-crimson-mn0000076057"
-    }, {
-      "artist" : "Led Zeppelin",
-      "ArtistId" : "led-zeppelin-mn0000139026"
-    }, {
-      "artist" : "Metallica",
-      "ArtistId" : "metallica-mn0000446509"
-    }, {
-      "artist" : "Nine Inch Nails",
-      "ArtistId" : "nine-inch-nails-mn0000351733"
-    }, {
-      "artist" : "Peter Gabriel",
-      "ArtistId" : "peter-gabriel-mn0000842802"
-    }, {
-      "artist" : "Pink Floyd",
-      "ArtistId" : "pink-floyd-mn0000346336"
-    }, {
-      "artist" : "The Cure",
-      "ArtistId" : "the-cure-mn0000137390"
-    }, {
-      "artist" : "The Smashing Pumpkins",
-      "ArtistId" : "the-smashing-pumpkins-mn0000036521"
-    } ],
-    "followers" : [ {
-      "artist" : "Death Trap City",
-      "ArtistId" : "death-trap-city-mn0003347214"
-    }, {
-      "artist" : "Red Sun Rising",
-      "ArtistId" : "red-sun-rising-mn0003408531"
-    }, {
-      "artist" : "Venice May",
-      "ArtistId" : "venice-may-mn0003818983"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Puscifer",
-      "ArtistId" : "puscifer-mn0000314056"
-    }, {
-      "artist" : "Tool",
-      "ArtistId" : "tool-mn0000790820"
-    }, {
-      "artist" : "Troy Van Leeuwen",
-      "ArtistId" : "troy-van-leeuwen-mn0000021930"
-    }, {
-      "artist" : "Nine Inch Nails",
-      "ArtistId" : "nine-inch-nails-mn0000351733"
-    }, {
-      "artist" : "Ashes Divide",
-      "ArtistId" : "ashes-divide-mn0000560181"
-    }, {
-      "artist" : "Daredevils",
-      "ArtistId" : "daredevils-mn0000572561"
-    }, {
-      "artist" : "Viva Death",
-      "ArtistId" : "viva-death-mn0000810729"
-    }, {
-      "artist" : "Zwan",
-      "ArtistId" : "zwan-mn0000813803"
-    } ]
+    "id" : "a-perfect-circle-mn0000479149",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "puscifer-mn0000314056",
+        "artist" : "Puscifer"
+      }, {
+        "ArtistId" : "tool-mn0000790820",
+        "artist" : "Tool"
+      }, {
+        "ArtistId" : "troy-van-leeuwen-mn0000021930",
+        "artist" : "Troy Van Leeuwen"
+      }, {
+        "ArtistId" : "nine-inch-nails-mn0000351733",
+        "artist" : "Nine Inch Nails"
+      }, {
+        "ArtistId" : "ashes-divide-mn0000560181",
+        "artist" : "Ashes Divide"
+      }, {
+        "ArtistId" : "daredevils-mn0000572561",
+        "artist" : "Daredevils"
+      }, {
+        "ArtistId" : "viva-death-mn0000810729",
+        "artist" : "Viva Death"
+      }, {
+        "ArtistId" : "zwan-mn0000813803",
+        "artist" : "Zwan"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "death-trap-city-mn0003347214",
+        "artist" : "Death Trap City"
+      }, {
+        "ArtistId" : "red-sun-rising-mn0003408531",
+        "artist" : "Red Sun Rising"
+      }, {
+        "ArtistId" : "venice-may-mn0003818983",
+        "artist" : "Venice May"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "janes-addiction-mn0000806829",
+        "artist" : "Jane's Addiction"
+      }, {
+        "ArtistId" : "alice-in-chains-mn0000007920",
+        "artist" : "Alice in Chains"
+      }, {
+        "ArtistId" : "black-sabbath-mn0000771438",
+        "artist" : "Black Sabbath"
+      }, {
+        "ArtistId" : "dream-theater-mn0000803544",
+        "artist" : "Dream Theater"
+      }, {
+        "ArtistId" : "guns-n-roses-mn0000540883",
+        "artist" : "Guns N' Roses"
+      }, {
+        "ArtistId" : "killing-joke-mn0000081493",
+        "artist" : "Killing Joke"
+      }, {
+        "ArtistId" : "king-crimson-mn0000076057",
+        "artist" : "King Crimson"
+      }, {
+        "ArtistId" : "led-zeppelin-mn0000139026",
+        "artist" : "Led Zeppelin"
+      }, {
+        "ArtistId" : "metallica-mn0000446509",
+        "artist" : "Metallica"
+      }, {
+        "ArtistId" : "nine-inch-nails-mn0000351733",
+        "artist" : "Nine Inch Nails"
+      }, {
+        "ArtistId" : "peter-gabriel-mn0000842802",
+        "artist" : "Peter Gabriel"
+      }, {
+        "ArtistId" : "pink-floyd-mn0000346336",
+        "artist" : "Pink Floyd"
+      }, {
+        "ArtistId" : "the-cure-mn0000137390",
+        "artist" : "The Cure"
+      }, {
+        "ArtistId" : "the-smashing-pumpkins-mn0000036521",
+        "artist" : "The Smashing Pumpkins"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "deftones-mn0000813946",
+        "artist" : "Deftones"
+      }, {
+        "ArtistId" : "how-to-destroy-angels-mn0002459485",
+        "artist" : "How to Destroy Angels"
+      }, {
+        "ArtistId" : "nine-inch-nails-mn0000351733",
+        "artist" : "Nine Inch Nails"
+      }, {
+        "ArtistId" : "tool-mn0000790820",
+        "artist" : "Tool"
+      }, {
+        "ArtistId" : "afi-mn0000589630",
+        "artist" : "AFI"
+      }, {
+        "ArtistId" : "ashes-divide-mn0000560181",
+        "artist" : "Ashes Divide"
+      }, {
+        "ArtistId" : "filter-mn0000178122",
+        "artist" : "Filter"
+      }, {
+        "ArtistId" : "stone-sour-mn0000626939",
+        "artist" : "Stone Sour"
+      }, {
+        "ArtistId" : "chevelle-mn0000091549",
+        "artist" : "Chevelle"
+      }, {
+        "ArtistId" : "him-mn0000577091",
+        "artist" : "H.I.M."
+      }, {
+        "ArtistId" : "jimmy-chamberlin-mn0000787688",
+        "artist" : "Jimmy Chamberlin"
+      }, {
+        "ArtistId" : "killing-joke-mn0000081493",
+        "artist" : "Killing Joke"
+      }, {
+        "ArtistId" : "staind-mn0000178799",
+        "artist" : "Staind"
+      }, {
+        "ArtistId" : "vast-mn0000313521",
+        "artist" : "VAST"
+      }, {
+        "ArtistId" : "10-years-mn0000331323",
+        "artist" : "10 Years"
+      }, {
+        "ArtistId" : "davey-havoc-mn0000527572",
+        "artist" : "Davey Havoc"
+      }, {
+        "ArtistId" : "finger-eleven-mn0000798587",
+        "artist" : "Finger Eleven"
+      }, {
+        "ArtistId" : "incubus-mn0000772745",
+        "artist" : "Incubus"
+      }, {
+        "ArtistId" : "team-sleep-mn0000023832",
+        "artist" : "Team Sleep"
+      }, {
+        "ArtistId" : "the-smashing-pumpkins-mn0000036521",
+        "artist" : "The Smashing Pumpkins"
+      }, {
+        "ArtistId" : "3-mn0001928175",
+        "artist" : "3"
+      }, {
+        "ArtistId" : "amplifier-mn0001891112",
+        "artist" : "Amplifier"
+      }, {
+        "ArtistId" : "audioslave-mn0000040743",
+        "artist" : "Audioslave"
+      }, {
+        "ArtistId" : "billy-corgan-mn0000070026",
+        "artist" : "Billy Corgan"
+      }, {
+        "ArtistId" : "billy-howerdel-mn0000768019",
+        "artist" : "Billy Howerdel"
+      }, {
+        "ArtistId" : "emigrate-mn0000725425",
+        "artist" : "Emigrate"
+      }, {
+        "ArtistId" : "grey-daze-mn0000199389",
+        "artist" : "Grey Daze"
+      }, {
+        "ArtistId" : "jimmy-gnecco-mn0000129213",
+        "artist" : "Jimmy Gnecco"
+      }, {
+        "ArtistId" : "puscifer-mn0000314056",
+        "artist" : "Puscifer"
+      }, {
+        "ArtistId" : "venice-may-mn0003818983",
+        "artist" : "Venice May"
+      }, {
+        "ArtistId" : "william-patrick-corgan-mn0003405670",
+        "artist" : "William Patrick Corgan"
+      } ]
+    }
   }
 }

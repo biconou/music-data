@@ -1,9 +1,9 @@
 {
-  "id" : "nuclear-assault-mn0000461391",
-  "name" : "Nuclear Assault",
   "activeDates" : "1980s - 2010s",
   "birthDate" : "1984",
   "birthPlace" : "",
+  "id" : "nuclear-assault-mn0000461391",
+  "name" : "Nuclear Assault",
   "styles" : [ {
     "name" : "Death Metal",
     "url" : "https://www.allmusic.com/style/death-metal-ma0000002547"
@@ -16,234 +16,240 @@
   } ],
   "decades" : "1980s - 2010s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "1987",
-    "albumTitle" : "Game Over",
-    "musicRating" : "4",
-    "avgRating" : "8-68"
-  }, {
-    "albumYear" : "1988",
-    "albumTitle" : "Survive",
-    "musicRating" : "5",
-    "avgRating" : "8-55"
-  }, {
-    "albumYear" : "1989",
-    "albumTitle" : "Handle with Care",
-    "musicRating" : "8",
-    "avgRating" : "9-99"
-  }, {
-    "albumYear" : "1991",
-    "albumTitle" : "Out of Order",
-    "musicRating" : "2",
-    "avgRating" : "5-15"
-  }, {
-    "albumYear" : "1992",
-    "albumTitle" : "Live at Hammersmith Odeon",
-    "musicRating" : "3",
-    "avgRating" : "5-5"
-  }, {
-    "albumYear" : "1993",
-    "albumTitle" : "Something Wicked",
-    "musicRating" : "3",
-    "avgRating" : "6-20"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "Alive Again",
-    "musicRating" : "3",
-    "avgRating" : "6-5"
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Third World Genocide",
-    "musicRating" : "6",
-    "avgRating" : "7-18"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Live at CBGB's",
-    "musicRating" : "",
-    "avgRating" : "8-2"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Atomic Waste: Rehearsals",
-    "musicRating" : "",
-    "avgRating" : "5-2"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Atomic Waste: Demos & Rehearsals",
-    "musicRating" : "",
-    "avgRating" : "5-2"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Game Over",
+      "albumYear" : "1987",
+      "avgRating" : "8-68",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Survive",
+      "albumYear" : "1988",
+      "avgRating" : "8-55",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Handle with Care",
+      "albumYear" : "1989",
+      "avgRating" : "9-99",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Out of Order",
+      "albumYear" : "1991",
+      "avgRating" : "5-17",
+      "musicRating" : "2"
+    }, {
+      "albumTitle" : "Live at Hammersmith Odeon",
+      "albumYear" : "1992",
+      "avgRating" : "5-5",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Something Wicked",
+      "albumYear" : "1993",
+      "avgRating" : "6-20",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Alive Again",
+      "albumYear" : "2003",
+      "avgRating" : "6-5",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Third World Genocide",
+      "albumYear" : "2005",
+      "avgRating" : "7-18",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Live at CBGB's",
+      "albumYear" : "",
+      "avgRating" : "8-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Atomic Waste: Rehearsals",
+      "albumYear" : "",
+      "avgRating" : "5-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Atomic Waste: Demos & Rehearsals",
+      "albumYear" : "",
+      "avgRating" : "5-2",
+      "musicRating" : ""
+    } ],
+    "id" : "nuclear-assault-mn0000461391"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Anthrax",
-      "ArtistId" : "anthrax-mn0000490952"
-    }, {
-      "artist" : "Ludichrist",
-      "ArtistId" : "ludichrist-mn0000256572"
-    }, {
-      "artist" : "SOD",
-      "ArtistId" : "sod-mn0001268783"
-    }, {
-      "artist" : "Sore Throat",
-      "ArtistId" : "sore-throat-mn0000040852"
-    }, {
-      "artist" : "Anacrusis",
-      "ArtistId" : "anacrusis-mn0000750092"
-    }, {
-      "artist" : "Artillery",
-      "ArtistId" : "artillery-mn0000605605"
-    }, {
-      "artist" : "Autopsy",
-      "ArtistId" : "autopsy-mn0000061937"
-    }, {
-      "artist" : "Bathory",
-      "ArtistId" : "bathory-mn0000151787"
-    }, {
-      "artist" : "Blood",
-      "ArtistId" : "blood-mn0000044321"
-    }, {
-      "artist" : "Blood Feast",
-      "ArtistId" : "blood-feast-mn0000055560"
-    }, {
-      "artist" : "Chronical Diarrhoea",
-      "ArtistId" : "chronical-diarrhoea-mn0001005735"
-    }, {
-      "artist" : "Coroner",
-      "ArtistId" : "coroner-mn0000122138"
-    }, {
-      "artist" : "Corrosion of Conformity",
-      "ArtistId" : "corrosion-of-conformity-mn0000105422"
-    }, {
-      "artist" : "Cryptic Slaughter",
-      "ArtistId" : "cryptic-slaughter-mn0000111323"
-    }, {
-      "artist" : "Heathen",
-      "ArtistId" : "heathen-mn0000951336"
-    }, {
-      "artist" : "Immolation",
-      "ArtistId" : "immolation-mn0000096617"
-    }, {
-      "artist" : "Jerry's Kids",
-      "ArtistId" : "jerrys-kids-mn0000340238"
-    }, {
-      "artist" : "Kreator",
-      "ArtistId" : "kreator-mn0000103324"
-    }, {
-      "artist" : "Megadeth",
-      "ArtistId" : "megadeth-mn0000406294"
-    }, {
-      "artist" : "Nausea",
-      "ArtistId" : "nausea-mn0000318559"
-    }, {
-      "artist" : "Possessed",
-      "ArtistId" : "possessed-mn0000299429"
-    }, {
-      "artist" : "The Free for All",
-      "ArtistId" : "the-free-for-all-mn0001174771"
-    }, {
-      "artist" : "Acid Reign",
-      "ArtistId" : "acid-reign-mn0001405019"
-    }, {
-      "artist" : "Annihilator",
-      "ArtistId" : "annihilator-mn0000588450"
-    }, {
-      "artist" : "Aversion",
-      "ArtistId" : "aversion-mn0000064841"
-    }, {
-      "artist" : "Civilised Society?",
-      "ArtistId" : "civilised-society--mn0001542337"
-    }, {
-      "artist" : "D.B.C.",
-      "ArtistId" : "dbc-mn0000945495"
-    }, {
-      "artist" : "D.R.I.",
-      "ArtistId" : "dri-mn0000786360"
-    }, {
-      "artist" : "Evildead",
-      "ArtistId" : "evildead-mn0000789779"
-    }, {
-      "artist" : "Evol",
-      "ArtistId" : "evol-mn0001856555"
-    }, {
-      "artist" : "Excel",
-      "ArtistId" : "excel-mn0000132617"
-    }, {
-      "artist" : "Flotsam and Jetsam",
-      "ArtistId" : "flotsam-and-jetsam-mn0000179522"
-    }, {
-      "artist" : "Gothic Slam",
-      "ArtistId" : "gothic-slam-mn0000197263"
-    }, {
-      "artist" : "Harter Attack",
-      "ArtistId" : "harter-attack-mn0000665511"
-    }, {
-      "artist" : "Hirax",
-      "ArtistId" : "hirax-mn0000681354"
-    }, {
-      "artist" : "Indestroy",
-      "ArtistId" : "indestroy-mn0001459013"
-    }, {
-      "artist" : "Lunatics Without Skateboards",
-      "ArtistId" : "lunatics-without-skateboards-mn0002004798"
-    }, {
-      "artist" : "Midas Touch",
-      "ArtistId" : "midas-touch-mn0000891703"
-    }, {
-      "artist" : "Napalm",
-      "ArtistId" : "napalm-mn0000858620"
-    }, {
-      "artist" : "No Mercy",
-      "ArtistId" : "no-mercy-mn0002294765"
-    }, {
-      "artist" : "Not Us",
-      "ArtistId" : "not-us-mn0001979811"
-    }, {
-      "artist" : "Onslaught",
-      "ArtistId" : "onslaught-mn0000888979"
-    }, {
-      "artist" : "Overkill",
-      "ArtistId" : "overkill-mn0000420504"
-    }, {
-      "artist" : "Rigor Mortis",
-      "ArtistId" : "rigor-mortis-mn0000213410"
-    }, {
-      "artist" : "Sacrifice",
-      "ArtistId" : "sacrifice-mn0000233558"
-    }, {
-      "artist" : "Suicidal Tendencies",
-      "ArtistId" : "suicidal-tendencies-mn0000579839"
-    }, {
-      "artist" : "Testament",
-      "ArtistId" : "testament-mn0000751910"
-    }, {
-      "artist" : "Vio-Lence",
-      "ArtistId" : "vio-lence-mn0000810872"
-    }, {
-      "artist" : "Voivod",
-      "ArtistId" : "voivod-mn0000186096"
-    }, {
-      "artist" : "Xyster",
-      "ArtistId" : "xyster-mn0002411978"
-    } ],
-    "influencers" : [ {
-      "artist" : "Fear",
-      "ArtistId" : "fear-mn0000792925"
-    }, {
-      "artist" : "Judas Priest",
-      "ArtistId" : "judas-priest-mn0000246611"
-    }, {
-      "artist" : "Led Zeppelin",
-      "ArtistId" : "led-zeppelin-mn0000139026"
-    }, {
-      "artist" : "Ramones",
-      "ArtistId" : "ramones-mn0000490004"
-    } ],
-    "followers" : [ ],
-    "associatedwith" : [ {
-      "artist" : "Brutal Truth",
-      "ArtistId" : "brutal-truth-mn0000531626"
-    }, {
-      "artist" : "Stormtroopers of Death",
-      "ArtistId" : "stormtroopers-of-death-mn0001176358"
-    } ]
+    "id" : "nuclear-assault-mn0000461391",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "brutal-truth-mn0000531626",
+        "artist" : "Brutal Truth"
+      }, {
+        "ArtistId" : "stormtroopers-of-death-mn0001176358",
+        "artist" : "Stormtroopers of Death"
+      } ],
+      "followers" : [ ],
+      "influencers" : [ {
+        "ArtistId" : "fear-mn0000792925",
+        "artist" : "Fear"
+      }, {
+        "ArtistId" : "judas-priest-mn0000246611",
+        "artist" : "Judas Priest"
+      }, {
+        "ArtistId" : "led-zeppelin-mn0000139026",
+        "artist" : "Led Zeppelin"
+      }, {
+        "ArtistId" : "ramones-mn0000490004",
+        "artist" : "Ramones"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "anthrax-mn0000490952",
+        "artist" : "Anthrax"
+      }, {
+        "ArtistId" : "ludichrist-mn0000256572",
+        "artist" : "Ludichrist"
+      }, {
+        "ArtistId" : "sod-mn0001268783",
+        "artist" : "SOD"
+      }, {
+        "ArtistId" : "sore-throat-mn0000040852",
+        "artist" : "Sore Throat"
+      }, {
+        "ArtistId" : "anacrusis-mn0000750092",
+        "artist" : "Anacrusis"
+      }, {
+        "ArtistId" : "artillery-mn0000605605",
+        "artist" : "Artillery"
+      }, {
+        "ArtistId" : "autopsy-mn0000061937",
+        "artist" : "Autopsy"
+      }, {
+        "ArtistId" : "bathory-mn0000151787",
+        "artist" : "Bathory"
+      }, {
+        "ArtistId" : "blood-mn0000044321",
+        "artist" : "Blood"
+      }, {
+        "ArtistId" : "blood-feast-mn0000055560",
+        "artist" : "Blood Feast"
+      }, {
+        "ArtistId" : "chronical-diarrhoea-mn0001005735",
+        "artist" : "Chronical Diarrhoea"
+      }, {
+        "ArtistId" : "coroner-mn0000122138",
+        "artist" : "Coroner"
+      }, {
+        "ArtistId" : "corrosion-of-conformity-mn0000105422",
+        "artist" : "Corrosion of Conformity"
+      }, {
+        "ArtistId" : "cryptic-slaughter-mn0000111323",
+        "artist" : "Cryptic Slaughter"
+      }, {
+        "ArtistId" : "heathen-mn0000951336",
+        "artist" : "Heathen"
+      }, {
+        "ArtistId" : "immolation-mn0000096617",
+        "artist" : "Immolation"
+      }, {
+        "ArtistId" : "jerrys-kids-mn0000340238",
+        "artist" : "Jerry's Kids"
+      }, {
+        "ArtistId" : "kreator-mn0000103324",
+        "artist" : "Kreator"
+      }, {
+        "ArtistId" : "megadeth-mn0000406294",
+        "artist" : "Megadeth"
+      }, {
+        "ArtistId" : "nausea-mn0000318559",
+        "artist" : "Nausea"
+      }, {
+        "ArtistId" : "possessed-mn0000299429",
+        "artist" : "Possessed"
+      }, {
+        "ArtistId" : "the-free-for-all-mn0001174771",
+        "artist" : "The Free for All"
+      }, {
+        "ArtistId" : "acid-reign-mn0001405019",
+        "artist" : "Acid Reign"
+      }, {
+        "ArtistId" : "annihilator-mn0000588450",
+        "artist" : "Annihilator"
+      }, {
+        "ArtistId" : "aversion-mn0000064841",
+        "artist" : "Aversion"
+      }, {
+        "ArtistId" : "civilised-society--mn0001542337",
+        "artist" : "Civilised Society?"
+      }, {
+        "ArtistId" : "dbc-mn0000945495",
+        "artist" : "D.B.C."
+      }, {
+        "ArtistId" : "dri-mn0000786360",
+        "artist" : "D.R.I."
+      }, {
+        "ArtistId" : "evildead-mn0000789779",
+        "artist" : "Evildead"
+      }, {
+        "ArtistId" : "evol-mn0001856555",
+        "artist" : "Evol"
+      }, {
+        "ArtistId" : "excel-mn0000132617",
+        "artist" : "Excel"
+      }, {
+        "ArtistId" : "flotsam-and-jetsam-mn0000179522",
+        "artist" : "Flotsam and Jetsam"
+      }, {
+        "ArtistId" : "gothic-slam-mn0000197263",
+        "artist" : "Gothic Slam"
+      }, {
+        "ArtistId" : "harter-attack-mn0000665511",
+        "artist" : "Harter Attack"
+      }, {
+        "ArtistId" : "hirax-mn0000681354",
+        "artist" : "Hirax"
+      }, {
+        "ArtistId" : "indestroy-mn0001459013",
+        "artist" : "Indestroy"
+      }, {
+        "ArtistId" : "lunatics-without-skateboards-mn0002004798",
+        "artist" : "Lunatics Without Skateboards"
+      }, {
+        "ArtistId" : "midas-touch-mn0000891703",
+        "artist" : "Midas Touch"
+      }, {
+        "ArtistId" : "napalm-mn0000858620",
+        "artist" : "Napalm"
+      }, {
+        "ArtistId" : "no-mercy-mn0002294765",
+        "artist" : "No Mercy"
+      }, {
+        "ArtistId" : "not-us-mn0001979811",
+        "artist" : "Not Us"
+      }, {
+        "ArtistId" : "onslaught-mn0000888979",
+        "artist" : "Onslaught"
+      }, {
+        "ArtistId" : "overkill-mn0000420504",
+        "artist" : "Overkill"
+      }, {
+        "ArtistId" : "rigor-mortis-mn0000213410",
+        "artist" : "Rigor Mortis"
+      }, {
+        "ArtistId" : "sacrifice-mn0000233558",
+        "artist" : "Sacrifice"
+      }, {
+        "ArtistId" : "suicidal-tendencies-mn0000579839",
+        "artist" : "Suicidal Tendencies"
+      }, {
+        "ArtistId" : "testament-mn0000751910",
+        "artist" : "Testament"
+      }, {
+        "ArtistId" : "vio-lence-mn0000810872",
+        "artist" : "Vio-Lence"
+      }, {
+        "ArtistId" : "voivod-mn0000186096",
+        "artist" : "Voivod"
+      }, {
+        "ArtistId" : "xyster-mn0002411978",
+        "artist" : "Xyster"
+      } ]
+    }
   }
 }

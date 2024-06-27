@@ -1,9 +1,9 @@
 {
-  "id" : "afrique-mn0001574246",
-  "name" : "Afrique",
   "activeDates" : "1970s",
   "birthDate" : "",
   "birthPlace" : "",
+  "id" : "afrique-mn0001574246",
+  "name" : "Afrique",
   "styles" : [ {
     "name" : "Funk",
     "url" : "https://www.allmusic.com/style/funk-ma0000002606"
@@ -16,36 +16,42 @@
   } ],
   "decades" : "1970s",
   "genres" : "R&B, Latin",
-  "discography" : [ {
-    "albumYear" : "1973",
-    "albumTitle" : "Soul Makossa",
-    "musicRating" : "8",
-    "avgRating" : "9-12"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Radio Afrique",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Festival du Desert",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Azonto Fever",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Afrique Heritage, Vol. 1",
-    "musicRating" : "",
-    "avgRating" : ""
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Soul Makossa",
+      "albumYear" : "1973",
+      "avgRating" : "9-12",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Radio Afrique",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Festival du Desert",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Azonto Fever",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Afrique Heritage, Vol. 1",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    } ],
+    "id" : "afrique-mn0001574246"
+  },
   "related" : {
-    "similars" : [ ],
-    "influencers" : [ ],
-    "followers" : [ ],
-    "associatedwith" : [ ]
+    "id" : "afrique-mn0001574246",
+    "related" : {
+      "associatedwith" : [ ],
+      "followers" : [ ],
+      "influencers" : [ ],
+      "similars" : [ ]
+    }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "id" : "a-place-to-bury-strangers-mn0000732870",
-  "name" : "A Place to Bury Strangers",
   "activeDates" : "2000s - 2020s",
   "birthDate" : "2002",
   "birthPlace" : "Brooklyn, NY",
+  "id" : "a-place-to-bury-strangers-mn0000732870",
+  "name" : "A Place to Bury Strangers",
   "styles" : [ {
     "name" : "Alternative/Indie Rock",
     "url" : "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
@@ -25,247 +25,253 @@
   } ],
   "decades" : "2000s - 2020s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "2007",
-    "albumTitle" : "A Place to Bury Strangers",
-    "musicRating" : "7",
-    "avgRating" : "9-216"
-  }, {
-    "albumYear" : "2009",
-    "albumTitle" : "Exploding Head",
-    "musicRating" : "7",
-    "avgRating" : "9-201"
-  }, {
-    "albumYear" : "2012",
-    "albumTitle" : "Worship",
-    "musicRating" : "7",
-    "avgRating" : "8-174"
-  }, {
-    "albumYear" : "2015",
-    "albumTitle" : "Transfixiation",
-    "musicRating" : "7",
-    "avgRating" : "8-113"
-  }, {
-    "albumYear" : "2018",
-    "albumTitle" : "Pinned",
-    "musicRating" : "7",
-    "avgRating" : "8-133"
-  }, {
-    "albumYear" : "2022",
-    "albumTitle" : "See Through You",
-    "musicRating" : "8",
-    "avgRating" : "7-86"
-  }, {
-    "albumYear" : "2023",
-    "albumTitle" : "Live at Levitation",
-    "musicRating" : "",
-    "avgRating" : "10-1"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "A Place to Bury Strangers",
+      "albumYear" : "2007",
+      "avgRating" : "9-216",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Exploding Head",
+      "albumYear" : "2009",
+      "avgRating" : "9-203",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Worship",
+      "albumYear" : "2012",
+      "avgRating" : "8-175",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Transfixiation",
+      "albumYear" : "2015",
+      "avgRating" : "8-115",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Pinned",
+      "albumYear" : "2018",
+      "avgRating" : "8-134",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "See Through You",
+      "albumYear" : "2022",
+      "avgRating" : "7-87",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Live at Levitation",
+      "albumYear" : "2023",
+      "avgRating" : "10-1",
+      "musicRating" : ""
+    } ],
+    "id" : "a-place-to-bury-strangers-mn0000732870"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Black Rebel Motorcycle Club",
-      "ArtistId" : "black-rebel-motorcycle-club-mn0000771388"
-    }, {
-      "artist" : "Serena Maneesh",
-      "ArtistId" : "serena-maneesh-mn0000923675"
-    }, {
-      "artist" : "Static Daydream",
-      "ArtistId" : "static-daydream-mn0003359573"
-    }, {
-      "artist" : "The Raveonettes",
-      "ArtistId" : "the-raveonettes-mn0000416537"
-    }, {
-      "artist" : "Asobi Seksu",
-      "ArtistId" : "asobi-seksu-mn0000129070"
-    }, {
-      "artist" : "Autolux",
-      "ArtistId" : "autolux-mn0000814398"
-    }, {
-      "artist" : "Crystal Stilts",
-      "ArtistId" : "crystal-stilts-mn0001014272"
-    }, {
-      "artist" : "Film School",
-      "ArtistId" : "film-school-mn0000283289"
-    }, {
-      "artist" : "The Black Ryder",
-      "ArtistId" : "the-black-ryder-mn0002355652"
-    }, {
-      "artist" : "The Horrors",
-      "ArtistId" : "the-horrors-mn0000766444"
-    }, {
-      "artist" : "The Jesus and Mary Chain",
-      "ArtistId" : "the-jesus-and-mary-chain-mn0000343930"
-    }, {
-      "artist" : "The KVB",
-      "ArtistId" : "the-kvb-mn0002898269"
-    }, {
-      "artist" : "The Megaphonic Thrift",
-      "ArtistId" : "the-megaphonic-thrift-mn0002420550"
-    }, {
-      "artist" : "TOY",
-      "ArtistId" : "toy-mn0002909784"
-    }, {
-      "artist" : "Autodrone",
-      "ArtistId" : "autodrone-mn0001941921"
-    }, {
-      "artist" : "Bambara",
-      "ArtistId" : "bambara-mn0001073082"
-    }, {
-      "artist" : "Cold Showers",
-      "ArtistId" : "cold-showers-mn0002703605"
-    }, {
-      "artist" : "DIIV",
-      "ArtistId" : "diiv-mn0002827271"
-    }, {
-      "artist" : "Disappears",
-      "ArtistId" : "disappears-mn0002362703"
-    }, {
-      "artist" : "Facs",
-      "ArtistId" : "facs-mn0003718618"
-    }, {
-      "artist" : "Pia Fraus",
-      "ArtistId" : "pia-fraus-mn0000495388"
-    }, {
-      "artist" : "Preoccupations",
-      "ArtistId" : "preoccupations-mn0003514608"
-    }, {
-      "artist" : "S.C.U.M",
-      "ArtistId" : "scum-mn0002655507"
-    }, {
-      "artist" : "Soundpool",
-      "ArtistId" : "soundpool-mn0001007875"
-    }, {
-      "artist" : "The Brother Kite",
-      "ArtistId" : "the-brother-kite-mn0000979434"
-    }, {
-      "artist" : "The December Sound",
-      "ArtistId" : "the-december-sound-mn0001914300"
-    }, {
-      "artist" : "The Fauns",
-      "ArtistId" : "the-fauns-mn0001638391"
-    }, {
-      "artist" : "The Lassie Foundation",
-      "ArtistId" : "the-lassie-foundation-mn0000074574"
-    }, {
-      "artist" : "The Soft Moon",
-      "ArtistId" : "the-soft-moon-mn0002429445"
-    }, {
-      "artist" : "The Warlocks",
-      "ArtistId" : "the-warlocks-mn0000582173"
-    }, {
-      "artist" : "True Widow",
-      "ArtistId" : "true-widow-mn0001017784"
-    }, {
-      "artist" : "Weekend",
-      "ArtistId" : "weekend-mn0002536246"
-    }, {
-      "artist" : "Ambulance LTD",
-      "ArtistId" : "ambulance-ltd-mn0000019572"
-    }, {
-      "artist" : "Black Marble",
-      "ArtistId" : "black-marble-mn0002847069"
-    }, {
-      "artist" : "Ceremony",
-      "ArtistId" : "ceremony-mn0002012194"
-    }, {
-      "artist" : "Clinic",
-      "ArtistId" : "clinic-mn0000161487"
-    }, {
-      "artist" : "Coco B's",
-      "ArtistId" : "coco-bs-mn0000792782"
-    }, {
-      "artist" : "Dasher",
-      "ArtistId" : "dasher-mn0001072621"
-    }, {
-      "artist" : "Dykehouse",
-      "ArtistId" : "dykehouse-mn0000159614"
-    }, {
-      "artist" : "Grave Babies",
-      "ArtistId" : "grave-babies-mn0002395088"
-    }, {
-      "artist" : "Mint Julep",
-      "ArtistId" : "mint-julep-mn0002676080"
-    }, {
-      "artist" : "Nite Fields",
-      "ArtistId" : "nite-fields-mn0003343042"
-    }, {
-      "artist" : "Odonis Odonis",
-      "ArtistId" : "odonis-odonis-mn0002725182"
-    }, {
-      "artist" : "Ringo Deathstarr",
-      "ArtistId" : "ringo-deathstarr-mn0001998828"
-    }, {
-      "artist" : "The Brian Jonestown Massacre",
-      "ArtistId" : "the-brian-jonestown-massacre-mn0000614455"
-    }, {
-      "artist" : "The Men",
-      "ArtistId" : "the-men-mn0002678348"
-    }, {
-      "artist" : "Fews",
-      "ArtistId" : "fews-mn0003400526"
-    }, {
-      "artist" : "Gypsy Death and You",
-      "ArtistId" : "gypsy-death-and-you-mn0002613658"
-    }, {
-      "artist" : "Lower Heaven",
-      "ArtistId" : "lower-heaven-mn0002640665"
-    }, {
-      "artist" : "Moaning",
-      "ArtistId" : "moaning-mn0003705192"
-    }, {
-      "artist" : "Overlake",
-      "ArtistId" : "overlake-mn0003229147"
-    }, {
-      "artist" : "Sextile",
-      "ArtistId" : "sextile-mn0003407040"
-    }, {
-      "artist" : "TV Priest",
-      "ArtistId" : "tv-priest-mn0003967748"
-    }, {
-      "artist" : "We Need Secrets",
-      "ArtistId" : "we-need-secrets-mn0003175972"
-    }, {
-      "artist" : "Index for Working Musik",
-      "ArtistId" : "index-for-working-musik-mn0004342108"
-    } ],
-    "influencers" : [ {
-      "artist" : "Suicide",
-      "ArtistId" : "suicide-mn0000487186"
-    }, {
-      "artist" : "The Jesus and Mary Chain",
-      "ArtistId" : "the-jesus-and-mary-chain-mn0000343930"
-    }, {
-      "artist" : "My Bloody Valentine",
-      "ArtistId" : "my-bloody-valentine-mn0000937003"
-    }, {
-      "artist" : "Black Rebel Motorcycle Club",
-      "ArtistId" : "black-rebel-motorcycle-club-mn0000771388"
-    }, {
-      "artist" : "Gong",
-      "ArtistId" : "gong-mn0000949619"
-    }, {
-      "artist" : "Hawkwind",
-      "ArtistId" : "hawkwind-mn0000672011"
-    }, {
-      "artist" : "Neu!",
-      "ArtistId" : "neu%21-mn0000387815"
-    }, {
-      "artist" : "Radiohead",
-      "ArtistId" : "radiohead-mn0000326249"
-    }, {
-      "artist" : "Spacemen 3",
-      "ArtistId" : "spacemen-3-mn0000005251"
-    }, {
-      "artist" : "The Brian Jonestown Massacre",
-      "ArtistId" : "the-brian-jonestown-massacre-mn0000614455"
-    }, {
-      "artist" : "The Flaming Lips",
-      "ArtistId" : "the-flaming-lips-mn0000065590"
-    } ],
-    "followers" : [ ],
-    "associatedwith" : [ {
-      "artist" : "Skywave",
-      "ArtistId" : "skywave-mn0001864351"
-    } ]
+    "id" : "a-place-to-bury-strangers-mn0000732870",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "skywave-mn0001864351",
+        "artist" : "Skywave"
+      } ],
+      "followers" : [ ],
+      "influencers" : [ {
+        "ArtistId" : "suicide-mn0000487186",
+        "artist" : "Suicide"
+      }, {
+        "ArtistId" : "the-jesus-and-mary-chain-mn0000343930",
+        "artist" : "The Jesus and Mary Chain"
+      }, {
+        "ArtistId" : "my-bloody-valentine-mn0000937003",
+        "artist" : "My Bloody Valentine"
+      }, {
+        "ArtistId" : "black-rebel-motorcycle-club-mn0000771388",
+        "artist" : "Black Rebel Motorcycle Club"
+      }, {
+        "ArtistId" : "gong-mn0000949619",
+        "artist" : "Gong"
+      }, {
+        "ArtistId" : "hawkwind-mn0000672011",
+        "artist" : "Hawkwind"
+      }, {
+        "ArtistId" : "neu%21-mn0000387815",
+        "artist" : "Neu!"
+      }, {
+        "ArtistId" : "radiohead-mn0000326249",
+        "artist" : "Radiohead"
+      }, {
+        "ArtistId" : "spacemen-3-mn0000005251",
+        "artist" : "Spacemen 3"
+      }, {
+        "ArtistId" : "the-brian-jonestown-massacre-mn0000614455",
+        "artist" : "The Brian Jonestown Massacre"
+      }, {
+        "ArtistId" : "the-flaming-lips-mn0000065590",
+        "artist" : "The Flaming Lips"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "black-rebel-motorcycle-club-mn0000771388",
+        "artist" : "Black Rebel Motorcycle Club"
+      }, {
+        "ArtistId" : "serena-maneesh-mn0000923675",
+        "artist" : "Serena Maneesh"
+      }, {
+        "ArtistId" : "static-daydream-mn0003359573",
+        "artist" : "Static Daydream"
+      }, {
+        "ArtistId" : "the-raveonettes-mn0000416537",
+        "artist" : "The Raveonettes"
+      }, {
+        "ArtistId" : "asobi-seksu-mn0000129070",
+        "artist" : "Asobi Seksu"
+      }, {
+        "ArtistId" : "autolux-mn0000814398",
+        "artist" : "Autolux"
+      }, {
+        "ArtistId" : "crystal-stilts-mn0001014272",
+        "artist" : "Crystal Stilts"
+      }, {
+        "ArtistId" : "film-school-mn0000283289",
+        "artist" : "Film School"
+      }, {
+        "ArtistId" : "the-black-ryder-mn0002355652",
+        "artist" : "The Black Ryder"
+      }, {
+        "ArtistId" : "the-horrors-mn0000766444",
+        "artist" : "The Horrors"
+      }, {
+        "ArtistId" : "the-jesus-and-mary-chain-mn0000343930",
+        "artist" : "The Jesus and Mary Chain"
+      }, {
+        "ArtistId" : "the-kvb-mn0002898269",
+        "artist" : "The KVB"
+      }, {
+        "ArtistId" : "the-megaphonic-thrift-mn0002420550",
+        "artist" : "The Megaphonic Thrift"
+      }, {
+        "ArtistId" : "toy-mn0002909784",
+        "artist" : "TOY"
+      }, {
+        "ArtistId" : "autodrone-mn0001941921",
+        "artist" : "Autodrone"
+      }, {
+        "ArtistId" : "bambara-mn0001073082",
+        "artist" : "Bambara"
+      }, {
+        "ArtistId" : "cold-showers-mn0002703605",
+        "artist" : "Cold Showers"
+      }, {
+        "ArtistId" : "diiv-mn0002827271",
+        "artist" : "DIIV"
+      }, {
+        "ArtistId" : "disappears-mn0002362703",
+        "artist" : "Disappears"
+      }, {
+        "ArtistId" : "facs-mn0003718618",
+        "artist" : "Facs"
+      }, {
+        "ArtistId" : "pia-fraus-mn0000495388",
+        "artist" : "Pia Fraus"
+      }, {
+        "ArtistId" : "preoccupations-mn0003514608",
+        "artist" : "Preoccupations"
+      }, {
+        "ArtistId" : "scum-mn0002655507",
+        "artist" : "S.C.U.M"
+      }, {
+        "ArtistId" : "soundpool-mn0001007875",
+        "artist" : "Soundpool"
+      }, {
+        "ArtistId" : "the-brother-kite-mn0000979434",
+        "artist" : "The Brother Kite"
+      }, {
+        "ArtistId" : "the-december-sound-mn0001914300",
+        "artist" : "The December Sound"
+      }, {
+        "ArtistId" : "the-fauns-mn0001638391",
+        "artist" : "The Fauns"
+      }, {
+        "ArtistId" : "the-lassie-foundation-mn0000074574",
+        "artist" : "The Lassie Foundation"
+      }, {
+        "ArtistId" : "the-soft-moon-mn0002429445",
+        "artist" : "The Soft Moon"
+      }, {
+        "ArtistId" : "the-warlocks-mn0000582173",
+        "artist" : "The Warlocks"
+      }, {
+        "ArtistId" : "true-widow-mn0001017784",
+        "artist" : "True Widow"
+      }, {
+        "ArtistId" : "weekend-mn0002536246",
+        "artist" : "Weekend"
+      }, {
+        "ArtistId" : "ambulance-ltd-mn0000019572",
+        "artist" : "Ambulance LTD"
+      }, {
+        "ArtistId" : "black-marble-mn0002847069",
+        "artist" : "Black Marble"
+      }, {
+        "ArtistId" : "ceremony-mn0002012194",
+        "artist" : "Ceremony"
+      }, {
+        "ArtistId" : "clinic-mn0000161487",
+        "artist" : "Clinic"
+      }, {
+        "ArtistId" : "coco-bs-mn0000792782",
+        "artist" : "Coco B's"
+      }, {
+        "ArtistId" : "dasher-mn0001072621",
+        "artist" : "Dasher"
+      }, {
+        "ArtistId" : "dykehouse-mn0000159614",
+        "artist" : "Dykehouse"
+      }, {
+        "ArtistId" : "grave-babies-mn0002395088",
+        "artist" : "Grave Babies"
+      }, {
+        "ArtistId" : "mint-julep-mn0002676080",
+        "artist" : "Mint Julep"
+      }, {
+        "ArtistId" : "nite-fields-mn0003343042",
+        "artist" : "Nite Fields"
+      }, {
+        "ArtistId" : "odonis-odonis-mn0002725182",
+        "artist" : "Odonis Odonis"
+      }, {
+        "ArtistId" : "ringo-deathstarr-mn0001998828",
+        "artist" : "Ringo Deathstarr"
+      }, {
+        "ArtistId" : "the-brian-jonestown-massacre-mn0000614455",
+        "artist" : "The Brian Jonestown Massacre"
+      }, {
+        "ArtistId" : "the-men-mn0002678348",
+        "artist" : "The Men"
+      }, {
+        "ArtistId" : "fews-mn0003400526",
+        "artist" : "Fews"
+      }, {
+        "ArtistId" : "gypsy-death-and-you-mn0002613658",
+        "artist" : "Gypsy Death and You"
+      }, {
+        "ArtistId" : "lower-heaven-mn0002640665",
+        "artist" : "Lower Heaven"
+      }, {
+        "ArtistId" : "moaning-mn0003705192",
+        "artist" : "Moaning"
+      }, {
+        "ArtistId" : "overlake-mn0003229147",
+        "artist" : "Overlake"
+      }, {
+        "ArtistId" : "sextile-mn0003407040",
+        "artist" : "Sextile"
+      }, {
+        "ArtistId" : "tv-priest-mn0003967748",
+        "artist" : "TV Priest"
+      }, {
+        "ArtistId" : "we-need-secrets-mn0003175972",
+        "artist" : "We Need Secrets"
+      }, {
+        "ArtistId" : "index-for-working-musik-mn0004342108",
+        "artist" : "Index for Working Musik"
+      } ]
+    }
   }
 }

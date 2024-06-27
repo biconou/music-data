@@ -1,9 +1,9 @@
 {
-  "id" : "alain-souchon-mn0000905620",
-  "name" : "Alain Souchon",
   "activeDates" : "1970s - 2010s",
   "birthDate" : "May 27, 1944",
   "birthPlace" : "Casablanca, Morocco",
+  "id" : "alain-souchon-mn0000905620",
+  "name" : "Alain Souchon",
   "styles" : [ {
     "name" : "French Pop",
     "url" : "https://www.allmusic.com/style/french-pop-ma0000012177"
@@ -16,176 +16,182 @@
   } ],
   "decades" : "1970s - 2010s",
   "genres" : "Pop/Rock, International",
-  "discography" : [ {
-    "albumYear" : "1977",
-    "albumTitle" : "J'Ai Dix Ans",
-    "musicRating" : "",
-    "avgRating" : "5-5"
-  }, {
-    "albumYear" : "1989",
-    "albumTitle" : "Bidon",
-    "musicRating" : "",
-    "avgRating" : "8-8"
-  }, {
-    "albumYear" : "1995",
-    "albumTitle" : "C'est Déjà Ça",
-    "musicRating" : "7",
-    "avgRating" : "8-26"
-  }, {
-    "albumYear" : "1995",
-    "albumTitle" : "Défoule Sentimentale",
-    "musicRating" : "",
-    "avgRating" : "8-7"
-  }, {
-    "albumYear" : "1997",
-    "albumTitle" : "Nickel",
-    "musicRating" : "",
-    "avgRating" : "10-5"
-  }, {
-    "albumYear" : "1998",
-    "albumTitle" : "On Avance",
-    "musicRating" : "",
-    "avgRating" : "8-3"
-  }, {
-    "albumYear" : "1998",
-    "albumTitle" : "Jamais Content",
-    "musicRating" : "",
-    "avgRating" : "8-13"
-  }, {
-    "albumYear" : "1998",
-    "albumTitle" : "Olympia 83",
-    "musicRating" : "",
-    "avgRating" : "3-1"
-  }, {
-    "albumYear" : "2000",
-    "albumTitle" : "Au ras des pâquerettes",
-    "musicRating" : "5",
-    "avgRating" : "8-18"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "J'Veux du Live",
-    "musicRating" : "",
-    "avgRating" : "9-5"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "Ultra Moderne Solitude",
-    "musicRating" : "",
-    "avgRating" : "7-13"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "C'est comme vous voulez",
-    "musicRating" : "",
-    "avgRating" : "7-17"
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "La Vie Théodore",
-    "musicRating" : "",
-    "avgRating" : "6-11"
-  }, {
-    "albumYear" : "2007",
-    "albumTitle" : "Le P'tit Chanteur",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2008",
-    "albumTitle" : "Ecoutez d'Où Ma Peine Vient",
-    "musicRating" : "6",
-    "avgRating" : "7-13"
-  }, {
-    "albumYear" : "2008",
-    "albumTitle" : "Rame",
-    "musicRating" : "",
-    "avgRating" : "8-2"
-  }, {
-    "albumYear" : "2011",
-    "albumTitle" : "À Cause d'Elles",
-    "musicRating" : "",
-    "avgRating" : "6-6"
-  }, {
-    "albumYear" : "2014",
-    "albumTitle" : "Alain Souchon & Laurent Voulzy",
-    "musicRating" : "",
-    "avgRating" : "5-3"
-  }, {
-    "albumYear" : "2016",
-    "albumTitle" : "Souchon Voulzy: Le Concert",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Toto 30 ans Rien Que du Malheur",
-    "musicRating" : "",
-    "avgRating" : "7-2"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "On Avance/Jamais Content/Toto",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Souchon & Voulzy",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Ici & là, en concert au Dôme de Paris [Live, 2022]",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Ame Fifty Fifties",
-    "musicRating" : "",
-    "avgRating" : "8-1"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Âme fifties",
-    "musicRating" : "",
-    "avgRating" : "6-4"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Alain Souchon & Laurent Voulzy: Les Maquettes des Chansons",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "3 CD Box Set",
-    "musicRating" : "",
-    "avgRating" : ""
-  } ],
-  "related" : {
-    "similars" : [ {
-      "artist" : "Daniel Guichard",
-      "ArtistId" : "daniel-guichard-mn0000373298"
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "J'Ai Dix Ans",
+      "albumYear" : "1977",
+      "avgRating" : "5-5",
+      "musicRating" : ""
     }, {
-      "artist" : "Julien Clerc",
-      "ArtistId" : "julien-clerc-mn0000303720"
+      "albumTitle" : "Bidon",
+      "albumYear" : "1989",
+      "avgRating" : "8-8",
+      "musicRating" : ""
     }, {
-      "artist" : "Michel Jonasz",
-      "ArtistId" : "michel-jonasz-mn0000372303"
+      "albumTitle" : "C'est Déjà Ça",
+      "albumYear" : "1995",
+      "avgRating" : "8-26",
+      "musicRating" : "7"
     }, {
-      "artist" : "Patrick Bruel",
-      "ArtistId" : "patrick-bruel-mn0000010743"
+      "albumTitle" : "Défoule Sentimentale",
+      "albumYear" : "1995",
+      "avgRating" : "8-7",
+      "musicRating" : ""
     }, {
-      "artist" : "Pierre Bachelet",
-      "ArtistId" : "pierre-bachelet-mn0000312464"
+      "albumTitle" : "Nickel",
+      "albumYear" : "1997",
+      "avgRating" : "10-5",
+      "musicRating" : ""
     }, {
-      "artist" : "Serge Lama",
-      "ArtistId" : "serge-lama-mn0000003952"
+      "albumTitle" : "On Avance",
+      "albumYear" : "1998",
+      "avgRating" : "8-3",
+      "musicRating" : ""
     }, {
-      "artist" : "William Sheller",
-      "ArtistId" : "william-sheller-mn0000637171"
+      "albumTitle" : "Jamais Content",
+      "albumYear" : "1998",
+      "avgRating" : "8-13",
+      "musicRating" : ""
     }, {
-      "artist" : "Benjamin Biolay",
-      "ArtistId" : "benjamin-biolay-mn0000788635"
+      "albumTitle" : "Olympia 83",
+      "albumYear" : "1998",
+      "avgRating" : "3-1",
+      "musicRating" : ""
     }, {
-      "artist" : "Marcos Valle",
-      "ArtistId" : "marcos-valle-mn0000954817"
+      "albumTitle" : "Au ras des pâquerettes",
+      "albumYear" : "2000",
+      "avgRating" : "8-18",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "J'Veux du Live",
+      "albumYear" : "2003",
+      "avgRating" : "9-5",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Ultra Moderne Solitude",
+      "albumYear" : "2004",
+      "avgRating" : "7-13",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "C'est comme vous voulez",
+      "albumYear" : "2004",
+      "avgRating" : "7-17",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "La Vie Théodore",
+      "albumYear" : "2005",
+      "avgRating" : "6-11",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Le P'tit Chanteur",
+      "albumYear" : "2007",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Ecoutez d'Où Ma Peine Vient",
+      "albumYear" : "2008",
+      "avgRating" : "7-13",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Rame",
+      "albumYear" : "2008",
+      "avgRating" : "8-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "À Cause d'Elles",
+      "albumYear" : "2011",
+      "avgRating" : "6-6",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Alain Souchon & Laurent Voulzy",
+      "albumYear" : "2014",
+      "avgRating" : "5-3",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Souchon Voulzy: Le Concert",
+      "albumYear" : "2016",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Toto 30 ans Rien Que du Malheur",
+      "albumYear" : "",
+      "avgRating" : "7-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "On Avance/Jamais Content/Toto",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Souchon & Voulzy",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Ici & là, en concert au Dôme de Paris [Live, 2022]",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Ame Fifty Fifties",
+      "albumYear" : "",
+      "avgRating" : "8-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Âme fifties",
+      "albumYear" : "",
+      "avgRating" : "6-4",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Alain Souchon & Laurent Voulzy: Les Maquettes des Chansons",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "3 CD Box Set",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
     } ],
-    "influencers" : [ ],
-    "followers" : [ ],
-    "associatedwith" : [ {
-      "artist" : "Laurent Voulzy",
-      "ArtistId" : "laurent-voulzy-mn0000141527"
-    } ]
+    "id" : "alain-souchon-mn0000905620"
+  },
+  "related" : {
+    "id" : "alain-souchon-mn0000905620",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "laurent-voulzy-mn0000141527",
+        "artist" : "Laurent Voulzy"
+      } ],
+      "followers" : [ ],
+      "influencers" : [ ],
+      "similars" : [ {
+        "ArtistId" : "daniel-guichard-mn0000373298",
+        "artist" : "Daniel Guichard"
+      }, {
+        "ArtistId" : "julien-clerc-mn0000303720",
+        "artist" : "Julien Clerc"
+      }, {
+        "ArtistId" : "michel-jonasz-mn0000372303",
+        "artist" : "Michel Jonasz"
+      }, {
+        "ArtistId" : "patrick-bruel-mn0000010743",
+        "artist" : "Patrick Bruel"
+      }, {
+        "ArtistId" : "pierre-bachelet-mn0000312464",
+        "artist" : "Pierre Bachelet"
+      }, {
+        "ArtistId" : "serge-lama-mn0000003952",
+        "artist" : "Serge Lama"
+      }, {
+        "ArtistId" : "william-sheller-mn0000637171",
+        "artist" : "William Sheller"
+      }, {
+        "ArtistId" : "benjamin-biolay-mn0000788635",
+        "artist" : "Benjamin Biolay"
+      }, {
+        "ArtistId" : "marcos-valle-mn0000954817",
+        "artist" : "Marcos Valle"
+      } ]
+    }
   }
 }

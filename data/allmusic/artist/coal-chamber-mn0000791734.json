@@ -1,9 +1,9 @@
 {
-  "id" : "coal-chamber-mn0000791734",
-  "name" : "Coal Chamber",
   "activeDates" : "1990s - 2020s",
   "birthDate" : "1993",
   "birthPlace" : "Los Angeles, CA",
+  "id" : "coal-chamber-mn0000791734",
+  "name" : "Coal Chamber",
   "styles" : [ {
     "name" : "Alternative Metal",
     "url" : "https://www.allmusic.com/style/alternative-metal-ma0000012328"
@@ -20,157 +20,163 @@
     "name" : "Rap-Metal",
     "url" : "https://www.allmusic.com/style/rap-metal-ma0000002817"
   } ],
-  "decades" : "1990s - 2020s",
+  "decades" : "1990s - 2010s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "1997",
-    "albumTitle" : "Coal Chamber",
-    "musicRating" : "5",
-    "avgRating" : "6-369"
-  }, {
-    "albumYear" : "1999",
-    "albumTitle" : "Chamber Music",
-    "musicRating" : "7",
-    "avgRating" : "7-119"
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "Dark Days",
-    "musicRating" : "3",
-    "avgRating" : "7-57"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "Giving the Devil His Due",
-    "musicRating" : "3",
-    "avgRating" : "6-20"
-  }, {
-    "albumYear" : "2015",
-    "albumTitle" : "Rivals",
-    "musicRating" : "",
-    "avgRating" : "7-56"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Dramatic",
-    "musicRating" : "",
-    "avgRating" : "6-2"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Coal Chamber",
+      "albumYear" : "1997",
+      "avgRating" : "6-369",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Chamber Music",
+      "albumYear" : "1999",
+      "avgRating" : "7-119",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Dark Days",
+      "albumYear" : "2002",
+      "avgRating" : "7-57",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Giving the Devil His Due",
+      "albumYear" : "2003",
+      "avgRating" : "6-20",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Rivals",
+      "albumYear" : "2015",
+      "avgRating" : "7-56",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Dramatic",
+      "albumYear" : "",
+      "avgRating" : "6-2",
+      "musicRating" : ""
+    } ],
+    "id" : "coal-chamber-mn0000791734"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Biohazard",
-      "ArtistId" : "biohazard-mn0000097325"
-    }, {
-      "artist" : "Clutch",
-      "ArtistId" : "clutch-mn0000154417"
-    }, {
-      "artist" : "Deftones",
-      "ArtistId" : "deftones-mn0000813946"
-    }, {
-      "artist" : "Fu Manchu",
-      "ArtistId" : "fu-manchu-mn0000988529"
-    }, {
-      "artist" : "Gravity Kills",
-      "ArtistId" : "gravity-kills-mn0000739975"
-    }, {
-      "artist" : "Korn",
-      "ArtistId" : "korn-mn0000112789"
-    }, {
-      "artist" : "Limp Bizkit",
-      "ArtistId" : "limp-bizkit-mn0000290502"
-    }, {
-      "artist" : "Lit",
-      "ArtistId" : "lit-mn0000837886"
-    }, {
-      "artist" : "Marilyn Manson",
-      "ArtistId" : "marilyn-manson-mn0000825251"
-    }, {
-      "artist" : "Rammstein",
-      "ArtistId" : "rammstein-mn0000333648"
-    }, {
-      "artist" : "Rob Zombie",
-      "ArtistId" : "rob-zombie-mn0000235169"
-    }, {
-      "artist" : "System of a Down",
-      "ArtistId" : "system-of-a-down-mn0000005501"
-    }, {
-      "artist" : "Tool",
-      "ArtistId" : "tool-mn0000790820"
-    }, {
-      "artist" : "VAST",
-      "ArtistId" : "vast-mn0000313521"
-    }, {
-      "artist" : "White Zombie",
-      "ArtistId" : "white-zombie-mn0000820115"
-    }, {
-      "artist" : "Godsmack",
-      "ArtistId" : "godsmack-mn0000665860"
-    }, {
-      "artist" : "Hellyeah",
-      "ArtistId" : "hellyeah-mn0000540867"
-    }, {
-      "artist" : "Otep",
-      "ArtistId" : "otep-mn0000896600"
-    }, {
-      "artist" : "Sevendust",
-      "ArtistId" : "sevendust-mn0000016132"
-    }, {
-      "artist" : "Wicked Wisdom",
-      "ArtistId" : "wicked-wisdom-mn0000633353"
-    }, {
-      "artist" : "Two",
-      "ArtistId" : "two-mn0000200066"
-    }, {
-      "artist" : "Afterlife",
-      "ArtistId" : "afterlife-mn0003600795"
-    }, {
-      "artist" : "Combichrist",
-      "ArtistId" : "combichrist-mn0000676088"
-    }, {
-      "artist" : "Lacuna Coil",
-      "ArtistId" : "lacuna-coil-mn0000778655"
-    }, {
-      "artist" : "Monster Magnet",
-      "ArtistId" : "monster-magnet-mn0000495455"
-    }, {
-      "artist" : "Nothingface",
-      "ArtistId" : "nothingface-mn0000456968"
-    }, {
-      "artist" : "Saliva",
-      "ArtistId" : "saliva-mn0000242211"
-    }, {
-      "artist" : "Soulfly",
-      "ArtistId" : "soulfly-mn0000050493"
-    }, {
-      "artist" : "Vision of Disorder",
-      "ArtistId" : "vision-of-disorder-mn0000219966"
-    } ],
-    "influencers" : [ {
-      "artist" : "Alice Cooper",
-      "ArtistId" : "alice-cooper-mn0000005953"
-    }, {
-      "artist" : "Black Sabbath",
-      "ArtistId" : "black-sabbath-mn0000771438"
-    }, {
-      "artist" : "Kiss",
-      "ArtistId" : "kiss-mn0000084209"
-    }, {
-      "artist" : "Metallica",
-      "ArtistId" : "metallica-mn0000446509"
-    }, {
-      "artist" : "Mötley Crüe",
-      "ArtistId" : "m%C3%B6tley-cr%C3%BCe-mn0000500992"
-    }, {
-      "artist" : "Pantera",
-      "ArtistId" : "pantera-mn0000005441"
-    }, {
-      "artist" : "Slayer",
-      "ArtistId" : "slayer-mn0000022124"
-    }, {
-      "artist" : "Twisted Sister",
-      "ArtistId" : "twisted-sister-mn0000165663"
-    } ],
-    "followers" : [ ],
-    "associatedwith" : [ {
-      "artist" : "DevilDriver",
-      "ArtistId" : "devildriver-mn0000249528"
-    } ]
+    "id" : "coal-chamber-mn0000791734",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "devildriver-mn0000249528",
+        "artist" : "DevilDriver"
+      } ],
+      "followers" : [ ],
+      "influencers" : [ {
+        "ArtistId" : "alice-cooper-mn0000005953",
+        "artist" : "Alice Cooper"
+      }, {
+        "ArtistId" : "black-sabbath-mn0000771438",
+        "artist" : "Black Sabbath"
+      }, {
+        "ArtistId" : "kiss-mn0000084209",
+        "artist" : "Kiss"
+      }, {
+        "ArtistId" : "metallica-mn0000446509",
+        "artist" : "Metallica"
+      }, {
+        "ArtistId" : "m%C3%B6tley-cr%C3%BCe-mn0000500992",
+        "artist" : "Mötley Crüe"
+      }, {
+        "ArtistId" : "pantera-mn0000005441",
+        "artist" : "Pantera"
+      }, {
+        "ArtistId" : "slayer-mn0000022124",
+        "artist" : "Slayer"
+      }, {
+        "ArtistId" : "twisted-sister-mn0000165663",
+        "artist" : "Twisted Sister"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "biohazard-mn0000097325",
+        "artist" : "Biohazard"
+      }, {
+        "ArtistId" : "clutch-mn0000154417",
+        "artist" : "Clutch"
+      }, {
+        "ArtistId" : "deftones-mn0000813946",
+        "artist" : "Deftones"
+      }, {
+        "ArtistId" : "fu-manchu-mn0000988529",
+        "artist" : "Fu Manchu"
+      }, {
+        "ArtistId" : "gravity-kills-mn0000739975",
+        "artist" : "Gravity Kills"
+      }, {
+        "ArtistId" : "korn-mn0000112789",
+        "artist" : "Korn"
+      }, {
+        "ArtistId" : "limp-bizkit-mn0000290502",
+        "artist" : "Limp Bizkit"
+      }, {
+        "ArtistId" : "lit-mn0000837886",
+        "artist" : "Lit"
+      }, {
+        "ArtistId" : "marilyn-manson-mn0000825251",
+        "artist" : "Marilyn Manson"
+      }, {
+        "ArtistId" : "rammstein-mn0000333648",
+        "artist" : "Rammstein"
+      }, {
+        "ArtistId" : "rob-zombie-mn0000235169",
+        "artist" : "Rob Zombie"
+      }, {
+        "ArtistId" : "system-of-a-down-mn0000005501",
+        "artist" : "System of a Down"
+      }, {
+        "ArtistId" : "tool-mn0000790820",
+        "artist" : "Tool"
+      }, {
+        "ArtistId" : "vast-mn0000313521",
+        "artist" : "VAST"
+      }, {
+        "ArtistId" : "white-zombie-mn0000820115",
+        "artist" : "White Zombie"
+      }, {
+        "ArtistId" : "godsmack-mn0000665860",
+        "artist" : "Godsmack"
+      }, {
+        "ArtistId" : "hellyeah-mn0000540867",
+        "artist" : "Hellyeah"
+      }, {
+        "ArtistId" : "otep-mn0000896600",
+        "artist" : "Otep"
+      }, {
+        "ArtistId" : "sevendust-mn0000016132",
+        "artist" : "Sevendust"
+      }, {
+        "ArtistId" : "wicked-wisdom-mn0000633353",
+        "artist" : "Wicked Wisdom"
+      }, {
+        "ArtistId" : "two-mn0000200066",
+        "artist" : "Two"
+      }, {
+        "ArtistId" : "afterlife-mn0003600795",
+        "artist" : "Afterlife"
+      }, {
+        "ArtistId" : "combichrist-mn0000676088",
+        "artist" : "Combichrist"
+      }, {
+        "ArtistId" : "lacuna-coil-mn0000778655",
+        "artist" : "Lacuna Coil"
+      }, {
+        "ArtistId" : "monster-magnet-mn0000495455",
+        "artist" : "Monster Magnet"
+      }, {
+        "ArtistId" : "nothingface-mn0000456968",
+        "artist" : "Nothingface"
+      }, {
+        "ArtistId" : "saliva-mn0000242211",
+        "artist" : "Saliva"
+      }, {
+        "ArtistId" : "soulfly-mn0000050493",
+        "artist" : "Soulfly"
+      }, {
+        "ArtistId" : "vision-of-disorder-mn0000219966",
+        "artist" : "Vision of Disorder"
+      } ]
+    }
   }
 }

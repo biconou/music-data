@@ -1,9 +1,9 @@
 {
-  "id" : "rem-mn0000325459",
-  "name" : "R.E.M.",
   "activeDates" : "1980s - 2010s",
   "birthDate" : "1980",
   "birthPlace" : "Athens, GA",
+  "id" : "rem-mn0000325459",
+  "name" : "R.E.M.",
   "styles" : [ {
     "name" : "Alternative Pop/Rock",
     "url" : "https://www.allmusic.com/style/alternative-pop-rock-ma0000002422"
@@ -28,750 +28,766 @@
   } ],
   "decades" : "1980s - 2010s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "1983",
-    "albumTitle" : "Murmur",
-    "musicRating" : "9",
-    "avgRating" : "9-4448"
-  }, {
-    "albumYear" : "1984",
-    "albumTitle" : "Reckoning",
-    "musicRating" : "9",
-    "avgRating" : "9-3168"
-  }, {
-    "albumYear" : "1985",
-    "albumTitle" : "Fables of the Reconstruction",
-    "musicRating" : "7",
-    "avgRating" : "9-2440"
-  }, {
-    "albumYear" : "1986",
-    "albumTitle" : "Lifes Rich Pageant",
-    "musicRating" : "8",
-    "avgRating" : "9-2527"
-  }, {
-    "albumYear" : "1987",
-    "albumTitle" : "Document",
-    "musicRating" : "8",
-    "avgRating" : "9-2891"
-  }, {
-    "albumYear" : "1988",
-    "albumTitle" : "Green",
-    "musicRating" : "6",
-    "avgRating" : "9-3479"
-  }, {
-    "albumYear" : "1991",
-    "albumTitle" : "Out of Time",
-    "musicRating" : "4",
-    "avgRating" : "9-3372"
-  }, {
-    "albumYear" : "1992",
-    "albumTitle" : "Automatic for the People",
-    "musicRating" : "9",
-    "avgRating" : "10-5396"
-  }, {
-    "albumYear" : "1994",
-    "albumTitle" : "Monster",
-    "musicRating" : "5",
-    "avgRating" : "8-2454"
-  }, {
-    "albumYear" : "1996",
-    "albumTitle" : "New Adventures in Hi-Fi",
-    "musicRating" : "7",
-    "avgRating" : "9-2060"
-  }, {
-    "albumYear" : "1998",
-    "albumTitle" : "Up",
-    "musicRating" : "4",
-    "avgRating" : "8-1715"
-  }, {
-    "albumYear" : "2001",
-    "albumTitle" : "Reveal",
-    "musicRating" : "5",
-    "avgRating" : "8-1750"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "Around the Sun",
-    "musicRating" : "3",
-    "avgRating" : "7-1238"
-  }, {
-    "albumYear" : "2007",
-    "albumTitle" : "R.E.M. Live",
-    "musicRating" : "5",
-    "avgRating" : "8-479"
-  }, {
-    "albumYear" : "2008",
-    "albumTitle" : "Accelerate",
-    "musicRating" : "7",
-    "avgRating" : "8-1746"
-  }, {
-    "albumYear" : "2009",
-    "albumTitle" : "Live at the Olympia",
-    "musicRating" : "7",
-    "avgRating" : "9-772"
-  }, {
-    "albumYear" : "2011",
-    "albumTitle" : "Collapse into Now",
-    "musicRating" : "6",
-    "avgRating" : "8-1495"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Murmur",
+      "albumYear" : "1983",
+      "avgRating" : "9-4522",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Reckoning",
+      "albumYear" : "1984",
+      "avgRating" : "9-3242",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Fables of the Reconstruction",
+      "albumYear" : "1985",
+      "avgRating" : "9-2505",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Lifes Rich Pageant",
+      "albumYear" : "1986",
+      "avgRating" : "10-2592",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Document",
+      "albumYear" : "1987",
+      "avgRating" : "9-2960",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Green",
+      "albumYear" : "1988",
+      "avgRating" : "9-3544",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Out of Time",
+      "albumYear" : "1991",
+      "avgRating" : "9-3439",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Automatic for the People",
+      "albumYear" : "1992",
+      "avgRating" : "10-5474",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Monster",
+      "albumYear" : "1994",
+      "avgRating" : "8-2517",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "New Adventures in Hi-Fi",
+      "albumYear" : "1996",
+      "avgRating" : "9-2126",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Up",
+      "albumYear" : "1998",
+      "avgRating" : "8-1777",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Reveal",
+      "albumYear" : "2001",
+      "avgRating" : "8-1816",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Around the Sun",
+      "albumYear" : "2004",
+      "avgRating" : "7-1301",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "R.E.M. Live",
+      "albumYear" : "2007",
+      "avgRating" : "8-511",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Accelerate",
+      "albumYear" : "2008",
+      "avgRating" : "8-1810",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Live at the Olympia",
+      "albumYear" : "2009",
+      "avgRating" : "9-826",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Collapse into Now",
+      "albumYear" : "2011",
+      "avgRating" : "8-1559",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Live From the Pyramid Stage, Glastonbury Festival, June 25, 1999",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Live From the Pyramid Stage, Glastonbury Festival, June 25, 1999",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    } ],
+    "id" : "rem-mn0000325459"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Bad Ends",
-      "ArtistId" : "bad-ends-mn0004316636"
-    }, {
-      "artist" : "Billy Bragg",
-      "ArtistId" : "billy-bragg-mn0000083554"
-    }, {
-      "artist" : "Filthy Friends",
-      "ArtistId" : "filthy-friends-mn0003642197"
-    }, {
-      "artist" : "Hüsker Dü",
-      "ArtistId" : "h%C3%BCsker-d%C3%BC-mn0000639053"
-    }, {
-      "artist" : "Let's Active",
-      "ArtistId" : "lets-active-mn0000259561"
-    }, {
-      "artist" : "Richard Thompson",
-      "ArtistId" : "richard-thompson-mn0000359016"
-    }, {
-      "artist" : "The dB's",
-      "ArtistId" : "the-dbs-mn0000489209"
-    }, {
-      "artist" : "The Dream Syndicate",
-      "ArtistId" : "the-dream-syndicate-mn0000198302"
-    }, {
-      "artist" : "The Feelies",
-      "ArtistId" : "the-feelies-mn0000762177"
-    }, {
-      "artist" : "The Replacements",
-      "ArtistId" : "the-replacements-mn0000422405"
-    }, {
-      "artist" : "The Smiths",
-      "ArtistId" : "the-smiths-mn0000899530"
-    }, {
-      "artist" : "Bob Mould",
-      "ArtistId" : "bob-mould-mn0000058386"
-    }, {
-      "artist" : "Camper Van Beethoven",
-      "ArtistId" : "camper-van-beethoven-mn0000647796"
-    }, {
-      "artist" : "Crash Test Dummies",
-      "ArtistId" : "crash-test-dummies-mn0000108679"
-    }, {
-      "artist" : "Game Theory",
-      "ArtistId" : "game-theory-mn0000189864"
-    }, {
-      "artist" : "Green on Red",
-      "ArtistId" : "green-on-red-mn0000799787"
-    }, {
-      "artist" : "Guadalcanal Diary",
-      "ArtistId" : "guadalcanal-diary-mn0000648097"
-    }, {
-      "artist" : "Lloyd Cole",
-      "ArtistId" : "lloyd-cole-mn0000229348"
-    }, {
-      "artist" : "Morrissey",
-      "ArtistId" : "morrissey-mn0000597094"
-    }, {
-      "artist" : "The Beautiful South",
-      "ArtistId" : "the-beautiful-south-mn0000032971"
-    }, {
-      "artist" : "The Church",
-      "ArtistId" : "the-church-mn0000764181"
-    }, {
-      "artist" : "The Waterboys",
-      "ArtistId" : "the-waterboys-mn0000924508"
-    }, {
-      "artist" : "10,000 Maniacs",
-      "ArtistId" : "10000-maniacs-mn0000501081"
-    }, {
-      "artist" : "Absolute Grey",
-      "ArtistId" : "absolute-grey-mn0000492553"
-    }, {
-      "artist" : "Blake Babies",
-      "ArtistId" : "blake-babies-mn0000046734"
-    }, {
-      "artist" : "Chris Stamey",
-      "ArtistId" : "chris-stamey-mn0000117836"
-    }, {
-      "artist" : "Daniel Lanois",
-      "ArtistId" : "daniel-lanois-mn0000955544"
-    }, {
-      "artist" : "Echo & the Bunnymen",
-      "ArtistId" : "echo-the-bunnymen-mn0000145128"
-    }, {
-      "artist" : "Galaxie 500",
-      "ArtistId" : "galaxie-500-mn0000189678"
-    }, {
-      "artist" : "Grant Lee Buffalo",
-      "ArtistId" : "grant-lee-buffalo-mn0000740833"
-    }, {
-      "artist" : "Hetch Hetchy",
-      "ArtistId" : "hetch-hetchy-mn0000673641"
-    }, {
-      "artist" : "Hoodoo Gurus",
-      "ArtistId" : "hoodoo-gurus-mn0000261106"
-    }, {
-      "artist" : "James",
-      "ArtistId" : "james-mn0000112185"
-    }, {
-      "artist" : "Love Tractor",
-      "ArtistId" : "love-tractor-mn0000301882"
-    }, {
-      "artist" : "Meat Puppets",
-      "ArtistId" : "meat-puppets-mn0000339577"
-    }, {
-      "artist" : "Minutemen",
-      "ArtistId" : "minutemen-mn0000474482"
-    }, {
-      "artist" : "Miracle Legion",
-      "ArtistId" : "miracle-legion-mn0000503283"
-    }, {
-      "artist" : "Mission of Burma",
-      "ArtistId" : "mission-of-burma-mn0000423305"
-    }, {
-      "artist" : "Neil Young",
-      "ArtistId" : "neil-young-mn0000379125"
-    }, {
-      "artist" : "Oh-OK",
-      "ArtistId" : "oh-ok-mn0001758617"
-    }, {
-      "artist" : "Pylon",
-      "ArtistId" : "pylon-mn0000315118"
-    }, {
-      "artist" : "Robyn Hitchcock",
-      "ArtistId" : "robyn-hitchcock-mn0000832524"
-    }, {
-      "artist" : "Soul Asylum",
-      "ArtistId" : "soul-asylum-mn0000755519"
-    }, {
-      "artist" : "Sunbirds",
-      "ArtistId" : "sunbirds-mn0001308511"
-    }, {
-      "artist" : "Syd Straw",
-      "ArtistId" : "syd-straw-mn0000050770"
-    }, {
-      "artist" : "Teenage Fanclub",
-      "ArtistId" : "teenage-fanclub-mn0000015694"
-    }, {
-      "artist" : "The Bats",
-      "ArtistId" : "the-bats-mn0000038061"
-    }, {
-      "artist" : "The Cranberries",
-      "ArtistId" : "the-cranberries-mn0000784814"
-    }, {
-      "artist" : "The Golden Palominos",
-      "ArtistId" : "the-golden-palominos-mn0000070949"
-    }, {
-      "artist" : "The Jayhawks",
-      "ArtistId" : "the-jayhawks-mn0000089018"
-    }, {
-      "artist" : "The Long Ryders",
-      "ArtistId" : "the-long-ryders-mn0000082091"
-    }, {
-      "artist" : "The Reivers",
-      "ArtistId" : "the-reivers-mn0000419947"
-    }, {
-      "artist" : "The Smithereens",
-      "ArtistId" : "the-smithereens-mn0000898479"
-    }, {
-      "artist" : "The Three O'Clock",
-      "ArtistId" : "the-three-oclock-mn0000571806"
-    }, {
-      "artist" : "Toad the Wet Sprocket",
-      "ArtistId" : "toad-the-wet-sprocket-mn0000610339"
-    }, {
-      "artist" : "Uncle Tupelo",
-      "ArtistId" : "uncle-tupelo-mn0000222927"
-    }, {
-      "artist" : "Wilco",
-      "ArtistId" : "wilco-mn0000254215"
-    }, {
-      "artist" : "Yo La Tengo",
-      "ArtistId" : "yo-la-tengo-mn0000687487"
-    }, {
-      "artist" : "Don Dixon",
-      "ArtistId" : "don-dixon-mn0000797327"
-    }, {
-      "artist" : "Sonic Youth",
-      "ArtistId" : "sonic-youth-mn0000755156"
-    }, {
-      "artist" : "Sugar",
-      "ArtistId" : "sugar-mn0000921598"
-    }, {
-      "artist" : "Tori Amos",
-      "ArtistId" : "tori-amos-mn0000792530"
-    }, {
-      "artist" : "Big Star's Third",
-      "ArtistId" : "big-stars-third-mn0003435812"
-    }, {
-      "artist" : "Foo Fighters",
-      "ArtistId" : "foo-fighters-mn0000184043"
-    }, {
-      "artist" : "Glenn Morrow",
-      "ArtistId" : "glenn-morrow-mn0000664760"
-    }, {
-      "artist" : "The Dukes of Stratosphear",
-      "ArtistId" : "the-dukes-of-stratosphear-mn0000142963"
-    }, {
-      "artist" : "The Tragically Hip",
-      "ArtistId" : "the-tragically-hip-mn0000570061"
-    }, {
-      "artist" : "The Woods",
-      "ArtistId" : "the-woods-mn0004492762"
-    }, {
-      "artist" : "INXS",
-      "ArtistId" : "inxs-mn0000768321"
-    }, {
-      "artist" : "Wire Train",
-      "ArtistId" : "wire-train-mn0000954785"
-    } ],
-    "influencers" : [ {
-      "artist" : "Big Star",
-      "ArtistId" : "big-star-mn0000051992"
-    }, {
-      "artist" : "Gram Parsons",
-      "ArtistId" : "gram-parsons-mn0000987491"
-    }, {
-      "artist" : "Iggy Pop",
-      "ArtistId" : "iggy-pop-mn0000926548"
-    }, {
-      "artist" : "Patti Smith",
-      "ArtistId" : "patti-smith-mn0000747445"
-    }, {
-      "artist" : "T. Rex",
-      "ArtistId" : "t-rex-mn0000005882"
-    }, {
-      "artist" : "The Beach Boys",
-      "ArtistId" : "the-beach-boys-mn0000041874"
-    }, {
-      "artist" : "The Byrds",
-      "ArtistId" : "the-byrds-mn0000631774"
-    }, {
-      "artist" : "The Soft Boys",
-      "ArtistId" : "the-soft-boys-mn0000501802"
-    }, {
-      "artist" : "The Velvet Underground",
-      "ArtistId" : "the-velvet-underground-mn0000840402"
-    }, {
-      "artist" : "Talking Heads",
-      "ArtistId" : "talking-heads-mn0000131650"
-    }, {
-      "artist" : "Television",
-      "ArtistId" : "television-mn0000019701"
-    }, {
-      "artist" : "Wire",
-      "ArtistId" : "wire-mn0000672910"
-    }, {
-      "artist" : "Bob Dylan",
-      "ArtistId" : "bob-dylan-mn0000066915"
-    }, {
-      "artist" : "Buffalo Springfield",
-      "ArtistId" : "buffalo-springfield-mn0000939567"
-    }, {
-      "artist" : "David Bowie",
-      "ArtistId" : "david-bowie-mn0000531986"
-    }, {
-      "artist" : "Leonard Cohen",
-      "ArtistId" : "leonard-cohen-mn0000071209"
-    }, {
-      "artist" : "Skip Spence",
-      "ArtistId" : "skip-spence-mn0000018835"
-    }, {
-      "artist" : "The Beatles",
-      "ArtistId" : "the-beatles-mn0000754032"
-    }, {
-      "artist" : "Gang of Four",
-      "ArtistId" : "gang-of-four-mn0000193231"
-    }, {
-      "artist" : "Lou Reed",
-      "ArtistId" : "lou-reed-mn0000233066"
-    }, {
-      "artist" : "Moby Grape",
-      "ArtistId" : "moby-grape-mn0000569914"
-    }, {
-      "artist" : "Neil Young",
-      "ArtistId" : "neil-young-mn0000379125"
-    }, {
-      "artist" : "Nico",
-      "ArtistId" : "nico-mn0000868306"
-    }, {
-      "artist" : "NRBQ",
-      "ArtistId" : "nrbq-mn0000377908"
-    }, {
-      "artist" : "Roky Erickson",
-      "ArtistId" : "roky-erickson-mn0000307025"
-    }, {
-      "artist" : "Stephen Stills",
-      "ArtistId" : "stephen-stills-mn0000021744"
-    }, {
-      "artist" : "The Troggs",
-      "ArtistId" : "the-troggs-mn0000573870"
-    }, {
-      "artist" : "Warren Zevon",
-      "ArtistId" : "warren-zevon-mn0000816900"
-    } ],
-    "followers" : [ {
-      "artist" : "10,000 Maniacs",
-      "ArtistId" : "10000-maniacs-mn0000501081"
-    }, {
-      "artist" : "Buffalo Tom",
-      "ArtistId" : "buffalo-tom-mn0000938638"
-    }, {
-      "artist" : "Counting Crows",
-      "ArtistId" : "counting-crows-mn0000128495"
-    }, {
-      "artist" : "Gomez",
-      "ArtistId" : "gomez-mn0000948625"
-    }, {
-      "artist" : "Grant Lee Buffalo",
-      "ArtistId" : "grant-lee-buffalo-mn0000740833"
-    }, {
-      "artist" : "Pavement",
-      "ArtistId" : "pavement-mn0000752314"
-    }, {
-      "artist" : "Pearl Jam",
-      "ArtistId" : "pearl-jam-mn0000037730"
-    }, {
-      "artist" : "The Jayhawks",
-      "ArtistId" : "the-jayhawks-mn0000089018"
-    }, {
-      "artist" : "Throwing Muses",
-      "ArtistId" : "throwing-muses-mn0000925528"
-    }, {
-      "artist" : "Toad the Wet Sprocket",
-      "ArtistId" : "toad-the-wet-sprocket-mn0000610339"
-    }, {
-      "artist" : "Uncle Tupelo",
-      "ArtistId" : "uncle-tupelo-mn0000222927"
-    }, {
-      "artist" : "Yo La Tengo",
-      "ArtistId" : "yo-la-tengo-mn0000687487"
-    }, {
-      "artist" : "Ben Folds",
-      "ArtistId" : "ben-folds-mn0000162197"
-    }, {
-      "artist" : "Bettie Serveert",
-      "ArtistId" : "bettie-serveert-mn0000054558"
-    }, {
-      "artist" : "Blake Babies",
-      "ArtistId" : "blake-babies-mn0000046734"
-    }, {
-      "artist" : "Blue Rodeo",
-      "ArtistId" : "blue-rodeo-mn0000062860"
-    }, {
-      "artist" : "BoDeans",
-      "ArtistId" : "bodeans-mn0000047789"
-    }, {
-      "artist" : "Bright Eyes",
-      "ArtistId" : "bright-eyes-mn0000620056"
-    }, {
-      "artist" : "Concrete Blonde",
-      "ArtistId" : "concrete-blonde-mn0000099246"
-    }, {
-      "artist" : "Crash Test Dummies",
-      "ArtistId" : "crash-test-dummies-mn0000108679"
-    }, {
-      "artist" : "Game Theory",
-      "ArtistId" : "game-theory-mn0000189864"
-    }, {
-      "artist" : "Gin Blossoms",
-      "ArtistId" : "gin-blossoms-mn0000947563"
-    }, {
-      "artist" : "Guided by Voices",
-      "ArtistId" : "guided-by-voices-mn0000545726"
-    }, {
-      "artist" : "Hootie & the Blowfish",
-      "ArtistId" : "hootie-the-blowfish-mn0000262794"
-    }, {
-      "artist" : "Indigo Girls",
-      "ArtistId" : "indigo-girls-mn0000103484"
-    }, {
-      "artist" : "Live",
-      "ArtistId" : "live-mn0000270667"
-    }, {
-      "artist" : "Madder Rose",
-      "ArtistId" : "madder-rose-mn0000232554"
-    }, {
-      "artist" : "Miracle Legion",
-      "ArtistId" : "miracle-legion-mn0000503283"
-    }, {
-      "artist" : "Outer Spaces",
-      "ArtistId" : "outer-spaces-mn0003365856"
-    }, {
-      "artist" : "Red House Painters",
-      "ArtistId" : "red-house-painters-mn0000451296"
-    }, {
-      "artist" : "Sloan",
-      "ArtistId" : "sloan-mn0000029978"
-    }, {
-      "artist" : "Smog",
-      "ArtistId" : "smog-mn0000031606"
-    }, {
-      "artist" : "Sparklehorse",
-      "ArtistId" : "sparklehorse-mn0000008549"
-    }, {
-      "artist" : "The Breeders",
-      "ArtistId" : "the-breeders-mn0000620495"
-    }, {
-      "artist" : "The Connells",
-      "ArtistId" : "the-connells-mn0000078741"
-    }, {
-      "artist" : "The Lemonheads",
-      "ArtistId" : "the-lemonheads-mn0000482677"
-    }, {
-      "artist" : "The Presidents of the United States of America",
-      "ArtistId" : "the-presidents-of-the-united-states-of-america-mn0000414889"
-    }, {
-      "artist" : "The Silos",
-      "ArtistId" : "the-silos-mn0000421400"
-    }, {
-      "artist" : "The Wallflowers",
-      "ArtistId" : "the-wallflowers-mn0000585896"
-    }, {
-      "artist" : "Unrest",
-      "ArtistId" : "unrest-mn0000811153"
-    }, {
-      "artist" : "Velocity Girl",
-      "ArtistId" : "velocity-girl-mn0000841141"
-    }, {
-      "artist" : "54-40",
-      "ArtistId" : "54-40-mn0000919846"
-    }, {
-      "artist" : "Band of Horses",
-      "ArtistId" : "band-of-horses-mn0000896216"
-    }, {
-      "artist" : "Barenaked Ladies",
-      "ArtistId" : "barenaked-ladies-mn0000139089"
-    }, {
-      "artist" : "Beat Farmers",
-      "ArtistId" : "beat-farmers-mn0000038661"
-    }, {
-      "artist" : "Beck",
-      "ArtistId" : "beck-mn0000124492"
-    }, {
-      "artist" : "Belly",
-      "ArtistId" : "belly-mn0000789340"
-    }, {
-      "artist" : "Cake",
-      "ArtistId" : "cake-mn0000943827"
-    }, {
-      "artist" : "Camper Van Beethoven",
-      "ArtistId" : "camper-van-beethoven-mn0000647796"
-    }, {
-      "artist" : "Continental Drifters",
-      "ArtistId" : "continental-drifters-mn0000780092"
-    }, {
-      "artist" : "Cowboy Junkies",
-      "ArtistId" : "cowboy-junkies-mn0000120953"
-    }, {
-      "artist" : "Drivin' n' Cryin'",
-      "ArtistId" : "drivin-n-cryin-mn0000805432"
-    }, {
-      "artist" : "Edie Brickell",
-      "ArtistId" : "edie-brickell-mn0000179191"
-    }, {
-      "artist" : "Guadalcanal Diary",
-      "ArtistId" : "guadalcanal-diary-mn0000648097"
-    }, {
-      "artist" : "Hayden",
-      "ArtistId" : "hayden-mn0000564944"
-    }, {
-      "artist" : "Jawbreaker",
-      "ArtistId" : "jawbreaker-mn0000808944"
-    }, {
-      "artist" : "Juliana Hatfield",
-      "ArtistId" : "juliana-hatfield-mn0000839504"
-    }, {
-      "artist" : "Keane",
-      "ArtistId" : "keane-mn0000857621"
-    }, {
-      "artist" : "Matchbox Twenty",
-      "ArtistId" : "matchbox-twenty-mn0000383889"
-    }, {
-      "artist" : "Matthew Sweet",
-      "ArtistId" : "matthew-sweet-mn0000387530"
-    }, {
-      "artist" : "Nirvana",
-      "ArtistId" : "nirvana-mn0000357406"
-    }, {
-      "artist" : "Our Lady Peace",
-      "ArtistId" : "our-lady-peace-mn0000490852"
-    }, {
-      "artist" : "Radiohead",
-      "ArtistId" : "radiohead-mn0000326249"
-    }, {
-      "artist" : "Sebadoh",
-      "ArtistId" : "sebadoh-mn0000840523"
-    }, {
-      "artist" : "Slint",
-      "ArtistId" : "slint-mn0000751604"
-    }, {
-      "artist" : "Son Volt",
-      "ArtistId" : "son-volt-mn0000753833"
-    }, {
-      "artist" : "Soul Coughing",
-      "ArtistId" : "soul-coughing-mn0000034899"
-    }, {
-      "artist" : "Stephen Malkmus",
-      "ArtistId" : "stephen-malkmus-mn0000021492"
-    }, {
-      "artist" : "Swell",
-      "ArtistId" : "swell-mn0000040294"
-    }, {
-      "artist" : "Teenage Fanclub",
-      "ArtistId" : "teenage-fanclub-mn0000015694"
-    }, {
-      "artist" : "The Cranberries",
-      "ArtistId" : "the-cranberries-mn0000784814"
-    }, {
-      "artist" : "The Decemberists",
-      "ArtistId" : "the-decemberists-mn0000787579"
-    }, {
-      "artist" : "The Divine Comedy",
-      "ArtistId" : "the-divine-comedy-mn0000150185"
-    }, {
-      "artist" : "The Reivers",
-      "ArtistId" : "the-reivers-mn0000419947"
-    }, {
-      "artist" : "The Rembrandts",
-      "ArtistId" : "the-rembrandts-mn0000498484"
-    }, {
-      "artist" : "The Verve Pipe",
-      "ArtistId" : "the-verve-pipe-mn0000483563"
-    }, {
-      "artist" : "The Wrens",
-      "ArtistId" : "the-wrens-mn0000924191"
-    }, {
-      "artist" : "Thinking Fellers Union Local #282",
-      "ArtistId" : "thinking-fellers-union-local-282-mn0000587156"
-    }, {
-      "artist" : "Train",
-      "ArtistId" : "train-mn0000746302"
-    }, {
-      "artist" : "Beat Happening",
-      "ArtistId" : "beat-happening-mn0000154530"
-    }, {
-      "artist" : "Dashboard Confessional",
-      "ArtistId" : "dashboard-confessional-mn0000574102"
-    }, {
-      "artist" : "Jars of Clay",
-      "ArtistId" : "jars-of-clay-mn0000215058"
-    }, {
-      "artist" : "Magnapop",
-      "ArtistId" : "magnapop-mn0000231610"
-    }, {
-      "artist" : "Moxy Früvous",
-      "ArtistId" : "moxy-fr%C3%BCvous-mn0000929673"
-    }, {
-      "artist" : "Mumford & Sons",
-      "ArtistId" : "mumford-sons-mn0001072350"
-    }, {
-      "artist" : "Okkervil River",
-      "ArtistId" : "okkervil-river-mn0000460390"
-    }, {
-      "artist" : "Sister Hazel",
-      "ArtistId" : "sister-hazel-mn0000014822"
-    }, {
-      "artist" : "Tegan and Sara",
-      "ArtistId" : "tegan-and-sara-mn0000021670"
-    }, {
-      "artist" : "The Bats",
-      "ArtistId" : "the-bats-mn0000038061"
-    }, {
-      "artist" : "The Blood Oranges",
-      "ArtistId" : "the-blood-oranges-mn0000052749"
-    }, {
-      "artist" : "The Boys with the Perpetual Nervousness",
-      "ArtistId" : "the-boys-with-the-perpetual-nervousness-mn0004009368"
-    }, {
-      "artist" : "The Dambuilders",
-      "ArtistId" : "the-dambuilders-mn0000139703"
-    }, {
-      "artist" : "The Ocean Blue",
-      "ArtistId" : "the-ocean-blue-mn0000486395"
-    }, {
-      "artist" : "The Vulgar Boatmen",
-      "ArtistId" : "the-vulgar-boatmen-mn0000228306"
-    }, {
-      "artist" : "Tiger Trap",
-      "ArtistId" : "tiger-trap-mn0000926999"
-    }, {
-      "artist" : "Travis",
-      "ArtistId" : "travis-mn0000013508"
-    }, {
-      "artist" : "Vigilantes of Love",
-      "ArtistId" : "vigilantes-of-love-mn0000213170"
-    }, {
-      "artist" : "Whiskeytown",
-      "ArtistId" : "whiskeytown-mn0000246169"
-    }, {
-      "artist" : "Why Make Clocks",
-      "ArtistId" : "why-make-clocks-mn0000252925"
-    }, {
-      "artist" : "Big Thief",
-      "ArtistId" : "big-thief-mn0003449693"
-    }, {
-      "artist" : "Brantley Gilbert",
-      "ArtistId" : "brantley-gilbert-mn0001657214"
-    }, {
-      "artist" : "Car Seat Headrest",
-      "ArtistId" : "car-seat-headrest-mn0003427505"
-    }, {
-      "artist" : "D.A.R.K.",
-      "ArtistId" : "dark-mn0003490284"
-    }, {
-      "artist" : "Dave Matthews",
-      "ArtistId" : "dave-matthews-mn0000687561"
-    }, {
-      "artist" : "Emily Rodgers",
-      "ArtistId" : "emily-rodgers-mn0002322953"
-    }, {
-      "artist" : "Jamie Lawson",
-      "ArtistId" : "jamie-lawson-mn0002575506"
-    }, {
-      "artist" : "Man with a Mission",
-      "ArtistId" : "man-with-a-mission-mn0002977276"
-    }, {
-      "artist" : "Sivert Høyem",
-      "ArtistId" : "sivert-h%C3%B8yem-mn0001314128"
-    }, {
-      "artist" : "The Bootheels",
-      "ArtistId" : "the-bootheels-mn0003706030"
-    }, {
-      "artist" : "The Love-Birds",
-      "ArtistId" : "the-love-birds-mn0003649546"
-    }, {
-      "artist" : "Timothy Monger",
-      "ArtistId" : "timothy-monger-mn0000635997"
-    }, {
-      "artist" : "Young Statues",
-      "ArtistId" : "young-statues-mn0002792673"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Hindu Love Gods",
-      "ArtistId" : "hindu-love-gods-mn0000679501"
-    }, {
-      "artist" : "The Minus 5",
-      "ArtistId" : "the-minus-5-mn0000898161"
-    }, {
-      "artist" : "Arthur Buck",
-      "ArtistId" : "arthur-buck-mn0003736180"
-    }, {
-      "artist" : "Filthy Friends",
-      "ArtistId" : "filthy-friends-mn0003642197"
-    }, {
-      "artist" : "The Baseball Project",
-      "ArtistId" : "the-baseball-project-mn0000999829"
-    }, {
-      "artist" : "Mitch Easter",
-      "ArtistId" : "mitch-easter-mn0000511151"
-    }, {
-      "artist" : "Peter Holsapple",
-      "ArtistId" : "peter-holsapple-mn0000323990"
-    }, {
-      "artist" : "Scott Litt",
-      "ArtistId" : "scott-litt-mn0000258689"
-    } ]
+    "id" : "rem-mn0000325459",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "hindu-love-gods-mn0000679501",
+        "artist" : "Hindu Love Gods"
+      }, {
+        "ArtistId" : "the-minus-5-mn0000898161",
+        "artist" : "The Minus 5"
+      }, {
+        "ArtistId" : "arthur-buck-mn0003736180",
+        "artist" : "Arthur Buck"
+      }, {
+        "ArtistId" : "filthy-friends-mn0003642197",
+        "artist" : "Filthy Friends"
+      }, {
+        "ArtistId" : "the-baseball-project-mn0000999829",
+        "artist" : "The Baseball Project"
+      }, {
+        "ArtistId" : "mitch-easter-mn0000511151",
+        "artist" : "Mitch Easter"
+      }, {
+        "ArtistId" : "peter-holsapple-mn0000323990",
+        "artist" : "Peter Holsapple"
+      }, {
+        "ArtistId" : "scott-litt-mn0000258689",
+        "artist" : "Scott Litt"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "10000-maniacs-mn0000501081",
+        "artist" : "10,000 Maniacs"
+      }, {
+        "ArtistId" : "buffalo-tom-mn0000938638",
+        "artist" : "Buffalo Tom"
+      }, {
+        "ArtistId" : "counting-crows-mn0000128495",
+        "artist" : "Counting Crows"
+      }, {
+        "ArtistId" : "gomez-mn0000948625",
+        "artist" : "Gomez"
+      }, {
+        "ArtistId" : "grant-lee-buffalo-mn0000740833",
+        "artist" : "Grant Lee Buffalo"
+      }, {
+        "ArtistId" : "pavement-mn0000752314",
+        "artist" : "Pavement"
+      }, {
+        "ArtistId" : "pearl-jam-mn0000037730",
+        "artist" : "Pearl Jam"
+      }, {
+        "ArtistId" : "the-jayhawks-mn0000089018",
+        "artist" : "The Jayhawks"
+      }, {
+        "ArtistId" : "throwing-muses-mn0000925528",
+        "artist" : "Throwing Muses"
+      }, {
+        "ArtistId" : "toad-the-wet-sprocket-mn0000610339",
+        "artist" : "Toad the Wet Sprocket"
+      }, {
+        "ArtistId" : "uncle-tupelo-mn0000222927",
+        "artist" : "Uncle Tupelo"
+      }, {
+        "ArtistId" : "yo-la-tengo-mn0000687487",
+        "artist" : "Yo La Tengo"
+      }, {
+        "ArtistId" : "ben-folds-mn0000162197",
+        "artist" : "Ben Folds"
+      }, {
+        "ArtistId" : "bettie-serveert-mn0000054558",
+        "artist" : "Bettie Serveert"
+      }, {
+        "ArtistId" : "blake-babies-mn0000046734",
+        "artist" : "Blake Babies"
+      }, {
+        "ArtistId" : "blue-rodeo-mn0000062860",
+        "artist" : "Blue Rodeo"
+      }, {
+        "ArtistId" : "bodeans-mn0000047789",
+        "artist" : "BoDeans"
+      }, {
+        "ArtistId" : "bright-eyes-mn0000620056",
+        "artist" : "Bright Eyes"
+      }, {
+        "ArtistId" : "concrete-blonde-mn0000099246",
+        "artist" : "Concrete Blonde"
+      }, {
+        "ArtistId" : "crash-test-dummies-mn0000108679",
+        "artist" : "Crash Test Dummies"
+      }, {
+        "ArtistId" : "game-theory-mn0000189864",
+        "artist" : "Game Theory"
+      }, {
+        "ArtistId" : "gin-blossoms-mn0000947563",
+        "artist" : "Gin Blossoms"
+      }, {
+        "ArtistId" : "guided-by-voices-mn0000545726",
+        "artist" : "Guided by Voices"
+      }, {
+        "ArtistId" : "hootie-the-blowfish-mn0000262794",
+        "artist" : "Hootie & the Blowfish"
+      }, {
+        "ArtistId" : "indigo-girls-mn0000103484",
+        "artist" : "Indigo Girls"
+      }, {
+        "ArtistId" : "live-mn0000270667",
+        "artist" : "Live"
+      }, {
+        "ArtistId" : "madder-rose-mn0000232554",
+        "artist" : "Madder Rose"
+      }, {
+        "ArtistId" : "miracle-legion-mn0000503283",
+        "artist" : "Miracle Legion"
+      }, {
+        "ArtistId" : "outer-spaces-mn0003365856",
+        "artist" : "Outer Spaces"
+      }, {
+        "ArtistId" : "red-house-painters-mn0000451296",
+        "artist" : "Red House Painters"
+      }, {
+        "ArtistId" : "sloan-mn0000029978",
+        "artist" : "Sloan"
+      }, {
+        "ArtistId" : "smog-mn0000031606",
+        "artist" : "Smog"
+      }, {
+        "ArtistId" : "sparklehorse-mn0000008549",
+        "artist" : "Sparklehorse"
+      }, {
+        "ArtistId" : "the-breeders-mn0000620495",
+        "artist" : "The Breeders"
+      }, {
+        "ArtistId" : "the-connells-mn0000078741",
+        "artist" : "The Connells"
+      }, {
+        "ArtistId" : "the-lemonheads-mn0000482677",
+        "artist" : "The Lemonheads"
+      }, {
+        "ArtistId" : "the-presidents-of-the-united-states-of-america-mn0000414889",
+        "artist" : "The Presidents of the United States of America"
+      }, {
+        "ArtistId" : "the-silos-mn0000421400",
+        "artist" : "The Silos"
+      }, {
+        "ArtistId" : "the-wallflowers-mn0000585896",
+        "artist" : "The Wallflowers"
+      }, {
+        "ArtistId" : "unrest-mn0000811153",
+        "artist" : "Unrest"
+      }, {
+        "ArtistId" : "velocity-girl-mn0000841141",
+        "artist" : "Velocity Girl"
+      }, {
+        "ArtistId" : "54-40-mn0000919846",
+        "artist" : "54-40"
+      }, {
+        "ArtistId" : "band-of-horses-mn0000896216",
+        "artist" : "Band of Horses"
+      }, {
+        "ArtistId" : "barenaked-ladies-mn0000139089",
+        "artist" : "Barenaked Ladies"
+      }, {
+        "ArtistId" : "beat-farmers-mn0000038661",
+        "artist" : "Beat Farmers"
+      }, {
+        "ArtistId" : "beck-mn0000124492",
+        "artist" : "Beck"
+      }, {
+        "ArtistId" : "belly-mn0000789340",
+        "artist" : "Belly"
+      }, {
+        "ArtistId" : "cake-mn0000943827",
+        "artist" : "Cake"
+      }, {
+        "ArtistId" : "camper-van-beethoven-mn0000647796",
+        "artist" : "Camper Van Beethoven"
+      }, {
+        "ArtistId" : "continental-drifters-mn0000780092",
+        "artist" : "Continental Drifters"
+      }, {
+        "ArtistId" : "cowboy-junkies-mn0000120953",
+        "artist" : "Cowboy Junkies"
+      }, {
+        "ArtistId" : "drivin-n-cryin-mn0000805432",
+        "artist" : "Drivin' n' Cryin'"
+      }, {
+        "ArtistId" : "edie-brickell-mn0000179191",
+        "artist" : "Edie Brickell"
+      }, {
+        "ArtistId" : "guadalcanal-diary-mn0000648097",
+        "artist" : "Guadalcanal Diary"
+      }, {
+        "ArtistId" : "hayden-mn0000564944",
+        "artist" : "Hayden"
+      }, {
+        "ArtistId" : "jawbreaker-mn0000808944",
+        "artist" : "Jawbreaker"
+      }, {
+        "ArtistId" : "juliana-hatfield-mn0000839504",
+        "artist" : "Juliana Hatfield"
+      }, {
+        "ArtistId" : "keane-mn0000857621",
+        "artist" : "Keane"
+      }, {
+        "ArtistId" : "matchbox-twenty-mn0000383889",
+        "artist" : "Matchbox Twenty"
+      }, {
+        "ArtistId" : "matthew-sweet-mn0000387530",
+        "artist" : "Matthew Sweet"
+      }, {
+        "ArtistId" : "nirvana-mn0000357406",
+        "artist" : "Nirvana"
+      }, {
+        "ArtistId" : "our-lady-peace-mn0000490852",
+        "artist" : "Our Lady Peace"
+      }, {
+        "ArtistId" : "radiohead-mn0000326249",
+        "artist" : "Radiohead"
+      }, {
+        "ArtistId" : "sebadoh-mn0000840523",
+        "artist" : "Sebadoh"
+      }, {
+        "ArtistId" : "slint-mn0000751604",
+        "artist" : "Slint"
+      }, {
+        "ArtistId" : "son-volt-mn0000753833",
+        "artist" : "Son Volt"
+      }, {
+        "ArtistId" : "soul-coughing-mn0000034899",
+        "artist" : "Soul Coughing"
+      }, {
+        "ArtistId" : "stephen-malkmus-mn0000021492",
+        "artist" : "Stephen Malkmus"
+      }, {
+        "ArtistId" : "swell-mn0000040294",
+        "artist" : "Swell"
+      }, {
+        "ArtistId" : "teenage-fanclub-mn0000015694",
+        "artist" : "Teenage Fanclub"
+      }, {
+        "ArtistId" : "the-cranberries-mn0000784814",
+        "artist" : "The Cranberries"
+      }, {
+        "ArtistId" : "the-decemberists-mn0000787579",
+        "artist" : "The Decemberists"
+      }, {
+        "ArtistId" : "the-divine-comedy-mn0000150185",
+        "artist" : "The Divine Comedy"
+      }, {
+        "ArtistId" : "the-reivers-mn0000419947",
+        "artist" : "The Reivers"
+      }, {
+        "ArtistId" : "the-rembrandts-mn0000498484",
+        "artist" : "The Rembrandts"
+      }, {
+        "ArtistId" : "the-verve-pipe-mn0000483563",
+        "artist" : "The Verve Pipe"
+      }, {
+        "ArtistId" : "the-wrens-mn0000924191",
+        "artist" : "The Wrens"
+      }, {
+        "ArtistId" : "thinking-fellers-union-local-282-mn0000587156",
+        "artist" : "Thinking Fellers Union Local #282"
+      }, {
+        "ArtistId" : "train-mn0000746302",
+        "artist" : "Train"
+      }, {
+        "ArtistId" : "beat-happening-mn0000154530",
+        "artist" : "Beat Happening"
+      }, {
+        "ArtistId" : "dashboard-confessional-mn0000574102",
+        "artist" : "Dashboard Confessional"
+      }, {
+        "ArtistId" : "jars-of-clay-mn0000215058",
+        "artist" : "Jars of Clay"
+      }, {
+        "ArtistId" : "magnapop-mn0000231610",
+        "artist" : "Magnapop"
+      }, {
+        "ArtistId" : "moxy-fr%C3%BCvous-mn0000929673",
+        "artist" : "Moxy Früvous"
+      }, {
+        "ArtistId" : "mumford-sons-mn0001072350",
+        "artist" : "Mumford & Sons"
+      }, {
+        "ArtistId" : "okkervil-river-mn0000460390",
+        "artist" : "Okkervil River"
+      }, {
+        "ArtistId" : "sister-hazel-mn0000014822",
+        "artist" : "Sister Hazel"
+      }, {
+        "ArtistId" : "tegan-and-sara-mn0000021670",
+        "artist" : "Tegan and Sara"
+      }, {
+        "ArtistId" : "the-bats-mn0000038061",
+        "artist" : "The Bats"
+      }, {
+        "ArtistId" : "the-blood-oranges-mn0000052749",
+        "artist" : "The Blood Oranges"
+      }, {
+        "ArtistId" : "the-boys-with-the-perpetual-nervousness-mn0004009368",
+        "artist" : "The Boys with the Perpetual Nervousness"
+      }, {
+        "ArtistId" : "the-dambuilders-mn0000139703",
+        "artist" : "The Dambuilders"
+      }, {
+        "ArtistId" : "the-ocean-blue-mn0000486395",
+        "artist" : "The Ocean Blue"
+      }, {
+        "ArtistId" : "the-vulgar-boatmen-mn0000228306",
+        "artist" : "The Vulgar Boatmen"
+      }, {
+        "ArtistId" : "tiger-trap-mn0000926999",
+        "artist" : "Tiger Trap"
+      }, {
+        "ArtistId" : "travis-mn0000013508",
+        "artist" : "Travis"
+      }, {
+        "ArtistId" : "vigilantes-of-love-mn0000213170",
+        "artist" : "Vigilantes of Love"
+      }, {
+        "ArtistId" : "whiskeytown-mn0000246169",
+        "artist" : "Whiskeytown"
+      }, {
+        "ArtistId" : "why-make-clocks-mn0000252925",
+        "artist" : "Why Make Clocks"
+      }, {
+        "ArtistId" : "big-thief-mn0003449693",
+        "artist" : "Big Thief"
+      }, {
+        "ArtistId" : "brantley-gilbert-mn0001657214",
+        "artist" : "Brantley Gilbert"
+      }, {
+        "ArtistId" : "car-seat-headrest-mn0003427505",
+        "artist" : "Car Seat Headrest"
+      }, {
+        "ArtistId" : "dark-mn0003490284",
+        "artist" : "D.A.R.K."
+      }, {
+        "ArtistId" : "dave-matthews-mn0000687561",
+        "artist" : "Dave Matthews"
+      }, {
+        "ArtistId" : "emily-rodgers-mn0002322953",
+        "artist" : "Emily Rodgers"
+      }, {
+        "ArtistId" : "jamie-lawson-mn0002575506",
+        "artist" : "Jamie Lawson"
+      }, {
+        "ArtistId" : "man-with-a-mission-mn0002977276",
+        "artist" : "Man with a Mission"
+      }, {
+        "ArtistId" : "sivert-h%C3%B8yem-mn0001314128",
+        "artist" : "Sivert Høyem"
+      }, {
+        "ArtistId" : "the-bootheels-mn0003706030",
+        "artist" : "The Bootheels"
+      }, {
+        "ArtistId" : "the-love-birds-mn0003649546",
+        "artist" : "The Love-Birds"
+      }, {
+        "ArtistId" : "timothy-monger-mn0000635997",
+        "artist" : "Timothy Monger"
+      }, {
+        "ArtistId" : "young-statues-mn0002792673",
+        "artist" : "Young Statues"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "big-star-mn0000051992",
+        "artist" : "Big Star"
+      }, {
+        "ArtistId" : "gram-parsons-mn0000987491",
+        "artist" : "Gram Parsons"
+      }, {
+        "ArtistId" : "iggy-pop-mn0000926548",
+        "artist" : "Iggy Pop"
+      }, {
+        "ArtistId" : "patti-smith-mn0000747445",
+        "artist" : "Patti Smith"
+      }, {
+        "ArtistId" : "t-rex-mn0000005882",
+        "artist" : "T. Rex"
+      }, {
+        "ArtistId" : "the-beach-boys-mn0000041874",
+        "artist" : "The Beach Boys"
+      }, {
+        "ArtistId" : "the-byrds-mn0000631774",
+        "artist" : "The Byrds"
+      }, {
+        "ArtistId" : "the-soft-boys-mn0000501802",
+        "artist" : "The Soft Boys"
+      }, {
+        "ArtistId" : "the-velvet-underground-mn0000840402",
+        "artist" : "The Velvet Underground"
+      }, {
+        "ArtistId" : "talking-heads-mn0000131650",
+        "artist" : "Talking Heads"
+      }, {
+        "ArtistId" : "television-mn0000019701",
+        "artist" : "Television"
+      }, {
+        "ArtistId" : "wire-mn0000672910",
+        "artist" : "Wire"
+      }, {
+        "ArtistId" : "bob-dylan-mn0000066915",
+        "artist" : "Bob Dylan"
+      }, {
+        "ArtistId" : "buffalo-springfield-mn0000939567",
+        "artist" : "Buffalo Springfield"
+      }, {
+        "ArtistId" : "david-bowie-mn0000531986",
+        "artist" : "David Bowie"
+      }, {
+        "ArtistId" : "leonard-cohen-mn0000071209",
+        "artist" : "Leonard Cohen"
+      }, {
+        "ArtistId" : "skip-spence-mn0000018835",
+        "artist" : "Skip Spence"
+      }, {
+        "ArtistId" : "the-beatles-mn0000754032",
+        "artist" : "The Beatles"
+      }, {
+        "ArtistId" : "gang-of-four-mn0000193231",
+        "artist" : "Gang of Four"
+      }, {
+        "ArtistId" : "lou-reed-mn0000233066",
+        "artist" : "Lou Reed"
+      }, {
+        "ArtistId" : "moby-grape-mn0000569914",
+        "artist" : "Moby Grape"
+      }, {
+        "ArtistId" : "neil-young-mn0000379125",
+        "artist" : "Neil Young"
+      }, {
+        "ArtistId" : "nico-mn0000868306",
+        "artist" : "Nico"
+      }, {
+        "ArtistId" : "nrbq-mn0000377908",
+        "artist" : "NRBQ"
+      }, {
+        "ArtistId" : "roky-erickson-mn0000307025",
+        "artist" : "Roky Erickson"
+      }, {
+        "ArtistId" : "stephen-stills-mn0000021744",
+        "artist" : "Stephen Stills"
+      }, {
+        "ArtistId" : "the-troggs-mn0000573870",
+        "artist" : "The Troggs"
+      }, {
+        "ArtistId" : "warren-zevon-mn0000816900",
+        "artist" : "Warren Zevon"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "bad-ends-mn0004316636",
+        "artist" : "Bad Ends"
+      }, {
+        "ArtistId" : "billy-bragg-mn0000083554",
+        "artist" : "Billy Bragg"
+      }, {
+        "ArtistId" : "filthy-friends-mn0003642197",
+        "artist" : "Filthy Friends"
+      }, {
+        "ArtistId" : "h%C3%BCsker-d%C3%BC-mn0000639053",
+        "artist" : "Hüsker Dü"
+      }, {
+        "ArtistId" : "lets-active-mn0000259561",
+        "artist" : "Let's Active"
+      }, {
+        "ArtistId" : "richard-thompson-mn0000359016",
+        "artist" : "Richard Thompson"
+      }, {
+        "ArtistId" : "the-dbs-mn0000489209",
+        "artist" : "The dB's"
+      }, {
+        "ArtistId" : "the-dream-syndicate-mn0000198302",
+        "artist" : "The Dream Syndicate"
+      }, {
+        "ArtistId" : "the-feelies-mn0000762177",
+        "artist" : "The Feelies"
+      }, {
+        "ArtistId" : "the-replacements-mn0000422405",
+        "artist" : "The Replacements"
+      }, {
+        "ArtistId" : "the-smiths-mn0000899530",
+        "artist" : "The Smiths"
+      }, {
+        "ArtistId" : "bob-mould-mn0000058386",
+        "artist" : "Bob Mould"
+      }, {
+        "ArtistId" : "camper-van-beethoven-mn0000647796",
+        "artist" : "Camper Van Beethoven"
+      }, {
+        "ArtistId" : "crash-test-dummies-mn0000108679",
+        "artist" : "Crash Test Dummies"
+      }, {
+        "ArtistId" : "game-theory-mn0000189864",
+        "artist" : "Game Theory"
+      }, {
+        "ArtistId" : "green-on-red-mn0000799787",
+        "artist" : "Green on Red"
+      }, {
+        "ArtistId" : "guadalcanal-diary-mn0000648097",
+        "artist" : "Guadalcanal Diary"
+      }, {
+        "ArtistId" : "lloyd-cole-mn0000229348",
+        "artist" : "Lloyd Cole"
+      }, {
+        "ArtistId" : "morrissey-mn0000597094",
+        "artist" : "Morrissey"
+      }, {
+        "ArtistId" : "the-beautiful-south-mn0000032971",
+        "artist" : "The Beautiful South"
+      }, {
+        "ArtistId" : "the-church-mn0000764181",
+        "artist" : "The Church"
+      }, {
+        "ArtistId" : "the-waterboys-mn0000924508",
+        "artist" : "The Waterboys"
+      }, {
+        "ArtistId" : "10000-maniacs-mn0000501081",
+        "artist" : "10,000 Maniacs"
+      }, {
+        "ArtistId" : "absolute-grey-mn0000492553",
+        "artist" : "Absolute Grey"
+      }, {
+        "ArtistId" : "blake-babies-mn0000046734",
+        "artist" : "Blake Babies"
+      }, {
+        "ArtistId" : "chris-stamey-mn0000117836",
+        "artist" : "Chris Stamey"
+      }, {
+        "ArtistId" : "daniel-lanois-mn0000955544",
+        "artist" : "Daniel Lanois"
+      }, {
+        "ArtistId" : "echo-the-bunnymen-mn0000145128",
+        "artist" : "Echo & the Bunnymen"
+      }, {
+        "ArtistId" : "galaxie-500-mn0000189678",
+        "artist" : "Galaxie 500"
+      }, {
+        "ArtistId" : "grant-lee-buffalo-mn0000740833",
+        "artist" : "Grant Lee Buffalo"
+      }, {
+        "ArtistId" : "hetch-hetchy-mn0000673641",
+        "artist" : "Hetch Hetchy"
+      }, {
+        "ArtistId" : "hoodoo-gurus-mn0000261106",
+        "artist" : "Hoodoo Gurus"
+      }, {
+        "ArtistId" : "james-mn0000112185",
+        "artist" : "James"
+      }, {
+        "ArtistId" : "love-tractor-mn0000301882",
+        "artist" : "Love Tractor"
+      }, {
+        "ArtistId" : "meat-puppets-mn0000339577",
+        "artist" : "Meat Puppets"
+      }, {
+        "ArtistId" : "minutemen-mn0000474482",
+        "artist" : "Minutemen"
+      }, {
+        "ArtistId" : "miracle-legion-mn0000503283",
+        "artist" : "Miracle Legion"
+      }, {
+        "ArtistId" : "mission-of-burma-mn0000423305",
+        "artist" : "Mission of Burma"
+      }, {
+        "ArtistId" : "neil-young-mn0000379125",
+        "artist" : "Neil Young"
+      }, {
+        "ArtistId" : "oh-ok-mn0001758617",
+        "artist" : "Oh-OK"
+      }, {
+        "ArtistId" : "pylon-mn0000315118",
+        "artist" : "Pylon"
+      }, {
+        "ArtistId" : "robyn-hitchcock-mn0000832524",
+        "artist" : "Robyn Hitchcock"
+      }, {
+        "ArtistId" : "soul-asylum-mn0000755519",
+        "artist" : "Soul Asylum"
+      }, {
+        "ArtistId" : "sunbirds-mn0001308511",
+        "artist" : "Sunbirds"
+      }, {
+        "ArtistId" : "syd-straw-mn0000050770",
+        "artist" : "Syd Straw"
+      }, {
+        "ArtistId" : "teenage-fanclub-mn0000015694",
+        "artist" : "Teenage Fanclub"
+      }, {
+        "ArtistId" : "the-bats-mn0000038061",
+        "artist" : "The Bats"
+      }, {
+        "ArtistId" : "the-cranberries-mn0000784814",
+        "artist" : "The Cranberries"
+      }, {
+        "ArtistId" : "the-golden-palominos-mn0000070949",
+        "artist" : "The Golden Palominos"
+      }, {
+        "ArtistId" : "the-jayhawks-mn0000089018",
+        "artist" : "The Jayhawks"
+      }, {
+        "ArtistId" : "the-long-ryders-mn0000082091",
+        "artist" : "The Long Ryders"
+      }, {
+        "ArtistId" : "the-reivers-mn0000419947",
+        "artist" : "The Reivers"
+      }, {
+        "ArtistId" : "the-smithereens-mn0000898479",
+        "artist" : "The Smithereens"
+      }, {
+        "ArtistId" : "the-three-oclock-mn0000571806",
+        "artist" : "The Three O'Clock"
+      }, {
+        "ArtistId" : "toad-the-wet-sprocket-mn0000610339",
+        "artist" : "Toad the Wet Sprocket"
+      }, {
+        "ArtistId" : "uncle-tupelo-mn0000222927",
+        "artist" : "Uncle Tupelo"
+      }, {
+        "ArtistId" : "wilco-mn0000254215",
+        "artist" : "Wilco"
+      }, {
+        "ArtistId" : "yo-la-tengo-mn0000687487",
+        "artist" : "Yo La Tengo"
+      }, {
+        "ArtistId" : "don-dixon-mn0000797327",
+        "artist" : "Don Dixon"
+      }, {
+        "ArtistId" : "sonic-youth-mn0000755156",
+        "artist" : "Sonic Youth"
+      }, {
+        "ArtistId" : "sugar-mn0000921598",
+        "artist" : "Sugar"
+      }, {
+        "ArtistId" : "tori-amos-mn0000792530",
+        "artist" : "Tori Amos"
+      }, {
+        "ArtistId" : "big-stars-third-mn0003435812",
+        "artist" : "Big Star's Third"
+      }, {
+        "ArtistId" : "foo-fighters-mn0000184043",
+        "artist" : "Foo Fighters"
+      }, {
+        "ArtistId" : "glenn-morrow-mn0000664760",
+        "artist" : "Glenn Morrow"
+      }, {
+        "ArtistId" : "the-dukes-of-stratosphear-mn0000142963",
+        "artist" : "The Dukes of Stratosphear"
+      }, {
+        "ArtistId" : "the-tragically-hip-mn0000570061",
+        "artist" : "The Tragically Hip"
+      }, {
+        "ArtistId" : "the-woods-mn0004492762",
+        "artist" : "The Woods"
+      }, {
+        "ArtistId" : "inxs-mn0000768321",
+        "artist" : "INXS"
+      }, {
+        "ArtistId" : "wire-train-mn0000954785",
+        "artist" : "Wire Train"
+      } ]
+    }
   }
 }

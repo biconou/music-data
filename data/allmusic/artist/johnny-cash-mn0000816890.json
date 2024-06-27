@@ -1,9 +1,9 @@
 {
-  "id" : "johnny-cash-mn0000816890",
-  "name" : "Johnny Cash",
   "activeDates" : "1950s - 2000s",
   "birthDate" : "February 26, 1932",
   "birthPlace" : "Kingsland, AR",
+  "id" : "johnny-cash-mn0000816890",
+  "name" : "Johnny Cash",
   "styles" : [ {
     "name" : "Country Gospel",
     "url" : "https://www.allmusic.com/style/country-gospel-ma0000002534"
@@ -31,1018 +31,1024 @@
   } ],
   "decades" : "1950s - 2000s",
   "genres" : "Country",
-  "discography" : [ {
-    "albumYear" : "1957",
-    "albumTitle" : "With His Hot and Blue Guitar",
-    "musicRating" : "8",
-    "avgRating" : "9-1025"
-  }, {
-    "albumYear" : "1958",
-    "albumTitle" : "The Fabulous Johnny Cash",
-    "musicRating" : "8",
-    "avgRating" : "9-260"
-  }, {
-    "albumYear" : "1958",
-    "albumTitle" : "Sings the Songs That Made Him Famous",
-    "musicRating" : "7",
-    "avgRating" : "9-163"
-  }, {
-    "albumYear" : "1959",
-    "albumTitle" : "Hymns by Johnny Cash",
-    "musicRating" : "7",
-    "avgRating" : "8-97"
-  }, {
-    "albumYear" : "1959",
-    "albumTitle" : "Songs of Our Soil",
-    "musicRating" : "7",
-    "avgRating" : "9-117"
-  }, {
-    "albumYear" : "1960",
-    "albumTitle" : "Now, There Was a Song!",
-    "musicRating" : "8",
-    "avgRating" : "9-104"
-  }, {
-    "albumYear" : "1960",
-    "albumTitle" : "Ride This Train",
-    "musicRating" : "8",
-    "avgRating" : "8-157"
-  }, {
-    "albumYear" : "1960",
-    "albumTitle" : "Sings Hank Williams",
-    "musicRating" : "",
-    "avgRating" : "8-15"
-  }, {
-    "albumYear" : "1961",
-    "albumTitle" : "The Lure of the Grand Canyon",
-    "musicRating" : "3",
-    "avgRating" : "7-20"
-  }, {
-    "albumYear" : "1961",
-    "albumTitle" : "Now Here's Johnny Cash",
-    "musicRating" : "5",
-    "avgRating" : "8-43"
-  }, {
-    "albumYear" : "1962",
-    "albumTitle" : "Hymns from the Heart",
-    "musicRating" : "4",
-    "avgRating" : "7-36"
-  }, {
-    "albumYear" : "1962",
-    "albumTitle" : "The Sound of Johnny Cash",
-    "musicRating" : "5",
-    "avgRating" : "8-48"
-  }, {
-    "albumYear" : "1963",
-    "albumTitle" : "The Christmas Spirit",
-    "musicRating" : "6",
-    "avgRating" : "8-42"
-  }, {
-    "albumYear" : "1963",
-    "albumTitle" : "Blood, Sweat and Tears",
-    "musicRating" : "5",
-    "avgRating" : "8-86"
-  }, {
-    "albumYear" : "1963",
-    "albumTitle" : "Ring of Fire: The Best of Johnny Cash",
-    "musicRating" : "7",
-    "avgRating" : "9-119"
-  }, {
-    "albumYear" : "1964",
-    "albumTitle" : "Bitter Tears (Ballads of the American Indian)",
-    "musicRating" : "8",
-    "avgRating" : "9-174"
-  }, {
-    "albumYear" : "1964",
-    "albumTitle" : "I Walk the Line",
-    "musicRating" : "8",
-    "avgRating" : "9-502"
-  }, {
-    "albumYear" : "1964",
-    "albumTitle" : "Keep on the Sunnyside",
-    "musicRating" : "3",
-    "avgRating" : "8-15"
-  }, {
-    "albumYear" : "1965",
-    "albumTitle" : "Ballads of the True West 2",
-    "musicRating" : "8",
-    "avgRating" : "9-12"
-  }, {
-    "albumYear" : "1965",
-    "albumTitle" : "Orange Blossom Special",
-    "musicRating" : "7",
-    "avgRating" : "9-188"
-  }, {
-    "albumYear" : "1965",
-    "albumTitle" : "Sings the Ballads of the True West",
-    "musicRating" : "9",
-    "avgRating" : "9-180"
-  }, {
-    "albumYear" : "1965",
-    "albumTitle" : "The Sons of Katie Elder",
-    "musicRating" : "3",
-    "avgRating" : "8-8"
-  }, {
-    "albumYear" : "1966",
-    "albumTitle" : "Happiness Is You",
-    "musicRating" : "4",
-    "avgRating" : "7-43"
-  }, {
-    "albumYear" : "1966",
-    "albumTitle" : "Mean as Hell!",
-    "musicRating" : "7",
-    "avgRating" : "8-31"
-  }, {
-    "albumYear" : "1966",
-    "albumTitle" : "Everybody Loves a Nut",
-    "musicRating" : "7",
-    "avgRating" : "8-58"
-  }, {
-    "albumYear" : "1966",
-    "albumTitle" : "That's What You Get for Loving Me",
-    "musicRating" : "",
-    "avgRating" : "8-7"
-  }, {
-    "albumYear" : "1967",
-    "albumTitle" : "Carryin' On",
-    "musicRating" : "4",
-    "avgRating" : "8-67"
-  }, {
-    "albumYear" : "1968",
-    "albumTitle" : "At Folsom Prison [1968]",
-    "musicRating" : "9",
-    "avgRating" : "10-1623"
-  }, {
-    "albumYear" : "1968",
-    "albumTitle" : "From Sea to Shining Sea",
-    "musicRating" : "5",
-    "avgRating" : "8-37"
-  }, {
-    "albumYear" : "1968",
-    "albumTitle" : "Heart of Cash",
-    "musicRating" : "",
-    "avgRating" : "8-11"
-  }, {
-    "albumYear" : "1968",
-    "albumTitle" : "Old Golden Throat",
-    "musicRating" : "5",
-    "avgRating" : "8-17"
-  }, {
-    "albumYear" : "1969",
-    "albumTitle" : "Grand Canyon Suite",
-    "musicRating" : "",
-    "avgRating" : "8-8"
-  }, {
-    "albumYear" : "1969",
-    "albumTitle" : "Hello, I'm Johnny Cash",
-    "musicRating" : "7",
-    "avgRating" : "9-110"
-  }, {
-    "albumYear" : "1969",
-    "albumTitle" : "Jackson",
-    "musicRating" : "3",
-    "avgRating" : "8-9"
-  }, {
-    "albumYear" : "1969",
-    "albumTitle" : "More of Old Golden Throat",
-    "musicRating" : "",
-    "avgRating" : "8-13"
-  }, {
-    "albumYear" : "1969",
-    "albumTitle" : "At San Quentin [1969]",
-    "musicRating" : "9",
-    "avgRating" : "10-1192"
-  }, {
-    "albumYear" : "1970",
-    "albumTitle" : "The Johnny Cash Show",
-    "musicRating" : "7",
-    "avgRating" : "9-73"
-  }, {
-    "albumYear" : "1970",
-    "albumTitle" : "Little Fauss and Big Halsy [Original Soundtrack]",
-    "musicRating" : "3",
-    "avgRating" : "8-21"
-  }, {
-    "albumYear" : "1971",
-    "albumTitle" : "International Superstar",
-    "musicRating" : "3",
-    "avgRating" : "8-10"
-  }, {
-    "albumYear" : "1971",
-    "albumTitle" : "Man in Black",
-    "musicRating" : "5",
-    "avgRating" : "9-86"
-  }, {
-    "albumYear" : "1971",
-    "albumTitle" : "The Man, The World, His Music",
-    "musicRating" : "",
-    "avgRating" : "8-12"
-  }, {
-    "albumYear" : "1972",
-    "albumTitle" : "America: A 200-Year Salute in Story and Song",
-    "musicRating" : "3",
-    "avgRating" : "7-49"
-  }, {
-    "albumYear" : "1972",
-    "albumTitle" : "Johnny Cash Family Christmas",
-    "musicRating" : "4",
-    "avgRating" : "8-21"
-  }, {
-    "albumYear" : "1972",
-    "albumTitle" : "A Thing Called Love",
-    "musicRating" : "5",
-    "avgRating" : "8-31"
-  }, {
-    "albumYear" : "1973",
-    "albumTitle" : "Country & Western Superstar",
-    "musicRating" : "3",
-    "avgRating" : "8-11"
-  }, {
-    "albumYear" : "1973",
-    "albumTitle" : "Johnny Cash and His Woman",
-    "musicRating" : "3",
-    "avgRating" : "8-21"
-  }, {
-    "albumYear" : "1973",
-    "albumTitle" : "På Österåker",
-    "musicRating" : "3",
-    "avgRating" : "8-23"
-  }, {
-    "albumYear" : "1973",
-    "albumTitle" : "The Gospel Road, Pt. 2",
-    "musicRating" : "",
-    "avgRating" : "8-11"
-  }, {
-    "albumYear" : "1973",
-    "albumTitle" : "Any Old Wind That Blows",
-    "musicRating" : "3",
-    "avgRating" : "7-28"
-  }, {
-    "albumYear" : "1973",
-    "albumTitle" : "The Gospel Road",
-    "musicRating" : "",
-    "avgRating" : "7-31"
-  }, {
-    "albumYear" : "1974",
-    "albumTitle" : "John R. Cash",
-    "musicRating" : "7",
-    "avgRating" : "9-44"
-  }, {
-    "albumYear" : "1974",
-    "albumTitle" : "Junkie and the Juicehead Minus Me",
-    "musicRating" : "5",
-    "avgRating" : "8-21"
-  }, {
-    "albumYear" : "1974",
-    "albumTitle" : "I Walk the Line [Original Soundtrack]",
-    "musicRating" : "",
-    "avgRating" : "8-18"
-  }, {
-    "albumYear" : "1974",
-    "albumTitle" : "Ragged Old Flag",
-    "musicRating" : "5",
-    "avgRating" : "8-59"
-  }, {
-    "albumYear" : "1975",
-    "albumTitle" : "Ridin' the Rails: The Great American Train Story",
-    "musicRating" : "",
-    "avgRating" : "8-8"
-  }, {
-    "albumYear" : "1975",
-    "albumTitle" : "The Johnny Cash Children's Album",
-    "musicRating" : "5",
-    "avgRating" : "8-36"
-  }, {
-    "albumYear" : "1975",
-    "albumTitle" : "Look at Them Beans",
-    "musicRating" : "3",
-    "avgRating" : "8-29"
-  }, {
-    "albumYear" : "1975",
-    "albumTitle" : "Sings Precious Memories",
-    "musicRating" : "4",
-    "avgRating" : "8-28"
-  }, {
-    "albumYear" : "1976",
-    "albumTitle" : "Destination Victoria Station",
-    "musicRating" : "3",
-    "avgRating" : "8-11"
-  }, {
-    "albumYear" : "1976",
-    "albumTitle" : "One Piece at a Time",
-    "musicRating" : "5",
-    "avgRating" : "9-62"
-  }, {
-    "albumYear" : "1976",
-    "albumTitle" : "Strawberry Cake",
-    "musicRating" : "3",
-    "avgRating" : "8-16"
-  }, {
-    "albumYear" : "1977",
-    "albumTitle" : "Last Gunfighter Ballad",
-    "musicRating" : "3",
-    "avgRating" : "7-27"
-  }, {
-    "albumYear" : "1977",
-    "albumTitle" : "The Rambler",
-    "musicRating" : "3",
-    "avgRating" : "7-40"
-  }, {
-    "albumYear" : "1978",
-    "albumTitle" : "Gone Girl",
-    "musicRating" : "3",
-    "avgRating" : "7-35"
-  }, {
-    "albumYear" : "1978",
-    "albumTitle" : "I Would Like to See You Again",
-    "musicRating" : "4",
-    "avgRating" : "8-29"
-  }, {
-    "albumYear" : "1979",
-    "albumTitle" : "Silver",
-    "musicRating" : "2",
-    "avgRating" : "8-53"
-  }, {
-    "albumYear" : "1980",
-    "albumTitle" : "A Believer Sings the Truth",
-    "musicRating" : "4",
-    "avgRating" : "8-14"
-  }, {
-    "albumYear" : "1980",
-    "albumTitle" : "Classic Christmas",
-    "musicRating" : "5",
-    "avgRating" : "8-22"
-  }, {
-    "albumYear" : "1980",
-    "albumTitle" : "Rockabilly Blues",
-    "musicRating" : "5",
-    "avgRating" : "8-45"
-  }, {
-    "albumYear" : "1981",
-    "albumTitle" : "The Baron",
-    "musicRating" : "3",
-    "avgRating" : "8-27"
-  }, {
-    "albumYear" : "1982",
-    "albumTitle" : "Inside a Swedish Prison",
-    "musicRating" : "8",
-    "avgRating" : "9-18"
-  }, {
-    "albumYear" : "1982",
-    "albumTitle" : "Adventures of Johnny Cash",
-    "musicRating" : "4",
-    "avgRating" : "8-25"
-  }, {
-    "albumYear" : "1982",
-    "albumTitle" : "The Survivors Live",
-    "musicRating" : "3",
-    "avgRating" : "8-15"
-  }, {
-    "albumYear" : "1983",
-    "albumTitle" : "Johnny 99",
-    "musicRating" : "7",
-    "avgRating" : "9-58"
-  }, {
-    "albumYear" : "1983",
-    "albumTitle" : "Koncert V Praze: In Prague Live",
-    "musicRating" : "",
-    "avgRating" : "8-16"
-  }, {
-    "albumYear" : "1985",
-    "albumTitle" : "Rainbow",
-    "musicRating" : "",
-    "avgRating" : "7-23"
-  }, {
-    "albumYear" : "1986",
-    "albumTitle" : "Believe in Him",
-    "musicRating" : "3",
-    "avgRating" : "8-12"
-  }, {
-    "albumYear" : "1986",
-    "albumTitle" : "Class of '55: Memphis Rock & Roll Homecoming",
-    "musicRating" : "5",
-    "avgRating" : "8-57"
-  }, {
-    "albumYear" : "1986",
-    "albumTitle" : "Heroes",
-    "musicRating" : "7",
-    "avgRating" : "9-64"
-  }, {
-    "albumYear" : "1987",
-    "albumTitle" : "Johnny Cash Is Coming to Town",
-    "musicRating" : "7",
-    "avgRating" : "8-37"
-  }, {
-    "albumYear" : "1987",
-    "albumTitle" : "I Love Country",
-    "musicRating" : "",
-    "avgRating" : "8-8"
-  }, {
-    "albumYear" : "1987",
-    "albumTitle" : "We the People",
-    "musicRating" : "",
-    "avgRating" : "8-13"
-  }, {
-    "albumYear" : "1988",
-    "albumTitle" : "Water From the Wells of Home",
-    "musicRating" : "3",
-    "avgRating" : "7-41"
-  }, {
-    "albumYear" : "1988",
-    "albumTitle" : "Classic Cash: Hall of Fame Series",
-    "musicRating" : "1",
-    "avgRating" : "8-33"
-  }, {
-    "albumYear" : "1989",
-    "albumTitle" : "Boom Chicka Boom",
-    "musicRating" : "7",
-    "avgRating" : "8-43"
-  }, {
-    "albumYear" : "1990",
-    "albumTitle" : "The Mystery of Life",
-    "musicRating" : "5",
-    "avgRating" : "8-38"
-  }, {
-    "albumYear" : "1991",
-    "albumTitle" : "Christmas",
-    "musicRating" : "3",
-    "avgRating" : "8-20"
-  }, {
-    "albumYear" : "1994",
-    "albumTitle" : "American Recordings",
-    "musicRating" : "8",
-    "avgRating" : "9-1063"
-  }, {
-    "albumYear" : "1996",
-    "albumTitle" : "Unchained",
-    "musicRating" : "6",
-    "avgRating" : "9-490"
-  }, {
-    "albumYear" : "1998",
-    "albumTitle" : "VH1 Storytellers",
-    "musicRating" : "5",
-    "avgRating" : "8-117"
-  }, {
-    "albumYear" : "2000",
-    "albumTitle" : "American III: Solitary Man",
-    "musicRating" : "5",
-    "avgRating" : "9-549"
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "American IV: The Man Comes Around",
-    "musicRating" : "4",
-    "avgRating" : "9-1090"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "A Concert Behind Prison Walls",
-    "musicRating" : "4",
-    "avgRating" : "8-141"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "My Mother's Hymn Book",
-    "musicRating" : "8",
-    "avgRating" : "9-170"
-  }, {
-    "albumYear" : "2006",
-    "albumTitle" : "American V: A Hundred Highways",
-    "musicRating" : "7",
-    "avgRating" : "9-548"
-  }, {
-    "albumYear" : "2010",
-    "albumTitle" : "American VI: Ain't No Grave",
-    "musicRating" : "7",
-    "avgRating" : "9-402"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Up Country",
-    "musicRating" : "",
-    "avgRating" : "8-7"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "With His Hot and Blue Guitar",
+      "albumYear" : "1957",
+      "avgRating" : "9-1026",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "The Fabulous Johnny Cash",
+      "albumYear" : "1958",
+      "avgRating" : "9-263",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Sings the Songs That Made Him Famous",
+      "albumYear" : "1958",
+      "avgRating" : "9-163",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Hymns by Johnny Cash",
+      "albumYear" : "1959",
+      "avgRating" : "8-97",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Songs of Our Soil",
+      "albumYear" : "1959",
+      "avgRating" : "9-117",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Now, There Was a Song!",
+      "albumYear" : "1960",
+      "avgRating" : "9-106",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Ride This Train",
+      "albumYear" : "1960",
+      "avgRating" : "8-159",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Sings Hank Williams",
+      "albumYear" : "1960",
+      "avgRating" : "8-16",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "The Lure of the Grand Canyon",
+      "albumYear" : "1961",
+      "avgRating" : "7-20",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Now Here's Johnny Cash",
+      "albumYear" : "1961",
+      "avgRating" : "8-43",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Hymns from the Heart",
+      "albumYear" : "1962",
+      "avgRating" : "7-36",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "The Sound of Johnny Cash",
+      "albumYear" : "1962",
+      "avgRating" : "8-48",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "The Christmas Spirit",
+      "albumYear" : "1963",
+      "avgRating" : "8-42",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Blood, Sweat and Tears",
+      "albumYear" : "1963",
+      "avgRating" : "8-86",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Ring of Fire: The Best of Johnny Cash",
+      "albumYear" : "1963",
+      "avgRating" : "9-119",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Bitter Tears (Ballads of the American Indian)",
+      "albumYear" : "1964",
+      "avgRating" : "9-175",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "I Walk the Line",
+      "albumYear" : "1964",
+      "avgRating" : "9-504",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Keep on the Sunnyside",
+      "albumYear" : "1964",
+      "avgRating" : "8-15",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Ballads of the True West 2",
+      "albumYear" : "1965",
+      "avgRating" : "9-12",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Orange Blossom Special",
+      "albumYear" : "1965",
+      "avgRating" : "9-188",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Sings the Ballads of the True West",
+      "albumYear" : "1965",
+      "avgRating" : "9-181",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "The Sons of Katie Elder",
+      "albumYear" : "1965",
+      "avgRating" : "8-8",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Happiness Is You",
+      "albumYear" : "1966",
+      "avgRating" : "7-43",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Mean as Hell!",
+      "albumYear" : "1966",
+      "avgRating" : "8-31",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Everybody Loves a Nut",
+      "albumYear" : "1966",
+      "avgRating" : "8-58",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "That's What You Get for Loving Me",
+      "albumYear" : "1966",
+      "avgRating" : "8-7",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Carryin' On",
+      "albumYear" : "1967",
+      "avgRating" : "8-67",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "At Folsom Prison [1968]",
+      "albumYear" : "1968",
+      "avgRating" : "10-1631",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "From Sea to Shining Sea",
+      "albumYear" : "1968",
+      "avgRating" : "8-37",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Heart of Cash",
+      "albumYear" : "1968",
+      "avgRating" : "8-11",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Old Golden Throat",
+      "albumYear" : "1968",
+      "avgRating" : "8-17",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Grand Canyon Suite",
+      "albumYear" : "1969",
+      "avgRating" : "8-8",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Hello, I'm Johnny Cash",
+      "albumYear" : "1969",
+      "avgRating" : "9-111",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Jackson",
+      "albumYear" : "1969",
+      "avgRating" : "8-9",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "More of Old Golden Throat",
+      "albumYear" : "1969",
+      "avgRating" : "8-13",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "At San Quentin [1969]",
+      "albumYear" : "1969",
+      "avgRating" : "10-1195",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "The Johnny Cash Show",
+      "albumYear" : "1970",
+      "avgRating" : "9-73",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Little Fauss and Big Halsy [Original Soundtrack]",
+      "albumYear" : "1970",
+      "avgRating" : "8-21",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "International Superstar",
+      "albumYear" : "1971",
+      "avgRating" : "8-10",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Man in Black",
+      "albumYear" : "1971",
+      "avgRating" : "9-86",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "The Man, The World, His Music",
+      "albumYear" : "1971",
+      "avgRating" : "8-12",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "America: A 200-Year Salute in Story and Song",
+      "albumYear" : "1972",
+      "avgRating" : "7-49",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Johnny Cash Family Christmas",
+      "albumYear" : "1972",
+      "avgRating" : "8-21",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "A Thing Called Love",
+      "albumYear" : "1972",
+      "avgRating" : "8-31",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Country & Western Superstar",
+      "albumYear" : "1973",
+      "avgRating" : "8-11",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Johnny Cash and His Woman",
+      "albumYear" : "1973",
+      "avgRating" : "8-21",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "På Österåker",
+      "albumYear" : "1973",
+      "avgRating" : "8-23",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "The Gospel Road, Pt. 2",
+      "albumYear" : "1973",
+      "avgRating" : "8-11",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Any Old Wind That Blows",
+      "albumYear" : "1973",
+      "avgRating" : "7-28",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "The Gospel Road",
+      "albumYear" : "1973",
+      "avgRating" : "7-31",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "John R. Cash",
+      "albumYear" : "1974",
+      "avgRating" : "9-44",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Junkie and the Juicehead Minus Me",
+      "albumYear" : "1974",
+      "avgRating" : "8-21",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "I Walk the Line [Original Soundtrack]",
+      "albumYear" : "1974",
+      "avgRating" : "8-18",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Ragged Old Flag",
+      "albumYear" : "1974",
+      "avgRating" : "8-59",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Ridin' the Rails: The Great American Train Story",
+      "albumYear" : "1975",
+      "avgRating" : "8-8",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "The Johnny Cash Children's Album",
+      "albumYear" : "1975",
+      "avgRating" : "8-36",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Look at Them Beans",
+      "albumYear" : "1975",
+      "avgRating" : "8-29",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Sings Precious Memories",
+      "albumYear" : "1975",
+      "avgRating" : "8-28",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Destination Victoria Station",
+      "albumYear" : "1976",
+      "avgRating" : "8-11",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "One Piece at a Time",
+      "albumYear" : "1976",
+      "avgRating" : "9-62",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Strawberry Cake",
+      "albumYear" : "1976",
+      "avgRating" : "8-16",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Last Gunfighter Ballad",
+      "albumYear" : "1977",
+      "avgRating" : "7-27",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "The Rambler",
+      "albumYear" : "1977",
+      "avgRating" : "7-40",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Gone Girl",
+      "albumYear" : "1978",
+      "avgRating" : "7-35",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "I Would Like to See You Again",
+      "albumYear" : "1978",
+      "avgRating" : "8-29",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Silver",
+      "albumYear" : "1979",
+      "avgRating" : "8-53",
+      "musicRating" : "2"
+    }, {
+      "albumTitle" : "A Believer Sings the Truth",
+      "albumYear" : "1980",
+      "avgRating" : "8-14",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Classic Christmas",
+      "albumYear" : "1980",
+      "avgRating" : "8-22",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Rockabilly Blues",
+      "albumYear" : "1980",
+      "avgRating" : "8-45",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "The Baron",
+      "albumYear" : "1981",
+      "avgRating" : "8-27",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Inside a Swedish Prison",
+      "albumYear" : "1982",
+      "avgRating" : "9-18",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Adventures of Johnny Cash",
+      "albumYear" : "1982",
+      "avgRating" : "8-25",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "The Survivors Live",
+      "albumYear" : "1982",
+      "avgRating" : "8-15",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Johnny 99",
+      "albumYear" : "1983",
+      "avgRating" : "9-58",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Koncert V Praze: In Prague Live",
+      "albumYear" : "1983",
+      "avgRating" : "8-16",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Rainbow",
+      "albumYear" : "1985",
+      "avgRating" : "7-23",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Believe in Him",
+      "albumYear" : "1986",
+      "avgRating" : "8-12",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Class of '55: Memphis Rock & Roll Homecoming",
+      "albumYear" : "1986",
+      "avgRating" : "8-57",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Heroes",
+      "albumYear" : "1986",
+      "avgRating" : "9-64",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Johnny Cash Is Coming to Town",
+      "albumYear" : "1987",
+      "avgRating" : "8-37",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "I Love Country",
+      "albumYear" : "1987",
+      "avgRating" : "8-8",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "We the People",
+      "albumYear" : "1987",
+      "avgRating" : "8-13",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Water From the Wells of Home",
+      "albumYear" : "1988",
+      "avgRating" : "7-41",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "Classic Cash: Hall of Fame Series",
+      "albumYear" : "1988",
+      "avgRating" : "8-33",
+      "musicRating" : "1"
+    }, {
+      "albumTitle" : "Boom Chicka Boom",
+      "albumYear" : "1989",
+      "avgRating" : "8-43",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "The Mystery of Life",
+      "albumYear" : "1990",
+      "avgRating" : "8-38",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Christmas",
+      "albumYear" : "1991",
+      "avgRating" : "8-20",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "American Recordings",
+      "albumYear" : "1994",
+      "avgRating" : "9-1065",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Unchained",
+      "albumYear" : "1996",
+      "avgRating" : "9-493",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "VH1 Storytellers",
+      "albumYear" : "1998",
+      "avgRating" : "8-118",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "American III: Solitary Man",
+      "albumYear" : "2000",
+      "avgRating" : "9-551",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "American IV: The Man Comes Around",
+      "albumYear" : "2002",
+      "avgRating" : "9-1093",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "A Concert Behind Prison Walls",
+      "albumYear" : "2003",
+      "avgRating" : "8-141",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "My Mother's Hymn Book",
+      "albumYear" : "2004",
+      "avgRating" : "9-170",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "American V: A Hundred Highways",
+      "albumYear" : "2006",
+      "avgRating" : "9-549",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "American VI: Ain't No Grave",
+      "albumYear" : "2010",
+      "avgRating" : "9-402",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Up Country",
+      "albumYear" : "",
+      "avgRating" : "8-7",
+      "musicRating" : ""
+    } ],
+    "id" : "johnny-cash-mn0000816890"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Bobby Bare",
-      "ArtistId" : "bobby-bare-mn0000066429"
-    }, {
-      "artist" : "Carl Perkins",
-      "ArtistId" : "carl-perkins-mn0000792953"
-    }, {
-      "artist" : "Carlene Carter",
-      "ArtistId" : "carlene-carter-mn0000142050"
-    }, {
-      "artist" : "Elvis Presley",
-      "ArtistId" : "elvis-presley-mn0000180228"
-    }, {
-      "artist" : "George Jones",
-      "ArtistId" : "george-jones-mn0000944310"
-    }, {
-      "artist" : "Jerry Lee Lewis",
-      "ArtistId" : "jerry-lee-lewis-mn0000332141"
-    }, {
-      "artist" : "Kris Kristofferson",
-      "ArtistId" : "kris-kristofferson-mn0000774588"
-    }, {
-      "artist" : "Merle Haggard",
-      "ArtistId" : "merle-haggard-mn0000410219"
-    }, {
-      "artist" : "Rodney Crowell",
-      "ArtistId" : "rodney-crowell-mn0000294085"
-    }, {
-      "artist" : "Roger Miller",
-      "ArtistId" : "roger-miller-mn0000151431"
-    }, {
-      "artist" : "Rosanne Cash",
-      "ArtistId" : "rosanne-cash-mn0000285272"
-    }, {
-      "artist" : "Warren Smith",
-      "ArtistId" : "warren-smith-mn0001792309"
-    }, {
-      "artist" : "Waylon Jennings",
-      "ArtistId" : "waylon-jennings-mn0000200791"
-    }, {
-      "artist" : "Willie Nelson",
-      "ArtistId" : "willie-nelson-mn0000583959"
-    }, {
-      "artist" : "Johnny Horton",
-      "ArtistId" : "johnny-horton-mn0000198783"
-    }, {
-      "artist" : "Marty Robbins",
-      "ArtistId" : "marty-robbins-mn0000858710"
-    }, {
-      "artist" : "The Highwaymen",
-      "ArtistId" : "the-highwaymen-mn0000075801"
-    }, {
-      "artist" : "Big Al Downing",
-      "ArtistId" : "big-al-downing-mn0000057373"
-    }, {
-      "artist" : "Bob Dylan",
-      "ArtistId" : "bob-dylan-mn0000066915"
-    }, {
-      "artist" : "Brenda Lee",
-      "ArtistId" : "brenda-lee-mn0000934069"
-    }, {
-      "artist" : "Buck Owens",
-      "ArtistId" : "buck-owens-mn0000941579"
-    }, {
-      "artist" : "Carl Mann",
-      "ArtistId" : "carl-mann-mn0000161182"
-    }, {
-      "artist" : "Charlie Feathers",
-      "ArtistId" : "charlie-feathers-mn0000207735"
-    }, {
-      "artist" : "Charlie Rich",
-      "ArtistId" : "charlie-rich-mn0000179730"
-    }, {
-      "artist" : "Chris Isaak",
-      "ArtistId" : "chris-isaak-mn0000775323"
-    }, {
-      "artist" : "Clint Black",
-      "ArtistId" : "clint-black-mn0000792370"
-    }, {
-      "artist" : "Conway Twitty",
-      "ArtistId" : "conway-twitty-mn0000780451"
-    }, {
-      "artist" : "Dwight Yoakam",
-      "ArtistId" : "dwight-yoakam-mn0000791483"
-    }, {
-      "artist" : "Emmylou Harris",
-      "ArtistId" : "emmylou-harris-mn0000159699"
-    }, {
-      "artist" : "Faron Young",
-      "ArtistId" : "faron-young-mn0000143951"
-    }, {
-      "artist" : "Flatt & Scruggs",
-      "ArtistId" : "flatt-scruggs-mn0000227527"
-    }, {
-      "artist" : "Jack Scott",
-      "ArtistId" : "jack-scott-mn0000780070"
-    }, {
-      "artist" : "Jerry Reed",
-      "ArtistId" : "jerry-reed-mn0000334644"
-    }, {
-      "artist" : "Jimmie Driftwood",
-      "ArtistId" : "jimmie-driftwood-mn0000297207"
-    }, {
-      "artist" : "Joe Ely",
-      "ArtistId" : "joe-ely-mn0000152002"
-    }, {
-      "artist" : "Johnny Burnette",
-      "ArtistId" : "johnny-burnette-mn0000241813"
-    }, {
-      "artist" : "Larry Gatlin",
-      "ArtistId" : "larry-gatlin-mn0000129945"
-    }, {
-      "artist" : "Lost State of Franklin",
-      "ArtistId" : "lost-state-of-franklin-mn0001554074"
-    }, {
-      "artist" : "Roy Orbison",
-      "ArtistId" : "roy-orbison-mn0000852007"
-    }, {
-      "artist" : "Stonewall Jackson",
-      "ArtistId" : "stonewall-jackson-mn0000523661"
-    }, {
-      "artist" : "The Everly Brothers",
-      "ArtistId" : "the-everly-brothers-mn0000046699"
-    }, {
-      "artist" : "The Statler Brothers",
-      "ArtistId" : "the-statler-brothers-mn0000578031"
-    }, {
-      "artist" : "Tommy Cash",
-      "ArtistId" : "tommy-cash-mn0000933402"
-    }, {
-      "artist" : "Dick Curless",
-      "ArtistId" : "dick-curless-mn0000821252"
-    }, {
-      "artist" : "Ed Ames",
-      "ArtistId" : "ed-ames-mn0000172772"
-    }, {
-      "artist" : "Kitty Wells",
-      "ArtistId" : "kitty-wells-mn0000098189"
-    }, {
-      "artist" : "Porter Wagoner",
-      "ArtistId" : "porter-wagoner-mn0000355451"
-    }, {
-      "artist" : "Billy Edd Wheeler",
-      "ArtistId" : "billy-edd-wheeler-mn0000767622"
-    }, {
-      "artist" : "Billy Lee Riley",
-      "ArtistId" : "billy-lee-riley-mn0000089713"
-    }, {
-      "artist" : "Charlie Louvin",
-      "ArtistId" : "charlie-louvin-mn0000807489"
-    }, {
-      "artist" : "Chris Gantry",
-      "ArtistId" : "chris-gantry-mn0000097796"
-    }, {
-      "artist" : "Dave Dudley",
-      "ArtistId" : "dave-dudley-mn0000959490"
-    }, {
-      "artist" : "David Allan Coe",
-      "ArtistId" : "david-allan-coe-mn0000629609"
-    }, {
-      "artist" : "Henson Cargill",
-      "ArtistId" : "henson-cargill-mn0000955569"
-    }, {
-      "artist" : "Jim Reeves",
-      "ArtistId" : "jim-reeves-mn0000903609"
-    }, {
-      "artist" : "Johnny Paycheck",
-      "ArtistId" : "johnny-paycheck-mn0000251375"
-    }, {
-      "artist" : "Little Jimmy Dickens",
-      "ArtistId" : "little-jimmy-dickens-mn0000314346"
-    }, {
-      "artist" : "Loretta Lynn",
-      "ArtistId" : "loretta-lynn-mn0000234325"
-    }, {
-      "artist" : "Patsy Cline",
-      "ArtistId" : "patsy-cline-mn0000014651"
-    }, {
-      "artist" : "Ramblin' Jack Elliott",
-      "ArtistId" : "ramblin-jack-elliott-mn0000391398"
-    }, {
-      "artist" : "Roy Clark",
-      "ArtistId" : "roy-clark-mn0000341652"
-    }, {
-      "artist" : "Sleepy LaBeef",
-      "ArtistId" : "sleepy-labeef-mn0000027372"
-    }, {
-      "artist" : "The Glaser Brothers",
-      "ArtistId" : "the-glaser-brothers-mn0000078232"
-    }, {
-      "artist" : "Carl Smith",
-      "ArtistId" : "carl-smith-mn0000163198"
-    }, {
-      "artist" : "Merle Kilgore",
-      "ArtistId" : "merle-kilgore-mn0000413210"
-    }, {
-      "artist" : "The Maddox Brothers & Rose",
-      "ArtistId" : "the-maddox-brothers-rose-mn0000193160"
-    } ],
-    "influencers" : [ {
-      "artist" : "Carl Smith",
-      "ArtistId" : "carl-smith-mn0000163198"
-    }, {
-      "artist" : "Hank Williams",
-      "ArtistId" : "hank-williams-mn0000549797"
-    }, {
-      "artist" : "The Carter Family",
-      "ArtistId" : "the-carter-family-mn0000051910"
-    }, {
-      "artist" : "Ernest Tubb",
-      "ArtistId" : "ernest-tubb-mn0000200775"
-    }, {
-      "artist" : "Hank Snow",
-      "ArtistId" : "hank-snow-mn0000662800"
-    }, {
-      "artist" : "Jimmie Rodgers",
-      "ArtistId" : "jimmie-rodgers-mn0000343852"
-    }, {
-      "artist" : "Tex Ritter",
-      "ArtistId" : "tex-ritter-mn0000033680"
-    }, {
-      "artist" : "Woody Guthrie",
-      "ArtistId" : "woody-guthrie-mn0000577531"
-    }, {
-      "artist" : "Gene Autry",
-      "ArtistId" : "gene-autry-mn0000160094"
-    }, {
-      "artist" : "Lead Belly",
-      "ArtistId" : "lead-belly-mn0000124390"
-    }, {
-      "artist" : "Lefty Frizzell",
-      "ArtistId" : "lefty-frizzell-mn0000190946"
-    }, {
-      "artist" : "Roy Acuff",
-      "ArtistId" : "roy-acuff-mn0000848784"
-    }, {
-      "artist" : "The Stoneman Family",
-      "ArtistId" : "the-stoneman-family-mn0000475313"
-    }, {
-      "artist" : "Bob Wills",
-      "ArtistId" : "bob-wills-mn0000074970"
-    }, {
-      "artist" : "Cowboy Copas",
-      "ArtistId" : "cowboy-copas-mn0000120560"
-    }, {
-      "artist" : "Dock Boggs",
-      "ArtistId" : "dock-boggs-mn0000794145"
-    }, {
-      "artist" : "John Lee Hooker",
-      "ArtistId" : "john-lee-hooker-mn0000815039"
-    }, {
-      "artist" : "The Louvin Brothers",
-      "ArtistId" : "the-louvin-brothers-mn0000045057"
-    }, {
-      "artist" : "The Sons of the Pioneers",
-      "ArtistId" : "the-sons-of-the-pioneers-mn0000030821"
-    }, {
-      "artist" : "The Swan Silvertones",
-      "ArtistId" : "the-swan-silvertones-mn0000034721"
-    }, {
-      "artist" : "Webb Pierce",
-      "ArtistId" : "webb-pierce-mn0000198901"
-    } ],
-    "followers" : [ {
-      "artist" : "John Prine",
-      "ArtistId" : "john-prine-mn0000814751"
-    }, {
-      "artist" : "Kris Kristofferson",
-      "ArtistId" : "kris-kristofferson-mn0000774588"
-    }, {
-      "artist" : "Rodney Crowell",
-      "ArtistId" : "rodney-crowell-mn0000294085"
-    }, {
-      "artist" : "Rosanne Cash",
-      "ArtistId" : "rosanne-cash-mn0000285272"
-    }, {
-      "artist" : "Steve Earle",
-      "ArtistId" : "steve-earle-mn0000034249"
-    }, {
-      "artist" : "Waylon Jennings",
-      "ArtistId" : "waylon-jennings-mn0000200791"
-    }, {
-      "artist" : "Bob Dylan",
-      "ArtistId" : "bob-dylan-mn0000066915"
-    }, {
-      "artist" : "Charlie Daniels",
-      "ArtistId" : "charlie-daniels-mn0000806247"
-    }, {
-      "artist" : "David Allan Coe",
-      "ArtistId" : "david-allan-coe-mn0000629609"
-    }, {
-      "artist" : "Jerry Jeff Walker",
-      "ArtistId" : "jerry-jeff-walker-mn0000845468"
-    }, {
-      "artist" : "Marty Stuart",
-      "ArtistId" : "marty-stuart-mn0000378041"
-    }, {
-      "artist" : "Merle Haggard",
-      "ArtistId" : "merle-haggard-mn0000410219"
-    }, {
-      "artist" : "Moe Bandy",
-      "ArtistId" : "moe-bandy-mn0000477954"
-    }, {
-      "artist" : "Neil Young",
-      "ArtistId" : "neil-young-mn0000379125"
-    }, {
-      "artist" : "Steve Young",
-      "ArtistId" : "steve-young-mn0000756959"
-    }, {
-      "artist" : "Tom Petty",
-      "ArtistId" : "tom-petty-mn0000612716"
-    }, {
-      "artist" : "Tom T. Hall",
-      "ArtistId" : "tom-t-hall-mn0000515628"
-    }, {
-      "artist" : "Tompall Glaser",
-      "ArtistId" : "tompall-glaser-mn0000621187"
-    }, {
-      "artist" : "Arlo Guthrie",
-      "ArtistId" : "arlo-guthrie-mn0000927736"
-    }, {
-      "artist" : "Billy Joe Shaver",
-      "ArtistId" : "billy-joe-shaver-mn0000072205"
-    }, {
-      "artist" : "Bobby Bare",
-      "ArtistId" : "bobby-bare-mn0000066429"
-    }, {
-      "artist" : "Calexico",
-      "ArtistId" : "calexico-mn0000944293"
-    }, {
-      "artist" : "Dave Alvin",
-      "ArtistId" : "dave-alvin-mn0000679219"
-    }, {
-      "artist" : "Dave Dudley",
-      "ArtistId" : "dave-dudley-mn0000959490"
-    }, {
-      "artist" : "Dave Edmunds",
-      "ArtistId" : "dave-edmunds-mn0000584923"
-    }, {
-      "artist" : "Eddie Rabbitt",
-      "ArtistId" : "eddie-rabbitt-mn0000794846"
-    }, {
-      "artist" : "Garth Brooks",
-      "ArtistId" : "garth-brooks-mn0000798248"
-    }, {
-      "artist" : "Gram Parsons",
-      "ArtistId" : "gram-parsons-mn0000987491"
-    }, {
-      "artist" : "Guy Clark",
-      "ArtistId" : "guy-clark-mn0000543867"
-    }, {
-      "artist" : "Hank Williams III",
-      "ArtistId" : "hank-williams-iii-mn0000947752"
-    }, {
-      "artist" : "Hasil Adkins",
-      "ArtistId" : "hasil-adkins-mn0000951924"
-    }, {
-      "artist" : "James McMurtry",
-      "ArtistId" : "james-mcmurtry-mn0000785357"
-    }, {
-      "artist" : "Jimmy Buffett",
-      "ArtistId" : "jimmy-buffett-mn0000350840"
-    }, {
-      "artist" : "Jo-El Sonnier",
-      "ArtistId" : "jo-el-sonnier-mn0000112638"
-    }, {
-      "artist" : "Junior Brown",
-      "ArtistId" : "junior-brown-mn0000300583"
-    }, {
-      "artist" : "Meat Puppets",
-      "ArtistId" : "meat-puppets-mn0000339577"
-    }, {
-      "artist" : "Michael Nesmith",
-      "ArtistId" : "michael-nesmith-mn0000463435"
-    }, {
-      "artist" : "Moby Grape",
-      "ArtistId" : "moby-grape-mn0000569914"
-    }, {
-      "artist" : "Nick Cave",
-      "ArtistId" : "nick-cave-mn0000397880"
-    }, {
-      "artist" : "Red Sovine",
-      "ArtistId" : "red-sovine-mn0000454240"
-    }, {
-      "artist" : "Shooter Jennings",
-      "ArtistId" : "shooter-jennings-mn0000036312"
-    }, {
-      "artist" : "Social Distortion",
-      "ArtistId" : "social-distortion-mn0000038302"
-    }, {
-      "artist" : "The International Submarine Band",
-      "ArtistId" : "the-international-submarine-band-mn0000097949"
-    }, {
-      "artist" : "Uncle Tupelo",
-      "ArtistId" : "uncle-tupelo-mn0000222927"
-    }, {
-      "artist" : "Waco Brothers",
-      "ArtistId" : "waco-brothers-mn0000923284"
-    }, {
-      "artist" : "X",
-      "ArtistId" : "x-mn0000960690"
-    }, {
-      "artist" : "Young Rebel Set",
-      "ArtistId" : "young-rebel-set-mn0001498196"
-    }, {
-      "artist" : "Brooks & Dunn",
-      "ArtistId" : "brooks-dunn-mn0000522768"
-    }, {
-      "artist" : "Buffalo Springfield",
-      "ArtistId" : "buffalo-springfield-mn0000939567"
-    }, {
-      "artist" : "C.W. McCall",
-      "ArtistId" : "cw-mccall-mn0000646260"
-    }, {
-      "artist" : "Flogging Molly",
-      "ArtistId" : "flogging-molly-mn0000187172"
-    }, {
-      "artist" : "George Strait",
-      "ArtistId" : "george-strait-mn0000944084"
-    }, {
-      "artist" : "Grinderman",
-      "ArtistId" : "grinderman-mn0000936249"
-    }, {
-      "artist" : "Johnny Horton",
-      "ArtistId" : "johnny-horton-mn0000198783"
-    }, {
-      "artist" : "Nick Lowe",
-      "ArtistId" : "nick-lowe-mn0000866841"
-    }, {
-      "artist" : "Richard Hawley",
-      "ArtistId" : "richard-hawley-mn0000346684"
-    }, {
-      "artist" : "The Walkabouts",
-      "ArtistId" : "the-walkabouts-mn0000924112"
-    }, {
-      "artist" : "Ashley J.",
-      "ArtistId" : "ashley-j-mn0001567176"
-    }, {
-      "artist" : "Daniel Romano",
-      "ArtistId" : "daniel-romano-mn0001567101"
-    }, {
-      "artist" : "G-Eazy",
-      "ArtistId" : "g-eazy-mn0001596299"
-    }, {
-      "artist" : "Hozier",
-      "ArtistId" : "hozier-mn0003144637"
-    }, {
-      "artist" : "Jordan Harvey",
-      "ArtistId" : "jordan-harvey-mn0003876957"
-    }, {
-      "artist" : "Matt Stell",
-      "ArtistId" : "matt-stell-mn0001479222"
-    }, {
-      "artist" : "Moonshine Bandits",
-      "ArtistId" : "moonshine-bandits-mn0000928079"
-    }, {
-      "artist" : "MXMS",
-      "ArtistId" : "mxms-mn0003402197"
-    }, {
-      "artist" : "NO",
-      "ArtistId" : "no-mn0002875652"
-    }, {
-      "artist" : "Phebe Starr",
-      "ArtistId" : "phebe-starr-mn0003386758"
-    }, {
-      "artist" : "Post Malone",
-      "ArtistId" : "post-malone-mn0003426458"
-    }, {
-      "artist" : "Rascal Flatts",
-      "ArtistId" : "rascal-flatts-mn0000868174"
-    }, {
-      "artist" : "RUNAGROUND",
-      "ArtistId" : "runaground-mn0003465461"
-    }, {
-      "artist" : "Sam Brothers",
-      "ArtistId" : "sam-brothers-mn0001611882"
-    }, {
-      "artist" : "Shawn Hook",
-      "ArtistId" : "shawn-hook-mn0002926957"
-    }, {
-      "artist" : "The Civil Wars",
-      "ArtistId" : "the-civil-wars-mn0002135629"
-    }, {
-      "artist" : "Trent Dabbs",
-      "ArtistId" : "trent-dabbs-mn0000810208"
-    }, {
-      "artist" : "Volbeat",
-      "ArtistId" : "volbeat-mn0000725175"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Luther Perkins",
-      "ArtistId" : "luther-perkins-mn0000072856"
-    }, {
-      "artist" : "Marshall Grant",
-      "ArtistId" : "marshall-grant-mn0000768818"
-    }, {
-      "artist" : "The Highwaymen",
-      "ArtistId" : "the-highwaymen-mn0000075801"
-    }, {
-      "artist" : "The Million Dollar Quartet",
-      "ArtistId" : "the-million-dollar-quartet-mn0000490877"
-    }, {
-      "artist" : "June Carter Cash",
-      "ArtistId" : "june-carter-cash-mn0000838300"
-    }, {
-      "artist" : "Jack Clement",
-      "ArtistId" : "jack-clement-mn0000126653"
-    }, {
-      "artist" : "U2",
-      "ArtistId" : "u2-mn0000219203"
-    }, {
-      "artist" : "Billy Ray Reynolds",
-      "ArtistId" : "billy-ray-reynolds-mn0000076607"
-    }, {
-      "artist" : "Bob Dylan",
-      "ArtistId" : "bob-dylan-mn0000066915"
-    }, {
-      "artist" : "Johnny Cash & the Tennessee Three",
-      "ArtistId" : "johnny-cash-the-tennessee-three-mn0000453224"
-    }, {
-      "artist" : "Johnny Cash & the Tennessee Two",
-      "ArtistId" : "johnny-cash-the-tennessee-two-mn0000240456"
-    }, {
-      "artist" : "Johnny Cash Family",
-      "ArtistId" : "johnny-cash-family-mn0001418244"
-    } ]
+    "id" : "johnny-cash-mn0000816890",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "luther-perkins-mn0000072856",
+        "artist" : "Luther Perkins"
+      }, {
+        "ArtistId" : "marshall-grant-mn0000768818",
+        "artist" : "Marshall Grant"
+      }, {
+        "ArtistId" : "the-highwaymen-mn0000075801",
+        "artist" : "The Highwaymen"
+      }, {
+        "ArtistId" : "the-million-dollar-quartet-mn0000490877",
+        "artist" : "The Million Dollar Quartet"
+      }, {
+        "ArtistId" : "june-carter-cash-mn0000838300",
+        "artist" : "June Carter Cash"
+      }, {
+        "ArtistId" : "jack-clement-mn0000126653",
+        "artist" : "Jack Clement"
+      }, {
+        "ArtistId" : "u2-mn0000219203",
+        "artist" : "U2"
+      }, {
+        "ArtistId" : "billy-ray-reynolds-mn0000076607",
+        "artist" : "Billy Ray Reynolds"
+      }, {
+        "ArtistId" : "bob-dylan-mn0000066915",
+        "artist" : "Bob Dylan"
+      }, {
+        "ArtistId" : "johnny-cash-the-tennessee-three-mn0000453224",
+        "artist" : "Johnny Cash & the Tennessee Three"
+      }, {
+        "ArtistId" : "johnny-cash-the-tennessee-two-mn0000240456",
+        "artist" : "Johnny Cash & the Tennessee Two"
+      }, {
+        "ArtistId" : "johnny-cash-family-mn0001418244",
+        "artist" : "Johnny Cash Family"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "john-prine-mn0000814751",
+        "artist" : "John Prine"
+      }, {
+        "ArtistId" : "kris-kristofferson-mn0000774588",
+        "artist" : "Kris Kristofferson"
+      }, {
+        "ArtistId" : "rodney-crowell-mn0000294085",
+        "artist" : "Rodney Crowell"
+      }, {
+        "ArtistId" : "rosanne-cash-mn0000285272",
+        "artist" : "Rosanne Cash"
+      }, {
+        "ArtistId" : "steve-earle-mn0000034249",
+        "artist" : "Steve Earle"
+      }, {
+        "ArtistId" : "waylon-jennings-mn0000200791",
+        "artist" : "Waylon Jennings"
+      }, {
+        "ArtistId" : "bob-dylan-mn0000066915",
+        "artist" : "Bob Dylan"
+      }, {
+        "ArtistId" : "charlie-daniels-mn0000806247",
+        "artist" : "Charlie Daniels"
+      }, {
+        "ArtistId" : "david-allan-coe-mn0000629609",
+        "artist" : "David Allan Coe"
+      }, {
+        "ArtistId" : "jerry-jeff-walker-mn0000845468",
+        "artist" : "Jerry Jeff Walker"
+      }, {
+        "ArtistId" : "marty-stuart-mn0000378041",
+        "artist" : "Marty Stuart"
+      }, {
+        "ArtistId" : "merle-haggard-mn0000410219",
+        "artist" : "Merle Haggard"
+      }, {
+        "ArtistId" : "moe-bandy-mn0000477954",
+        "artist" : "Moe Bandy"
+      }, {
+        "ArtistId" : "neil-young-mn0000379125",
+        "artist" : "Neil Young"
+      }, {
+        "ArtistId" : "steve-young-mn0000756959",
+        "artist" : "Steve Young"
+      }, {
+        "ArtistId" : "tom-petty-mn0000612716",
+        "artist" : "Tom Petty"
+      }, {
+        "ArtistId" : "tom-t-hall-mn0000515628",
+        "artist" : "Tom T. Hall"
+      }, {
+        "ArtistId" : "tompall-glaser-mn0000621187",
+        "artist" : "Tompall Glaser"
+      }, {
+        "ArtistId" : "arlo-guthrie-mn0000927736",
+        "artist" : "Arlo Guthrie"
+      }, {
+        "ArtistId" : "billy-joe-shaver-mn0000072205",
+        "artist" : "Billy Joe Shaver"
+      }, {
+        "ArtistId" : "bobby-bare-mn0000066429",
+        "artist" : "Bobby Bare"
+      }, {
+        "ArtistId" : "calexico-mn0000944293",
+        "artist" : "Calexico"
+      }, {
+        "ArtistId" : "dave-alvin-mn0000679219",
+        "artist" : "Dave Alvin"
+      }, {
+        "ArtistId" : "dave-dudley-mn0000959490",
+        "artist" : "Dave Dudley"
+      }, {
+        "ArtistId" : "dave-edmunds-mn0000584923",
+        "artist" : "Dave Edmunds"
+      }, {
+        "ArtistId" : "eddie-rabbitt-mn0000794846",
+        "artist" : "Eddie Rabbitt"
+      }, {
+        "ArtistId" : "garth-brooks-mn0000798248",
+        "artist" : "Garth Brooks"
+      }, {
+        "ArtistId" : "gram-parsons-mn0000987491",
+        "artist" : "Gram Parsons"
+      }, {
+        "ArtistId" : "guy-clark-mn0000543867",
+        "artist" : "Guy Clark"
+      }, {
+        "ArtistId" : "hank-williams-iii-mn0000947752",
+        "artist" : "Hank Williams III"
+      }, {
+        "ArtistId" : "hasil-adkins-mn0000951924",
+        "artist" : "Hasil Adkins"
+      }, {
+        "ArtistId" : "james-mcmurtry-mn0000785357",
+        "artist" : "James McMurtry"
+      }, {
+        "ArtistId" : "jimmy-buffett-mn0000350840",
+        "artist" : "Jimmy Buffett"
+      }, {
+        "ArtistId" : "jo-el-sonnier-mn0000112638",
+        "artist" : "Jo-El Sonnier"
+      }, {
+        "ArtistId" : "junior-brown-mn0000300583",
+        "artist" : "Junior Brown"
+      }, {
+        "ArtistId" : "meat-puppets-mn0000339577",
+        "artist" : "Meat Puppets"
+      }, {
+        "ArtistId" : "michael-nesmith-mn0000463435",
+        "artist" : "Michael Nesmith"
+      }, {
+        "ArtistId" : "moby-grape-mn0000569914",
+        "artist" : "Moby Grape"
+      }, {
+        "ArtistId" : "nick-cave-mn0000397880",
+        "artist" : "Nick Cave"
+      }, {
+        "ArtistId" : "red-sovine-mn0000454240",
+        "artist" : "Red Sovine"
+      }, {
+        "ArtistId" : "shooter-jennings-mn0000036312",
+        "artist" : "Shooter Jennings"
+      }, {
+        "ArtistId" : "social-distortion-mn0000038302",
+        "artist" : "Social Distortion"
+      }, {
+        "ArtistId" : "the-international-submarine-band-mn0000097949",
+        "artist" : "The International Submarine Band"
+      }, {
+        "ArtistId" : "uncle-tupelo-mn0000222927",
+        "artist" : "Uncle Tupelo"
+      }, {
+        "ArtistId" : "waco-brothers-mn0000923284",
+        "artist" : "Waco Brothers"
+      }, {
+        "ArtistId" : "x-mn0000960690",
+        "artist" : "X"
+      }, {
+        "ArtistId" : "young-rebel-set-mn0001498196",
+        "artist" : "Young Rebel Set"
+      }, {
+        "ArtistId" : "brooks-dunn-mn0000522768",
+        "artist" : "Brooks & Dunn"
+      }, {
+        "ArtistId" : "buffalo-springfield-mn0000939567",
+        "artist" : "Buffalo Springfield"
+      }, {
+        "ArtistId" : "cw-mccall-mn0000646260",
+        "artist" : "C.W. McCall"
+      }, {
+        "ArtistId" : "flogging-molly-mn0000187172",
+        "artist" : "Flogging Molly"
+      }, {
+        "ArtistId" : "george-strait-mn0000944084",
+        "artist" : "George Strait"
+      }, {
+        "ArtistId" : "grinderman-mn0000936249",
+        "artist" : "Grinderman"
+      }, {
+        "ArtistId" : "johnny-horton-mn0000198783",
+        "artist" : "Johnny Horton"
+      }, {
+        "ArtistId" : "nick-lowe-mn0000866841",
+        "artist" : "Nick Lowe"
+      }, {
+        "ArtistId" : "richard-hawley-mn0000346684",
+        "artist" : "Richard Hawley"
+      }, {
+        "ArtistId" : "the-walkabouts-mn0000924112",
+        "artist" : "The Walkabouts"
+      }, {
+        "ArtistId" : "ashley-j-mn0001567176",
+        "artist" : "Ashley J."
+      }, {
+        "ArtistId" : "daniel-romano-mn0001567101",
+        "artist" : "Daniel Romano"
+      }, {
+        "ArtistId" : "g-eazy-mn0001596299",
+        "artist" : "G-Eazy"
+      }, {
+        "ArtistId" : "hozier-mn0003144637",
+        "artist" : "Hozier"
+      }, {
+        "ArtistId" : "jordan-harvey-mn0003876957",
+        "artist" : "Jordan Harvey"
+      }, {
+        "ArtistId" : "matt-stell-mn0001479222",
+        "artist" : "Matt Stell"
+      }, {
+        "ArtistId" : "moonshine-bandits-mn0000928079",
+        "artist" : "Moonshine Bandits"
+      }, {
+        "ArtistId" : "mxms-mn0003402197",
+        "artist" : "MXMS"
+      }, {
+        "ArtistId" : "no-mn0002875652",
+        "artist" : "NO"
+      }, {
+        "ArtistId" : "phebe-starr-mn0003386758",
+        "artist" : "Phebe Starr"
+      }, {
+        "ArtistId" : "post-malone-mn0003426458",
+        "artist" : "Post Malone"
+      }, {
+        "ArtistId" : "rascal-flatts-mn0000868174",
+        "artist" : "Rascal Flatts"
+      }, {
+        "ArtistId" : "runaground-mn0003465461",
+        "artist" : "RUNAGROUND"
+      }, {
+        "ArtistId" : "sam-brothers-mn0001611882",
+        "artist" : "Sam Brothers"
+      }, {
+        "ArtistId" : "shawn-hook-mn0002926957",
+        "artist" : "Shawn Hook"
+      }, {
+        "ArtistId" : "the-civil-wars-mn0002135629",
+        "artist" : "The Civil Wars"
+      }, {
+        "ArtistId" : "trent-dabbs-mn0000810208",
+        "artist" : "Trent Dabbs"
+      }, {
+        "ArtistId" : "volbeat-mn0000725175",
+        "artist" : "Volbeat"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "carl-smith-mn0000163198",
+        "artist" : "Carl Smith"
+      }, {
+        "ArtistId" : "hank-williams-mn0000549797",
+        "artist" : "Hank Williams"
+      }, {
+        "ArtistId" : "the-carter-family-mn0000051910",
+        "artist" : "The Carter Family"
+      }, {
+        "ArtistId" : "ernest-tubb-mn0000200775",
+        "artist" : "Ernest Tubb"
+      }, {
+        "ArtistId" : "hank-snow-mn0000662800",
+        "artist" : "Hank Snow"
+      }, {
+        "ArtistId" : "jimmie-rodgers-mn0000343852",
+        "artist" : "Jimmie Rodgers"
+      }, {
+        "ArtistId" : "tex-ritter-mn0000033680",
+        "artist" : "Tex Ritter"
+      }, {
+        "ArtistId" : "woody-guthrie-mn0000577531",
+        "artist" : "Woody Guthrie"
+      }, {
+        "ArtistId" : "gene-autry-mn0000160094",
+        "artist" : "Gene Autry"
+      }, {
+        "ArtistId" : "lead-belly-mn0000124390",
+        "artist" : "Lead Belly"
+      }, {
+        "ArtistId" : "lefty-frizzell-mn0000190946",
+        "artist" : "Lefty Frizzell"
+      }, {
+        "ArtistId" : "roy-acuff-mn0000848784",
+        "artist" : "Roy Acuff"
+      }, {
+        "ArtistId" : "the-stoneman-family-mn0000475313",
+        "artist" : "The Stoneman Family"
+      }, {
+        "ArtistId" : "bob-wills-mn0000074970",
+        "artist" : "Bob Wills"
+      }, {
+        "ArtistId" : "cowboy-copas-mn0000120560",
+        "artist" : "Cowboy Copas"
+      }, {
+        "ArtistId" : "dock-boggs-mn0000794145",
+        "artist" : "Dock Boggs"
+      }, {
+        "ArtistId" : "john-lee-hooker-mn0000815039",
+        "artist" : "John Lee Hooker"
+      }, {
+        "ArtistId" : "the-louvin-brothers-mn0000045057",
+        "artist" : "The Louvin Brothers"
+      }, {
+        "ArtistId" : "the-sons-of-the-pioneers-mn0000030821",
+        "artist" : "The Sons of the Pioneers"
+      }, {
+        "ArtistId" : "the-swan-silvertones-mn0000034721",
+        "artist" : "The Swan Silvertones"
+      }, {
+        "ArtistId" : "webb-pierce-mn0000198901",
+        "artist" : "Webb Pierce"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "bobby-bare-mn0000066429",
+        "artist" : "Bobby Bare"
+      }, {
+        "ArtistId" : "carl-perkins-mn0000792953",
+        "artist" : "Carl Perkins"
+      }, {
+        "ArtistId" : "carlene-carter-mn0000142050",
+        "artist" : "Carlene Carter"
+      }, {
+        "ArtistId" : "elvis-presley-mn0000180228",
+        "artist" : "Elvis Presley"
+      }, {
+        "ArtistId" : "george-jones-mn0000944310",
+        "artist" : "George Jones"
+      }, {
+        "ArtistId" : "jerry-lee-lewis-mn0000332141",
+        "artist" : "Jerry Lee Lewis"
+      }, {
+        "ArtistId" : "kris-kristofferson-mn0000774588",
+        "artist" : "Kris Kristofferson"
+      }, {
+        "ArtistId" : "merle-haggard-mn0000410219",
+        "artist" : "Merle Haggard"
+      }, {
+        "ArtistId" : "rodney-crowell-mn0000294085",
+        "artist" : "Rodney Crowell"
+      }, {
+        "ArtistId" : "roger-miller-mn0000151431",
+        "artist" : "Roger Miller"
+      }, {
+        "ArtistId" : "rosanne-cash-mn0000285272",
+        "artist" : "Rosanne Cash"
+      }, {
+        "ArtistId" : "warren-smith-mn0001792309",
+        "artist" : "Warren Smith"
+      }, {
+        "ArtistId" : "waylon-jennings-mn0000200791",
+        "artist" : "Waylon Jennings"
+      }, {
+        "ArtistId" : "willie-nelson-mn0000583959",
+        "artist" : "Willie Nelson"
+      }, {
+        "ArtistId" : "johnny-horton-mn0000198783",
+        "artist" : "Johnny Horton"
+      }, {
+        "ArtistId" : "marty-robbins-mn0000858710",
+        "artist" : "Marty Robbins"
+      }, {
+        "ArtistId" : "the-highwaymen-mn0000075801",
+        "artist" : "The Highwaymen"
+      }, {
+        "ArtistId" : "big-al-downing-mn0000057373",
+        "artist" : "Big Al Downing"
+      }, {
+        "ArtistId" : "bob-dylan-mn0000066915",
+        "artist" : "Bob Dylan"
+      }, {
+        "ArtistId" : "brenda-lee-mn0000934069",
+        "artist" : "Brenda Lee"
+      }, {
+        "ArtistId" : "buck-owens-mn0000941579",
+        "artist" : "Buck Owens"
+      }, {
+        "ArtistId" : "carl-mann-mn0000161182",
+        "artist" : "Carl Mann"
+      }, {
+        "ArtistId" : "charlie-feathers-mn0000207735",
+        "artist" : "Charlie Feathers"
+      }, {
+        "ArtistId" : "charlie-rich-mn0000179730",
+        "artist" : "Charlie Rich"
+      }, {
+        "ArtistId" : "chris-isaak-mn0000775323",
+        "artist" : "Chris Isaak"
+      }, {
+        "ArtistId" : "clint-black-mn0000792370",
+        "artist" : "Clint Black"
+      }, {
+        "ArtistId" : "conway-twitty-mn0000780451",
+        "artist" : "Conway Twitty"
+      }, {
+        "ArtistId" : "dwight-yoakam-mn0000791483",
+        "artist" : "Dwight Yoakam"
+      }, {
+        "ArtistId" : "emmylou-harris-mn0000159699",
+        "artist" : "Emmylou Harris"
+      }, {
+        "ArtistId" : "faron-young-mn0000143951",
+        "artist" : "Faron Young"
+      }, {
+        "ArtistId" : "flatt-scruggs-mn0000227527",
+        "artist" : "Flatt & Scruggs"
+      }, {
+        "ArtistId" : "jack-scott-mn0000780070",
+        "artist" : "Jack Scott"
+      }, {
+        "ArtistId" : "jerry-reed-mn0000334644",
+        "artist" : "Jerry Reed"
+      }, {
+        "ArtistId" : "jimmie-driftwood-mn0000297207",
+        "artist" : "Jimmie Driftwood"
+      }, {
+        "ArtistId" : "joe-ely-mn0000152002",
+        "artist" : "Joe Ely"
+      }, {
+        "ArtistId" : "johnny-burnette-mn0000241813",
+        "artist" : "Johnny Burnette"
+      }, {
+        "ArtistId" : "larry-gatlin-mn0000129945",
+        "artist" : "Larry Gatlin"
+      }, {
+        "ArtistId" : "lost-state-of-franklin-mn0001554074",
+        "artist" : "Lost State of Franklin"
+      }, {
+        "ArtistId" : "roy-orbison-mn0000852007",
+        "artist" : "Roy Orbison"
+      }, {
+        "ArtistId" : "stonewall-jackson-mn0000523661",
+        "artist" : "Stonewall Jackson"
+      }, {
+        "ArtistId" : "the-everly-brothers-mn0000046699",
+        "artist" : "The Everly Brothers"
+      }, {
+        "ArtistId" : "the-statler-brothers-mn0000578031",
+        "artist" : "The Statler Brothers"
+      }, {
+        "ArtistId" : "tommy-cash-mn0000933402",
+        "artist" : "Tommy Cash"
+      }, {
+        "ArtistId" : "dick-curless-mn0000821252",
+        "artist" : "Dick Curless"
+      }, {
+        "ArtistId" : "ed-ames-mn0000172772",
+        "artist" : "Ed Ames"
+      }, {
+        "ArtistId" : "kitty-wells-mn0000098189",
+        "artist" : "Kitty Wells"
+      }, {
+        "ArtistId" : "porter-wagoner-mn0000355451",
+        "artist" : "Porter Wagoner"
+      }, {
+        "ArtistId" : "billy-edd-wheeler-mn0000767622",
+        "artist" : "Billy Edd Wheeler"
+      }, {
+        "ArtistId" : "billy-lee-riley-mn0000089713",
+        "artist" : "Billy Lee Riley"
+      }, {
+        "ArtistId" : "charlie-louvin-mn0000807489",
+        "artist" : "Charlie Louvin"
+      }, {
+        "ArtistId" : "chris-gantry-mn0000097796",
+        "artist" : "Chris Gantry"
+      }, {
+        "ArtistId" : "dave-dudley-mn0000959490",
+        "artist" : "Dave Dudley"
+      }, {
+        "ArtistId" : "david-allan-coe-mn0000629609",
+        "artist" : "David Allan Coe"
+      }, {
+        "ArtistId" : "henson-cargill-mn0000955569",
+        "artist" : "Henson Cargill"
+      }, {
+        "ArtistId" : "jim-reeves-mn0000903609",
+        "artist" : "Jim Reeves"
+      }, {
+        "ArtistId" : "johnny-paycheck-mn0000251375",
+        "artist" : "Johnny Paycheck"
+      }, {
+        "ArtistId" : "little-jimmy-dickens-mn0000314346",
+        "artist" : "Little Jimmy Dickens"
+      }, {
+        "ArtistId" : "loretta-lynn-mn0000234325",
+        "artist" : "Loretta Lynn"
+      }, {
+        "ArtistId" : "patsy-cline-mn0000014651",
+        "artist" : "Patsy Cline"
+      }, {
+        "ArtistId" : "ramblin-jack-elliott-mn0000391398",
+        "artist" : "Ramblin' Jack Elliott"
+      }, {
+        "ArtistId" : "roy-clark-mn0000341652",
+        "artist" : "Roy Clark"
+      }, {
+        "ArtistId" : "sleepy-labeef-mn0000027372",
+        "artist" : "Sleepy LaBeef"
+      }, {
+        "ArtistId" : "the-glaser-brothers-mn0000078232",
+        "artist" : "The Glaser Brothers"
+      }, {
+        "ArtistId" : "carl-smith-mn0000163198",
+        "artist" : "Carl Smith"
+      }, {
+        "ArtistId" : "merle-kilgore-mn0000413210",
+        "artist" : "Merle Kilgore"
+      }, {
+        "ArtistId" : "the-maddox-brothers-rose-mn0000193160",
+        "artist" : "The Maddox Brothers & Rose"
+      } ]
+    }
   }
 }

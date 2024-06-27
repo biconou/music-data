@@ -1,9 +1,9 @@
 {
-  "id" : "bebop-beyond-mn0000161177",
-  "name" : "Bebop & Beyond",
   "activeDates" : "1980s - 1990s",
   "birthDate" : "1984",
   "birthPlace" : "",
+  "id" : "bebop-beyond-mn0000161177",
+  "name" : "Bebop & Beyond",
   "styles" : [ {
     "name" : "Bop",
     "url" : "https://www.allmusic.com/style/bop-ma0000002457"
@@ -19,51 +19,57 @@
   } ],
   "decades" : "1980s - 1990s",
   "genres" : "Jazz",
-  "discography" : [ {
-    "albumYear" : "1984",
-    "albumTitle" : "Bebop and Beyond",
-    "musicRating" : "5",
-    "avgRating" : "8-2"
-  }, {
-    "albumYear" : "1990",
-    "albumTitle" : "Plays Thelonious Monk",
-    "musicRating" : "8",
-    "avgRating" : "10-2"
-  }, {
-    "albumYear" : "1991",
-    "albumTitle" : "Bebop and Beyond Plays Dizzy Gillespie",
-    "musicRating" : "5",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1991",
-    "albumTitle" : "Plays Dizzy Gillespie",
-    "musicRating" : "5",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "Friends and Mentors",
-    "musicRating" : "7",
-    "avgRating" : ""
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Bebop and Beyond",
+      "albumYear" : "1984",
+      "avgRating" : "8-2",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Plays Thelonious Monk",
+      "albumYear" : "1990",
+      "avgRating" : "10-2",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Bebop and Beyond Plays Dizzy Gillespie",
+      "albumYear" : "1991",
+      "avgRating" : "",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Plays Dizzy Gillespie",
+      "albumYear" : "1991",
+      "avgRating" : "",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Friends and Mentors",
+      "albumYear" : "2002",
+      "avgRating" : "",
+      "musicRating" : "7"
+    } ],
+    "id" : "bebop-beyond-mn0000161177"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Thelonious Monk",
-      "ArtistId" : "thelonious-monk-mn0000490416"
-    }, {
-      "artist" : "Art Blakey",
-      "ArtistId" : "art-blakey-mn0000928942"
-    }, {
-      "artist" : "Dizzy Gillespie",
-      "ArtistId" : "dizzy-gillespie-mn0000162677"
-    } ],
-    "influencers" : [ {
-      "artist" : "Charles Mingus",
-      "ArtistId" : "charles-mingus-mn0000009680"
-    } ],
-    "followers" : [ ],
-    "associatedwith" : [ {
-      "artist" : "Mel Martin",
-      "ArtistId" : "mel-martin-mn0000406424"
-    } ]
+    "id" : "bebop-beyond-mn0000161177",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "mel-martin-mn0000406424",
+        "artist" : "Mel Martin"
+      } ],
+      "followers" : [ ],
+      "influencers" : [ {
+        "ArtistId" : "charles-mingus-mn0000009680",
+        "artist" : "Charles Mingus"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "thelonious-monk-mn0000490416",
+        "artist" : "Thelonious Monk"
+      }, {
+        "ArtistId" : "art-blakey-mn0000928942",
+        "artist" : "Art Blakey"
+      }, {
+        "ArtistId" : "dizzy-gillespie-mn0000162677",
+        "artist" : "Dizzy Gillespie"
+      } ]
+    }
   }
 }

@@ -6,11 +6,11 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="input.column" type="xstring" value="artistMain"/>
+        <entry key="input.column" type="xstring" value="artistJson"/>
         <entry key="remove.input.column" type="xboolean" value="false"/>
         <entry key="new.column.name" type="xstring" value="artist"/>
         <entry key="patch.type" type="xstring" value="patch"/>
-        <entry key="json.patch" type="xstring" value="[%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/decades&quot;, &quot;value&quot;: $decades$ },%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/genres&quot;, &quot;value&quot;: $genres$ },%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/discography&quot;, &quot;value&quot;:  $artistDiscography$},%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/related&quot;, &quot;value&quot;: $artistRelated$ }%%00010]"/>
+        <entry key="json.patch" type="xstring" value="[%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/decades&quot;, &quot;value&quot;: $decades$ },%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/genres&quot;, &quot;value&quot;: $genres$ },%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/discography&quot;, &quot;value&quot;:  $artistDiscographyJson$},%%00010{ &quot;op&quot;: &quot;add&quot;, &quot;path&quot;: &quot;/related&quot;, &quot;value&quot;: $artistRelatedJson$ }%%00010]"/>
         <entry key="keep original when test fails" type="xboolean" value="false"/>
     </config>
     <config key="nodeAnnotation">
@@ -29,7 +29,7 @@
         <config key="styles"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.json.node.patch.apply.JSONPatchApplyNodeFactory"/>
     <entry key="node-name" type="xstring" value="JSON Transformer"/>
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
@@ -42,16 +42,19 @@
     <entry key="node-feature-version" type="xstring" value="5.2.0.v202310301555"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="JSON Transformer"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 55, Cols: 28"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="179243e1-6cee-439b-b8cd-4f1d44a2ee21"/>
     </config>
 </config>

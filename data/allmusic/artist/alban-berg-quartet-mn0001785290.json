@@ -1,518 +1,524 @@
 {
-  "id" : "alban-berg-quartet-mn0001785290",
-  "name" : "Alban Berg Quartet",
   "activeDates" : "1970s - 2000s",
   "birthDate" : "1971",
   "birthPlace" : "",
+  "id" : "alban-berg-quartet-mn0001785290",
+  "name" : "Alban Berg Quartet",
   "styles" : [ {
     "name" : "Chamber Music",
     "url" : "https://www.allmusic.com/style/chamber-music-ma0000004500"
   } ],
   "decades" : "1970s - 2000s",
   "genres" : "Classical",
-  "discography" : [ {
-    "albumYear" : "1977",
-    "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 14 KV 387 & Nr. 15 KV 421 [1977]",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1978",
-    "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 16, KV 428/421b & Nr. 17, KV 458 [1978]",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1979",
-    "albumTitle" : "Beethoven: String Quartets Op. 59 Nos. 1 & 2 Razumovsky",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1982",
-    "albumTitle" : "Schubert: String Quintet",
-    "musicRating" : "",
-    "avgRating" : "10-11"
-  }, {
-    "albumYear" : "1984",
-    "albumTitle" : "Debussy, Ravel: String Quartets; Stravinsky: 3 Pieces; Concertino; Double Canon",
-    "musicRating" : "8",
-    "avgRating" : "9-7"
-  }, {
-    "albumYear" : "1986",
-    "albumTitle" : "Schubert: String Quartets 13-15; \"Trout\" Quintet; String Quintet",
-    "musicRating" : "",
-    "avgRating" : "10-5"
-  }, {
-    "albumYear" : "1987",
-    "albumTitle" : "Bartók: String Quartets 1-6",
-    "musicRating" : "",
-    "avgRating" : "10-5"
-  }, {
-    "albumYear" : "1987",
-    "albumTitle" : "Beethoven: String Quartet, Op. 130; Grosse Fuge",
-    "musicRating" : "8",
-    "avgRating" : "10-2"
-  }, {
-    "albumYear" : "1988",
-    "albumTitle" : "Haydn: Kaiserquartett; Mozart: Jagd-Quartett",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1989",
-    "albumTitle" : "Mozart: String Quartets Nos. 14, 15",
-    "musicRating" : "",
-    "avgRating" : "8-2"
-  }, {
-    "albumYear" : "1990",
-    "albumTitle" : "Schubert: String Quartets Nos. 13 \"Rosamunde\" & 14 \"Death and the Maiden\"",
-    "musicRating" : "",
-    "avgRating" : "9-5"
-  }, {
-    "albumYear" : "1990",
-    "albumTitle" : "Mozart: String Quartets 22 KV 589, 23 KV 590",
-    "musicRating" : "",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "1990",
-    "albumTitle" : "Mozart: String Quartets 20 KV 499, 21 KV 575",
-    "musicRating" : "",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "1991",
-    "albumTitle" : "Dvorák: String Quartet Op. 96 \"American\"; Smetana: String Quartet no. 1 \"From My Life\"",
-    "musicRating" : "",
-    "avgRating" : "10-2"
-  }, {
-    "albumYear" : "1991",
-    "albumTitle" : "Mozart: String Quartets Nos. 16 & 17",
-    "musicRating" : "",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "1991",
-    "albumTitle" : "Mozart: String Quartets Nos. 18 & 19",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1991",
-    "albumTitle" : "Mozart: The Ten Great String Quartets",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1992",
-    "albumTitle" : "Brahms: String Sextet No. 1",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1992",
-    "albumTitle" : "Das Alban Berg Quartett",
-    "musicRating" : "8",
-    "avgRating" : "9-1"
-  }, {
-    "albumYear" : "1992",
-    "albumTitle" : "Stravinsky, Haubenstock-Ramati, Von Einem: String Quartets",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1993",
-    "albumTitle" : "Beethoven: String Quartets Vol. 1",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1993",
-    "albumTitle" : "Beethoven: String Quartets Vol.2",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1993",
-    "albumTitle" : "Brahms: String Quartets, Opp. 51 & 67",
-    "musicRating" : "",
-    "avgRating" : "9-3"
-  }, {
-    "albumYear" : "1994",
-    "albumTitle" : "Brahms: The String Quartets; Dvorák: String Quartet Op. 106",
-    "musicRating" : "",
-    "avgRating" : "10-2"
-  }, {
-    "albumYear" : "1994",
-    "albumTitle" : "Strauss & Lanner: Waltzes",
-    "musicRating" : "",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "1994",
-    "albumTitle" : "Mozart: The Haydn, Hoffmeister and Prussian Quartets",
-    "musicRating" : "",
-    "avgRating" : "9-3"
-  }, {
-    "albumYear" : "1995",
-    "albumTitle" : "Janácek: String Quartets Nos. 1 & 2",
-    "musicRating" : "",
-    "avgRating" : "9-2"
-  }, {
-    "albumYear" : "1996",
-    "albumTitle" : "Dvorák, Schumann: Piano Quintets",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1996",
-    "albumTitle" : "Haydn: Streichquartette Op. 76, Nr. 2-4",
-    "musicRating" : "",
-    "avgRating" : "8-1"
-  }, {
-    "albumYear" : "1997",
-    "albumTitle" : "Beethoven: The Complete String Quartets",
-    "musicRating" : "",
-    "avgRating" : "10-15"
-  }, {
-    "albumYear" : "1997",
-    "albumTitle" : "Lutoslawski: Streichquartett; Urbanner: Streichquartett No.4; Berio: Notturno",
-    "musicRating" : "",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "1997",
-    "albumTitle" : "Beethoven: String Quartets Nos.14 & 15",
-    "musicRating" : "",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "1997",
-    "albumTitle" : "Ludwig van Beethoven: String Quartets, Opp. 127 & 135",
-    "musicRating" : "",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "1997",
-    "albumTitle" : "Schubert: Streichquartette 12 \"Quartettsatz\" & 15",
-    "musicRating" : "",
-    "avgRating" : "8-1"
-  }, {
-    "albumYear" : "1997",
-    "albumTitle" : "Schubert: Streichquartette Nos. 10 & 14 \"Der Tod und das Mädchen\"",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "1999",
-    "albumTitle" : "Brahms: Clarinet Quintet, Op. 115; String Quintet No. 2, Op. 111",
-    "musicRating" : "",
-    "avgRating" : "9-3"
-  }, {
-    "albumYear" : "1999",
-    "albumTitle" : "Haydn: String Quartets Op.76, Nos. 1, 5, 6",
-    "musicRating" : "",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "2000",
-    "albumTitle" : "Mozart: String Quintets, KV 515 & KV 516",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2001",
-    "albumTitle" : "Dvorak: String Quartets, Op. 51 & Op. 105",
-    "musicRating" : "",
-    "avgRating" : "9-2"
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "Mendelssohn: Streichquartette 1 & 2",
-    "musicRating" : "9",
-    "avgRating" : "10-4"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "Brahms: Piano Quintet; Dvorák: \"Dumka\" from Piano Quintet",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "Haydn: Streichquartette Op. 33 Nr. 3, Op. 77 Nr. 1 & 2; Hoffstetter: Serenade",
-    "musicRating" : "8",
-    "avgRating" : "10-2"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "Mozart: Chamber Music",
-    "musicRating" : "",
-    "avgRating" : "10-3"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "Mozart: String Quartets Nos. 14-17 & 20",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "Mozart: String Quartets Nos. 18, 19, 21, 22 & 23",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "Beethoven: String Quartets Op. 18",
-    "musicRating" : "",
-    "avgRating" : "10-2"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "Tango Sensations",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "Beethoven: String Quartets, Op. 18",
-    "musicRating" : "",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Brahms: String Quartets Opp. 51 & 67",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Beethoven: String Quartets, Opp. 131 & 132",
-    "musicRating" : "",
-    "avgRating" : "10-1"
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Beethoven: The Late String Quartets",
-    "musicRating" : "9",
-    "avgRating" : "10-10"
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Beethoven: String Quartets Nos. 1-3",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Berg: Lyrische Suite; Streichquartett Op. 3",
-    "musicRating" : "",
-    "avgRating" : "7-1"
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Brahms: String Sextet No. 2",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Haydn: Streichquartette; Berio: Notturno (Quartetto III)",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Schubert: Piano Quintet in A, 'Trout'",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2006",
-    "albumTitle" : "Mozart: String Quartets Nos. 17 \"Hunt\" & 19 \"Dissonance\"",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2007",
-    "albumTitle" : "Berg: Lyric Suite; Violin Concerto; Lulu-Suite",
-    "musicRating" : "6",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2007",
-    "albumTitle" : "Hommage",
-    "musicRating" : "9",
-    "avgRating" : "5-2"
-  }, {
-    "albumYear" : "2007",
-    "albumTitle" : "Die Zeit-Edition: Alban Berg Quartett [CD+Book]",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2008",
-    "albumTitle" : "Schubert, Dvorák, Brahms, Schumann: Piano Quintets",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2008",
-    "albumTitle" : "20th Century Masterpieces",
-    "musicRating" : "",
-    "avgRating" : "8-3"
-  }, {
-    "albumYear" : "2008",
-    "albumTitle" : "Janácek: String Quartets Nos. 1 \"Kreutzer Sonata\" & 2 \"Intimate Letters\";  Dvorák: Piano Quintet - Dumka",
-    "musicRating" : "9",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2014",
-    "albumTitle" : "Quartet Recital 1978: Beethoven, Lutoslawski",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2015",
-    "albumTitle" : "Haydn: Streichquartette Op. 76, Op. 33, Op. 77 Nr. 1 & 2",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2015",
-    "albumTitle" : "Schubert: Streichquartette 10, 12, 14 \"Der Tod und das Mädchen\" & 15",
-    "musicRating" : "",
-    "avgRating" : "9-1"
-  }, {
-    "albumYear" : "2015",
-    "albumTitle" : "Dvorák & Smetana: String Quartets",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2016",
-    "albumTitle" : "Beethoven: The \"Middle Period\" String Quartets, Nos. 7-9",
-    "musicRating" : "",
-    "avgRating" : "10-2"
-  }, {
-    "albumYear" : "2016",
-    "albumTitle" : "Brahms: String Quartets, Opp. 51 & 67; Piano Quintet, Op. 34",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2018",
-    "albumTitle" : "Mozart: Chamber Music - The Last String Quartets",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2023",
-    "albumTitle" : "Schubert: String Quartets Nos. 9-10 & 12-15; Trout Quintet; String Quintet",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2024",
-    "albumTitle" : "Beethoven & Schubert",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2024",
-    "albumTitle" : "Schumann, Brahms, Dvorák",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Johannes Brahms: Sämtliche Streichquartette",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Joseph Haydn : Streichquartette Op. 76, 3 \"The Emperor\", Op. 74,3  \"The Rider\"",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Bartók: String Quartets Nos. 1-6",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Haydn: String Quartets & Piano Trios",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 18 KV 464 & Nr. 19 KV 465 [1977]",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 22 KV 589 & Nr. 23 KV 590 [1977]",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Beethoven: String Quartets, Op. 95 & 130; Große Fugue Op. 133",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "String Quartets",
-    "musicRating" : "",
-    "avgRating" : "8-2"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Beethoven: String Quartets op. 132 & 135",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Beethoven: String Quartets, Op. 59 No. 3 \"Razumovsky\" & Op. 74 Harp",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Beethoven: String Quartets op. 127 & 131",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Beethoven: String Quartets Nos. 4- 6",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Beethoven: Die frühen Streichquartette op. 18",
-    "musicRating" : "",
-    "avgRating" : "9-3"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Schubert: Streichquartett No. 15",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Beethoven: The Late String Quartets",
-    "musicRating" : "",
-    "avgRating" : "10-2"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Schumann: Klavier-Quintett Op. 44; Mozart Streichquartett KV 465 'Dissonanzen'",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Berg: Streichquartette Op. 3; Lyric Suite [1974 Recording]",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Webern: Op. 5, Op. 9, Op. 28; Haubenstock-Ramati: Streichquartett Nr. 1; Urbanner: 3. Streichquartett",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Dvorák: Streichquartett Op. 106",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 20 KV 499 & Nr. 21 KV 575 [1975-77]",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Franz Schubert: String Quartets Nos. 9 & 13",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Wolfgang Rihm: String Quartet No. 4; Alfred Schnittke: String Quartets No. 4",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Alban Berg Quartett: The Complete Recordings",
-    "musicRating" : "",
-    "avgRating" : ""
-  } ],
-  "related" : {
-    "similars" : [ {
-      "artist" : "Acies Quartett",
-      "ArtistId" : "acies-quartett-mn0001698447"
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 14 KV 387 & Nr. 15 KV 421 [1977]",
+      "albumYear" : "1977",
+      "avgRating" : "",
+      "musicRating" : ""
     }, {
-      "artist" : "Emerson String Quartet",
-      "ArtistId" : "emerson-string-quartet-mn0001877674"
+      "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 16, KV 428/421b & Nr. 17, KV 458 [1978]",
+      "albumYear" : "1978",
+      "avgRating" : "",
+      "musicRating" : ""
     }, {
-      "artist" : "Hagen Quartett",
-      "ArtistId" : "hagen-quartett-mn0002265506"
+      "albumTitle" : "Beethoven: String Quartets Op. 59 Nos. 1 & 2 Razumovsky",
+      "albumYear" : "1979",
+      "avgRating" : "",
+      "musicRating" : ""
     }, {
-      "artist" : "Juilliard String Quartet",
-      "ArtistId" : "juilliard-string-quartet-mn0000613459"
+      "albumTitle" : "Schubert: String Quintet",
+      "albumYear" : "1982",
+      "avgRating" : "10-11",
+      "musicRating" : ""
     }, {
-      "artist" : "Manhattan String Quartet",
-      "ArtistId" : "manhattan-string-quartet-mn0001654201"
+      "albumTitle" : "Debussy, Ravel: String Quartets; Stravinsky: 3 Pieces; Concertino; Double Canon",
+      "albumYear" : "1984",
+      "avgRating" : "9-7",
+      "musicRating" : "8"
     }, {
-      "artist" : "Tokyo String Quartet",
-      "ArtistId" : "tokyo-string-quartet-mn0002193586"
+      "albumTitle" : "Schubert: String Quartets 13-15; \"Trout\" Quintet; String Quintet",
+      "albumYear" : "1986",
+      "avgRating" : "10-5",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Bartók: String Quartets 1-6",
+      "albumYear" : "1987",
+      "avgRating" : "10-5",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartet, Op. 130; Grosse Fuge",
+      "albumYear" : "1987",
+      "avgRating" : "10-2",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Haydn: Kaiserquartett; Mozart: Jagd-Quartett",
+      "albumYear" : "1988",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: String Quartets Nos. 14, 15",
+      "albumYear" : "1989",
+      "avgRating" : "8-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Schubert: String Quartets Nos. 13 \"Rosamunde\" & 14 \"Death and the Maiden\"",
+      "albumYear" : "1990",
+      "avgRating" : "9-5",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: String Quartets 22 KV 589, 23 KV 590",
+      "albumYear" : "1990",
+      "avgRating" : "10-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: String Quartets 20 KV 499, 21 KV 575",
+      "albumYear" : "1990",
+      "avgRating" : "10-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Dvorák: String Quartet Op. 96 \"American\"; Smetana: String Quartet no. 1 \"From My Life\"",
+      "albumYear" : "1991",
+      "avgRating" : "10-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: String Quartets Nos. 16 & 17",
+      "albumYear" : "1991",
+      "avgRating" : "10-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: String Quartets Nos. 18 & 19",
+      "albumYear" : "1991",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: The Ten Great String Quartets",
+      "albumYear" : "1991",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Brahms: String Sextet No. 1",
+      "albumYear" : "1992",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Das Alban Berg Quartett",
+      "albumYear" : "1992",
+      "avgRating" : "9-1",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Stravinsky, Haubenstock-Ramati, Von Einem: String Quartets",
+      "albumYear" : "1992",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartets Vol. 1",
+      "albumYear" : "1993",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartets Vol.2",
+      "albumYear" : "1993",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Brahms: String Quartets, Opp. 51 & 67",
+      "albumYear" : "1993",
+      "avgRating" : "9-3",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Brahms: The String Quartets; Dvorák: String Quartet Op. 106",
+      "albumYear" : "1994",
+      "avgRating" : "10-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Strauss & Lanner: Waltzes",
+      "albumYear" : "1994",
+      "avgRating" : "10-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: The Haydn, Hoffmeister and Prussian Quartets",
+      "albumYear" : "1994",
+      "avgRating" : "9-3",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Janácek: String Quartets Nos. 1 & 2",
+      "albumYear" : "1995",
+      "avgRating" : "9-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Dvorák, Schumann: Piano Quintets",
+      "albumYear" : "1996",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Haydn: Streichquartette Op. 76, Nr. 2-4",
+      "albumYear" : "1996",
+      "avgRating" : "8-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: The Complete String Quartets",
+      "albumYear" : "1997",
+      "avgRating" : "10-15",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Lutoslawski: Streichquartett; Urbanner: Streichquartett No.4; Berio: Notturno",
+      "albumYear" : "1997",
+      "avgRating" : "10-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartets Nos.14 & 15",
+      "albumYear" : "1997",
+      "avgRating" : "10-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Ludwig van Beethoven: String Quartets, Opp. 127 & 135",
+      "albumYear" : "1997",
+      "avgRating" : "10-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Schubert: Streichquartette 12 \"Quartettsatz\" & 15",
+      "albumYear" : "1997",
+      "avgRating" : "8-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Schubert: Streichquartette Nos. 10 & 14 \"Der Tod und das Mädchen\"",
+      "albumYear" : "1997",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Brahms: Clarinet Quintet, Op. 115; String Quintet No. 2, Op. 111",
+      "albumYear" : "1999",
+      "avgRating" : "9-3",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Haydn: String Quartets Op.76, Nos. 1, 5, 6",
+      "albumYear" : "1999",
+      "avgRating" : "10-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: String Quintets, KV 515 & KV 516",
+      "albumYear" : "2000",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Dvorak: String Quartets, Op. 51 & Op. 105",
+      "albumYear" : "2001",
+      "avgRating" : "9-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mendelssohn: Streichquartette 1 & 2",
+      "albumYear" : "2002",
+      "avgRating" : "10-4",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Brahms: Piano Quintet; Dvorák: \"Dumka\" from Piano Quintet",
+      "albumYear" : "2003",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Haydn: Streichquartette Op. 33 Nr. 3, Op. 77 Nr. 1 & 2; Hoffstetter: Serenade",
+      "albumYear" : "2003",
+      "avgRating" : "10-2",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Mozart: Chamber Music",
+      "albumYear" : "2003",
+      "avgRating" : "10-3",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: String Quartets Nos. 14-17 & 20",
+      "albumYear" : "2004",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: String Quartets Nos. 18, 19, 21, 22 & 23",
+      "albumYear" : "2004",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartets Op. 18",
+      "albumYear" : "2004",
+      "avgRating" : "10-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Tango Sensations",
+      "albumYear" : "2004",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartets, Op. 18",
+      "albumYear" : "2004",
+      "avgRating" : "10-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Brahms: String Quartets Opp. 51 & 67",
+      "albumYear" : "2005",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartets, Opp. 131 & 132",
+      "albumYear" : "2005",
+      "avgRating" : "10-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: The Late String Quartets",
+      "albumYear" : "2005",
+      "avgRating" : "10-11",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Beethoven: String Quartets Nos. 1-3",
+      "albumYear" : "2005",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Berg: Lyrische Suite; Streichquartett Op. 3",
+      "albumYear" : "2005",
+      "avgRating" : "7-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Brahms: String Sextet No. 2",
+      "albumYear" : "2005",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Haydn: Streichquartette; Berio: Notturno (Quartetto III)",
+      "albumYear" : "2005",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Schubert: Piano Quintet in A, 'Trout'",
+      "albumYear" : "2005",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: String Quartets Nos. 17 \"Hunt\" & 19 \"Dissonance\"",
+      "albumYear" : "2006",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Berg: Lyric Suite; Violin Concerto; Lulu-Suite",
+      "albumYear" : "2007",
+      "avgRating" : "",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Hommage",
+      "albumYear" : "2007",
+      "avgRating" : "5-2",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Die Zeit-Edition: Alban Berg Quartett [CD+Book]",
+      "albumYear" : "2007",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Schubert, Dvorák, Brahms, Schumann: Piano Quintets",
+      "albumYear" : "2008",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "20th Century Masterpieces",
+      "albumYear" : "2008",
+      "avgRating" : "8-3",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Janácek: String Quartets Nos. 1 \"Kreutzer Sonata\" & 2 \"Intimate Letters\";  Dvorák: Piano Quintet - Dumka",
+      "albumYear" : "2008",
+      "avgRating" : "",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Quartet Recital 1978: Beethoven, Lutoslawski",
+      "albumYear" : "2014",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Haydn: Streichquartette Op. 76, Op. 33, Op. 77 Nr. 1 & 2",
+      "albumYear" : "2015",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Schubert: Streichquartette 10, 12, 14 \"Der Tod und das Mädchen\" & 15",
+      "albumYear" : "2015",
+      "avgRating" : "9-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Dvorák & Smetana: String Quartets",
+      "albumYear" : "2015",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: The \"Middle Period\" String Quartets, Nos. 7-9",
+      "albumYear" : "2016",
+      "avgRating" : "10-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Brahms: String Quartets, Opp. 51 & 67; Piano Quintet, Op. 34",
+      "albumYear" : "2016",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Mozart: Chamber Music - The Last String Quartets",
+      "albumYear" : "2018",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Schubert: String Quartets Nos. 9-10 & 12-15; Trout Quintet; String Quintet",
+      "albumYear" : "2023",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven & Schubert",
+      "albumYear" : "2024",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Schumann, Brahms, Dvorák",
+      "albumYear" : "2024",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Johannes Brahms: Sämtliche Streichquartette",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Joseph Haydn : Streichquartette Op. 76, 3 \"The Emperor\", Op. 74,3  \"The Rider\"",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Bartók: String Quartets Nos. 1-6",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Haydn: String Quartets & Piano Trios",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 18 KV 464 & Nr. 19 KV 465 [1977]",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 22 KV 589 & Nr. 23 KV 590 [1977]",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartets, Op. 95 & 130; Große Fugue Op. 133",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "String Quartets",
+      "albumYear" : "",
+      "avgRating" : "8-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartets op. 132 & 135",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartets, Op. 59 No. 3 \"Razumovsky\" & Op. 74 Harp",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartets op. 127 & 131",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: String Quartets Nos. 4- 6",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: Die frühen Streichquartette op. 18",
+      "albumYear" : "",
+      "avgRating" : "9-3",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Schubert: Streichquartett No. 15",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Beethoven: The Late String Quartets",
+      "albumYear" : "",
+      "avgRating" : "10-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Schumann: Klavier-Quintett Op. 44; Mozart Streichquartett KV 465 'Dissonanzen'",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Berg: Streichquartette Op. 3; Lyric Suite [1974 Recording]",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Webern: Op. 5, Op. 9, Op. 28; Haubenstock-Ramati: Streichquartett Nr. 1; Urbanner: 3. Streichquartett",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Dvorák: Streichquartett Op. 106",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Wolfgang Amadeus Mozart: Streichquartette Nr. 20 KV 499 & Nr. 21 KV 575 [1975-77]",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Franz Schubert: String Quartets Nos. 9 & 13",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Wolfgang Rihm: String Quartet No. 4; Alfred Schnittke: String Quartets No. 4",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Alban Berg Quartett: The Complete Recordings",
+      "albumYear" : "",
+      "avgRating" : "",
+      "musicRating" : ""
     } ],
-    "influencers" : [ ],
-    "followers" : [ ],
-    "associatedwith" : [ ]
+    "id" : "alban-berg-quartet-mn0001785290"
+  },
+  "related" : {
+    "id" : "alban-berg-quartet-mn0001785290",
+    "related" : {
+      "associatedwith" : [ ],
+      "followers" : [ ],
+      "influencers" : [ ],
+      "similars" : [ {
+        "ArtistId" : "acies-quartett-mn0001698447",
+        "artist" : "Acies Quartett"
+      }, {
+        "ArtistId" : "emerson-string-quartet-mn0001877674",
+        "artist" : "Emerson String Quartet"
+      }, {
+        "ArtistId" : "hagen-quartett-mn0002265506",
+        "artist" : "Hagen Quartett"
+      }, {
+        "ArtistId" : "juilliard-string-quartet-mn0000613459",
+        "artist" : "Juilliard String Quartet"
+      }, {
+        "ArtistId" : "manhattan-string-quartet-mn0001654201",
+        "artist" : "Manhattan String Quartet"
+      }, {
+        "ArtistId" : "tokyo-string-quartet-mn0002193586",
+        "artist" : "Tokyo String Quartet"
+      } ]
+    }
   }
 }

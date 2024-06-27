@@ -127,11 +127,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME REST Client Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.rest"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202311081204"/>
+    <entry key="node-bundle-version" type="xstring" value="5.2.1.v202401291331"/>
     <entry key="node-feature-name" type="xstring" value="KNIME REST Client Extension"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.rest.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.2.0.v202311081204"/>
+    <entry key="node-feature-version" type="xstring" value="5.2.1.v202401291331"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="Table"/>
@@ -152,6 +152,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="10b57d7f-224c-47ac-a3ac-adb47d5aa459"/>
+        <entry key="file_store_id" type="xstring" value="3263d8de-9e2a-474b-ac66-727ea1272a39"/>
     </config>
 </config>

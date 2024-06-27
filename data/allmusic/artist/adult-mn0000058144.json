@@ -1,9 +1,9 @@
 {
-  "id" : "adult-mn0000058144",
-  "name" : "Adult.",
   "activeDates" : "1990s - 2020s",
   "birthDate" : "1998",
   "birthPlace" : "Detroit, MI",
+  "id" : "adult-mn0000058144",
+  "name" : "Adult.",
   "styles" : [ {
     "name" : "Detroit Techno",
     "url" : "https://www.allmusic.com/style/detroit-techno-ma0000002551"
@@ -19,269 +19,275 @@
   } ],
   "decades" : "1990s - 2020s",
   "genres" : "Electronic",
-  "discography" : [ {
-    "albumYear" : "2001",
-    "albumTitle" : "Resuscitation",
-    "musicRating" : "7",
-    "avgRating" : "8-47"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "Anxiety Always",
-    "musicRating" : "8",
-    "avgRating" : "9-60"
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Gimmie Trouble",
-    "musicRating" : "7",
-    "avgRating" : "8-22"
-  }, {
-    "albumYear" : "2007",
-    "albumTitle" : "Why Bother?",
-    "musicRating" : "7",
-    "avgRating" : "7-34"
-  }, {
-    "albumYear" : "2013",
-    "albumTitle" : "The Way Things Fall",
-    "musicRating" : "7",
-    "avgRating" : "8-36"
-  }, {
-    "albumYear" : "2017",
-    "albumTitle" : "Detroit House Guests",
-    "musicRating" : "6",
-    "avgRating" : "7-12"
-  }, {
-    "albumYear" : "2018",
-    "albumTitle" : "This Behavior",
-    "musicRating" : "7",
-    "avgRating" : "7-18"
-  }, {
-    "albumYear" : "2020",
-    "albumTitle" : "Perception Is/As/Of Deception",
-    "musicRating" : "7",
-    "avgRating" : "7-22"
-  }, {
-    "albumYear" : "2022",
-    "albumTitle" : "Becoming Undone",
-    "musicRating" : "7",
-    "avgRating" : "7-17"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Resuscitation",
+      "albumYear" : "2001",
+      "avgRating" : "8-47",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Anxiety Always",
+      "albumYear" : "2003",
+      "avgRating" : "9-60",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Gimmie Trouble",
+      "albumYear" : "2005",
+      "avgRating" : "8-22",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Why Bother?",
+      "albumYear" : "2007",
+      "avgRating" : "7-34",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "The Way Things Fall",
+      "albumYear" : "2013",
+      "avgRating" : "8-36",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Detroit House Guests",
+      "albumYear" : "2017",
+      "avgRating" : "7-12",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "This Behavior",
+      "albumYear" : "2018",
+      "avgRating" : "7-18",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Perception Is/As/Of Deception",
+      "albumYear" : "2020",
+      "avgRating" : "7-22",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Becoming Undone",
+      "albumYear" : "2022",
+      "avgRating" : "7-17",
+      "musicRating" : "7"
+    } ],
+    "id" : "adult-mn0000058144"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Ectomorph",
-      "ArtistId" : "ectomorph-mn0000174233"
-    }, {
-      "artist" : "GD Luxxe",
-      "ArtistId" : "gd-luxxe-mn0000201209"
-    }, {
-      "artist" : "I-F",
-      "ArtistId" : "i-f-mn0000219824"
-    }, {
-      "artist" : "Magas",
-      "ArtistId" : "magas-mn0000187733"
-    }, {
-      "artist" : "Miss Kittin",
-      "ArtistId" : "miss-kittin-mn0000497290"
-    }, {
-      "artist" : "Viki",
-      "ArtistId" : "viki-mn0001943906"
-    }, {
-      "artist" : "Boy Harsher",
-      "ArtistId" : "boy-harsher-mn0003687587"
-    }, {
-      "artist" : "Choir Boy",
-      "ArtistId" : "choir-boy-mn0003561402"
-    }, {
-      "artist" : "The Knife",
-      "ArtistId" : "the-knife-mn0000666244"
-    }, {
-      "artist" : "TR/ST",
-      "ArtistId" : "tr-st-mn0002655374"
-    }, {
-      "artist" : "Xeno & Oaklander",
-      "ArtistId" : "xeno-oaklander-mn0002370861"
-    }, {
-      "artist" : "Artificial Material",
-      "ArtistId" : "artificial-material-mn0001829782"
-    }, {
-      "artist" : "AUX 88",
-      "ArtistId" : "aux-88-mn0000062905"
-    }, {
-      "artist" : "BolzBolz",
-      "ArtistId" : "bolzbolz-mn0000069005"
-    }, {
-      "artist" : "Charles Manier",
-      "ArtistId" : "charles-manier-mn0000170740"
-    }, {
-      "artist" : "Chicks on Speed",
-      "ArtistId" : "chicks-on-speed-mn0000110501"
-    }, {
-      "artist" : "Cobra Killer",
-      "ArtistId" : "cobra-killer-mn0000792768"
-    }, {
-      "artist" : "Drexciya",
-      "ArtistId" : "drexciya-mn0000166652"
-    }, {
-      "artist" : "Essaie Pas",
-      "ArtistId" : "essaie-pas-mn0003465016"
-    }, {
-      "artist" : "Felix da Housecat",
-      "ArtistId" : "felix-da-housecat-mn0000169239"
-    }, {
-      "artist" : "Gil Mantera's Party Dream",
-      "ArtistId" : "gil-manteras-party-dream-mn0000483396"
-    }, {
-      "artist" : "HIDE",
-      "ArtistId" : "hide-mn0003486890"
-    }, {
-      "artist" : "Ladytron",
-      "ArtistId" : "ladytron-mn0000780948"
-    }, {
-      "artist" : "Light Asylum",
-      "ArtistId" : "light-asylum-mn0002553513"
-    }, {
-      "artist" : "Louderbach",
-      "ArtistId" : "louderbach-mn0000983555"
-    }, {
-      "artist" : "Ritual Howls",
-      "ArtistId" : "ritual-howls-mn0003286007"
-    }, {
-      "artist" : "T.Raumschmiere",
-      "ArtistId" : "traumschmiere-mn0000009267"
-    }, {
-      "artist" : "Wetware",
-      "ArtistId" : "wetware-mn0003710654"
-    }, {
-      "artist" : "Cold Cave",
-      "ArtistId" : "cold-cave-mn0001598114"
-    }, {
-      "artist" : "Fischerspooner",
-      "ArtistId" : "fischerspooner-mn0000178051"
-    }, {
-      "artist" : "Gazelle Twin",
-      "ArtistId" : "gazelle-twin-mn0002980057"
-    }, {
-      "artist" : "Kap Bambino",
-      "ArtistId" : "kap-bambino-mn0001999310"
-    }, {
-      "artist" : "Lazer Crystal",
-      "ArtistId" : "lazer-crystal-mn0001030754"
-    }, {
-      "artist" : "Optic Sink",
-      "ArtistId" : "optic-sink-mn0003968413"
-    }, {
-      "artist" : "Smersh",
-      "ArtistId" : "smersh-mn0003024338"
-    }, {
-      "artist" : "SRSQ",
-      "ArtistId" : "srsq-mn0003774175"
-    }, {
-      "artist" : "Books on Tape",
-      "ArtistId" : "books-on-tape-mn0000759566"
-    }, {
-      "artist" : "Dead Cross",
-      "ArtistId" : "dead-cross-mn0003620729"
-    }, {
-      "artist" : "Deaf Club",
-      "ArtistId" : "deaf-club-mn0002952065"
-    }, {
-      "artist" : "Helix",
-      "ArtistId" : "helix-mn0004166393"
-    }, {
-      "artist" : "HTRK",
-      "ArtistId" : "htrk-mn0000919083"
-    }, {
-      "artist" : "Justin Pearson",
-      "ArtistId" : "justin-pearson-mn0001041015"
-    }, {
-      "artist" : "Kompromat",
-      "ArtistId" : "kompromat-mn0003824185"
-    }, {
-      "artist" : "Luis Vasquez",
-      "ArtistId" : "luis-vasquez-mn0002589029"
-    }, {
-      "artist" : "Luke Henshaw",
-      "ArtistId" : "luke-henshaw-mn0003800880"
-    }, {
-      "artist" : "MV Carbon",
-      "ArtistId" : "mv-carbon-mn0002794325"
-    }, {
-      "artist" : "Planet B",
-      "ArtistId" : "planet-b-mn0003772210"
-    }, {
-      "artist" : "Pod Blotz",
-      "ArtistId" : "pod-blotz-mn0002911638"
-    }, {
-      "artist" : "Profligate",
-      "ArtistId" : "profligate-mn0003006499"
-    }, {
-      "artist" : "Protomartyr",
-      "ArtistId" : "protomartyr-mn0002897553"
-    }, {
-      "artist" : "Schwefelgelb",
-      "ArtistId" : "schwefelgelb-mn0001738375"
-    }, {
-      "artist" : "The Elements",
-      "ArtistId" : "the-elements-mn0002745655"
-    }, {
-      "artist" : "The Locust",
-      "ArtistId" : "the-locust-mn0000096756"
-    }, {
-      "artist" : "The Soft Moon",
-      "ArtistId" : "the-soft-moon-mn0002429445"
-    }, {
-      "artist" : "TWINS",
-      "ArtistId" : "twins-mn0002847665"
-    }, {
-      "artist" : "Void Vision",
-      "ArtistId" : "void-vision-mn0002597209"
-    } ],
-    "influencers" : [ {
-      "artist" : "Cybotron",
-      "ArtistId" : "cybotron-mn0000146551"
-    }, {
-      "artist" : "Kraftwerk",
-      "ArtistId" : "kraftwerk-mn0000104714"
-    }, {
-      "artist" : "Crash Course in Science",
-      "ArtistId" : "crash-course-in-science-mn0000463237"
-    }, {
-      "artist" : "New Order",
-      "ArtistId" : "new-order-mn0000334193"
-    }, {
-      "artist" : "John Foxx",
-      "ArtistId" : "john-foxx-mn0000185810"
-    }, {
-      "artist" : "Minny Pops",
-      "ArtistId" : "minny-pops-mn0000422700"
-    }, {
-      "artist" : "Test Dept.",
-      "ArtistId" : "test-dept-mn0000030644"
-    }, {
-      "artist" : "Throbbing Gristle",
-      "ArtistId" : "throbbing-gristle-mn0000926604"
-    }, {
-      "artist" : "Fad Gadget",
-      "ArtistId" : "fad-gadget-mn0000790078"
-    } ],
-    "followers" : [ {
-      "artist" : "Future Islands",
-      "ArtistId" : "future-islands-mn0001772438"
-    }, {
-      "artist" : "Jaded Incorporated",
-      "ArtistId" : "jaded-incorporated-mn0003236533"
-    }, {
-      "artist" : "Sleigh Bells",
-      "ArtistId" : "sleigh-bells-mn0002048033"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Le Car",
-      "ArtistId" : "le-car-mn0001377037"
-    }, {
-      "artist" : "Tamion 12 Inch",
-      "ArtistId" : "tamion-12-inch-mn0000162964"
-    }, {
-      "artist" : "Stallone the Reducer",
-      "ArtistId" : "stallone-the-reducer-mn0003824517"
-    } ]
+    "id" : "adult-mn0000058144",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "le-car-mn0001377037",
+        "artist" : "Le Car"
+      }, {
+        "ArtistId" : "tamion-12-inch-mn0000162964",
+        "artist" : "Tamion 12 Inch"
+      }, {
+        "ArtistId" : "stallone-the-reducer-mn0003824517",
+        "artist" : "Stallone the Reducer"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "future-islands-mn0001772438",
+        "artist" : "Future Islands"
+      }, {
+        "ArtistId" : "jaded-incorporated-mn0003236533",
+        "artist" : "Jaded Incorporated"
+      }, {
+        "ArtistId" : "sleigh-bells-mn0002048033",
+        "artist" : "Sleigh Bells"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "cybotron-mn0000146551",
+        "artist" : "Cybotron"
+      }, {
+        "ArtistId" : "kraftwerk-mn0000104714",
+        "artist" : "Kraftwerk"
+      }, {
+        "ArtistId" : "crash-course-in-science-mn0000463237",
+        "artist" : "Crash Course in Science"
+      }, {
+        "ArtistId" : "new-order-mn0000334193",
+        "artist" : "New Order"
+      }, {
+        "ArtistId" : "john-foxx-mn0000185810",
+        "artist" : "John Foxx"
+      }, {
+        "ArtistId" : "minny-pops-mn0000422700",
+        "artist" : "Minny Pops"
+      }, {
+        "ArtistId" : "test-dept-mn0000030644",
+        "artist" : "Test Dept."
+      }, {
+        "ArtistId" : "throbbing-gristle-mn0000926604",
+        "artist" : "Throbbing Gristle"
+      }, {
+        "ArtistId" : "fad-gadget-mn0000790078",
+        "artist" : "Fad Gadget"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "ectomorph-mn0000174233",
+        "artist" : "Ectomorph"
+      }, {
+        "ArtistId" : "gd-luxxe-mn0000201209",
+        "artist" : "GD Luxxe"
+      }, {
+        "ArtistId" : "i-f-mn0000219824",
+        "artist" : "I-F"
+      }, {
+        "ArtistId" : "magas-mn0000187733",
+        "artist" : "Magas"
+      }, {
+        "ArtistId" : "miss-kittin-mn0000497290",
+        "artist" : "Miss Kittin"
+      }, {
+        "ArtistId" : "viki-mn0001943906",
+        "artist" : "Viki"
+      }, {
+        "ArtistId" : "boy-harsher-mn0003687587",
+        "artist" : "Boy Harsher"
+      }, {
+        "ArtistId" : "choir-boy-mn0003561402",
+        "artist" : "Choir Boy"
+      }, {
+        "ArtistId" : "the-knife-mn0000666244",
+        "artist" : "The Knife"
+      }, {
+        "ArtistId" : "tr-st-mn0002655374",
+        "artist" : "TR/ST"
+      }, {
+        "ArtistId" : "xeno-oaklander-mn0002370861",
+        "artist" : "Xeno & Oaklander"
+      }, {
+        "ArtistId" : "artificial-material-mn0001829782",
+        "artist" : "Artificial Material"
+      }, {
+        "ArtistId" : "aux-88-mn0000062905",
+        "artist" : "AUX 88"
+      }, {
+        "ArtistId" : "bolzbolz-mn0000069005",
+        "artist" : "BolzBolz"
+      }, {
+        "ArtistId" : "charles-manier-mn0000170740",
+        "artist" : "Charles Manier"
+      }, {
+        "ArtistId" : "chicks-on-speed-mn0000110501",
+        "artist" : "Chicks on Speed"
+      }, {
+        "ArtistId" : "cobra-killer-mn0000792768",
+        "artist" : "Cobra Killer"
+      }, {
+        "ArtistId" : "drexciya-mn0000166652",
+        "artist" : "Drexciya"
+      }, {
+        "ArtistId" : "essaie-pas-mn0003465016",
+        "artist" : "Essaie Pas"
+      }, {
+        "ArtistId" : "felix-da-housecat-mn0000169239",
+        "artist" : "Felix da Housecat"
+      }, {
+        "ArtistId" : "gil-manteras-party-dream-mn0000483396",
+        "artist" : "Gil Mantera's Party Dream"
+      }, {
+        "ArtistId" : "hide-mn0003486890",
+        "artist" : "HIDE"
+      }, {
+        "ArtistId" : "ladytron-mn0000780948",
+        "artist" : "Ladytron"
+      }, {
+        "ArtistId" : "light-asylum-mn0002553513",
+        "artist" : "Light Asylum"
+      }, {
+        "ArtistId" : "louderbach-mn0000983555",
+        "artist" : "Louderbach"
+      }, {
+        "ArtistId" : "ritual-howls-mn0003286007",
+        "artist" : "Ritual Howls"
+      }, {
+        "ArtistId" : "traumschmiere-mn0000009267",
+        "artist" : "T.Raumschmiere"
+      }, {
+        "ArtistId" : "wetware-mn0003710654",
+        "artist" : "Wetware"
+      }, {
+        "ArtistId" : "cold-cave-mn0001598114",
+        "artist" : "Cold Cave"
+      }, {
+        "ArtistId" : "fischerspooner-mn0000178051",
+        "artist" : "Fischerspooner"
+      }, {
+        "ArtistId" : "gazelle-twin-mn0002980057",
+        "artist" : "Gazelle Twin"
+      }, {
+        "ArtistId" : "kap-bambino-mn0001999310",
+        "artist" : "Kap Bambino"
+      }, {
+        "ArtistId" : "lazer-crystal-mn0001030754",
+        "artist" : "Lazer Crystal"
+      }, {
+        "ArtistId" : "optic-sink-mn0003968413",
+        "artist" : "Optic Sink"
+      }, {
+        "ArtistId" : "smersh-mn0003024338",
+        "artist" : "Smersh"
+      }, {
+        "ArtistId" : "srsq-mn0003774175",
+        "artist" : "SRSQ"
+      }, {
+        "ArtistId" : "books-on-tape-mn0000759566",
+        "artist" : "Books on Tape"
+      }, {
+        "ArtistId" : "dead-cross-mn0003620729",
+        "artist" : "Dead Cross"
+      }, {
+        "ArtistId" : "deaf-club-mn0002952065",
+        "artist" : "Deaf Club"
+      }, {
+        "ArtistId" : "helix-mn0004166393",
+        "artist" : "Helix"
+      }, {
+        "ArtistId" : "htrk-mn0000919083",
+        "artist" : "HTRK"
+      }, {
+        "ArtistId" : "justin-pearson-mn0001041015",
+        "artist" : "Justin Pearson"
+      }, {
+        "ArtistId" : "kompromat-mn0003824185",
+        "artist" : "Kompromat"
+      }, {
+        "ArtistId" : "luis-vasquez-mn0002589029",
+        "artist" : "Luis Vasquez"
+      }, {
+        "ArtistId" : "luke-henshaw-mn0003800880",
+        "artist" : "Luke Henshaw"
+      }, {
+        "ArtistId" : "mv-carbon-mn0002794325",
+        "artist" : "MV Carbon"
+      }, {
+        "ArtistId" : "planet-b-mn0003772210",
+        "artist" : "Planet B"
+      }, {
+        "ArtistId" : "pod-blotz-mn0002911638",
+        "artist" : "Pod Blotz"
+      }, {
+        "ArtistId" : "profligate-mn0003006499",
+        "artist" : "Profligate"
+      }, {
+        "ArtistId" : "protomartyr-mn0002897553",
+        "artist" : "Protomartyr"
+      }, {
+        "ArtistId" : "schwefelgelb-mn0001738375",
+        "artist" : "Schwefelgelb"
+      }, {
+        "ArtistId" : "the-elements-mn0002745655",
+        "artist" : "The Elements"
+      }, {
+        "ArtistId" : "the-locust-mn0000096756",
+        "artist" : "The Locust"
+      }, {
+        "ArtistId" : "the-soft-moon-mn0002429445",
+        "artist" : "The Soft Moon"
+      }, {
+        "ArtistId" : "twins-mn0002847665",
+        "artist" : "TWINS"
+      }, {
+        "ArtistId" : "void-vision-mn0002597209",
+        "artist" : "Void Vision"
+      } ]
+    }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "id" : "pentagram-mn0000308932",
-  "name" : "Pentagram",
   "activeDates" : "1970s - 2020s",
   "birthDate" : "1971",
   "birthPlace" : "Woodbridge, VA",
+  "id" : "pentagram-mn0000308932",
+  "name" : "Pentagram",
   "styles" : [ {
     "name" : "Album Rock",
     "url" : "https://www.allmusic.com/style/album-rock-ma0000004459"
@@ -19,166 +19,172 @@
   } ],
   "decades" : "1970s - 2020s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "1985",
-    "albumTitle" : "Relentless",
-    "musicRating" : "4",
-    "avgRating" : "9-97"
-  }, {
-    "albumYear" : "1987",
-    "albumTitle" : "Day of Reckoning",
-    "musicRating" : "8",
-    "avgRating" : "9-104"
-  }, {
-    "albumYear" : "1995",
-    "albumTitle" : "Be Forewarned",
-    "musicRating" : "5",
-    "avgRating" : "9-49"
-  }, {
-    "albumYear" : "1999",
-    "albumTitle" : "Review Your Choices",
-    "musicRating" : "5",
-    "avgRating" : "8-30"
-  }, {
-    "albumYear" : "2001",
-    "albumTitle" : "Sub-Basement",
-    "musicRating" : "4",
-    "avgRating" : "8-22"
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "Keg Full of Dynamite",
-    "musicRating" : "",
-    "avgRating" : "9-8"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "Show 'Em How",
-    "musicRating" : "6",
-    "avgRating" : "8-20"
-  }, {
-    "albumYear" : "2011",
-    "albumTitle" : "Last Rites",
-    "musicRating" : "6",
-    "avgRating" : "7-103"
-  }, {
-    "albumYear" : "2011",
-    "albumTitle" : "When the Screams Come",
-    "musicRating" : "",
-    "avgRating" : "10-3"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Curious Volume",
-    "musicRating" : "",
-    "avgRating" : "8-23"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Relentless",
+      "albumYear" : "1985",
+      "avgRating" : "9-97",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Day of Reckoning",
+      "albumYear" : "1987",
+      "avgRating" : "9-104",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Be Forewarned",
+      "albumYear" : "1995",
+      "avgRating" : "9-49",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Review Your Choices",
+      "albumYear" : "1999",
+      "avgRating" : "8-30",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Sub-Basement",
+      "albumYear" : "2001",
+      "avgRating" : "8-22",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Keg Full of Dynamite",
+      "albumYear" : "2002",
+      "avgRating" : "9-8",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Show 'Em How",
+      "albumYear" : "2004",
+      "avgRating" : "8-20",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Last Rites",
+      "albumYear" : "2011",
+      "avgRating" : "7-103",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "When the Screams Come",
+      "albumYear" : "2011",
+      "avgRating" : "10-3",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Curious Volume",
+      "albumYear" : "",
+      "avgRating" : "8-23",
+      "musicRating" : ""
+    } ],
+    "id" : "pentagram-mn0000308932"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Saint Vitus",
-      "ArtistId" : "saint-vitus-mn0000287259"
-    }, {
-      "artist" : "Sleep",
-      "ArtistId" : "sleep-mn0000021578"
-    }, {
-      "artist" : "The Obsessed",
-      "ArtistId" : "the-obsessed-mn0000485881"
-    }, {
-      "artist" : "Count Raven",
-      "ArtistId" : "count-raven-mn0000107059"
-    }, {
-      "artist" : "Electric Wizard",
-      "ArtistId" : "electric-wizard-mn0000164175"
-    }, {
-      "artist" : "Goatsnake",
-      "ArtistId" : "goatsnake-mn0000667225"
-    }, {
-      "artist" : "Las Cruces",
-      "ArtistId" : "las-cruces-mn0000781797"
-    }, {
-      "artist" : "Penance",
-      "ArtistId" : "penance-mn0000838637"
-    }, {
-      "artist" : "Sons of Otis",
-      "ArtistId" : "sons-of-otis-mn0000037617"
-    }, {
-      "artist" : "Spiritual Beggars",
-      "ArtistId" : "spiritual-beggars-mn0000014408"
-    }, {
-      "artist" : "Trouble",
-      "ArtistId" : "trouble-mn0000747243"
-    }, {
-      "artist" : "Witchfinder General",
-      "ArtistId" : "witchfinder-general-mn0000671244"
-    }, {
-      "artist" : "Dwarr",
-      "ArtistId" : "dwarr-mn0002512644"
-    }, {
-      "artist" : "The Gates of Slumber",
-      "ArtistId" : "the-gates-of-slumber-mn0000996941"
-    }, {
-      "artist" : "The Rods",
-      "ArtistId" : "the-rods-mn0000835269"
-    } ],
-    "influencers" : [ {
-      "artist" : "Blue Cheer",
-      "ArtistId" : "blue-cheer-mn0000059537"
-    }, {
-      "artist" : "Cream",
-      "ArtistId" : "cream-mn0000112462"
-    }, {
-      "artist" : "Jimi Hendrix",
-      "ArtistId" : "jimi-hendrix-mn0000354105"
-    }, {
-      "artist" : "Led Zeppelin",
-      "ArtistId" : "led-zeppelin-mn0000139026"
-    }, {
-      "artist" : "The Groundhogs",
-      "ArtistId" : "the-groundhogs-mn0000074115"
-    }, {
-      "artist" : "The Seeds",
-      "ArtistId" : "the-seeds-mn0000500664"
-    }, {
-      "artist" : "The Troggs",
-      "ArtistId" : "the-troggs-mn0000573870"
-    }, {
-      "artist" : "The Yardbirds",
-      "ArtistId" : "the-yardbirds-mn0000489303"
-    } ],
-    "followers" : [ {
-      "artist" : "Black Flag",
-      "ArtistId" : "black-flag-mn0000091650"
-    }, {
-      "artist" : "Blood Ceremony",
-      "ArtistId" : "blood-ceremony-mn0001008443"
-    }, {
-      "artist" : "Bongzilla",
-      "ArtistId" : "bongzilla-mn0000085271"
-    }, {
-      "artist" : "Electric Wizard",
-      "ArtistId" : "electric-wizard-mn0000164175"
-    }, {
-      "artist" : "Eyehategod",
-      "ArtistId" : "eyehategod-mn0000127103"
-    }, {
-      "artist" : "High on Fire",
-      "ArtistId" : "high-on-fire-mn0000676530"
-    }, {
-      "artist" : "Melvins",
-      "ArtistId" : "melvins-mn0000349157"
-    }, {
-      "artist" : "Saint Vitus",
-      "ArtistId" : "saint-vitus-mn0000287259"
-    }, {
-      "artist" : "The Obsessed",
-      "ArtistId" : "the-obsessed-mn0000485881"
-    }, {
-      "artist" : "White Zombie",
-      "ArtistId" : "white-zombie-mn0000820115"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Bedemon",
-      "ArtistId" : "bedemon-mn0000553218"
-    }, {
-      "artist" : "Death Row",
-      "ArtistId" : "death-row-mn0003910029"
-    } ]
+    "id" : "pentagram-mn0000308932",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "bedemon-mn0000553218",
+        "artist" : "Bedemon"
+      }, {
+        "ArtistId" : "death-row-mn0003910029",
+        "artist" : "Death Row"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "black-flag-mn0000091650",
+        "artist" : "Black Flag"
+      }, {
+        "ArtistId" : "blood-ceremony-mn0001008443",
+        "artist" : "Blood Ceremony"
+      }, {
+        "ArtistId" : "bongzilla-mn0000085271",
+        "artist" : "Bongzilla"
+      }, {
+        "ArtistId" : "electric-wizard-mn0000164175",
+        "artist" : "Electric Wizard"
+      }, {
+        "ArtistId" : "eyehategod-mn0000127103",
+        "artist" : "Eyehategod"
+      }, {
+        "ArtistId" : "high-on-fire-mn0000676530",
+        "artist" : "High on Fire"
+      }, {
+        "ArtistId" : "melvins-mn0000349157",
+        "artist" : "Melvins"
+      }, {
+        "ArtistId" : "saint-vitus-mn0000287259",
+        "artist" : "Saint Vitus"
+      }, {
+        "ArtistId" : "the-obsessed-mn0000485881",
+        "artist" : "The Obsessed"
+      }, {
+        "ArtistId" : "white-zombie-mn0000820115",
+        "artist" : "White Zombie"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "blue-cheer-mn0000059537",
+        "artist" : "Blue Cheer"
+      }, {
+        "ArtistId" : "cream-mn0000112462",
+        "artist" : "Cream"
+      }, {
+        "ArtistId" : "jimi-hendrix-mn0000354105",
+        "artist" : "Jimi Hendrix"
+      }, {
+        "ArtistId" : "led-zeppelin-mn0000139026",
+        "artist" : "Led Zeppelin"
+      }, {
+        "ArtistId" : "the-groundhogs-mn0000074115",
+        "artist" : "The Groundhogs"
+      }, {
+        "ArtistId" : "the-seeds-mn0000500664",
+        "artist" : "The Seeds"
+      }, {
+        "ArtistId" : "the-troggs-mn0000573870",
+        "artist" : "The Troggs"
+      }, {
+        "ArtistId" : "the-yardbirds-mn0000489303",
+        "artist" : "The Yardbirds"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "saint-vitus-mn0000287259",
+        "artist" : "Saint Vitus"
+      }, {
+        "ArtistId" : "sleep-mn0000021578",
+        "artist" : "Sleep"
+      }, {
+        "ArtistId" : "the-obsessed-mn0000485881",
+        "artist" : "The Obsessed"
+      }, {
+        "ArtistId" : "count-raven-mn0000107059",
+        "artist" : "Count Raven"
+      }, {
+        "ArtistId" : "electric-wizard-mn0000164175",
+        "artist" : "Electric Wizard"
+      }, {
+        "ArtistId" : "goatsnake-mn0000667225",
+        "artist" : "Goatsnake"
+      }, {
+        "ArtistId" : "las-cruces-mn0000781797",
+        "artist" : "Las Cruces"
+      }, {
+        "ArtistId" : "penance-mn0000838637",
+        "artist" : "Penance"
+      }, {
+        "ArtistId" : "sons-of-otis-mn0000037617",
+        "artist" : "Sons of Otis"
+      }, {
+        "ArtistId" : "spiritual-beggars-mn0000014408",
+        "artist" : "Spiritual Beggars"
+      }, {
+        "ArtistId" : "trouble-mn0000747243",
+        "artist" : "Trouble"
+      }, {
+        "ArtistId" : "witchfinder-general-mn0000671244",
+        "artist" : "Witchfinder General"
+      }, {
+        "ArtistId" : "dwarr-mn0002512644",
+        "artist" : "Dwarr"
+      }, {
+        "ArtistId" : "the-gates-of-slumber-mn0000996941",
+        "artist" : "The Gates of Slumber"
+      }, {
+        "ArtistId" : "the-rods-mn0000835269",
+        "artist" : "The Rods"
+      } ]
+    }
   }
 }

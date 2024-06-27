@@ -1,9 +1,9 @@
 {
-  "id" : "rotting-christ-mn0000851665",
-  "name" : "Rotting Christ",
   "activeDates" : "1980s - 2020s",
   "birthDate" : "1987",
   "birthPlace" : "Athens, Greece",
+  "id" : "rotting-christ-mn0000851665",
+  "name" : "Rotting Christ",
   "styles" : [ {
     "name" : "Death Metal",
     "url" : "https://www.allmusic.com/style/death-metal-ma0000002547"
@@ -22,173 +22,182 @@
   } ],
   "decades" : "1980s - 2020s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "1993",
-    "albumTitle" : "Thy Mighty Contract",
-    "musicRating" : "6",
-    "avgRating" : "9-44"
-  }, {
-    "albumYear" : "1994",
-    "albumTitle" : "Non Serviam",
-    "musicRating" : "8",
-    "avgRating" : "9-46"
-  }, {
-    "albumYear" : "1996",
-    "albumTitle" : "Triarchy of the Lost Lovers",
-    "musicRating" : "8",
-    "avgRating" : "9-61"
-  }, {
-    "albumYear" : "1997",
-    "albumTitle" : "A Dead Poem",
-    "musicRating" : "8",
-    "avgRating" : "9-47"
-  }, {
-    "albumYear" : "1999",
-    "albumTitle" : "Sleep of the Angels",
-    "musicRating" : "5",
-    "avgRating" : "8-20"
-  }, {
-    "albumYear" : "2000",
-    "albumTitle" : "Khronos",
-    "musicRating" : "5",
-    "avgRating" : "7-21"
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "Genesis",
-    "musicRating" : "7",
-    "avgRating" : "8-22"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "Sanctus Diavolos",
-    "musicRating" : "6",
-    "avgRating" : "8-23"
-  }, {
-    "albumYear" : "2006",
-    "albumTitle" : "Passage to Arcturo",
-    "musicRating" : "4",
-    "avgRating" : "6-28"
-  }, {
-    "albumYear" : "2007",
-    "albumTitle" : "Theogonia",
-    "musicRating" : "8",
-    "avgRating" : "9-78"
-  }, {
-    "albumYear" : "2010",
-    "albumTitle" : "Aealo",
-    "musicRating" : "6",
-    "avgRating" : "9-49"
-  }, {
-    "albumYear" : "2013",
-    "albumTitle" : "Kata Ton Daimona Eaytoy",
-    "musicRating" : "",
-    "avgRating" : "9-45"
-  }, {
-    "albumYear" : "2016",
-    "albumTitle" : "Rituals",
-    "musicRating" : "",
-    "avgRating" : "9-37"
-  }, {
-    "albumYear" : "2019",
-    "albumTitle" : "The Heretics",
-    "musicRating" : "",
-    "avgRating" : "8-27"
-  }, {
-    "albumYear" : "2024",
-    "albumTitle" : "Pro Xristou",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Lucifer Over Athens",
-    "musicRating" : "",
-    "avgRating" : "8-4"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Under Our Black Cult",
-    "musicRating" : "",
-    "avgRating" : "5-1"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Abyssic Black Metal",
-    "musicRating" : "",
-    "avgRating" : "3-1"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Thy Mighty Contract",
+      "albumYear" : "1993",
+      "avgRating" : "9-45",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Non Serviam",
+      "albumYear" : "1994",
+      "avgRating" : "9-46",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Triarchy of the Lost Lovers",
+      "albumYear" : "1996",
+      "avgRating" : "9-61",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "A Dead Poem",
+      "albumYear" : "1997",
+      "avgRating" : "9-47",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Sleep of the Angels",
+      "albumYear" : "1999",
+      "avgRating" : "8-21",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Khronos",
+      "albumYear" : "2000",
+      "avgRating" : "7-21",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Genesis",
+      "albumYear" : "2002",
+      "avgRating" : "8-22",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Sanctus Diavolos",
+      "albumYear" : "2004",
+      "avgRating" : "8-23",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Passage to Arcturo",
+      "albumYear" : "2006",
+      "avgRating" : "6-28",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Theogonia",
+      "albumYear" : "2007",
+      "avgRating" : "9-78",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Aealo",
+      "albumYear" : "2010",
+      "avgRating" : "9-49",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Kata Ton Daimona Eaytoy",
+      "albumYear" : "2013",
+      "avgRating" : "9-45",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Rituals",
+      "albumYear" : "2016",
+      "avgRating" : "9-37",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "The Heretics",
+      "albumYear" : "2019",
+      "avgRating" : "8-27",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Pro Xristou",
+      "albumYear" : "2024",
+      "avgRating" : "6-2",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Lucifer Over Athens",
+      "albumYear" : "",
+      "avgRating" : "8-4",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Under Our Black Cult",
+      "albumYear" : "",
+      "avgRating" : "5-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Abyssic Black Metal",
+      "albumYear" : "",
+      "avgRating" : "3-1",
+      "musicRating" : ""
+    } ],
+    "id" : "rotting-christ-mn0000851665"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Belphegor",
-      "ArtistId" : "belphegor-mn0000789979"
-    }, {
-      "artist" : "Emperor",
-      "ArtistId" : "emperor-mn0000193342"
-    }, {
-      "artist" : "Samael",
-      "ArtistId" : "samael-mn0000292795"
-    }, {
-      "artist" : "Satyricon",
-      "ArtistId" : "satyricon-mn0000836998"
-    }, {
-      "artist" : "Varathron",
-      "ArtistId" : "varathron-mn0000262520"
-    }, {
-      "artist" : "Alastis",
-      "ArtistId" : "alastis-mn0000933418"
-    }, {
-      "artist" : "Bathory",
-      "ArtistId" : "bathory-mn0000151787"
-    }, {
-      "artist" : "Candlemass",
-      "ArtistId" : "candlemass-mn0000648407"
-    }, {
-      "artist" : "Crisis",
-      "ArtistId" : "crisis-mn0001209926"
-    }, {
-      "artist" : "Dismember",
-      "ArtistId" : "dismember-mn0000171969"
-    }, {
-      "artist" : "Lacuna Coil",
-      "ArtistId" : "lacuna-coil-mn0000778655"
-    }, {
-      "artist" : "Moonspell",
-      "ArtistId" : "moonspell-mn0000591187"
-    }, {
-      "artist" : "Nuclear Death",
-      "ArtistId" : "nuclear-death-mn0001593724"
-    }, {
-      "artist" : "Opeth",
-      "ArtistId" : "opeth-mn0000400717"
-    }, {
-      "artist" : "Paradise Lost",
-      "ArtistId" : "paradise-lost-mn0000018691"
-    }, {
-      "artist" : "Slave Raider",
-      "ArtistId" : "slave-raider-mn0000021471"
-    }, {
-      "artist" : "The Gathering",
-      "ArtistId" : "the-gathering-mn0000061949"
-    }, {
-      "artist" : "Therion",
-      "ArtistId" : "therion-mn0000925598"
-    }, {
-      "artist" : "Tiamat",
-      "ArtistId" : "tiamat-mn0000588536"
-    }, {
-      "artist" : "Deströyer 666",
-      "ArtistId" : "destr%C3%B6yer-666-mn0000817445"
-    }, {
-      "artist" : "Morbid Angel",
-      "ArtistId" : "morbid-angel-mn0000928351"
-    } ],
-    "influencers" : [ {
-      "artist" : "Celtic Frost",
-      "ArtistId" : "celtic-frost-mn0000191063"
-    }, {
-      "artist" : "Venom",
-      "ArtistId" : "venom-mn0000315403"
-    } ],
-    "followers" : [ ],
-    "associatedwith" : [ {
-      "artist" : "Thou Art Lord",
-      "ArtistId" : "thou-art-lord-mn0000823574"
-    } ]
+    "id" : "rotting-christ-mn0000851665",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "thou-art-lord-mn0000823574",
+        "artist" : "Thou Art Lord"
+      } ],
+      "followers" : [ ],
+      "influencers" : [ {
+        "ArtistId" : "celtic-frost-mn0000191063",
+        "artist" : "Celtic Frost"
+      }, {
+        "ArtistId" : "venom-mn0000315403",
+        "artist" : "Venom"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "belphegor-mn0000789979",
+        "artist" : "Belphegor"
+      }, {
+        "ArtistId" : "emperor-mn0000193342",
+        "artist" : "Emperor"
+      }, {
+        "ArtistId" : "samael-mn0000292795",
+        "artist" : "Samael"
+      }, {
+        "ArtistId" : "satyricon-mn0000836998",
+        "artist" : "Satyricon"
+      }, {
+        "ArtistId" : "varathron-mn0000262520",
+        "artist" : "Varathron"
+      }, {
+        "ArtistId" : "alastis-mn0000933418",
+        "artist" : "Alastis"
+      }, {
+        "ArtistId" : "bathory-mn0000151787",
+        "artist" : "Bathory"
+      }, {
+        "ArtistId" : "candlemass-mn0000648407",
+        "artist" : "Candlemass"
+      }, {
+        "ArtistId" : "crisis-mn0001209926",
+        "artist" : "Crisis"
+      }, {
+        "ArtistId" : "dismember-mn0000171969",
+        "artist" : "Dismember"
+      }, {
+        "ArtistId" : "lacuna-coil-mn0000778655",
+        "artist" : "Lacuna Coil"
+      }, {
+        "ArtistId" : "moonspell-mn0000591187",
+        "artist" : "Moonspell"
+      }, {
+        "ArtistId" : "nuclear-death-mn0001593724",
+        "artist" : "Nuclear Death"
+      }, {
+        "ArtistId" : "opeth-mn0000400717",
+        "artist" : "Opeth"
+      }, {
+        "ArtistId" : "paradise-lost-mn0000018691",
+        "artist" : "Paradise Lost"
+      }, {
+        "ArtistId" : "slave-raider-mn0000021471",
+        "artist" : "Slave Raider"
+      }, {
+        "ArtistId" : "the-gathering-mn0000061949",
+        "artist" : "The Gathering"
+      }, {
+        "ArtistId" : "therion-mn0000925598",
+        "artist" : "Therion"
+      }, {
+        "ArtistId" : "tiamat-mn0000588536",
+        "artist" : "Tiamat"
+      }, {
+        "ArtistId" : "destr%C3%B6yer-666-mn0000817445",
+        "artist" : "Deströyer 666"
+      }, {
+        "ArtistId" : "morbid-angel-mn0000928351",
+        "artist" : "Morbid Angel"
+      }, {
+        "ArtistId" : "six-feet-under-mn0000018921",
+        "artist" : "Six Feet Under"
+      } ]
+    }
   }
 }

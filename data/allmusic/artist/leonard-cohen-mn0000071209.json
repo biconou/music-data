@@ -1,9 +1,9 @@
 {
-  "id" : "leonard-cohen-mn0000071209",
-  "name" : "Leonard Cohen",
   "activeDates" : "1960s - 2010s",
   "birthDate" : "September 21, 1934",
   "birthPlace" : "Montreal, Quebec, Canada",
+  "id" : "leonard-cohen-mn0000071209",
+  "name" : "Leonard Cohen",
   "styles" : [ {
     "name" : "Singer/Songwriter",
     "url" : "https://www.allmusic.com/style/singer-songwriter-ma0000002855"
@@ -16,527 +16,539 @@
   } ],
   "decades" : "1960s - 2010s",
   "genres" : "Pop/Rock, Folk",
-  "discography" : [ {
-    "albumYear" : "1967",
-    "albumTitle" : "Songs of Leonard Cohen",
-    "musicRating" : "9",
-    "avgRating" : "10-2072"
-  }, {
-    "albumYear" : "1969",
-    "albumTitle" : "Songs from a Room",
-    "musicRating" : "7",
-    "avgRating" : "9-1388"
-  }, {
-    "albumYear" : "1971",
-    "albumTitle" : "Songs of Love and Hate",
-    "musicRating" : "8",
-    "avgRating" : "10-1293"
-  }, {
-    "albumYear" : "1973",
-    "albumTitle" : "Live Songs",
-    "musicRating" : "7",
-    "avgRating" : "8-218"
-  }, {
-    "albumYear" : "1974",
-    "albumTitle" : "New Skin for the Old Ceremony",
-    "musicRating" : "7",
-    "avgRating" : "9-1009"
-  }, {
-    "albumYear" : "1977",
-    "albumTitle" : "Death of a Ladies' Man",
-    "musicRating" : "7",
-    "avgRating" : "8-555"
-  }, {
-    "albumYear" : "1979",
-    "albumTitle" : "Recent Songs",
-    "musicRating" : "7",
-    "avgRating" : "8-434"
-  }, {
-    "albumYear" : "1984",
-    "albumTitle" : "Various Positions",
-    "musicRating" : "7",
-    "avgRating" : "9-582"
-  }, {
-    "albumYear" : "1988",
-    "albumTitle" : "I'm Your Man",
-    "musicRating" : "8",
-    "avgRating" : "9-1022"
-  }, {
-    "albumYear" : "1992",
-    "albumTitle" : "The Future",
-    "musicRating" : "6",
-    "avgRating" : "9-570"
-  }, {
-    "albumYear" : "2001",
-    "albumTitle" : "Ten New Songs",
-    "musicRating" : "6",
-    "avgRating" : "9-536"
-  }, {
-    "albumYear" : "2004",
-    "albumTitle" : "Dear Heather",
-    "musicRating" : "6",
-    "avgRating" : "8-353"
-  }, {
-    "albumYear" : "2007",
-    "albumTitle" : "Book of Longing",
-    "musicRating" : "7",
-    "avgRating" : "8-51"
-  }, {
-    "albumYear" : "2009",
-    "albumTitle" : "Live in London",
-    "musicRating" : "7",
-    "avgRating" : "9-362"
-  }, {
-    "albumYear" : "2010",
-    "albumTitle" : "Songs from the Road",
-    "musicRating" : "6",
-    "avgRating" : "8-213"
-  }, {
-    "albumYear" : "2012",
-    "albumTitle" : "Old Ideas",
-    "musicRating" : "7",
-    "avgRating" : "9-646"
-  }, {
-    "albumYear" : "2014",
-    "albumTitle" : "Popular Problems",
-    "musicRating" : "7",
-    "avgRating" : "9-688"
-  }, {
-    "albumYear" : "2014",
-    "albumTitle" : "Live in Dublin",
-    "musicRating" : "7",
-    "avgRating" : "9-146"
-  }, {
-    "albumYear" : "2015",
-    "albumTitle" : "Can't Forget: A Souvenir of the Grand Tour",
-    "musicRating" : "6",
-    "avgRating" : "8-107"
-  }, {
-    "albumYear" : "2016",
-    "albumTitle" : "You Want It Darker",
-    "musicRating" : "7",
-    "avgRating" : "9-943"
-  }, {
-    "albumYear" : "2019",
-    "albumTitle" : "Thanks for the Dance",
-    "musicRating" : "7",
-    "avgRating" : "9-212"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Songs of Leonard Cohen",
+      "albumYear" : "1967",
+      "avgRating" : "10-2080",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Songs from a Room",
+      "albumYear" : "1969",
+      "avgRating" : "9-1390",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Songs of Love and Hate",
+      "albumYear" : "1971",
+      "avgRating" : "10-1297",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Live Songs",
+      "albumYear" : "1973",
+      "avgRating" : "8-218",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "New Skin for the Old Ceremony",
+      "albumYear" : "1974",
+      "avgRating" : "9-1009",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Death of a Ladies' Man",
+      "albumYear" : "1977",
+      "avgRating" : "8-555",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Recent Songs",
+      "albumYear" : "1979",
+      "avgRating" : "8-436",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Various Positions",
+      "albumYear" : "1984",
+      "avgRating" : "9-584",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "I'm Your Man",
+      "albumYear" : "1988",
+      "avgRating" : "9-1026",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "The Future",
+      "albumYear" : "1992",
+      "avgRating" : "9-570",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Ten New Songs",
+      "albumYear" : "2001",
+      "avgRating" : "9-536",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Dear Heather",
+      "albumYear" : "2004",
+      "avgRating" : "8-353",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Book of Longing",
+      "albumYear" : "2007",
+      "avgRating" : "8-52",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Live in London",
+      "albumYear" : "2009",
+      "avgRating" : "9-363",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Songs from the Road",
+      "albumYear" : "2010",
+      "avgRating" : "8-214",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Old Ideas",
+      "albumYear" : "2012",
+      "avgRating" : "9-646",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Popular Problems",
+      "albumYear" : "2014",
+      "avgRating" : "9-690",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Live in Dublin",
+      "albumYear" : "2014",
+      "avgRating" : "9-147",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Can't Forget: A Souvenir of the Grand Tour",
+      "albumYear" : "2015",
+      "avgRating" : "8-108",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "You Want It Darker",
+      "albumYear" : "2016",
+      "avgRating" : "9-947",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Thanks for the Dance",
+      "albumYear" : "2019",
+      "avgRating" : "9-215",
+      "musicRating" : "7"
+    } ],
+    "id" : "leonard-cohen-mn0000071209"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Patti Smith",
-      "ArtistId" : "patti-smith-mn0000747445"
-    }, {
-      "artist" : "Tim Buckley",
-      "ArtistId" : "tim-buckley-mn0000595101"
-    }, {
-      "artist" : "Van Morrison",
-      "ArtistId" : "van-morrison-mn0000307461"
-    }, {
-      "artist" : "Andrew Calhoun",
-      "ArtistId" : "andrew-calhoun-mn0000033933"
-    }, {
-      "artist" : "Janis Ian",
-      "ArtistId" : "janis-ian-mn0000213212"
-    }, {
-      "artist" : "Joni Mitchell",
-      "ArtistId" : "joni-mitchell-mn0000270491"
-    }, {
-      "artist" : "Lou Reed",
-      "ArtistId" : "lou-reed-mn0000233066"
-    }, {
-      "artist" : "Paul Simon",
-      "ArtistId" : "paul-simon-mn0000031685"
-    }, {
-      "artist" : "The Velvet Underground",
-      "ArtistId" : "the-velvet-underground-mn0000840402"
-    }, {
-      "artist" : "A.A. Bondy",
-      "ArtistId" : "aa-bondy-mn0000724797"
-    }, {
-      "artist" : "Buffy Sainte-Marie",
-      "ArtistId" : "buffy-sainte-marie-mn0000626268"
-    }, {
-      "artist" : "David Ackles",
-      "ArtistId" : "david-ackles-mn0000528436"
-    }, {
-      "artist" : "Gordon Lightfoot",
-      "ArtistId" : "gordon-lightfoot-mn0000667794"
-    }, {
-      "artist" : "Jackson Browne",
-      "ArtistId" : "jackson-browne-mn0000130689"
-    }, {
-      "artist" : "John Cale",
-      "ArtistId" : "john-cale-mn0000224638"
-    }, {
-      "artist" : "Nick Drake",
-      "ArtistId" : "nick-drake-mn0000336783"
-    }, {
-      "artist" : "Pearls Before Swine",
-      "ArtistId" : "pearls-before-swine-mn0000753485"
-    }, {
-      "artist" : "Richard Thompson",
-      "ArtistId" : "richard-thompson-mn0000359016"
-    }, {
-      "artist" : "Scott Walker",
-      "ArtistId" : "scott-walker-mn0000253142"
-    }, {
-      "artist" : "Tim Hardin",
-      "ArtistId" : "tim-hardin-mn0000505532"
-    }, {
-      "artist" : "Tom Waits",
-      "ArtistId" : "tom-waits-mn0000615119"
-    }, {
-      "artist" : "Bill Fay",
-      "ArtistId" : "bill-fay-mn0000073553"
-    }, {
-      "artist" : "Chris Rea",
-      "ArtistId" : "chris-rea-mn0000096744"
-    }, {
-      "artist" : "Garland Jeffreys",
-      "ArtistId" : "garland-jeffreys-mn0000164750"
-    }, {
-      "artist" : "James Taylor",
-      "ArtistId" : "james-taylor-mn0000204386"
-    }, {
-      "artist" : "Kris Kristofferson",
-      "ArtistId" : "kris-kristofferson-mn0000774588"
-    }, {
-      "artist" : "L.A. Salami",
-      "ArtistId" : "la-salami-mn0003514363"
-    }, {
-      "artist" : "Mick Harvey",
-      "ArtistId" : "mick-harvey-mn0000481915"
-    }, {
-      "artist" : "Sivert Høyem",
-      "ArtistId" : "sivert-h%C3%B8yem-mn0001314128"
-    }, {
-      "artist" : "Yoko Ono",
-      "ArtistId" : "yoko-ono-mn0000521704"
-    }, {
-      "artist" : "Yusuf",
-      "ArtistId" : "yusuf-mn0000879920"
-    } ],
-    "influencers" : [ {
-      "artist" : "Bob Dylan",
-      "ArtistId" : "bob-dylan-mn0000066915"
-    }, {
-      "artist" : "Jacques Brel",
-      "ArtistId" : "jacques-brel-mn0000121590"
-    }, {
-      "artist" : "Sam Cooke",
-      "ArtistId" : "sam-cooke-mn0000238115"
-    }, {
-      "artist" : "Fats Domino",
-      "ArtistId" : "fats-domino-mn0000137494"
-    }, {
-      "artist" : "Serge Gainsbourg",
-      "ArtistId" : "serge-gainsbourg-mn0000174822"
-    }, {
-      "artist" : "Allen Ginsberg",
-      "ArtistId" : "allen-ginsberg-mn0000744364"
-    }, {
-      "artist" : "Eric Andersen",
-      "ArtistId" : "eric-andersen-mn0000799233"
-    }, {
-      "artist" : "Hank Williams",
-      "ArtistId" : "hank-williams-mn0000549797"
-    }, {
-      "artist" : "Hubert Selby, Jr.",
-      "ArtistId" : "hubert-selby-jr-mn0001831325"
-    }, {
-      "artist" : "Ian & Sylvia",
-      "ArtistId" : "ian-sylvia-mn0000074134"
-    }, {
-      "artist" : "Joan Baez",
-      "ArtistId" : "joan-baez-mn0000069153"
-    }, {
-      "artist" : "Richard & Mimi Fariña",
-      "ArtistId" : "richard-mimi-fari%C3%B1a-mn0000850523"
-    }, {
-      "artist" : "Scott Walker",
-      "ArtistId" : "scott-walker-mn0000253142"
-    }, {
-      "artist" : "The Byrds",
-      "ArtistId" : "the-byrds-mn0000631774"
-    }, {
-      "artist" : "Johnny Cash",
-      "ArtistId" : "johnny-cash-mn0000816890"
-    } ],
-    "followers" : [ {
-      "artist" : "Janis Ian",
-      "ArtistId" : "janis-ian-mn0000213212"
-    }, {
-      "artist" : "John Cale",
-      "ArtistId" : "john-cale-mn0000224638"
-    }, {
-      "artist" : "Laura Nyro",
-      "ArtistId" : "laura-nyro-mn0000137474"
-    }, {
-      "artist" : "Lloyd Cole",
-      "ArtistId" : "lloyd-cole-mn0000229348"
-    }, {
-      "artist" : "Nick Cave",
-      "ArtistId" : "nick-cave-mn0000397880"
-    }, {
-      "artist" : "Nico",
-      "ArtistId" : "nico-mn0000868306"
-    }, {
-      "artist" : "Richard Thompson",
-      "ArtistId" : "richard-thompson-mn0000359016"
-    }, {
-      "artist" : "Rufus Wainwright",
-      "ArtistId" : "rufus-wainwright-mn0000854854"
-    }, {
-      "artist" : "Tindersticks",
-      "ArtistId" : "tindersticks-mn0000600640"
-    }, {
-      "artist" : "American Music Club",
-      "ArtistId" : "american-music-club-mn0000011810"
-    }, {
-      "artist" : "Bruce Cockburn",
-      "ArtistId" : "bruce-cockburn-mn0000631579"
-    }, {
-      "artist" : "Damien Rice",
-      "ArtistId" : "damien-rice-mn0000667584"
-    }, {
-      "artist" : "Daniel Lanois",
-      "ArtistId" : "daniel-lanois-mn0000955544"
-    }, {
-      "artist" : "James Blunt",
-      "ArtistId" : "james-blunt-mn0000391586"
-    }, {
-      "artist" : "Jane Siberry",
-      "ArtistId" : "jane-siberry-mn0000208303"
-    }, {
-      "artist" : "Kevin Morby",
-      "ArtistId" : "kevin-morby-mn0002043318"
-    }, {
-      "artist" : "Mark Eitzel",
-      "ArtistId" : "mark-eitzel-mn0000286355"
-    }, {
-      "artist" : "Nina Nastasia",
-      "ArtistId" : "nina-nastasia-mn0000414095"
-    }, {
-      "artist" : "PJ Harvey",
-      "ArtistId" : "pj-harvey-mn0000000335"
-    }, {
-      "artist" : "R.E.M.",
-      "ArtistId" : "rem-mn0000325459"
-    }, {
-      "artist" : "Red House Painters",
-      "ArtistId" : "red-house-painters-mn0000451296"
-    }, {
-      "artist" : "Richard Hawley",
-      "ArtistId" : "richard-hawley-mn0000346684"
-    }, {
-      "artist" : "Sandy Denny",
-      "ArtistId" : "sandy-denny-mn0000245019"
-    }, {
-      "artist" : "Suzanne Vega",
-      "ArtistId" : "suzanne-vega-mn0000754251"
-    }, {
-      "artist" : "Anohni and the Johnsons",
-      "ArtistId" : "anohni-and-the-johnsons-mn0004436195"
-    }, {
-      "artist" : "Antony and the Johnsons",
-      "ArtistId" : "antony-and-the-johnsons-mn0000588497"
-    }, {
-      "artist" : "Aztec Camera",
-      "ArtistId" : "aztec-camera-mn0000759031"
-    }, {
-      "artist" : "Bright Eyes",
-      "ArtistId" : "bright-eyes-mn0000620056"
-    }, {
-      "artist" : "Carly Rae Jepsen",
-      "ArtistId" : "carly-rae-jepsen-mn0002089077"
-    }, {
-      "artist" : "Daniel Powter",
-      "ArtistId" : "daniel-powter-mn0000544965"
-    }, {
-      "artist" : "David Sylvian",
-      "ArtistId" : "david-sylvian-mn0000183139"
-    }, {
-      "artist" : "Dead Can Dance",
-      "ArtistId" : "dead-can-dance-mn0000225948"
-    }, {
-      "artist" : "Elvis Perkins",
-      "ArtistId" : "elvis-perkins-mn0000570306"
-    }, {
-      "artist" : "Isaac Gracie",
-      "ArtistId" : "isaac-gracie-mn0003495578"
-    }, {
-      "artist" : "Jarvis Cocker",
-      "ArtistId" : "jarvis-cocker-mn0000808871"
-    }, {
-      "artist" : "Jeff Buckley",
-      "ArtistId" : "jeff-buckley-mn0000240665"
-    }, {
-      "artist" : "Joe Henry",
-      "ArtistId" : "joe-henry-mn0000141151"
-    }, {
-      "artist" : "John Parish",
-      "ArtistId" : "john-parish-mn0000812637"
-    }, {
-      "artist" : "Josh Ritter",
-      "ArtistId" : "josh-ritter-mn0000233136"
-    }, {
-      "artist" : "Madeleine Peyroux",
-      "ArtistId" : "madeleine-peyroux-mn0000193594"
-    }, {
-      "artist" : "Mark Lanegan",
-      "ArtistId" : "mark-lanegan-mn0000287350"
-    }, {
-      "artist" : "Momus",
-      "ArtistId" : "momus-mn0000584952"
-    }, {
-      "artist" : "Swans",
-      "ArtistId" : "swans-mn0000034988"
-    }, {
-      "artist" : "The Gutter Twins",
-      "ArtistId" : "the-gutter-twins-mn0000936386"
-    }, {
-      "artist" : "The Mountain Goats",
-      "ArtistId" : "the-mountain-goats-mn0000480830"
-    }, {
-      "artist" : "The National",
-      "ArtistId" : "the-national-mn0000474150"
-    }, {
-      "artist" : "Depeche Mode",
-      "ArtistId" : "depeche-mode-mn0000239921"
-    }, {
-      "artist" : "Joan as Police Woman",
-      "ArtistId" : "joan-as-police-woman-mn0000713445"
-    }, {
-      "artist" : "Judy Collins",
-      "ArtistId" : "judy-collins-mn0000294923"
-    }, {
-      "artist" : "Kings of Convenience",
-      "ArtistId" : "kings-of-convenience-mn0000094861"
-    }, {
-      "artist" : "Lambchop",
-      "ArtistId" : "lambchop-mn0000126782"
-    }, {
-      "artist" : "Mumford & Sons",
-      "ArtistId" : "mumford-sons-mn0001072350"
-    }, {
-      "artist" : "Regina Spektor",
-      "ArtistId" : "regina-spektor-mn0000386560"
-    }, {
-      "artist" : "Sam Phillips",
-      "ArtistId" : "sam-phillips-mn0000240923"
-    }, {
-      "artist" : "She & Him",
-      "ArtistId" : "she-him-mn0001585751"
-    }, {
-      "artist" : "Shearwater",
-      "ArtistId" : "shearwater-mn0000012473"
-    }, {
-      "artist" : "Smog",
-      "ArtistId" : "smog-mn0000031606"
-    }, {
-      "artist" : "St. Vincent",
-      "ArtistId" : "st-vincent-mn0000574035"
-    }, {
-      "artist" : "Sun Kil Moon",
-      "ArtistId" : "sun-kil-moon-mn0000579037"
-    }, {
-      "artist" : "Teddy Thompson",
-      "ArtistId" : "teddy-thompson-mn0000747302"
-    }, {
-      "artist" : "Will Stratton",
-      "ArtistId" : "will-stratton-mn0000635973"
-    }, {
-      "artist" : "Beatie Wolfe",
-      "ArtistId" : "beatie-wolfe-mn0003369580"
-    }, {
-      "artist" : "Bret McKenzie",
-      "ArtistId" : "bret-mckenzie-mn0001946065"
-    }, {
-      "artist" : "Cold Cave",
-      "ArtistId" : "cold-cave-mn0001598114"
-    }, {
-      "artist" : "Ebba Forsberg",
-      "ArtistId" : "ebba-forsberg-mn0000172138"
-    }, {
-      "artist" : "Family Band",
-      "ArtistId" : "family-band-mn0001698028"
-    }, {
-      "artist" : "Hozier",
-      "ArtistId" : "hozier-mn0003144637"
-    }, {
-      "artist" : "Husky",
-      "ArtistId" : "husky-mn0002885848"
-    }, {
-      "artist" : "Irma Vep",
-      "ArtistId" : "irma-vep-mn0002004941"
-    }, {
-      "artist" : "Jason Anderson",
-      "ArtistId" : "jason-anderson-mn0000219314"
-    }, {
-      "artist" : "John McCullagh",
-      "ArtistId" : "john-mccullagh-mn0003154359"
-    }, {
-      "artist" : "Keith James",
-      "ArtistId" : "keith-james-mn0002330917"
-    }, {
-      "artist" : "Lana Del Rey",
-      "ArtistId" : "lana-del-rey-mn0002784799"
-    }, {
-      "artist" : "Lawrence Rothman",
-      "ArtistId" : "lawrence-rothman-mn0003260134"
-    }, {
-      "artist" : "NO",
-      "ArtistId" : "no-mn0002875652"
-    }, {
-      "artist" : "Papercuts",
-      "ArtistId" : "papercuts-mn0000120109"
-    }, {
-      "artist" : "Sam Brothers",
-      "ArtistId" : "sam-brothers-mn0001611882"
-    }, {
-      "artist" : "Vera Sola",
-      "ArtistId" : "vera-sola-mn0003780916"
-    }, {
-      "artist" : "Aesop Rock",
-      "ArtistId" : "aesop-rock-mn0000929573"
-    }, {
-      "artist" : "Jack Hardy",
-      "ArtistId" : "jack-hardy-mn0000116548"
-    }, {
-      "artist" : "Jim Allen",
-      "ArtistId" : "jim-allen-mn0000332799"
-    }, {
-      "artist" : "Mike Johnson",
-      "ArtistId" : "mike-johnson-mn0000485418"
-    }, {
-      "artist" : "Richard Julian",
-      "ArtistId" : "richard-julian-mn0000289827"
-    }, {
-      "artist" : "Sarah Harmer",
-      "ArtistId" : "sarah-harmer-mn0000294623"
-    }, {
-      "artist" : "Two Dollar Guitar",
-      "ArtistId" : "two-dollar-guitar-mn0000204294"
-    }, {
-      "artist" : "Eric Wood",
-      "ArtistId" : "eric-wood-mn0000194353"
-    }, {
-      "artist" : "Frank Tedesso",
-      "ArtistId" : "frank-tedesso-mn0000792976"
-    }, {
-      "artist" : "Paul K.",
-      "ArtistId" : "paul-k-mn0000020660"
-    }, {
-      "artist" : "Simon Joyner",
-      "ArtistId" : "simon-joyner-mn0000045168"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Jennifer Warnes",
-      "ArtistId" : "jennifer-warnes-mn0000267505"
-    }, {
-      "artist" : "Anjani",
-      "ArtistId" : "anjani-mn0000479378"
-    } ]
+    "id" : "leonard-cohen-mn0000071209",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "jennifer-warnes-mn0000267505",
+        "artist" : "Jennifer Warnes"
+      }, {
+        "ArtistId" : "anjani-mn0000479378",
+        "artist" : "Anjani"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "janis-ian-mn0000213212",
+        "artist" : "Janis Ian"
+      }, {
+        "ArtistId" : "john-cale-mn0000224638",
+        "artist" : "John Cale"
+      }, {
+        "ArtistId" : "laura-nyro-mn0000137474",
+        "artist" : "Laura Nyro"
+      }, {
+        "ArtistId" : "lloyd-cole-mn0000229348",
+        "artist" : "Lloyd Cole"
+      }, {
+        "ArtistId" : "nick-cave-mn0000397880",
+        "artist" : "Nick Cave"
+      }, {
+        "ArtistId" : "nico-mn0000868306",
+        "artist" : "Nico"
+      }, {
+        "ArtistId" : "richard-thompson-mn0000359016",
+        "artist" : "Richard Thompson"
+      }, {
+        "ArtistId" : "rufus-wainwright-mn0000854854",
+        "artist" : "Rufus Wainwright"
+      }, {
+        "ArtistId" : "tindersticks-mn0000600640",
+        "artist" : "Tindersticks"
+      }, {
+        "ArtistId" : "american-music-club-mn0000011810",
+        "artist" : "American Music Club"
+      }, {
+        "ArtistId" : "bruce-cockburn-mn0000631579",
+        "artist" : "Bruce Cockburn"
+      }, {
+        "ArtistId" : "damien-rice-mn0000667584",
+        "artist" : "Damien Rice"
+      }, {
+        "ArtistId" : "daniel-lanois-mn0000955544",
+        "artist" : "Daniel Lanois"
+      }, {
+        "ArtistId" : "james-blunt-mn0000391586",
+        "artist" : "James Blunt"
+      }, {
+        "ArtistId" : "jane-siberry-mn0000208303",
+        "artist" : "Jane Siberry"
+      }, {
+        "ArtistId" : "kevin-morby-mn0002043318",
+        "artist" : "Kevin Morby"
+      }, {
+        "ArtistId" : "mark-eitzel-mn0000286355",
+        "artist" : "Mark Eitzel"
+      }, {
+        "ArtistId" : "nina-nastasia-mn0000414095",
+        "artist" : "Nina Nastasia"
+      }, {
+        "ArtistId" : "pj-harvey-mn0000000335",
+        "artist" : "PJ Harvey"
+      }, {
+        "ArtistId" : "rem-mn0000325459",
+        "artist" : "R.E.M."
+      }, {
+        "ArtistId" : "red-house-painters-mn0000451296",
+        "artist" : "Red House Painters"
+      }, {
+        "ArtistId" : "richard-hawley-mn0000346684",
+        "artist" : "Richard Hawley"
+      }, {
+        "ArtistId" : "sandy-denny-mn0000245019",
+        "artist" : "Sandy Denny"
+      }, {
+        "ArtistId" : "suzanne-vega-mn0000754251",
+        "artist" : "Suzanne Vega"
+      }, {
+        "ArtistId" : "anohni-and-the-johnsons-mn0004436195",
+        "artist" : "Anohni and the Johnsons"
+      }, {
+        "ArtistId" : "antony-and-the-johnsons-mn0000588497",
+        "artist" : "Antony and the Johnsons"
+      }, {
+        "ArtistId" : "aztec-camera-mn0000759031",
+        "artist" : "Aztec Camera"
+      }, {
+        "ArtistId" : "bright-eyes-mn0000620056",
+        "artist" : "Bright Eyes"
+      }, {
+        "ArtistId" : "carly-rae-jepsen-mn0002089077",
+        "artist" : "Carly Rae Jepsen"
+      }, {
+        "ArtistId" : "daniel-powter-mn0000544965",
+        "artist" : "Daniel Powter"
+      }, {
+        "ArtistId" : "david-sylvian-mn0000183139",
+        "artist" : "David Sylvian"
+      }, {
+        "ArtistId" : "dead-can-dance-mn0000225948",
+        "artist" : "Dead Can Dance"
+      }, {
+        "ArtistId" : "elvis-perkins-mn0000570306",
+        "artist" : "Elvis Perkins"
+      }, {
+        "ArtistId" : "isaac-gracie-mn0003495578",
+        "artist" : "Isaac Gracie"
+      }, {
+        "ArtistId" : "jarvis-cocker-mn0000808871",
+        "artist" : "Jarvis Cocker"
+      }, {
+        "ArtistId" : "jeff-buckley-mn0000240665",
+        "artist" : "Jeff Buckley"
+      }, {
+        "ArtistId" : "joe-henry-mn0000141151",
+        "artist" : "Joe Henry"
+      }, {
+        "ArtistId" : "john-parish-mn0000812637",
+        "artist" : "John Parish"
+      }, {
+        "ArtistId" : "josh-ritter-mn0000233136",
+        "artist" : "Josh Ritter"
+      }, {
+        "ArtistId" : "madeleine-peyroux-mn0000193594",
+        "artist" : "Madeleine Peyroux"
+      }, {
+        "ArtistId" : "mark-lanegan-mn0000287350",
+        "artist" : "Mark Lanegan"
+      }, {
+        "ArtistId" : "momus-mn0000584952",
+        "artist" : "Momus"
+      }, {
+        "ArtistId" : "swans-mn0000034988",
+        "artist" : "Swans"
+      }, {
+        "ArtistId" : "the-gutter-twins-mn0000936386",
+        "artist" : "The Gutter Twins"
+      }, {
+        "ArtistId" : "the-mountain-goats-mn0000480830",
+        "artist" : "The Mountain Goats"
+      }, {
+        "ArtistId" : "the-national-mn0000474150",
+        "artist" : "The National"
+      }, {
+        "ArtistId" : "depeche-mode-mn0000239921",
+        "artist" : "Depeche Mode"
+      }, {
+        "ArtistId" : "joan-as-police-woman-mn0000713445",
+        "artist" : "Joan as Police Woman"
+      }, {
+        "ArtistId" : "judy-collins-mn0000294923",
+        "artist" : "Judy Collins"
+      }, {
+        "ArtistId" : "kings-of-convenience-mn0000094861",
+        "artist" : "Kings of Convenience"
+      }, {
+        "ArtistId" : "lambchop-mn0000126782",
+        "artist" : "Lambchop"
+      }, {
+        "ArtistId" : "mumford-sons-mn0001072350",
+        "artist" : "Mumford & Sons"
+      }, {
+        "ArtistId" : "regina-spektor-mn0000386560",
+        "artist" : "Regina Spektor"
+      }, {
+        "ArtistId" : "sam-phillips-mn0000240923",
+        "artist" : "Sam Phillips"
+      }, {
+        "ArtistId" : "she-him-mn0001585751",
+        "artist" : "She & Him"
+      }, {
+        "ArtistId" : "shearwater-mn0000012473",
+        "artist" : "Shearwater"
+      }, {
+        "ArtistId" : "smog-mn0000031606",
+        "artist" : "Smog"
+      }, {
+        "ArtistId" : "st-vincent-mn0000574035",
+        "artist" : "St. Vincent"
+      }, {
+        "ArtistId" : "sun-kil-moon-mn0000579037",
+        "artist" : "Sun Kil Moon"
+      }, {
+        "ArtistId" : "teddy-thompson-mn0000747302",
+        "artist" : "Teddy Thompson"
+      }, {
+        "ArtistId" : "will-stratton-mn0000635973",
+        "artist" : "Will Stratton"
+      }, {
+        "ArtistId" : "beatie-wolfe-mn0003369580",
+        "artist" : "Beatie Wolfe"
+      }, {
+        "ArtistId" : "bret-mckenzie-mn0001946065",
+        "artist" : "Bret McKenzie"
+      }, {
+        "ArtistId" : "cold-cave-mn0001598114",
+        "artist" : "Cold Cave"
+      }, {
+        "ArtistId" : "ebba-forsberg-mn0000172138",
+        "artist" : "Ebba Forsberg"
+      }, {
+        "ArtistId" : "family-band-mn0001698028",
+        "artist" : "Family Band"
+      }, {
+        "ArtistId" : "hozier-mn0003144637",
+        "artist" : "Hozier"
+      }, {
+        "ArtistId" : "husky-mn0002885848",
+        "artist" : "Husky"
+      }, {
+        "ArtistId" : "irma-vep-mn0002004941",
+        "artist" : "Irma Vep"
+      }, {
+        "ArtistId" : "jason-anderson-mn0000219314",
+        "artist" : "Jason Anderson"
+      }, {
+        "ArtistId" : "john-mccullagh-mn0003154359",
+        "artist" : "John McCullagh"
+      }, {
+        "ArtistId" : "keith-james-mn0002330917",
+        "artist" : "Keith James"
+      }, {
+        "ArtistId" : "lana-del-rey-mn0002784799",
+        "artist" : "Lana Del Rey"
+      }, {
+        "ArtistId" : "lawrence-rothman-mn0003260134",
+        "artist" : "Lawrence Rothman"
+      }, {
+        "ArtistId" : "no-mn0002875652",
+        "artist" : "NO"
+      }, {
+        "ArtistId" : "papercuts-mn0000120109",
+        "artist" : "Papercuts"
+      }, {
+        "ArtistId" : "sam-brothers-mn0001611882",
+        "artist" : "Sam Brothers"
+      }, {
+        "ArtistId" : "sparky-deathcap-mn0004541585",
+        "artist" : "Sparky Deathcap"
+      }, {
+        "ArtistId" : "vera-sola-mn0003780916",
+        "artist" : "Vera Sola"
+      }, {
+        "ArtistId" : "aesop-rock-mn0000929573",
+        "artist" : "Aesop Rock"
+      }, {
+        "ArtistId" : "jack-hardy-mn0000116548",
+        "artist" : "Jack Hardy"
+      }, {
+        "ArtistId" : "jim-allen-mn0000332799",
+        "artist" : "Jim Allen"
+      }, {
+        "ArtistId" : "mike-johnson-mn0000485418",
+        "artist" : "Mike Johnson"
+      }, {
+        "ArtistId" : "richard-julian-mn0000289827",
+        "artist" : "Richard Julian"
+      }, {
+        "ArtistId" : "sarah-harmer-mn0000294623",
+        "artist" : "Sarah Harmer"
+      }, {
+        "ArtistId" : "two-dollar-guitar-mn0000204294",
+        "artist" : "Two Dollar Guitar"
+      }, {
+        "ArtistId" : "eric-wood-mn0000194353",
+        "artist" : "Eric Wood"
+      }, {
+        "ArtistId" : "frank-tedesso-mn0000792976",
+        "artist" : "Frank Tedesso"
+      }, {
+        "ArtistId" : "paul-k-mn0000020660",
+        "artist" : "Paul K."
+      }, {
+        "ArtistId" : "simon-joyner-mn0000045168",
+        "artist" : "Simon Joyner"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "bob-dylan-mn0000066915",
+        "artist" : "Bob Dylan"
+      }, {
+        "ArtistId" : "jacques-brel-mn0000121590",
+        "artist" : "Jacques Brel"
+      }, {
+        "ArtistId" : "sam-cooke-mn0000238115",
+        "artist" : "Sam Cooke"
+      }, {
+        "ArtistId" : "fats-domino-mn0000137494",
+        "artist" : "Fats Domino"
+      }, {
+        "ArtistId" : "serge-gainsbourg-mn0000174822",
+        "artist" : "Serge Gainsbourg"
+      }, {
+        "ArtistId" : "allen-ginsberg-mn0000744364",
+        "artist" : "Allen Ginsberg"
+      }, {
+        "ArtistId" : "eric-andersen-mn0000799233",
+        "artist" : "Eric Andersen"
+      }, {
+        "ArtistId" : "hank-williams-mn0000549797",
+        "artist" : "Hank Williams"
+      }, {
+        "ArtistId" : "hubert-selby-jr-mn0001831325",
+        "artist" : "Hubert Selby, Jr."
+      }, {
+        "ArtistId" : "ian-sylvia-mn0000074134",
+        "artist" : "Ian & Sylvia"
+      }, {
+        "ArtistId" : "joan-baez-mn0000069153",
+        "artist" : "Joan Baez"
+      }, {
+        "ArtistId" : "richard-mimi-fari%C3%B1a-mn0000850523",
+        "artist" : "Richard & Mimi Fariña"
+      }, {
+        "ArtistId" : "scott-walker-mn0000253142",
+        "artist" : "Scott Walker"
+      }, {
+        "ArtistId" : "the-byrds-mn0000631774",
+        "artist" : "The Byrds"
+      }, {
+        "ArtistId" : "moon-diagrams-mn0003631463",
+        "artist" : "Moon Diagrams"
+      }, {
+        "ArtistId" : "johnny-cash-mn0000816890",
+        "artist" : "Johnny Cash"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "patti-smith-mn0000747445",
+        "artist" : "Patti Smith"
+      }, {
+        "ArtistId" : "tim-buckley-mn0000595101",
+        "artist" : "Tim Buckley"
+      }, {
+        "ArtistId" : "van-morrison-mn0000307461",
+        "artist" : "Van Morrison"
+      }, {
+        "ArtistId" : "andrew-calhoun-mn0000033933",
+        "artist" : "Andrew Calhoun"
+      }, {
+        "ArtistId" : "janis-ian-mn0000213212",
+        "artist" : "Janis Ian"
+      }, {
+        "ArtistId" : "joni-mitchell-mn0000270491",
+        "artist" : "Joni Mitchell"
+      }, {
+        "ArtistId" : "lou-reed-mn0000233066",
+        "artist" : "Lou Reed"
+      }, {
+        "ArtistId" : "paul-simon-mn0000031685",
+        "artist" : "Paul Simon"
+      }, {
+        "ArtistId" : "the-velvet-underground-mn0000840402",
+        "artist" : "The Velvet Underground"
+      }, {
+        "ArtistId" : "aa-bondy-mn0000724797",
+        "artist" : "A.A. Bondy"
+      }, {
+        "ArtistId" : "buffy-sainte-marie-mn0000626268",
+        "artist" : "Buffy Sainte-Marie"
+      }, {
+        "ArtistId" : "david-ackles-mn0000528436",
+        "artist" : "David Ackles"
+      }, {
+        "ArtistId" : "gordon-lightfoot-mn0000667794",
+        "artist" : "Gordon Lightfoot"
+      }, {
+        "ArtistId" : "jackson-browne-mn0000130689",
+        "artist" : "Jackson Browne"
+      }, {
+        "ArtistId" : "john-cale-mn0000224638",
+        "artist" : "John Cale"
+      }, {
+        "ArtistId" : "nick-drake-mn0000336783",
+        "artist" : "Nick Drake"
+      }, {
+        "ArtistId" : "pearls-before-swine-mn0000753485",
+        "artist" : "Pearls Before Swine"
+      }, {
+        "ArtistId" : "richard-thompson-mn0000359016",
+        "artist" : "Richard Thompson"
+      }, {
+        "ArtistId" : "scott-walker-mn0000253142",
+        "artist" : "Scott Walker"
+      }, {
+        "ArtistId" : "tim-hardin-mn0000505532",
+        "artist" : "Tim Hardin"
+      }, {
+        "ArtistId" : "tom-waits-mn0000615119",
+        "artist" : "Tom Waits"
+      }, {
+        "ArtistId" : "bill-fay-mn0000073553",
+        "artist" : "Bill Fay"
+      }, {
+        "ArtistId" : "chris-rea-mn0000096744",
+        "artist" : "Chris Rea"
+      }, {
+        "ArtistId" : "garland-jeffreys-mn0000164750",
+        "artist" : "Garland Jeffreys"
+      }, {
+        "ArtistId" : "james-taylor-mn0000204386",
+        "artist" : "James Taylor"
+      }, {
+        "ArtistId" : "kris-kristofferson-mn0000774588",
+        "artist" : "Kris Kristofferson"
+      }, {
+        "ArtistId" : "la-salami-mn0003514363",
+        "artist" : "L.A. Salami"
+      }, {
+        "ArtistId" : "mick-harvey-mn0000481915",
+        "artist" : "Mick Harvey"
+      }, {
+        "ArtistId" : "sivert-h%C3%B8yem-mn0001314128",
+        "artist" : "Sivert Høyem"
+      }, {
+        "ArtistId" : "yoko-ono-mn0000521704",
+        "artist" : "Yoko Ono"
+      }, {
+        "ArtistId" : "yusuf-mn0000879920",
+        "artist" : "Yusuf"
+      } ]
+    }
   }
 }

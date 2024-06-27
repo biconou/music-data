@@ -1,9 +1,9 @@
 {
-  "id" : "efdemin-mn0000729957",
-  "name" : "Efdemin",
   "activeDates" : "1990s - 2010s",
   "birthDate" : "1974",
   "birthPlace" : "Kassel, Germany",
+  "id" : "efdemin-mn0000729957",
+  "name" : "Efdemin",
   "styles" : [ {
     "name" : "Club/Dance",
     "url" : "https://www.allmusic.com/style/club-dance-ma0000002544"
@@ -22,134 +22,140 @@
   } ],
   "decades" : "1990s - 2010s",
   "genres" : "Electronic",
-  "discography" : [ {
-    "albumYear" : "2007",
-    "albumTitle" : "Efdemin",
-    "musicRating" : "7",
-    "avgRating" : "9-9"
-  }, {
-    "albumYear" : "2008",
-    "albumTitle" : "Carry On: Pretend We Are Not in the Room",
-    "musicRating" : "6",
-    "avgRating" : "7-16"
-  }, {
-    "albumYear" : "2010",
-    "albumTitle" : "Chicago",
-    "musicRating" : "",
-    "avgRating" : "9-5"
-  }, {
-    "albumYear" : "2018",
-    "albumTitle" : "Naïf",
-    "musicRating" : "",
-    "avgRating" : ""
-  }, {
-    "albumYear" : "2019",
-    "albumTitle" : "New Atlantis",
-    "musicRating" : "",
-    "avgRating" : "9-8"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Decay",
-    "musicRating" : "",
-    "avgRating" : "9-4"
-  } ],
-  "related" : {
-    "similars" : [ {
-      "artist" : "Carsten Jost",
-      "ArtistId" : "carsten-jost-mn0000180342"
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Efdemin",
+      "albumYear" : "2007",
+      "avgRating" : "9-10",
+      "musicRating" : "7"
     }, {
-      "artist" : "John Roberts",
-      "ArtistId" : "john-roberts-mn0002107397"
+      "albumTitle" : "Carry On: Pretend We Are Not in the Room",
+      "albumYear" : "2008",
+      "avgRating" : "7-16",
+      "musicRating" : "6"
     }, {
-      "artist" : "Map.ache",
-      "ArtistId" : "mapache-mn0003436725"
+      "albumTitle" : "Chicago",
+      "albumYear" : "2010",
+      "avgRating" : "9-5",
+      "musicRating" : ""
     }, {
-      "artist" : "Max Cooper",
-      "ArtistId" : "max-cooper-mn0002002647"
+      "albumTitle" : "Naïf",
+      "albumYear" : "2018",
+      "avgRating" : "",
+      "musicRating" : ""
     }, {
-      "artist" : "Minilogue",
-      "ArtistId" : "minilogue-mn0000896832"
+      "albumTitle" : "New Atlantis",
+      "albumYear" : "2019",
+      "avgRating" : "9-8",
+      "musicRating" : ""
     }, {
-      "artist" : "Pantha du Prince",
-      "ArtistId" : "pantha-du-prince-mn0000542080"
-    }, {
-      "artist" : "Roman Flügel",
-      "ArtistId" : "roman-fl%C3%BCgel-mn0000285072"
-    }, {
-      "artist" : "Sebastian Mullaert",
-      "ArtistId" : "sebastian-mullaert-mn0000736808"
-    }, {
-      "artist" : "Substance",
-      "ArtistId" : "substance-mn0000582492"
-    }, {
-      "artist" : "Anders Ilar",
-      "ArtistId" : "anders-ilar-mn0000785777"
-    }, {
-      "artist" : "Audision",
-      "ArtistId" : "audision-mn0000142612"
-    }, {
-      "artist" : "Barker & Baumecker",
-      "ArtistId" : "barker-baumecker-mn0002554643"
-    }, {
-      "artist" : "Barnt",
-      "ArtistId" : "barnt-mn0002517445"
-    }, {
-      "artist" : "Ben Klock",
-      "ArtistId" : "ben-klock-mn0000279288"
-    }, {
-      "artist" : "John Tejada",
-      "ArtistId" : "john-tejada-mn0000229686"
-    }, {
-      "artist" : "Lawrence",
-      "ArtistId" : "lawrence-mn0000868625"
-    }, {
-      "artist" : "Michael Mayer",
-      "ArtistId" : "michael-mayer-mn0000886392"
-    }, {
-      "artist" : "Nick Höppner",
-      "ArtistId" : "nick-h%C3%B6ppner-mn0001026725"
-    }, {
-      "artist" : "Nina Kraviz",
-      "ArtistId" : "nina-kraviz-mn0002135861"
-    }, {
-      "artist" : "Recondite",
-      "ArtistId" : "recondite-mn0002787139"
-    }, {
-      "artist" : "Sami Koivikko",
-      "ArtistId" : "sami-koivikko-mn0000143661"
-    }, {
-      "artist" : "Shed",
-      "ArtistId" : "shed-mn0000996899"
-    }, {
-      "artist" : "Steffi",
-      "ArtistId" : "steffi-mn0001095908"
-    }, {
-      "artist" : "Swayzak",
-      "ArtistId" : "swayzak-mn0000042085"
-    }, {
-      "artist" : "Traumprinz",
-      "ArtistId" : "traumprinz-mn0003132328"
-    }, {
-      "artist" : "Trentemøller",
-      "ArtistId" : "trentem%C3%B8ller-mn0000017060"
-    }, {
-      "artist" : "Alex Smoke",
-      "ArtistId" : "alex-smoke-mn0000948425"
-    }, {
-      "artist" : "Leif",
-      "ArtistId" : "leif-mn0003132333"
-    }, {
-      "artist" : "Pom Pom",
-      "ArtistId" : "pom-pom-mn0001298047"
-    }, {
-      "artist" : "Ricardo Villalobos",
-      "ArtistId" : "ricardo-villalobos-mn0000472894"
-    }, {
-      "artist" : "Tobias.",
-      "ArtistId" : "tobias-mn0000996900"
+      "albumTitle" : "Decay",
+      "albumYear" : "",
+      "avgRating" : "9-4",
+      "musicRating" : ""
     } ],
-    "influencers" : [ ],
-    "followers" : [ ],
-    "associatedwith" : [ ]
+    "id" : "efdemin-mn0000729957"
+  },
+  "related" : {
+    "id" : "efdemin-mn0000729957",
+    "related" : {
+      "associatedwith" : [ ],
+      "followers" : [ ],
+      "influencers" : [ ],
+      "similars" : [ {
+        "ArtistId" : "carsten-jost-mn0000180342",
+        "artist" : "Carsten Jost"
+      }, {
+        "ArtistId" : "john-roberts-mn0002107397",
+        "artist" : "John Roberts"
+      }, {
+        "ArtistId" : "mapache-mn0003436725",
+        "artist" : "Map.ache"
+      }, {
+        "ArtistId" : "max-cooper-mn0002002647",
+        "artist" : "Max Cooper"
+      }, {
+        "ArtistId" : "minilogue-mn0000896832",
+        "artist" : "Minilogue"
+      }, {
+        "ArtistId" : "pantha-du-prince-mn0000542080",
+        "artist" : "Pantha du Prince"
+      }, {
+        "ArtistId" : "roman-fl%C3%BCgel-mn0000285072",
+        "artist" : "Roman Flügel"
+      }, {
+        "ArtistId" : "sebastian-mullaert-mn0000736808",
+        "artist" : "Sebastian Mullaert"
+      }, {
+        "ArtistId" : "substance-mn0000582492",
+        "artist" : "Substance"
+      }, {
+        "ArtistId" : "anders-ilar-mn0000785777",
+        "artist" : "Anders Ilar"
+      }, {
+        "ArtistId" : "audision-mn0000142612",
+        "artist" : "Audision"
+      }, {
+        "ArtistId" : "barker-baumecker-mn0002554643",
+        "artist" : "Barker & Baumecker"
+      }, {
+        "ArtistId" : "barnt-mn0002517445",
+        "artist" : "Barnt"
+      }, {
+        "ArtistId" : "ben-klock-mn0000279288",
+        "artist" : "Ben Klock"
+      }, {
+        "ArtistId" : "john-tejada-mn0000229686",
+        "artist" : "John Tejada"
+      }, {
+        "ArtistId" : "lawrence-mn0000868625",
+        "artist" : "Lawrence"
+      }, {
+        "ArtistId" : "michael-mayer-mn0000886392",
+        "artist" : "Michael Mayer"
+      }, {
+        "ArtistId" : "nick-h%C3%B6ppner-mn0001026725",
+        "artist" : "Nick Höppner"
+      }, {
+        "ArtistId" : "nina-kraviz-mn0002135861",
+        "artist" : "Nina Kraviz"
+      }, {
+        "ArtistId" : "recondite-mn0002787139",
+        "artist" : "Recondite"
+      }, {
+        "ArtistId" : "sami-koivikko-mn0000143661",
+        "artist" : "Sami Koivikko"
+      }, {
+        "ArtistId" : "shed-mn0000996899",
+        "artist" : "Shed"
+      }, {
+        "ArtistId" : "steffi-mn0001095908",
+        "artist" : "Steffi"
+      }, {
+        "ArtistId" : "swayzak-mn0000042085",
+        "artist" : "Swayzak"
+      }, {
+        "ArtistId" : "traumprinz-mn0003132328",
+        "artist" : "Traumprinz"
+      }, {
+        "ArtistId" : "trentem%C3%B8ller-mn0000017060",
+        "artist" : "Trentemøller"
+      }, {
+        "ArtistId" : "alex-smoke-mn0000948425",
+        "artist" : "Alex Smoke"
+      }, {
+        "ArtistId" : "leif-mn0003132333",
+        "artist" : "Leif"
+      }, {
+        "ArtistId" : "pom-pom-mn0001298047",
+        "artist" : "Pom Pom"
+      }, {
+        "ArtistId" : "ricardo-villalobos-mn0000472894",
+        "artist" : "Ricardo Villalobos"
+      }, {
+        "ArtistId" : "tobias-mn0000996900",
+        "artist" : "Tobias."
+      } ]
+    }
   }
 }

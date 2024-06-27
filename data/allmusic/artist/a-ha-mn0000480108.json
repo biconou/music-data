@@ -1,9 +1,9 @@
 {
-  "id" : "a-ha-mn0000480108",
-  "name" : "a-ha",
   "activeDates" : "1980s - 2020s",
   "birthDate" : "1982",
   "birthPlace" : "Oslo, Norway",
+  "id" : "a-ha-mn0000480108",
+  "name" : "a-ha",
   "styles" : [ {
     "name" : "Punk/New Wave",
     "url" : "https://www.allmusic.com/style/punk-new-wave-ma0000011872"
@@ -43,255 +43,261 @@
   } ],
   "decades" : "1980s - 2020s",
   "genres" : "Pop/Rock, Electronic, Stage & Screen",
-  "discography" : [ {
-    "albumYear" : "1985",
-    "albumTitle" : "Hunting High and Low",
-    "musicRating" : "7",
-    "avgRating" : "9-768"
-  }, {
-    "albumYear" : "1986",
-    "albumTitle" : "Scoundrel Days",
-    "musicRating" : "6",
-    "avgRating" : "9-402"
-  }, {
-    "albumYear" : "1988",
-    "albumTitle" : "Stay on These Roads",
-    "musicRating" : "3",
-    "avgRating" : "8-280"
-  }, {
-    "albumYear" : "1990",
-    "albumTitle" : "East of the Sun, West of the Moon",
-    "musicRating" : "5",
-    "avgRating" : "8-246"
-  }, {
-    "albumYear" : "1993",
-    "albumTitle" : "Memorial Beach",
-    "musicRating" : "1",
-    "avgRating" : "8-237"
-  }, {
-    "albumYear" : "2000",
-    "albumTitle" : "Minor Earth Major Sky",
-    "musicRating" : "5",
-    "avgRating" : "8-219"
-  }, {
-    "albumYear" : "2002",
-    "albumTitle" : "Lifelines",
-    "musicRating" : "5",
-    "avgRating" : "8-180"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "How Can I Sleep with Your Voice in My Head",
-    "musicRating" : "5",
-    "avgRating" : "8-75"
-  }, {
-    "albumYear" : "2005",
-    "albumTitle" : "Analogue",
-    "musicRating" : "4",
-    "avgRating" : "8-180"
-  }, {
-    "albumYear" : "2009",
-    "albumTitle" : "Foot of the Mountain",
-    "musicRating" : "6",
-    "avgRating" : "8-191"
-  }, {
-    "albumYear" : "2015",
-    "albumTitle" : "Cast in Steel",
-    "musicRating" : "",
-    "avgRating" : "8-142"
-  }, {
-    "albumYear" : "2017",
-    "albumTitle" : "Acoustic Hits: MTV Unplugged",
-    "musicRating" : "",
-    "avgRating" : "8-1"
-  }, {
-    "albumYear" : "2017",
-    "albumTitle" : "MTV Unplugged: Summer Solstice",
-    "musicRating" : "7",
-    "avgRating" : "8-101"
-  }, {
-    "albumYear" : "2022",
-    "albumTitle" : "True North",
-    "musicRating" : "6",
-    "avgRating" : "7-80"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Hunting High and Low",
+      "albumYear" : "1985",
+      "avgRating" : "9-769",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Scoundrel Days",
+      "albumYear" : "1986",
+      "avgRating" : "9-403",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Stay on These Roads",
+      "albumYear" : "1988",
+      "avgRating" : "8-280",
+      "musicRating" : "3"
+    }, {
+      "albumTitle" : "East of the Sun, West of the Moon",
+      "albumYear" : "1990",
+      "avgRating" : "8-246",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Memorial Beach",
+      "albumYear" : "1993",
+      "avgRating" : "8-237",
+      "musicRating" : "1"
+    }, {
+      "albumTitle" : "Minor Earth Major Sky",
+      "albumYear" : "2000",
+      "avgRating" : "8-220",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Lifelines",
+      "albumYear" : "2002",
+      "avgRating" : "8-181",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "How Can I Sleep with Your Voice in My Head",
+      "albumYear" : "2003",
+      "avgRating" : "8-75",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Analogue",
+      "albumYear" : "2005",
+      "avgRating" : "8-181",
+      "musicRating" : "4"
+    }, {
+      "albumTitle" : "Foot of the Mountain",
+      "albumYear" : "2009",
+      "avgRating" : "8-191",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Cast in Steel",
+      "albumYear" : "2015",
+      "avgRating" : "8-143",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Acoustic Hits: MTV Unplugged",
+      "albumYear" : "2017",
+      "avgRating" : "8-1",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "MTV Unplugged: Summer Solstice",
+      "albumYear" : "2017",
+      "avgRating" : "8-101",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "True North",
+      "albumYear" : "2022",
+      "avgRating" : "7-80",
+      "musicRating" : "6"
+    } ],
+    "id" : "a-ha-mn0000480108"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Alphaville",
-      "ArtistId" : "alphaville-mn0000790509"
-    }, {
-      "artist" : "Animotion",
-      "ArtistId" : "animotion-mn0000572578"
-    }, {
-      "artist" : "Icehouse",
-      "ArtistId" : "icehouse-mn0000768737"
-    }, {
-      "artist" : "Tears for Fears",
-      "ArtistId" : "tears-for-fears-mn0000019892"
-    }, {
-      "artist" : "The Fixx",
-      "ArtistId" : "the-fixx-mn0000052093"
-    }, {
-      "artist" : "Thomas Dolby",
-      "ArtistId" : "thomas-dolby-mn0000926428"
-    }, {
-      "artist" : "Wang Chung",
-      "ArtistId" : "wang-chung-mn0000191070"
-    }, {
-      "artist" : "Big Country",
-      "ArtistId" : "big-country-mn0000056625"
-    }, {
-      "artist" : "Bronski Beat",
-      "ArtistId" : "bronski-beat-mn0000624107"
-    }, {
-      "artist" : "Camouflage",
-      "ArtistId" : "camouflage-mn0000647246"
-    }, {
-      "artist" : "Depeche Mode",
-      "ArtistId" : "depeche-mode-mn0000239921"
-    }, {
-      "artist" : "Eurythmics",
-      "ArtistId" : "eurythmics-mn0000206241"
-    }, {
-      "artist" : "Johnny Hates Jazz",
-      "ArtistId" : "johnny-hates-jazz-mn0000238968"
-    }, {
-      "artist" : "Level 42",
-      "ArtistId" : "level-42-mn0000255887"
-    }, {
-      "artist" : "Naked Eyes",
-      "ArtistId" : "naked-eyes-mn0000856451"
-    }, {
-      "artist" : "Pet Shop Boys",
-      "ArtistId" : "pet-shop-boys-mn0000260212"
-    }, {
-      "artist" : "Roxette",
-      "ArtistId" : "roxette-mn0000298764"
-    }, {
-      "artist" : "Secret Service",
-      "ArtistId" : "secret-service-mn0002337776"
-    }, {
-      "artist" : "Simple Minds",
-      "ArtistId" : "simple-minds-mn0000049374"
-    }, {
-      "artist" : "The Human League",
-      "ArtistId" : "the-human-league-mn0000895443"
-    }, {
-      "artist" : "Thompson Twins",
-      "ArtistId" : "thompson-twins-mn0000567570"
-    }, {
-      "artist" : "Wham!",
-      "ArtistId" : "wham%21-mn0000246960"
-    }, {
-      "artist" : "Arcadia",
-      "ArtistId" : "arcadia-mn0000501561"
-    }, {
-      "artist" : "Bananarama",
-      "ArtistId" : "bananarama-mn0000785101"
-    }, {
-      "artist" : "Carolina Liar",
-      "ArtistId" : "carolina-liar-mn0000996025"
-    }, {
-      "artist" : "Die Ärzte",
-      "ArtistId" : "die-%C3rzte-mn0000823202"
-    }, {
-      "artist" : "Duran Duran",
-      "ArtistId" : "duran-duran-mn0000128440"
-    }, {
-      "artist" : "Erasure",
-      "ArtistId" : "erasure-mn0000184811"
-    }, {
-      "artist" : "Howard Jones",
-      "ArtistId" : "howard-jones-mn0000228099"
-    }, {
-      "artist" : "Paul Young",
-      "ArtistId" : "paul-young-mn0001938303"
-    }, {
-      "artist" : "Re-Flex",
-      "ArtistId" : "re-flex-mn0000869138"
-    }, {
-      "artist" : "Real Life",
-      "ArtistId" : "real-life-mn0000343947"
-    }, {
-      "artist" : "T'Pau",
-      "ArtistId" : "tpau-mn0000002923"
-    }, {
-      "artist" : "A Flock of Seagulls",
-      "ArtistId" : "a-flock-of-seagulls-mn0000567862"
-    }, {
-      "artist" : "Frankie Goes to Hollywood",
-      "ArtistId" : "frankie-goes-to-hollywood-mn0000139741"
-    }, {
-      "artist" : "Spandau Ballet",
-      "ArtistId" : "spandau-ballet-mn0000010538"
-    }, {
-      "artist" : "The Lightning Seeds",
-      "ArtistId" : "the-lightning-seeds-mn0000079044"
-    }, {
-      "artist" : "Indochine",
-      "ArtistId" : "indochine-mn0000525616"
-    }, {
-      "artist" : "Seal",
-      "ArtistId" : "seal-mn0000576718"
-    }, {
-      "artist" : "Swing Out Sister",
-      "ArtistId" : "swing-out-sister-mn0000045972"
-    } ],
-    "influencers" : [ {
-      "artist" : "ABC",
-      "ArtistId" : "abc-mn0000574597"
-    }, {
-      "artist" : "Duran Duran",
-      "ArtistId" : "duran-duran-mn0000128440"
-    }, {
-      "artist" : "Spandau Ballet",
-      "ArtistId" : "spandau-ballet-mn0000010538"
-    }, {
-      "artist" : "The Human League",
-      "ArtistId" : "the-human-league-mn0000895443"
-    }, {
-      "artist" : "David Bowie",
-      "ArtistId" : "david-bowie-mn0000531986"
-    }, {
-      "artist" : "Roxy Music",
-      "ArtistId" : "roxy-music-mn0000852855"
-    }, {
-      "artist" : "Ultravox",
-      "ArtistId" : "ultravox-mn0000809266"
-    }, {
-      "artist" : "ABBA",
-      "ArtistId" : "abba-mn0000922728"
-    }, {
-      "artist" : "Bee Gees",
-      "ArtistId" : "bee-gees-mn0000043714"
-    }, {
-      "artist" : "Kraftwerk",
-      "ArtistId" : "kraftwerk-mn0000104714"
-    }, {
-      "artist" : "Orchestral Manoeuvres in the Dark",
-      "ArtistId" : "orchestral-manoeuvres-in-the-dark-mn0000481057"
-    } ],
-    "followers" : [ {
-      "artist" : "Hot Chip",
-      "ArtistId" : "hot-chip-mn0000557191"
-    }, {
-      "artist" : "Kings of Convenience",
-      "ArtistId" : "kings-of-convenience-mn0000094861"
-    }, {
-      "artist" : "Lorraine",
-      "ArtistId" : "lorraine-mn0000634972"
-    }, {
-      "artist" : "Röyksopp",
-      "ArtistId" : "r%C3%B6yksopp-mn0000293969"
-    }, {
-      "artist" : "Savage Garden",
-      "ArtistId" : "savage-garden-mn0000838327"
-    }, {
-      "artist" : "Sondre Lerche",
-      "ArtistId" : "sondre-lerche-mn0000032571"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Savoy",
-      "ArtistId" : "savoy-mn0001203115"
-    } ]
+    "id" : "a-ha-mn0000480108",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "savoy-mn0001203115",
+        "artist" : "Savoy"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "hot-chip-mn0000557191",
+        "artist" : "Hot Chip"
+      }, {
+        "ArtistId" : "kings-of-convenience-mn0000094861",
+        "artist" : "Kings of Convenience"
+      }, {
+        "ArtistId" : "lorraine-mn0000634972",
+        "artist" : "Lorraine"
+      }, {
+        "ArtistId" : "r%C3%B6yksopp-mn0000293969",
+        "artist" : "Röyksopp"
+      }, {
+        "ArtistId" : "savage-garden-mn0000838327",
+        "artist" : "Savage Garden"
+      }, {
+        "ArtistId" : "sondre-lerche-mn0000032571",
+        "artist" : "Sondre Lerche"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "abc-mn0000574597",
+        "artist" : "ABC"
+      }, {
+        "ArtistId" : "duran-duran-mn0000128440",
+        "artist" : "Duran Duran"
+      }, {
+        "ArtistId" : "spandau-ballet-mn0000010538",
+        "artist" : "Spandau Ballet"
+      }, {
+        "ArtistId" : "the-human-league-mn0000895443",
+        "artist" : "The Human League"
+      }, {
+        "ArtistId" : "david-bowie-mn0000531986",
+        "artist" : "David Bowie"
+      }, {
+        "ArtistId" : "roxy-music-mn0000852855",
+        "artist" : "Roxy Music"
+      }, {
+        "ArtistId" : "ultravox-mn0000809266",
+        "artist" : "Ultravox"
+      }, {
+        "ArtistId" : "abba-mn0000922728",
+        "artist" : "ABBA"
+      }, {
+        "ArtistId" : "bee-gees-mn0000043714",
+        "artist" : "Bee Gees"
+      }, {
+        "ArtistId" : "kraftwerk-mn0000104714",
+        "artist" : "Kraftwerk"
+      }, {
+        "ArtistId" : "orchestral-manoeuvres-in-the-dark-mn0000481057",
+        "artist" : "Orchestral Manoeuvres in the Dark"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "alphaville-mn0000790509",
+        "artist" : "Alphaville"
+      }, {
+        "ArtistId" : "animotion-mn0000572578",
+        "artist" : "Animotion"
+      }, {
+        "ArtistId" : "icehouse-mn0000768737",
+        "artist" : "Icehouse"
+      }, {
+        "ArtistId" : "tears-for-fears-mn0000019892",
+        "artist" : "Tears for Fears"
+      }, {
+        "ArtistId" : "the-fixx-mn0000052093",
+        "artist" : "The Fixx"
+      }, {
+        "ArtistId" : "thomas-dolby-mn0000926428",
+        "artist" : "Thomas Dolby"
+      }, {
+        "ArtistId" : "wang-chung-mn0000191070",
+        "artist" : "Wang Chung"
+      }, {
+        "ArtistId" : "big-country-mn0000056625",
+        "artist" : "Big Country"
+      }, {
+        "ArtistId" : "bronski-beat-mn0000624107",
+        "artist" : "Bronski Beat"
+      }, {
+        "ArtistId" : "camouflage-mn0000647246",
+        "artist" : "Camouflage"
+      }, {
+        "ArtistId" : "depeche-mode-mn0000239921",
+        "artist" : "Depeche Mode"
+      }, {
+        "ArtistId" : "eurythmics-mn0000206241",
+        "artist" : "Eurythmics"
+      }, {
+        "ArtistId" : "johnny-hates-jazz-mn0000238968",
+        "artist" : "Johnny Hates Jazz"
+      }, {
+        "ArtistId" : "level-42-mn0000255887",
+        "artist" : "Level 42"
+      }, {
+        "ArtistId" : "naked-eyes-mn0000856451",
+        "artist" : "Naked Eyes"
+      }, {
+        "ArtistId" : "pet-shop-boys-mn0000260212",
+        "artist" : "Pet Shop Boys"
+      }, {
+        "ArtistId" : "roxette-mn0000298764",
+        "artist" : "Roxette"
+      }, {
+        "ArtistId" : "secret-service-mn0002337776",
+        "artist" : "Secret Service"
+      }, {
+        "ArtistId" : "simple-minds-mn0000049374",
+        "artist" : "Simple Minds"
+      }, {
+        "ArtistId" : "the-human-league-mn0000895443",
+        "artist" : "The Human League"
+      }, {
+        "ArtistId" : "thompson-twins-mn0000567570",
+        "artist" : "Thompson Twins"
+      }, {
+        "ArtistId" : "wham%21-mn0000246960",
+        "artist" : "Wham!"
+      }, {
+        "ArtistId" : "arcadia-mn0000501561",
+        "artist" : "Arcadia"
+      }, {
+        "ArtistId" : "bananarama-mn0000785101",
+        "artist" : "Bananarama"
+      }, {
+        "ArtistId" : "carolina-liar-mn0000996025",
+        "artist" : "Carolina Liar"
+      }, {
+        "ArtistId" : "die-%C3rzte-mn0000823202",
+        "artist" : "Die Ärzte"
+      }, {
+        "ArtistId" : "duran-duran-mn0000128440",
+        "artist" : "Duran Duran"
+      }, {
+        "ArtistId" : "erasure-mn0000184811",
+        "artist" : "Erasure"
+      }, {
+        "ArtistId" : "howard-jones-mn0000228099",
+        "artist" : "Howard Jones"
+      }, {
+        "ArtistId" : "paul-young-mn0001938303",
+        "artist" : "Paul Young"
+      }, {
+        "ArtistId" : "re-flex-mn0000869138",
+        "artist" : "Re-Flex"
+      }, {
+        "ArtistId" : "real-life-mn0000343947",
+        "artist" : "Real Life"
+      }, {
+        "ArtistId" : "tpau-mn0000002923",
+        "artist" : "T'Pau"
+      }, {
+        "ArtistId" : "a-flock-of-seagulls-mn0000567862",
+        "artist" : "A Flock of Seagulls"
+      }, {
+        "ArtistId" : "frankie-goes-to-hollywood-mn0000139741",
+        "artist" : "Frankie Goes to Hollywood"
+      }, {
+        "ArtistId" : "spandau-ballet-mn0000010538",
+        "artist" : "Spandau Ballet"
+      }, {
+        "ArtistId" : "the-lightning-seeds-mn0000079044",
+        "artist" : "The Lightning Seeds"
+      }, {
+        "ArtistId" : "indochine-mn0000525616",
+        "artist" : "Indochine"
+      }, {
+        "ArtistId" : "seal-mn0000576718",
+        "artist" : "Seal"
+      }, {
+        "ArtistId" : "swing-out-sister-mn0000045972",
+        "artist" : "Swing Out Sister"
+      } ]
+    }
   }
 }

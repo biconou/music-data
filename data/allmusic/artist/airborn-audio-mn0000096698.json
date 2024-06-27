@@ -1,22 +1,28 @@
 {
-  "id" : "airborn-audio-mn0000096698",
-  "name" : "Airborn Audio",
   "activeDates" : "2000s",
   "birthDate" : "",
   "birthPlace" : "",
+  "id" : "airborn-audio-mn0000096698",
+  "name" : "Airborn Audio",
   "styles" : [ ],
   "decades" : "2000s",
   "genres" : "Rap",
-  "discography" : [ {
-    "albumYear" : "2005",
-    "albumTitle" : "Good Fortune",
-    "musicRating" : "",
-    "avgRating" : "3-1"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Good Fortune",
+      "albumYear" : "2005",
+      "avgRating" : "3-1",
+      "musicRating" : ""
+    } ],
+    "id" : "airborn-audio-mn0000096698"
+  },
   "related" : {
-    "similars" : [ ],
-    "influencers" : [ ],
-    "followers" : [ ],
-    "associatedwith" : [ ]
+    "id" : "airborn-audio-mn0000096698",
+    "related" : {
+      "associatedwith" : [ ],
+      "followers" : [ ],
+      "influencers" : [ ],
+      "similars" : [ ]
+    }
   }
 }

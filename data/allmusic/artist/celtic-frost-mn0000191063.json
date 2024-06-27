@@ -1,9 +1,9 @@
 {
-  "id" : "celtic-frost-mn0000191063",
-  "name" : "Celtic Frost",
   "activeDates" : "1980s - 2000s",
   "birthDate" : "1984",
   "birthPlace" : "Zürich, Switzerland",
+  "id" : "celtic-frost-mn0000191063",
+  "name" : "Celtic Frost",
   "styles" : [ {
     "name" : "Death Metal",
     "url" : "https://www.allmusic.com/style/death-metal-ma0000002547"
@@ -19,274 +19,280 @@
   } ],
   "decades" : "1980s - 2000s",
   "genres" : "Pop/Rock",
-  "discography" : [ {
-    "albumYear" : "1984",
-    "albumTitle" : "Morbid Tales",
-    "musicRating" : "8",
-    "avgRating" : "9-251"
-  }, {
-    "albumYear" : "1985",
-    "albumTitle" : "To Mega Therion",
-    "musicRating" : "9",
-    "avgRating" : "10-547"
-  }, {
-    "albumYear" : "1987",
-    "albumTitle" : "Into the Pandemonium",
-    "musicRating" : "8",
-    "avgRating" : "9-308"
-  }, {
-    "albumYear" : "1988",
-    "albumTitle" : "Cold Lake",
-    "musicRating" : "5",
-    "avgRating" : "5-116"
-  }, {
-    "albumYear" : "1989",
-    "albumTitle" : "Vanity/Nemesis",
-    "musicRating" : "7",
-    "avgRating" : "7-106"
-  }, {
-    "albumYear" : "2006",
-    "albumTitle" : "Monotheist",
-    "musicRating" : "6",
-    "avgRating" : "8-284"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Live at the Hammersmith Odeon",
-    "musicRating" : "3",
-    "avgRating" : "6-15"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Morbid Tales",
+      "albumYear" : "1984",
+      "avgRating" : "9-251",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "To Mega Therion",
+      "albumYear" : "1985",
+      "avgRating" : "10-549",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Into the Pandemonium",
+      "albumYear" : "1987",
+      "avgRating" : "9-309",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Cold Lake",
+      "albumYear" : "1988",
+      "avgRating" : "5-116",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Vanity/Nemesis",
+      "albumYear" : "1989",
+      "avgRating" : "7-106",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Monotheist",
+      "albumYear" : "2006",
+      "avgRating" : "8-284",
+      "musicRating" : "6"
+    }, {
+      "albumTitle" : "Live at the Hammersmith Odeon",
+      "albumYear" : "",
+      "avgRating" : "6-15",
+      "musicRating" : "3"
+    } ],
+    "id" : "celtic-frost-mn0000191063"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Venom",
-      "ArtistId" : "venom-mn0000315403"
-    }, {
-      "artist" : "Voivod",
-      "ArtistId" : "voivod-mn0000186096"
-    }, {
-      "artist" : "Anacrusis",
-      "ArtistId" : "anacrusis-mn0000750092"
-    }, {
-      "artist" : "Anthrax",
-      "ArtistId" : "anthrax-mn0000490952"
-    }, {
-      "artist" : "Armored Saint",
-      "ArtistId" : "armored-saint-mn0000505646"
-    }, {
-      "artist" : "Autopsy",
-      "ArtistId" : "autopsy-mn0000061937"
-    }, {
-      "artist" : "Battleroar",
-      "ArtistId" : "battleroar-mn0000720102"
-    }, {
-      "artist" : "Benediction",
-      "ArtistId" : "benediction-mn0000149315"
-    }, {
-      "artist" : "Blessed Death",
-      "ArtistId" : "blessed-death-mn0000724230"
-    }, {
-      "artist" : "Blood",
-      "ArtistId" : "blood-mn0000044321"
-    }, {
-      "artist" : "Bolt Thrower",
-      "ArtistId" : "bolt-thrower-mn0000766533"
-    }, {
-      "artist" : "Cancer",
-      "ArtistId" : "cancer-mn0000652713"
-    }, {
-      "artist" : "Cannibal Corpse",
-      "ArtistId" : "cannibal-corpse-mn0000545534"
-    }, {
-      "artist" : "Christian Death",
-      "ArtistId" : "christian-death-mn0000120060"
-    }, {
-      "artist" : "Cirith Ungol",
-      "ArtistId" : "cirith-ungol-mn0000131017"
-    }, {
-      "artist" : "Coroner",
-      "ArtistId" : "coroner-mn0000122138"
-    }, {
-      "artist" : "Corrosion of Conformity",
-      "ArtistId" : "corrosion-of-conformity-mn0000105422"
-    }, {
-      "artist" : "Cro-Mags",
-      "ArtistId" : "cro-mags-mn0000781766"
-    }, {
-      "artist" : "Cryptic Slaughter",
-      "ArtistId" : "cryptic-slaughter-mn0000111323"
-    }, {
-      "artist" : "D.R.I.",
-      "ArtistId" : "dri-mn0000786360"
-    }, {
-      "artist" : "Death Angel",
-      "ArtistId" : "death-angel-mn0000230845"
-    }, {
-      "artist" : "Devastation",
-      "ArtistId" : "devastation-mn0000245985"
-    }, {
-      "artist" : "Entombed",
-      "ArtistId" : "entombed-mn0000741177"
-    }, {
-      "artist" : "Gang Green",
-      "ArtistId" : "gang-green-mn0000194578"
-    }, {
-      "artist" : "Hell Bastards",
-      "ArtistId" : "hell-bastards-mn0001186616"
-    }, {
-      "artist" : "Hexx",
-      "ArtistId" : "hexx-mn0000675486"
-    }, {
-      "artist" : "Jerry's Kids",
-      "ArtistId" : "jerrys-kids-mn0000340238"
-    }, {
-      "artist" : "King Diamond",
-      "ArtistId" : "king-diamond-mn0000770007"
-    }, {
-      "artist" : "Ludichrist",
-      "ArtistId" : "ludichrist-mn0000256572"
-    }, {
-      "artist" : "Manowar",
-      "ArtistId" : "manowar-mn0000673208"
-    }, {
-      "artist" : "Megadeth",
-      "ArtistId" : "megadeth-mn0000406294"
-    }, {
-      "artist" : "Metallica",
-      "ArtistId" : "metallica-mn0000446509"
-    }, {
-      "artist" : "Morbid Saint",
-      "ArtistId" : "morbid-saint-mn0000598756"
-    }, {
-      "artist" : "Mortal Sin",
-      "ArtistId" : "mortal-sin-mn0000595067"
-    }, {
-      "artist" : "Nuclear Death",
-      "ArtistId" : "nuclear-death-mn0001593724"
-    }, {
-      "artist" : "Possessed",
-      "ArtistId" : "possessed-mn0000299429"
-    }, {
-      "artist" : "Raw Power",
-      "ArtistId" : "raw-power-mn0000402670"
-    }, {
-      "artist" : "Sabbat",
-      "ArtistId" : "sabbat-mn0000827460"
-    }, {
-      "artist" : "Scatterbrain",
-      "ArtistId" : "scatterbrain-mn0000311009"
-    }, {
-      "artist" : "Siglo XX",
-      "ArtistId" : "siglo-xx-mn0000030099"
-    }, {
-      "artist" : "Slayer",
-      "ArtistId" : "slayer-mn0000022124"
-    }, {
-      "artist" : "Sloppy Seconds",
-      "ArtistId" : "sloppy-seconds-mn0000024492"
-    }, {
-      "artist" : "Sodom",
-      "ArtistId" : "sodom-mn0000031324"
-    }, {
-      "artist" : "Stormtroopers of Death",
-      "ArtistId" : "stormtroopers-of-death-mn0001176358"
-    }, {
-      "artist" : "Thanatos",
-      "ArtistId" : "thanatos-mn0000031604"
-    }, {
-      "artist" : "The Accused",
-      "ArtistId" : "the-accused-mn0000037973"
-    }, {
-      "artist" : "The Dead Youth",
-      "ArtistId" : "the-dead-youth-mn0000222354"
-    }, {
-      "artist" : "The Necros",
-      "ArtistId" : "the-necros-mn0000387633"
-    }, {
-      "artist" : "Go Ahead and Die",
-      "ArtistId" : "go-ahead-and-die-mn0004043129"
-    }, {
-      "artist" : "Mercyful Fate",
-      "ArtistId" : "mercyful-fate-mn0000343954"
-    }, {
-      "artist" : "Post Mortem",
-      "ArtistId" : "post-mortem-mn0000854527"
-    }, {
-      "artist" : "Slaughter",
-      "ArtistId" : "slaughter-mn0001292067"
-    }, {
-      "artist" : "Triumph of Death",
-      "ArtistId" : "triumph-of-death-mn0004486472"
-    } ],
-    "influencers" : [ {
-      "artist" : "Accept",
-      "ArtistId" : "accept-mn0000925837"
-    }, {
-      "artist" : "Motörhead",
-      "ArtistId" : "mot%C3%B6rhead-mn0000501407"
-    }, {
-      "artist" : "Raven",
-      "ArtistId" : "raven-mn0000401166"
-    }, {
-      "artist" : "Black Sabbath",
-      "ArtistId" : "black-sabbath-mn0000771438"
-    }, {
-      "artist" : "Deep Purple",
-      "ArtistId" : "deep-purple-mn0000192382"
-    }, {
-      "artist" : "Discharge",
-      "ArtistId" : "discharge-mn0000156043"
-    }, {
-      "artist" : "Iron Maiden",
-      "ArtistId" : "iron-maiden-mn0000098465"
-    }, {
-      "artist" : "Judas Priest",
-      "ArtistId" : "judas-priest-mn0000246611"
-    }, {
-      "artist" : "Pentagram",
-      "ArtistId" : "pentagram-mn0000308932"
-    }, {
-      "artist" : "Saint Vitus",
-      "ArtistId" : "saint-vitus-mn0000287259"
-    }, {
-      "artist" : "Venom",
-      "ArtistId" : "venom-mn0000315403"
-    } ],
-    "followers" : [ {
-      "artist" : "1349",
-      "ArtistId" : "1349-mn0000423393"
-    }, {
-      "artist" : "Danzig",
-      "ArtistId" : "danzig-mn0000957085"
-    }, {
-      "artist" : "Entombed",
-      "ArtistId" : "entombed-mn0000741177"
-    }, {
-      "artist" : "Go Ahead and Die",
-      "ArtistId" : "go-ahead-and-die-mn0004043129"
-    }, {
-      "artist" : "Mayhem",
-      "ArtistId" : "mayhem-mn0000335302"
-    }, {
-      "artist" : "Opeth",
-      "ArtistId" : "opeth-mn0000400717"
-    }, {
-      "artist" : "Probot",
-      "ArtistId" : "probot-mn0000363823"
-    }, {
-      "artist" : "Prong",
-      "ArtistId" : "prong-mn0000363100"
-    }, {
-      "artist" : "Sepultura",
-      "ArtistId" : "sepultura-mn0000741746"
-    }, {
-      "artist" : "Sunn O)))",
-      "ArtistId" : "sunn-o-mn0000924250"
-    } ],
-    "associatedwith" : [ {
-      "artist" : "Hellhammer",
-      "ArtistId" : "hellhammer-mn0000677842"
-    }, {
-      "artist" : "Noneuclid",
-      "ArtistId" : "noneuclid-mn0001466528"
-    } ]
+    "id" : "celtic-frost-mn0000191063",
+    "related" : {
+      "associatedwith" : [ {
+        "ArtistId" : "hellhammer-mn0000677842",
+        "artist" : "Hellhammer"
+      }, {
+        "ArtistId" : "noneuclid-mn0001466528",
+        "artist" : "Noneuclid"
+      } ],
+      "followers" : [ {
+        "ArtistId" : "1349-mn0000423393",
+        "artist" : "1349"
+      }, {
+        "ArtistId" : "danzig-mn0000957085",
+        "artist" : "Danzig"
+      }, {
+        "ArtistId" : "entombed-mn0000741177",
+        "artist" : "Entombed"
+      }, {
+        "ArtistId" : "go-ahead-and-die-mn0004043129",
+        "artist" : "Go Ahead and Die"
+      }, {
+        "ArtistId" : "mayhem-mn0000335302",
+        "artist" : "Mayhem"
+      }, {
+        "ArtistId" : "opeth-mn0000400717",
+        "artist" : "Opeth"
+      }, {
+        "ArtistId" : "probot-mn0000363823",
+        "artist" : "Probot"
+      }, {
+        "ArtistId" : "prong-mn0000363100",
+        "artist" : "Prong"
+      }, {
+        "ArtistId" : "sepultura-mn0000741746",
+        "artist" : "Sepultura"
+      }, {
+        "ArtistId" : "sunn-o-mn0000924250",
+        "artist" : "Sunn O)))"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "accept-mn0000925837",
+        "artist" : "Accept"
+      }, {
+        "ArtistId" : "mot%C3%B6rhead-mn0000501407",
+        "artist" : "Motörhead"
+      }, {
+        "ArtistId" : "raven-mn0000401166",
+        "artist" : "Raven"
+      }, {
+        "ArtistId" : "black-sabbath-mn0000771438",
+        "artist" : "Black Sabbath"
+      }, {
+        "ArtistId" : "deep-purple-mn0000192382",
+        "artist" : "Deep Purple"
+      }, {
+        "ArtistId" : "discharge-mn0000156043",
+        "artist" : "Discharge"
+      }, {
+        "ArtistId" : "iron-maiden-mn0000098465",
+        "artist" : "Iron Maiden"
+      }, {
+        "ArtistId" : "judas-priest-mn0000246611",
+        "artist" : "Judas Priest"
+      }, {
+        "ArtistId" : "pentagram-mn0000308932",
+        "artist" : "Pentagram"
+      }, {
+        "ArtistId" : "saint-vitus-mn0000287259",
+        "artist" : "Saint Vitus"
+      }, {
+        "ArtistId" : "venom-mn0000315403",
+        "artist" : "Venom"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "venom-mn0000315403",
+        "artist" : "Venom"
+      }, {
+        "ArtistId" : "voivod-mn0000186096",
+        "artist" : "Voivod"
+      }, {
+        "ArtistId" : "anacrusis-mn0000750092",
+        "artist" : "Anacrusis"
+      }, {
+        "ArtistId" : "anthrax-mn0000490952",
+        "artist" : "Anthrax"
+      }, {
+        "ArtistId" : "armored-saint-mn0000505646",
+        "artist" : "Armored Saint"
+      }, {
+        "ArtistId" : "autopsy-mn0000061937",
+        "artist" : "Autopsy"
+      }, {
+        "ArtistId" : "battleroar-mn0000720102",
+        "artist" : "Battleroar"
+      }, {
+        "ArtistId" : "benediction-mn0000149315",
+        "artist" : "Benediction"
+      }, {
+        "ArtistId" : "blessed-death-mn0000724230",
+        "artist" : "Blessed Death"
+      }, {
+        "ArtistId" : "blood-mn0000044321",
+        "artist" : "Blood"
+      }, {
+        "ArtistId" : "bolt-thrower-mn0000766533",
+        "artist" : "Bolt Thrower"
+      }, {
+        "ArtistId" : "cancer-mn0000652713",
+        "artist" : "Cancer"
+      }, {
+        "ArtistId" : "cannibal-corpse-mn0000545534",
+        "artist" : "Cannibal Corpse"
+      }, {
+        "ArtistId" : "christian-death-mn0000120060",
+        "artist" : "Christian Death"
+      }, {
+        "ArtistId" : "cirith-ungol-mn0000131017",
+        "artist" : "Cirith Ungol"
+      }, {
+        "ArtistId" : "coroner-mn0000122138",
+        "artist" : "Coroner"
+      }, {
+        "ArtistId" : "corrosion-of-conformity-mn0000105422",
+        "artist" : "Corrosion of Conformity"
+      }, {
+        "ArtistId" : "cro-mags-mn0000781766",
+        "artist" : "Cro-Mags"
+      }, {
+        "ArtistId" : "cryptic-slaughter-mn0000111323",
+        "artist" : "Cryptic Slaughter"
+      }, {
+        "ArtistId" : "dri-mn0000786360",
+        "artist" : "D.R.I."
+      }, {
+        "ArtistId" : "death-angel-mn0000230845",
+        "artist" : "Death Angel"
+      }, {
+        "ArtistId" : "devastation-mn0000245985",
+        "artist" : "Devastation"
+      }, {
+        "ArtistId" : "entombed-mn0000741177",
+        "artist" : "Entombed"
+      }, {
+        "ArtistId" : "gang-green-mn0000194578",
+        "artist" : "Gang Green"
+      }, {
+        "ArtistId" : "hell-bastards-mn0001186616",
+        "artist" : "Hell Bastards"
+      }, {
+        "ArtistId" : "hexx-mn0000675486",
+        "artist" : "Hexx"
+      }, {
+        "ArtistId" : "jerrys-kids-mn0000340238",
+        "artist" : "Jerry's Kids"
+      }, {
+        "ArtistId" : "king-diamond-mn0000770007",
+        "artist" : "King Diamond"
+      }, {
+        "ArtistId" : "ludichrist-mn0000256572",
+        "artist" : "Ludichrist"
+      }, {
+        "ArtistId" : "manowar-mn0000673208",
+        "artist" : "Manowar"
+      }, {
+        "ArtistId" : "megadeth-mn0000406294",
+        "artist" : "Megadeth"
+      }, {
+        "ArtistId" : "metallica-mn0000446509",
+        "artist" : "Metallica"
+      }, {
+        "ArtistId" : "morbid-saint-mn0000598756",
+        "artist" : "Morbid Saint"
+      }, {
+        "ArtistId" : "mortal-sin-mn0000595067",
+        "artist" : "Mortal Sin"
+      }, {
+        "ArtistId" : "nuclear-death-mn0001593724",
+        "artist" : "Nuclear Death"
+      }, {
+        "ArtistId" : "possessed-mn0000299429",
+        "artist" : "Possessed"
+      }, {
+        "ArtistId" : "raw-power-mn0000402670",
+        "artist" : "Raw Power"
+      }, {
+        "ArtistId" : "sabbat-mn0000827460",
+        "artist" : "Sabbat"
+      }, {
+        "ArtistId" : "scatterbrain-mn0000311009",
+        "artist" : "Scatterbrain"
+      }, {
+        "ArtistId" : "siglo-xx-mn0000030099",
+        "artist" : "Siglo XX"
+      }, {
+        "ArtistId" : "slayer-mn0000022124",
+        "artist" : "Slayer"
+      }, {
+        "ArtistId" : "sloppy-seconds-mn0000024492",
+        "artist" : "Sloppy Seconds"
+      }, {
+        "ArtistId" : "sodom-mn0000031324",
+        "artist" : "Sodom"
+      }, {
+        "ArtistId" : "stormtroopers-of-death-mn0001176358",
+        "artist" : "Stormtroopers of Death"
+      }, {
+        "ArtistId" : "thanatos-mn0000031604",
+        "artist" : "Thanatos"
+      }, {
+        "ArtistId" : "the-accused-mn0000037973",
+        "artist" : "The Accused"
+      }, {
+        "ArtistId" : "the-dead-youth-mn0000222354",
+        "artist" : "The Dead Youth"
+      }, {
+        "ArtistId" : "the-necros-mn0000387633",
+        "artist" : "The Necros"
+      }, {
+        "ArtistId" : "go-ahead-and-die-mn0004043129",
+        "artist" : "Go Ahead and Die"
+      }, {
+        "ArtistId" : "mercyful-fate-mn0000343954",
+        "artist" : "Mercyful Fate"
+      }, {
+        "ArtistId" : "post-mortem-mn0000854527",
+        "artist" : "Post Mortem"
+      }, {
+        "ArtistId" : "slaughter-mn0001292067",
+        "artist" : "Slaughter"
+      }, {
+        "ArtistId" : "triumph-of-death-mn0004486472",
+        "artist" : "Triumph of Death"
+      } ]
+    }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "id" : "son-house-mn0000753094",
-  "name" : "Son House",
   "activeDates" : "1930s - 1970s",
   "birthDate" : "March 21, 1902",
   "birthPlace" : "Lyon, MS",
+  "id" : "son-house-mn0000753094",
+  "name" : "Son House",
   "styles" : [ {
     "name" : "Delta Blues",
     "url" : "https://www.allmusic.com/style/delta-blues-ma0000002549"
@@ -34,212 +34,218 @@
   } ],
   "decades" : "1930s - 1970s",
   "genres" : "Blues, Folk",
-  "discography" : [ {
-    "albumYear" : "1964",
-    "albumTitle" : "Blues from the Mississippi Delta",
-    "musicRating" : "8",
-    "avgRating" : "10-16"
-  }, {
-    "albumYear" : "1965",
-    "albumTitle" : "The Legendary Son House: Father of the Folk Blues",
-    "musicRating" : "9",
-    "avgRating" : "10-103"
-  }, {
-    "albumYear" : "1995",
-    "albumTitle" : "Oberlin College Concert",
-    "musicRating" : "7",
-    "avgRating" : "9-16"
-  }, {
-    "albumYear" : "1995",
-    "albumTitle" : "Delta Blues and Spirituals",
-    "musicRating" : "8",
-    "avgRating" : "10-43"
-  }, {
-    "albumYear" : "2000",
-    "albumTitle" : "Live at Gaslight Cafe, 1965",
-    "musicRating" : "5",
-    "avgRating" : "7-13"
-  }, {
-    "albumYear" : "2003",
-    "albumTitle" : "New York Central Live!",
-    "musicRating" : "5",
-    "avgRating" : "7-13"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Son House in Seattle 1968",
-    "musicRating" : "",
-    "avgRating" : "6-4"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "Raw Delta Blues",
-    "musicRating" : "",
-    "avgRating" : "6-20"
-  }, {
-    "albumYear" : "",
-    "albumTitle" : "House, Son",
-    "musicRating" : "8",
-    "avgRating" : "10-13"
-  } ],
+  "discography" : {
+    "discography" : [ {
+      "albumTitle" : "Blues from the Mississippi Delta",
+      "albumYear" : "1964",
+      "avgRating" : "10-16",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "The Legendary Son House: Father of the Folk Blues",
+      "albumYear" : "1965",
+      "avgRating" : "10-103",
+      "musicRating" : "9"
+    }, {
+      "albumTitle" : "Oberlin College Concert",
+      "albumYear" : "1995",
+      "avgRating" : "9-16",
+      "musicRating" : "7"
+    }, {
+      "albumTitle" : "Delta Blues and Spirituals",
+      "albumYear" : "1995",
+      "avgRating" : "10-43",
+      "musicRating" : "8"
+    }, {
+      "albumTitle" : "Live at Gaslight Cafe, 1965",
+      "albumYear" : "2000",
+      "avgRating" : "7-13",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "New York Central Live!",
+      "albumYear" : "2003",
+      "avgRating" : "7-13",
+      "musicRating" : "5"
+    }, {
+      "albumTitle" : "Son House in Seattle 1968",
+      "albumYear" : "",
+      "avgRating" : "6-4",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "Raw Delta Blues",
+      "albumYear" : "",
+      "avgRating" : "6-20",
+      "musicRating" : ""
+    }, {
+      "albumTitle" : "House, Son",
+      "albumYear" : "",
+      "avgRating" : "10-13",
+      "musicRating" : "8"
+    } ],
+    "id" : "son-house-mn0000753094"
+  },
   "related" : {
-    "similars" : [ {
-      "artist" : "Robert Johnson",
-      "ArtistId" : "robert-johnson-mn0000832288"
-    }, {
-      "artist" : "Willie Brown",
-      "ArtistId" : "willie-brown-mn0000962498"
-    }, {
-      "artist" : "Blind Willie McTell",
-      "ArtistId" : "blind-willie-mctell-mn0000048331"
-    }, {
-      "artist" : "Bukka White",
-      "ArtistId" : "bukka-white-mn0000527379"
-    }, {
-      "artist" : "Mance Lipscomb",
-      "ArtistId" : "mance-lipscomb-mn0000569856"
-    }, {
-      "artist" : "Mississippi Fred McDowell",
-      "ArtistId" : "mississippi-fred-mcdowell-mn0000898331"
-    }, {
-      "artist" : "Skip James",
-      "ArtistId" : "skip-james-mn0000017137"
-    }, {
-      "artist" : "Tommy Johnson",
-      "ArtistId" : "tommy-johnson-mn0000617492"
-    }, {
-      "artist" : "Blind Lemon Jefferson",
-      "ArtistId" : "blind-lemon-jefferson-mn0000050205"
-    }, {
-      "artist" : "Charley Patton",
-      "ArtistId" : "charley-patton-mn0000166058"
-    }, {
-      "artist" : "Furry Lewis",
-      "ArtistId" : "furry-lewis-mn0000158835"
-    }, {
-      "artist" : "Johnny Shines",
-      "ArtistId" : "johnny-shines-mn0000204714"
-    }, {
-      "artist" : "Muddy Waters",
-      "ArtistId" : "muddy-waters-mn0000608701"
-    }, {
-      "artist" : "Sleepy John Estes",
-      "ArtistId" : "sleepy-john-estes-mn0000022845"
-    }, {
-      "artist" : "Bertha Lee",
-      "ArtistId" : "bertha-lee-mn0000050363"
-    }, {
-      "artist" : "Big Joe Williams",
-      "ArtistId" : "big-joe-williams-mn0000060679"
-    }, {
-      "artist" : "Blind Willie Johnson",
-      "ArtistId" : "blind-willie-johnson-mn0000040137"
-    }, {
-      "artist" : "Lightnin' Hopkins",
-      "ArtistId" : "lightnin-hopkins-mn0000825208"
-    }, {
-      "artist" : "Mississippi John Hurt",
-      "ArtistId" : "mississippi-john-hurt-mn0000424019"
-    }, {
-      "artist" : "Arthur \"Big Boy\" Crudup",
-      "ArtistId" : "arthur-big-boy-crudup-mn0000603680"
-    }, {
-      "artist" : "Bo Carter",
-      "ArtistId" : "bo-carter-mn0000045188"
-    }, {
-      "artist" : "Elmore James",
-      "ArtistId" : "elmore-james-mn0000176936"
-    }, {
-      "artist" : "John Lee Hooker",
-      "ArtistId" : "john-lee-hooker-mn0000815039"
-    }, {
-      "artist" : "Memphis Minnie",
-      "ArtistId" : "memphis-minnie-mn0000352499"
-    } ],
-    "influencers" : [ {
-      "artist" : "Charley Patton",
-      "ArtistId" : "charley-patton-mn0000166058"
-    }, {
-      "artist" : "Willie T. Brown",
-      "ArtistId" : "willie-t-brown-mn0001494191"
-    }, {
-      "artist" : "Fiddlin' Doc Roberts",
-      "ArtistId" : "fiddlin-doc-roberts-mn0000175104"
-    }, {
-      "artist" : "Furry Lewis",
-      "ArtistId" : "furry-lewis-mn0000158835"
-    }, {
-      "artist" : "Gus Cannon & His Jug Stompers",
-      "ArtistId" : "gus-cannon-his-jug-stompers-mn0000944915"
-    }, {
-      "artist" : "Henry Townsend",
-      "ArtistId" : "henry-townsend-mn0000676061"
-    }, {
-      "artist" : "Jim Jackson",
-      "ArtistId" : "jim-jackson-mn0000288104"
-    }, {
-      "artist" : "Peg Leg Howell",
-      "ArtistId" : "peg-leg-howell-mn0000307128"
-    }, {
-      "artist" : "Robert Wilkins",
-      "ArtistId" : "robert-wilkins-mn0000290179"
-    }, {
-      "artist" : "Scrapper Blackwell",
-      "ArtistId" : "scrapper-blackwell-mn0000308386"
-    } ],
-    "followers" : [ {
-      "artist" : "Ben Harper",
-      "ArtistId" : "ben-harper-mn0000792733"
-    }, {
-      "artist" : "Bonnie Raitt",
-      "ArtistId" : "bonnie-raitt-mn0000096613"
-    }, {
-      "artist" : "Burl Ives",
-      "ArtistId" : "burl-ives-mn0000536754"
-    }, {
-      "artist" : "Captain Beefheart",
-      "ArtistId" : "captain-beefheart-mn0000988638"
-    }, {
-      "artist" : "Elmore James",
-      "ArtistId" : "elmore-james-mn0000176936"
-    }, {
-      "artist" : "Fred Neil",
-      "ArtistId" : "fred-neil-mn0000170815"
-    }, {
-      "artist" : "Howlin' Wolf",
-      "ArtistId" : "howlin-wolf-mn0000276085"
-    }, {
-      "artist" : "Jack White",
-      "ArtistId" : "jack-white-mn0000128873"
-    }, {
-      "artist" : "John Hammond, Jr.",
-      "ArtistId" : "john-hammond-jr-mn0001486767"
-    }, {
-      "artist" : "John Lee Hooker",
-      "ArtistId" : "john-lee-hooker-mn0000815039"
-    }, {
-      "artist" : "John Mooney",
-      "ArtistId" : "john-mooney-mn0000225275"
-    }, {
-      "artist" : "Matt Stell",
-      "ArtistId" : "matt-stell-mn0001479222"
-    }, {
-      "artist" : "Muddy Waters",
-      "ArtistId" : "muddy-waters-mn0000608701"
-    }, {
-      "artist" : "Paul Rishell",
-      "ArtistId" : "paul-rishell-mn0000750546"
-    }, {
-      "artist" : "Robert Johnson",
-      "ArtistId" : "robert-johnson-mn0000832288"
-    }, {
-      "artist" : "Ry Cooder",
-      "ArtistId" : "ry-cooder-mn0000175708"
-    }, {
-      "artist" : "Taj Mahal",
-      "ArtistId" : "taj-mahal-mn0000790604"
-    }, {
-      "artist" : "Willie Dixon",
-      "ArtistId" : "willie-dixon-mn0000959770"
-    } ],
-    "associatedwith" : [ ]
+    "id" : "son-house-mn0000753094",
+    "related" : {
+      "associatedwith" : [ ],
+      "followers" : [ {
+        "ArtistId" : "ben-harper-mn0000792733",
+        "artist" : "Ben Harper"
+      }, {
+        "ArtistId" : "bonnie-raitt-mn0000096613",
+        "artist" : "Bonnie Raitt"
+      }, {
+        "ArtistId" : "burl-ives-mn0000536754",
+        "artist" : "Burl Ives"
+      }, {
+        "ArtistId" : "captain-beefheart-mn0000988638",
+        "artist" : "Captain Beefheart"
+      }, {
+        "ArtistId" : "elmore-james-mn0000176936",
+        "artist" : "Elmore James"
+      }, {
+        "ArtistId" : "fred-neil-mn0000170815",
+        "artist" : "Fred Neil"
+      }, {
+        "ArtistId" : "howlin-wolf-mn0000276085",
+        "artist" : "Howlin' Wolf"
+      }, {
+        "ArtistId" : "jack-white-mn0000128873",
+        "artist" : "Jack White"
+      }, {
+        "ArtistId" : "john-hammond-jr-mn0001486767",
+        "artist" : "John Hammond, Jr."
+      }, {
+        "ArtistId" : "john-lee-hooker-mn0000815039",
+        "artist" : "John Lee Hooker"
+      }, {
+        "ArtistId" : "john-mooney-mn0000225275",
+        "artist" : "John Mooney"
+      }, {
+        "ArtistId" : "matt-stell-mn0001479222",
+        "artist" : "Matt Stell"
+      }, {
+        "ArtistId" : "muddy-waters-mn0000608701",
+        "artist" : "Muddy Waters"
+      }, {
+        "ArtistId" : "paul-rishell-mn0000750546",
+        "artist" : "Paul Rishell"
+      }, {
+        "ArtistId" : "robert-johnson-mn0000832288",
+        "artist" : "Robert Johnson"
+      }, {
+        "ArtistId" : "ry-cooder-mn0000175708",
+        "artist" : "Ry Cooder"
+      }, {
+        "ArtistId" : "taj-mahal-mn0000790604",
+        "artist" : "Taj Mahal"
+      }, {
+        "ArtistId" : "willie-dixon-mn0000959770",
+        "artist" : "Willie Dixon"
+      } ],
+      "influencers" : [ {
+        "ArtistId" : "charley-patton-mn0000166058",
+        "artist" : "Charley Patton"
+      }, {
+        "ArtistId" : "willie-t-brown-mn0001494191",
+        "artist" : "Willie T. Brown"
+      }, {
+        "ArtistId" : "fiddlin-doc-roberts-mn0000175104",
+        "artist" : "Fiddlin' Doc Roberts"
+      }, {
+        "ArtistId" : "furry-lewis-mn0000158835",
+        "artist" : "Furry Lewis"
+      }, {
+        "ArtistId" : "gus-cannon-his-jug-stompers-mn0000944915",
+        "artist" : "Gus Cannon & His Jug Stompers"
+      }, {
+        "ArtistId" : "henry-townsend-mn0000676061",
+        "artist" : "Henry Townsend"
+      }, {
+        "ArtistId" : "jim-jackson-mn0000288104",
+        "artist" : "Jim Jackson"
+      }, {
+        "ArtistId" : "peg-leg-howell-mn0000307128",
+        "artist" : "Peg Leg Howell"
+      }, {
+        "ArtistId" : "robert-wilkins-mn0000290179",
+        "artist" : "Robert Wilkins"
+      }, {
+        "ArtistId" : "scrapper-blackwell-mn0000308386",
+        "artist" : "Scrapper Blackwell"
+      } ],
+      "similars" : [ {
+        "ArtistId" : "robert-johnson-mn0000832288",
+        "artist" : "Robert Johnson"
+      }, {
+        "ArtistId" : "willie-brown-mn0000962498",
+        "artist" : "Willie Brown"
+      }, {
+        "ArtistId" : "blind-willie-mctell-mn0000048331",
+        "artist" : "Blind Willie McTell"
+      }, {
+        "ArtistId" : "bukka-white-mn0000527379",
+        "artist" : "Bukka White"
+      }, {
+        "ArtistId" : "mance-lipscomb-mn0000569856",
+        "artist" : "Mance Lipscomb"
+      }, {
+        "ArtistId" : "mississippi-fred-mcdowell-mn0000898331",
+        "artist" : "Mississippi Fred McDowell"
+      }, {
+        "ArtistId" : "skip-james-mn0000017137",
+        "artist" : "Skip James"
+      }, {
+        "ArtistId" : "tommy-johnson-mn0000617492",
+        "artist" : "Tommy Johnson"
+      }, {
+        "ArtistId" : "blind-lemon-jefferson-mn0000050205",
+        "artist" : "Blind Lemon Jefferson"
+      }, {
+        "ArtistId" : "charley-patton-mn0000166058",
+        "artist" : "Charley Patton"
+      }, {
+        "ArtistId" : "furry-lewis-mn0000158835",
+        "artist" : "Furry Lewis"
+      }, {
+        "ArtistId" : "johnny-shines-mn0000204714",
+        "artist" : "Johnny Shines"
+      }, {
+        "ArtistId" : "muddy-waters-mn0000608701",
+        "artist" : "Muddy Waters"
+      }, {
+        "ArtistId" : "sleepy-john-estes-mn0000022845",
+        "artist" : "Sleepy John Estes"
+      }, {
+        "ArtistId" : "bertha-lee-mn0000050363",
+        "artist" : "Bertha Lee"
+      }, {
+        "ArtistId" : "big-joe-williams-mn0000060679",
+        "artist" : "Big Joe Williams"
+      }, {
+        "ArtistId" : "blind-willie-johnson-mn0000040137",
+        "artist" : "Blind Willie Johnson"
+      }, {
+        "ArtistId" : "lightnin-hopkins-mn0000825208",
+        "artist" : "Lightnin' Hopkins"
+      }, {
+        "ArtistId" : "mississippi-john-hurt-mn0000424019",
+        "artist" : "Mississippi John Hurt"
+      }, {
+        "ArtistId" : "arthur-big-boy-crudup-mn0000603680",
+        "artist" : "Arthur \"Big Boy\" Crudup"
+      }, {
+        "ArtistId" : "bo-carter-mn0000045188",
+        "artist" : "Bo Carter"
+      }, {
+        "ArtistId" : "elmore-james-mn0000176936",
+        "artist" : "Elmore James"
+      }, {
+        "ArtistId" : "john-lee-hooker-mn0000815039",
+        "artist" : "John Lee Hooker"
+      }, {
+        "ArtistId" : "memphis-minnie-mn0000352499",
+        "artist" : "Memphis Minnie"
+      } ]
+    }
   }
 }
