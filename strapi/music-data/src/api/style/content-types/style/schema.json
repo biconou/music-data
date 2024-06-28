@@ -4,7 +4,8 @@
   "info": {
     "singularName": "style",
     "pluralName": "styles",
-    "displayName": "style"
+    "displayName": "style",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -24,6 +25,12 @@
         "subgenre",
         "style"
       ]
+    },
+    "code": {
+      "type": "string",
+      "unique": true,
+      "regex": "[A-Z]+",
+      "required": true
     }
   }
 }

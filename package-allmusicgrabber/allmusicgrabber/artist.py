@@ -30,7 +30,7 @@ def compute_allmusic_artist_url(artist_id):
 
 def parse_artist(artistId,htmlContent):
     soup = BeautifulSoup(htmlContent, 'html.parser')
-    artist = {'id':artistId}
+    artist = {'allmusic_id':artistId}
     artist['name'] = soup.select("h1#artistName")[0].string.strip()
     artist['activeDates'] = str(soup.select("#basicInfoMeta > div.activeDates > div")[0].text)
     artistBirth = soup.select("#basicInfoMeta > div.birth > div > a")
