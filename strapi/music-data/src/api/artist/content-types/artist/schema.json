@@ -34,6 +34,9 @@
     },
     "allmusic_id": {
       "type": "uid"
+    },
+    "discography_md": {
+      "type": "richtext"
     }
   }
 }

@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2024-06-28T14:01:22.626Z"
+    "x-generation-date": "2024-07-12T12:35:16.697Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -123,6 +123,9 @@
               },
               "discography": {},
               "allmusic_id": {
+                "type": "string"
+              },
+              "discography_md": {
                 "type": "string"
               }
             }
@@ -528,6 +531,9 @@
           },
           "discography": {},
           "allmusic_id": {
+            "type": "string"
+          },
+          "discography_md": {
             "type": "string"
           },
           "createdAt": {
