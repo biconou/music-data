@@ -1,0 +1,19 @@
+{
+    "statements": [
+        {
+            "statement": "MERGE (a:Genre {name: 'Pop/Rock'})"
+        },
+        {
+            "statement": "MERGE (a:Subgenre {name: 'Alternative/Indie Rock'})"
+        },
+        {
+            "statement": "MERGE (a:Style {name: 'Alternative Country-Rock'})"
+        },
+        {
+            "statement": "MATCH (g:Genre {name: 'Pop/Rock'}), (s:Subgenre {name: 'Alternative/Indie Rock'}) MERGE (g)-[:CONTAINS]->(s)"
+        },
+        {
+            "statement": "MATCH (su:Subgenre {name: 'Alternative/Indie Rock'}), (st:Style {name: 'Alternative Country-Rock'}) MERGE (su)-[:CONTAINS]->(st)"
+        }
+    ]
+}

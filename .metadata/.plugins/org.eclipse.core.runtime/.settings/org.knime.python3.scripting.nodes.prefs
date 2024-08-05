@@ -1,7 +1,0 @@
-bundledCondaEnvPath=org_knime_pythonscripting
-eclipse.preferences.version=1
-python2CondaEnvironmentDirectoryPath=/mnt/DATA/software/miniconda3
-python2Path=python
-python3CondaEnvironmentDirectoryPath=/mnt/DATA/software/miniconda3
-python3Path=python3
-pythonEnvironmentType=conda

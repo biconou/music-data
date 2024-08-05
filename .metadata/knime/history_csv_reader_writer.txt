@@ -1,2 +1,0 @@
-/data/artists-list.csv
-/data/allmusic/errors/artistsErrors.csv
