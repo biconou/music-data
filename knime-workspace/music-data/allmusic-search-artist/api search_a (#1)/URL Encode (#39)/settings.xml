@@ -39,7 +39,7 @@
     <entry key="node-feature-name" type="xstring" value="Vernalis KNIME Nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="com.vernalis.knime.feature.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="Vernalis Research Ltd, Cambridge, UK"/>
-    <entry key="node-feature-version" type="xstring" value="1.36.7.v202405281205"/>
+    <entry key="node-feature-version" type="xstring" value="1.36.7.v202408051613"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="URL Encode"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -49,12 +49,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 6, Cols: 1"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 43, Cols: 1"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="5f24b50a-699c-4084-bc00-6d87810a2499"/>
+        <entry key="file_store_id" type="xstring" value="3415f157-8afa-4103-a8b5-ec708334b42a"/>
     </config>
 </config>

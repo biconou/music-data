@@ -10,5 +10,5 @@
 Le workspace KNIME doit être à la racine du projet
 
 Workflows
-1. allmusic-search-artist : lit la liste data\artists-list.txt et génères les stup json d'artistes dans data\allmusic\artist\search\results\json
+1. allmusic-search-artist : lit la liste data\artists-list.txt et génères les stub json d'artistes dans data\allmusic\artist\search\results\json
 

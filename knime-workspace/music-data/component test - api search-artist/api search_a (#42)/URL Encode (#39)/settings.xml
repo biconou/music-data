@@ -35,11 +35,11 @@
     <entry key="node-bundle-name" type="xstring" value="Vernalis custom KNIME nodes package "/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="com.vernalis.knime"/>
     <entry key="node-bundle-vendor" type="xstring" value="Vernalis Research, UK"/>
-    <entry key="node-bundle-version" type="xstring" value="1.36.6.v202405090949"/>
+    <entry key="node-bundle-version" type="xstring" value="1.36.7.v202405281205"/>
     <entry key="node-feature-name" type="xstring" value="Vernalis KNIME Nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="com.vernalis.knime.feature.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="Vernalis Research Ltd, Cambridge, UK"/>
-    <entry key="node-feature-version" type="xstring" value="1.36.6.v202405090949"/>
+    <entry key="node-feature-version" type="xstring" value="1.36.7.v202408051613"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="URL Encode"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -55,6 +55,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="75c6545c-3546-445d-aec1-1bc39cd7fcbb"/>
+        <entry key="file_store_id" type="xstring" value="11708db4-5158-405e-a044-6072684fdd7e"/>
     </config>
 </config>
