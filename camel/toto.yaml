@@ -1,0 +1,20 @@
+- route:
+    id: json-to-api-route
+    description: "Route to read JSON files and send PUT requests to an API"
+    from:
+      uri: "file:C:\\DATA\\develop\\music-data\\data\\tests?noop=true&include=.*\\.json"
+      steps:
+        - log:
+            message: "Processing JSON file: ${header.CamelFileName}"
+        - log:
+            message: "${body}"
+        - setHeader:
+            name: "CamelHttpMethod"
+            simple: "POST"
+        - setHeader:
+            name: "Content-Type"
+            constant: "application/json"
+        - toD: "http://127.0.0.1:1337/api/artists/?bridgeEndpoint=true"
+        - log:
+            message: "Sent POST request for file: ${header.CamelFileName} to API"
+        - to: "file:processed"
