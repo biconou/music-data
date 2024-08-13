@@ -7,3 +7,8 @@ __azurite_db_queue*
 # Knime 
 .metadata
 Example Workflows
+
+.env.togodo
+.env.remi-HP-ProBook-650-G4
+
+data/postgres
