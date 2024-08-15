@@ -32,6 +32,15 @@ services:
     depends_on:
       - postgres
 
+  allmusicgrabber:
+    build:
+      context: ./package-allmusicgrabber
+    container_name: allmusicgrabber-api
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=development
+
 networks:
   default:
     external:

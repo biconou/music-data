@@ -6,17 +6,18 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="caseSensitive" type="xboolean" value="false"/>
-        <entry key="colName" type="xstring" value="query"/>
-        <entry key="createNewCol" type="xboolean" value="true"/>
-        <entry key="newColName" type="xstring" value="allmusicSearchArtistUri"/>
-        <entry key="pattern" type="xstring" value="(.+)"/>
-        <entry key="replaceAllOccurences" type="xboolean" value="false"/>
-        <entry key="replacement" type="xstring" value="http://127.0.0.1:5000/search-artist?query=$1"/>
-        <entry key="enableEscaping" type="xboolean" value="false"/>
+        <entry key="colName" type="xstring" value="encoded-query"/>
         <entry key="findPattern" type="xboolean" value="true"/>
         <entry key="patternIsRegex" type="xboolean" value="true"/>
+        <entry key="enableEscaping" type="xboolean" value="false"/>
+        <entry key="caseSensitive" type="xboolean" value="false"/>
+        <entry key="pattern" type="xstring" value="(.+)"/>
+        <entry key="replacement" type="xstring" value="http://127.0.0.1:5000/search-artist?query=$1"/>
+        <entry key="replaceAllOccurences" type="xboolean" value="false"/>
+        <entry key="createNewCol" type="xboolean" value="true"/>
+        <entry key="newColName" type="xstring" value="allmusicSearchArtistUri"/>
     </config>
+    <config key="variables"/>
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="Compute search%%00010artist URI"/>
         <entry key="contentType" type="xstring" value="text/plain"/>
@@ -39,11 +40,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202311271613"/>
-    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
-    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
-    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.2.0.v202311291511"/>
+    <entry key="node-bundle-version" type="xstring" value="5.3.1.v202408020914"/>
+    <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-version" type="xstring" value="0.0.0"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="String Replacer"/>
     <entry key="hasContent" type="xboolean" value="false"/>

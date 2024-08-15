@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, Response
 from bs4 import BeautifulSoup
 import urllib.request
 import requests
@@ -66,6 +66,18 @@ def related(artist_id):
     html_content = fetch_html_content(related_url, referer=compute_allmusic_artist_url(artist_id))
     artist = parse_related(artist_id,html_content)
     return jsonify(artist)
+
+@app.route('/url-encode', methods=['POST'])
+def url_encode():
+    # Get the plain text from the request body
+    text = request.data.decode('utf-8')
+    
+    # URL-encode the text
+    encoded_text = urllib.parse.quote(text)
+    
+    # Return the encoded text as plain text
+    return Response(encoded_text, content_type='text/plain')
+
 
 if __name__ == '__main__':
     app.run(debug=True)

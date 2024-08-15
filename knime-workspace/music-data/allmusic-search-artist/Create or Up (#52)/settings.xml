@@ -25,8 +25,8 @@
     <entry key="state" type="xstring" value="IDLE"/>
     <config key="nodecontainer_message">
         <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Contains one node with execution failure (Component Input #1)"/>
-        <entry key="issue" type="xstring" value="Component Input #1: Component does not have input data, execute upstream nodes first"/>
+        <entry key="message" type="xstring" value="One node with warning (find by allmusic_id in strapi #49)"/>
+        <entry key="issue" type="xstring" value="find by allmusic_id in strapi #49: Contains one node with execution failure (Component Input #1)"/>
     </config>
     <entry key="workflow-file" type="xstring" value="workflow.knime"/>
     <entry key="virtual-in-ID" type="xint" value="1"/>
