@@ -38,7 +38,7 @@
     <config key="outports"/>
     <config key="workflow_template_information">
         <entry key="role" type="xstring" value="Template"/>
-        <entry key="timestamp" type="xstring" value="2024-06-28 13:22:14 +0200"/>
+        <entry key="timestamp" type="xstring" value="2024-08-16 18:03:36 +0000"/>
         <entry key="sourceURI" type="xstring" isnull="true" value=""/>
         <entry key="templateType" type="xstring" value="SubNode"/>
     </config>

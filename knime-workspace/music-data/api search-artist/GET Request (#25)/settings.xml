@@ -8,7 +8,7 @@
     <config key="model">
         <entry key="Use constant URI" type="xboolean" value="false"/>
         <entry key="Constant URI" type="xstring" value="https://www.allmusic.com/artist/celtic-frost-mn0000191063"/>
-        <entry key="URI column" type="xstring" value="allmusicSearchArtistUri"/>
+        <entry key="URI column" type="xstring" value="search-uri"/>
         <entry key="delay_enabled" type="xboolean" value="false"/>
         <entry key="delay" type="xlong" value="0"/>
         <entry key="concurrency" type="xint" value="1"/>
@@ -57,7 +57,7 @@
             <config key="BASIC auth">
                 <entry key="credentials" type="xstring" isnull="true" value=""/>
                 <entry key="username" type="xstring" value=""/>
-                <entry key="password" type="xpassword" isnull="true" value=""/>
+                <entry key="password" type="xpassword" value=""/>
                 <entry key="selectedType" type="xstring" value="USER_PWD"/>
             </config>
         </config>
@@ -70,7 +70,7 @@
             <config key="Digest auth">
                 <entry key="credentials" type="xstring" isnull="true" value=""/>
                 <entry key="username" type="xstring" value=""/>
-                <entry key="password" type="xpassword" isnull="true" value=""/>
+                <entry key="password" type="xpassword" value=""/>
                 <entry key="selectedType" type="xstring" value="USER_PWD"/>
             </config>
         </config>
@@ -83,7 +83,7 @@
             <config key="NTLM-auth">
                 <entry key="credentials" type="xstring" isnull="true" value=""/>
                 <entry key="username" type="xstring" value=""/>
-                <entry key="password" type="xpassword" isnull="true" value=""/>
+                <entry key="password" type="xpassword" value=""/>
                 <entry key="selectedType" type="xstring" value="USER_PWD"/>
             </config>
             <entry key="org.knime.rest.auth.ntlm.domain" type="xstring" value=""/>
@@ -104,6 +104,11 @@
         <entry key="failOnClientError" type="xboolean" value="false"/>
         <entry key="outputErrorCause" type="xboolean" value="false"/>
         <entry key="allowChunking" type="xboolean" value="true"/>
+        <config key="Invalid URL handling_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="Invalid URL handling" type="xstring" value="MISSING"/>
         <entry key="failOnMissingHeaders" type="xboolean" value="false"/>
         <config key="Proxy auth_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_authentication"/>

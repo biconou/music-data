@@ -44,7 +44,7 @@
     </config>
     <config key="workflow_template_information">
         <entry key="role" type="xstring" value="Link"/>
-        <entry key="timestamp" type="xstring" value="2024-08-15 00:21:01 +0000"/>
+        <entry key="timestamp" type="xstring" value="2024-08-16 17:40:49 +0000"/>
         <entry key="sourceURI" type="xstring" value="knime://knime.mountpoint/knime-workspace/music-data/api%20search-artist"/>
     </config>
     <entry key="layoutJSON" type="xstring" value="{&quot;parentLayoutLegacyMode&quot;:false}"/>

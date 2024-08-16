@@ -38,7 +38,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="http://localhost:1337/api/artists?filters%5Ballmusic_id%5D=dismember-mn0000171969"/>
+                        <entry key="StringCell" type="xstring" value="http://localhost:1337/api/artists?filters%5Ballmusic_id%5D=dismember-mn0000171969dismember-mn0000171969"/>
                     </config>
                 </config>
             </config>
@@ -115,13 +115,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="1"/>
-                <config key="0">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="15"/>
-                    </config>
-                </config>
+                <entry key="array-size" type="xint" value="0"/>
             </config>
         </config>
         <config key="column_properties"/>

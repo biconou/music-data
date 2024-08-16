@@ -8,6 +8,7 @@ __azurite_db_queue*
 .metadata
 Example Workflows
 
+.env
 .env.togodo
 .env.remi-HP-ProBook-650-G4
 
