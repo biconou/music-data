@@ -6,13 +6,13 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="MUSIC_DATA_API_HOST"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="localhost"/>
+            <entry key="value" type="xstring" value="togodo"/>
         </config>
         <config key="Variable_1">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="MUSIC_DATA_API_HOST"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="localhost"/>
+            <entry key="value" type="xstring" value="togodo"/>
         </config>
     </config>
     <config key="internal_node_subsettings">

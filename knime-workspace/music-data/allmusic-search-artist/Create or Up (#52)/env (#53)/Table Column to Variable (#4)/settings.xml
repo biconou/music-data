@@ -42,7 +42,7 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="MUSIC_DATA_API_HOST"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="localhost"/>
+            <entry key="value" type="xstring" value="togodo"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -89,6 +89,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="20989569-d668-4e9f-bbbe-90dd5e498068"/>
+        <entry key="file_store_id" type="xstring" value="06546b5d-97a8-4c14-acca-f1ecbba7e942"/>
     </config>
 </config>
