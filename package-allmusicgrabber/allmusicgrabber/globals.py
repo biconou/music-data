@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 import os
 
+import requests
+
 
 rootDataDirectory = '../data'
 
@@ -29,3 +31,20 @@ def computeRelatedRawHTMLFileName(artistId):
 
 def computeRelatedFileName(artistId):
     return rootDataDirectory + '/allmusic/related/' + artistId
+
+
+def fetch_allmusic_html_content(url,referer=None):
+    try:
+        headers={"Accept" : '*/*',
+                 "Host" : "www.allmusic.com",
+                 "user-agent" : "curl/7.88.1",
+                 "referer" : "url"}
+        if referer is not None:
+            headers['referer'] = referer
+
+        response = requests.get(url,headers=headers)
+        response.raise_for_status()
+        return response.text
+    except requests.RequestException as e:
+        print(f"Une erreur s'est produite dans fetch : {e}")
+        return None
