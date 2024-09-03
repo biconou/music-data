@@ -6,8 +6,21 @@ from allmusicgrabber.globals import fetch_allmusic_html_content
 app = Flask(__name__)
 
 @app.route('/search-artist', methods=['GET'])
-def search_artist():
-    query = request.args.get('query')
+def receive_data():
+    query = None
+    # Try to get the JSON body
+    if request.is_json:
+        query = request.get_json().get('query')
+        query = urllib.parse.quote(query)
+
+    # If 'query' is None or not found in the JSON body, look for a query parameter in the URL
+    if query is None:
+        query = request.args.get('query')
+
+    # If 'query' is still None, return an error response
+    if query is None:
+        return jsonify({'error': 'Query parameter is missing'}), 400
+
     search_artist_url = compute_allmusic_search_artist_url(query)
     html_content = fetch_allmusic_html_content(search_artist_url)
     artist = parse_search_artist(html_content)
