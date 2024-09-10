@@ -49,12 +49,6 @@ def related(artist_id):
     artist = parse_related(artist_id,html_content)
     return jsonify(artist)
 
-@app.route('/url-encode', methods=['POST'])
-def url_encode():
-    text = request.data.decode('utf-8')
-    encoded_text = urllib.parse.quote(text)
-    return Response(encoded_text, content_type='text/plain')
-
 
 if __name__ == '__main__':
     app.run(debug=True)

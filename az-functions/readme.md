@@ -14,3 +14,7 @@ https://learn.microsoft.com/fr-fr/azure/azure-functions/functions-reference-pyth
 # Using Flask Framework with Azure Functions
 
 https://learn.microsoft.com/en-us/samples/azure-samples/flask-app-on-azure-functions/azure-functions-python-create-flask-app/
+
+# TODO : regarder cet exemple
+https://github.com/Azure-Samples/ms-identity-python-webapi-azurefunctions/tree/master
+
