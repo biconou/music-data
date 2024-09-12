@@ -1,0 +1,166 @@
+{
+	"info": {
+		"_postman_id": "57848227-9ce4-4a94-9e28-d167be1b2067",
+		"name": "allmusicgrabber-api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31556401"
+	},
+	"item": [
+		{
+			"name": "search-artist (url parameter)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/search-artist?query=dismember",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"search-artist"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "dismember"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "search-artist (body parameter)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/search-artist?query=dismember",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"search-artist"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "dismember"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "artist",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/artist/dismember-mn0000171969",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"artist",
+						"dismember-mn0000171969"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "discography",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/discography/dismember-mn0000171969",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"discography",
+						"dismember-mn0000171969"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "related",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/related/dismember-mn0000171969",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"related",
+						"dismember-mn0000171969"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "url encode",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "rolling stones",
+					"options": {
+						"raw": {
+							"language": "text"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/url-encode",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"url-encode"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

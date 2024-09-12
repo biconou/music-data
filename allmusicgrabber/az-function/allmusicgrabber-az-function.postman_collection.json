@@ -1,0 +1,66 @@
+{
+	"info": {
+		"_postman_id": "2e2aa019-bd4b-4de9-971a-7d4120d8701f",
+		"name": "allmusicgrabber-az-function",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31556401"
+	},
+	"item": [
+		{
+			"name": "search_artist",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:7071/api/search_artist?query=mastodon",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "7071",
+					"path": [
+						"api",
+						"search_artist"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "mastodon"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "search_artist (Azure)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://allmusicgrabber.azurewebsites.net/api/search_artist?query=mastodon",
+					"protocol": "https",
+					"host": [
+						"allmusicgrabber",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"api",
+						"search_artist"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "mastodon"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
