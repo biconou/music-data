@@ -34,7 +34,7 @@ services:
 
   allmusicgrabber:
     build:
-      context: ./package-allmusicgrabber
+      context: ./allmusicgrabber
     container_name: allmusicgrabber-api
     ports:
       - "5000:5000"
