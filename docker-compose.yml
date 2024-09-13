@@ -32,6 +32,26 @@ services:
     depends_on:
       - postgres
 
+  kong:
+    image: kong:3.0
+    container_name: kong
+    ports:
+      - "8000:8000" # Proxy port
+      - "8001:8001" # Admin API port
+      - "8002:8002"  # Kong Manager port
+    environment:
+      KONG_DATABASE: "off"  # Use SQLite
+      KONG_DB_UPDATE_FREQUENCY: 5
+      KONG_LUA_PACKAGE_PATH: "/usr/local/share/lua/5.1/?.lua;;"
+      KONG_LUA_PACKAGE_CPATH: "/usr/local/lib/lua/5.1/?.so;;"
+      KONG_PORTAL: "on"  # Enable Kong Manager (GUI)
+      KONG_PORTAL_GUI_HOST: "0.0.0.0"  # Bind to all network interfaces
+      KONG_PORTAL_GUI_HOST_PORT: 8002  # Port for Kong Manager GUI
+    volumes:
+      - ./data/kong/config:/etc/kong
+      - ./data/kong/db:/usr/local/kong/database
+
+
   allmusicgrabber:
     build:
       context: ./allmusicgrabber
