@@ -1,0 +1,73 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "allmusicgrabber-az-function",
+    "collectionId": "3e2a3387-206e-4ac1-840a-9c7d36aaa884",
+    "dateExported": "2024-09-13T14:58:09.842Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "2e00b4f2-2ff9-4eb9-9304-62bdb84e390b",
+            "colId": "3e2a3387-206e-4ac1-840a-9c7d36aaa884",
+            "containerId": "",
+            "name": "search_artist",
+            "url": "http://127.0.0.1:7071/api/search-artist?query=mastodon",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-09-10T15:39:02.623Z",
+            "modified": "2024-09-10T15:39:29.123Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "query",
+                    "value": "mastodon",
+                    "isPath": false
+                }
+            ]
+        },
+        {
+            "_id": "226c7574-5c65-4216-bd5d-1ac4fcd9b456",
+            "colId": "3e2a3387-206e-4ac1-840a-9c7d36aaa884",
+            "containerId": "",
+            "name": "search_artist (Azure)",
+            "url": "https://allmusicgrabber.azurewebsites.net/api/search-artist?query=mastodon",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-09-10T15:39:02.624Z",
+            "modified": "2024-09-12T14:57:23.107Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "query",
+                    "value": "mastodon",
+                    "isPath": false
+                }
+            ]
+        },
+        {
+            "_id": "1569a4c7-4ab4-40df-bf6b-b6a132317d9a",
+            "colId": "3e2a3387-206e-4ac1-840a-9c7d36aaa884",
+            "containerId": "",
+            "name": "artist",
+            "url": "http://127.0.0.1:7071/api/artist/mastodon-mn0000382565",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-09-12T16:05:49.305Z",
+            "modified": "2024-09-12T16:29:46.459Z",
+            "headers": []
+        },
+        {
+            "_id": "3672cf4a-16a9-4611-b05c-9056fa640393",
+            "colId": "3e2a3387-206e-4ac1-840a-9c7d36aaa884",
+            "containerId": "",
+            "name": "artist (Azure)",
+            "url": "https://allmusicgrabber.azurewebsites.net/api/artist/mastodon-mn0000382565",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-09-13T14:10:51.323Z",
+            "modified": "2024-09-13T14:11:36.443Z",
+            "headers": []
+        }
+    ],
+    "ref": "sTZ_HTG-fBJ14WiyKUTL0dHaxJlREo3vrgs864_Mgf0hfZxYw0Ra8FgNxsz2MqzMm0T6Btb4EmNGXeIuVAxa9g"
+}

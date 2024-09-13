@@ -42,7 +42,6 @@ def search_artist(req: func.HttpRequest) -> func.HttpResponse:
 @app.route(route="artist/{artist_id}")
 def artist(req: func.HttpRequest) -> func.HttpResponse:
     artist_id = req.route_params.get("artist_id")
-    logging.error(artist_id)
     artist_url = compute_allmusic_artist_url(artist_id)
     html_content = fetch_allmusic_html_content(artist_url)
     artist = parse_artist(artist_id,html_content)
