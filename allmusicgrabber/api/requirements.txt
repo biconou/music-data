@@ -1,3 +1,7 @@
+Werkzeug==2.2.2
 flask
 bs4
 requests
+flask-oauthlib
+python-dotenv
+
