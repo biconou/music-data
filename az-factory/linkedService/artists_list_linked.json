@@ -1,0 +1,12 @@
+{
+	"name": "artists_list_linked",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=musicdata0data;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDE5NEI0RDRGLTk5MUYtNDk2NS05NDAwLUExOTNGMDZGMTQ0NF8xOTVmOTE4NC01M2M5LTQxYjYtOTg1Zi0zMmEzMmYzMGZmNWQiDQp9"
+		}
+	}
+}
