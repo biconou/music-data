@@ -1,0 +1,108 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Création d'un VPC, d'un subnet, et d'une instance EC2 dans le subnet.
+
+Resources:
+  # VPC Resource
+  musicDataVpc:
+    Type: "AWS::EC2::VPC"
+    Properties:
+      CidrBlock: "10.0.0.0/16"
+      EnableDnsSupport: true
+      EnableDnsHostnames: true
+      Tags:
+        - Key: "Name"
+          Value: "music-data-vpc"
+
+  # Subnet Resource
+  musicDataPublicSubnet:
+    Type: "AWS::EC2::Subnet"
+    Properties:
+      VpcId: !Ref musicDataVpc
+      CidrBlock: "10.0.1.0/24"
+      MapPublicIpOnLaunch: true
+      Tags:
+        - Key: "Name"
+          Value: "music-data-public-subnet"
+
+  # Internet Gateway
+  MyInternetGateway:
+    Type: "AWS::EC2::InternetGateway"
+
+  # Attach Internet Gateway to VPC
+  AttachGateway:
+    Type: "AWS::EC2::VPCGatewayAttachment"
+    Properties:
+      VpcId: !Ref musicDataVpc
+      InternetGatewayId: !Ref MyInternetGateway
+
+  # Route Table
+  MyRouteTable:
+    Type: "AWS::EC2::RouteTable"
+    Properties:
+      VpcId: !Ref musicDataVpc
+
+  # Route for Internet Access
+  MyRoute:
+    Type: "AWS::EC2::Route"
+    Properties:
+      RouteTableId: !Ref MyRouteTable
+      DestinationCidrBlock: "0.0.0.0/0"
+      GatewayId: !Ref MyInternetGateway
+
+  # Associate Subnet with Route Table
+  SubnetRouteTableAssociation:
+    Type: "AWS::EC2::SubnetRouteTableAssociation"
+    Properties:
+      SubnetId: !Ref musicDataPublicSubnet
+      RouteTableId: !Ref MyRouteTable
+
+  # Security Group
+  MySecurityGroup:
+    Type: "AWS::EC2::SecurityGroup"
+    Properties:
+      GroupDescription: "Allow SSH and HTTP access"
+      VpcId: !Ref musicDataVpc
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22
+          CidrIp: "0.0.0.0/0"
+        - IpProtocol: tcp
+          FromPort: 5000
+          ToPort: 5000
+          CidrIp: "0.0.0.0/0"
+
+  # EC2 Instance
+  MyEC2Instance:
+    Type: "AWS::EC2::Instance"
+    Properties:
+      InstanceType: "t2.micro"
+      KeyName: "remi@remi-HP-ProBook-650-G4" # Remplacez par votre propre paire de clés
+      ImageId: "ami-015cc98911fa68f44" # Remplacez par une AMI valide pour votre région
+      UserData:
+        Fn::Base64: !Sub |
+          #!/bin/bash
+          cd /home/ubuntu/music-data
+          docker-compose up -d allmusicgrabber
+      NetworkInterfaces:
+        - AssociatePublicIpAddress: true
+          SubnetId: !Ref musicDataPublicSubnet
+          DeviceIndex: 0
+          GroupSet:
+            - !Ref MySecurityGroup
+      Tags:
+        - Key: "Name"
+          Value: "allMusicGrabberInstance"
+
+Outputs:
+  VPCId:
+    Description: "ID du VPC créé"
+    Value: !Ref musicDataVpc
+
+  SubnetId:
+    Description: "ID du Subnet créé"
+    Value: !Ref musicDataPublicSubnet
+
+  InstanceId:
+    Description: "ID de l'instance EC2 créée"
+    Value: !Ref MyEC2Instance
