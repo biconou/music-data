@@ -1,6 +1,12 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Description: Création d'un VPC, d'un subnet, et d'une instance EC2 dans le subnet.
 
+Parameters:
+  Env:
+    Type: String
+    Description: "nom de l'environnement"
+    Default: "dev"
+
 Resources:
   # VPC Resource
   musicDataVpc:
@@ -11,7 +17,7 @@ Resources:
       EnableDnsHostnames: true
       Tags:
         - Key: "Name"
-          Value: "music-data-vpc"
+          Value: !Sub "music-data-${Env}-vpc"
 
   # Subnet Resource
   musicDataPublicSubnet:
@@ -22,7 +28,7 @@ Resources:
       MapPublicIpOnLaunch: true
       Tags:
         - Key: "Name"
-          Value: "music-data-public-subnet"
+          Value: !Sub "music-data-${Env}-public-subnet"
 
   # Internet Gateway
   MyInternetGateway:
@@ -92,7 +98,7 @@ Resources:
             - !Ref MySecurityGroup
       Tags:
         - Key: "Name"
-          Value: "allMusicGrabberInstance"
+          Value: !Sub "music-data-${Env}-allMusicGrabberInstance"
 
 Outputs:
   VPCId:
