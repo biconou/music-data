@@ -6,7 +6,7 @@ from allmusicgrabber.globals import fetch_allmusic_html_content
 app = Flask(__name__)
 
 @app.route('/search-artist', methods=['GET'])
-def receive_data():
+def search_artist():
     query = None
     # Try to get the JSON body
     if request.is_json:
