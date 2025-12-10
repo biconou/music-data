@@ -4,45 +4,9 @@
     <config key="flow_stack">
         <config key="Variable_0">
             <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="POSTGRES_VERSION"/>
+            <entry key="name" type="xstring" value="ALLMUSICGRABBER_API"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="14-alpine"/>
-        </config>
-        <config key="Variable_1">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="POSTGRES_DB"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="musicdata"/>
-        </config>
-        <config key="Variable_2">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="POSTGRES_USER"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="musicdata"/>
-        </config>
-        <config key="Variable_3">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="POSTGRES_PASSWORD"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="Mozart*1"/>
-        </config>
-        <config key="Variable_4">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="DATA_DIR"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="/home/root/music-data-postgres"/>
-        </config>
-        <config key="Variable_5">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="POSTGRES_PORT"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="5434"/>
-        </config>
-        <config key="Variable_6">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="MUSIC_DATA_API_HOST"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="localhost"/>
+            <entry key="value" type="xstring" value="http://localhost:5000"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -67,11 +31,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.3.1.v202408020914"/>
-    <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-version" type="xstring" value="0.0.0"/>
+    <entry key="node-bundle-version" type="xstring" value="5.3.3.v202410291553"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.3.3.v202410301420"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Table Column to Variable"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -89,6 +53,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="5903a760-a785-41aa-bb31-23974826bf7d"/>
+        <entry key="file_store_id" type="xstring" value="d39ee678-43e1-4c9b-93c0-0573fb64407a"/>
     </config>
 </config>

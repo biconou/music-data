@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="workflow.knime">
-    <entry key="created_by" type="xstring" value="5.3.1.v202408061929"/>
+    <entry key="created_by" type="xstring" value="5.3.3.v202411031102"/>
     <entry key="created_by_nightly" type="xboolean" value="false"/>
     <entry key="version" type="xstring" value="5.1.0"/>
     <entry key="name" type="xstring" isnull="true" value=""/>
@@ -23,8 +23,8 @@
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="-1010"/>
-                    <entry key="1" type="xint" value="-63"/>
+                    <entry key="0" type="xint" value="-1055"/>
+                    <entry key="1" type="xint" value="-181"/>
                     <entry key="2" type="xint" value="0"/>
                     <entry key="3" type="xint" value="0"/>
                 </config>
@@ -39,8 +39,8 @@
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="-695"/>
-                    <entry key="1" type="xint" value="-63"/>
+                    <entry key="0" type="xint" value="-660"/>
+                    <entry key="1" type="xint" value="-86"/>
                     <entry key="2" type="xint" value="0"/>
                     <entry key="3" type="xint" value="0"/>
                 </config>
@@ -55,8 +55,8 @@
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="-910"/>
-                    <entry key="1" type="xint" value="-76"/>
+                    <entry key="0" type="xint" value="-920"/>
+                    <entry key="1" type="xint" value="-151"/>
                     <entry key="2" type="xint" value="-1"/>
                     <entry key="3" type="xint" value="-1"/>
                 </config>
@@ -71,8 +71,8 @@
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="-795"/>
-                    <entry key="1" type="xint" value="-81"/>
+                    <entry key="0" type="xint" value="-790"/>
+                    <entry key="1" type="xint" value="-116"/>
                     <entry key="2" type="xint" value="-1"/>
                     <entry key="3" type="xint" value="-1"/>
                 </config>
@@ -89,7 +89,7 @@
         <config key="connection_1">
             <entry key="sourceID" type="xint" value="4"/>
             <entry key="destID" type="xint" value="2"/>
-            <entry key="sourcePort" type="xint" value="0"/>
+            <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="0"/>
         </config>
     </config>
