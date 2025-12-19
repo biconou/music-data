@@ -6,7 +6,7 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="expression" type="xstring" value="join(&quot;http://&quot;,$${SMUSIC_DATA_API_HOST}$$,&quot;:5000/url-encode&quot;)"/>
+        <entry key="expression" type="xstring" value="join(&quot;&quot;,$${Sknime.workspace}$$,&quot;/url-encode&quot;)"/>
         <entry key="replaced_column" type="xstring" value="URI"/>
         <entry key="append_column" type="xboolean" value="false"/>
         <entry key="test_compilation_on_dialog_close" type="xboolean" value="true"/>
@@ -21,10 +21,10 @@
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.jsnippets"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
     <entry key="node-bundle-version" type="xstring" value="5.3.0.v202406141017"/>
-    <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
-    <entry key="node-feature-version" type="xstring" value="0.0.0"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Javasnippet"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.javasnippet.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.3.3.v202410291554"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="String Manipulation"/>
     <entry key="hasContent" type="xboolean" value="false"/>

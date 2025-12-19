@@ -6,9 +6,9 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="expression" type="xstring" value="join($tmp_uri$,$artistId$)"/>
+        <entry key="expression" type="xstring" value="join($${SALLMUSICGRABBER_API}$$,&quot;/artist/&quot;,$artistId$)"/>
         <entry key="replaced_column" type="xstring" value="tmp_uri"/>
-        <entry key="append_column" type="xboolean" value="true"/>
+        <entry key="append_column" type="xboolean" value="false"/>
         <entry key="test_compilation_on_dialog_close" type="xboolean" value="true"/>
         <entry key="insert_missing_as_null" type="xboolean" value="false"/>
         <entry key="return_type" type="xstring" value="java.lang.String"/>
@@ -20,11 +20,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Java Snippet Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.jsnippets"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202310301555"/>
+    <entry key="node-bundle-version" type="xstring" value="5.3.0.v202406141017"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Javasnippet"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.javasnippet.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.2.0.v202310301555"/>
+    <entry key="node-feature-version" type="xstring" value="5.3.3.v202410291554"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="String Manipulation"/>
     <entry key="hasContent" type="xboolean" value="false"/>

@@ -2,15 +2,6 @@
   "version" : "5.3.3.v202411031102",
   "projects" : [ ],
   "mostRecentlyUsedProjects" : [ {
-    "name" : "Component test - api artist",
-    "timeUsed" : "2025-12-09T14:42:34.801604+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\Component test - api artist"
-    }
-  }, {
     "name" : "Component test - api discography",
     "timeUsed" : "2025-12-09T14:46:58.9057559+01:00",
     "origin" : {
@@ -39,7 +30,7 @@
     }
   }, {
     "name" : "env",
-    "timeUsed" : "2025-12-09T15:36:42.9398969+01:00",
+    "timeUsed" : "2025-12-18T13:08:15.6440082+01:00",
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
@@ -47,13 +38,67 @@
       "relativePath" : "music-data\\env"
     }
   }, {
+    "name" : "allmusic-search-artist",
+    "timeUsed" : "2025-12-18T13:11:05.9169068+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\allmusic-search-artist"
+    }
+  }, {
+    "name" : "api search-artist",
+    "timeUsed" : "2025-12-18T13:29:02.8228199+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "COMPONENT",
+      "relativePath" : "music-data\\api search-artist"
+    }
+  }, {
+    "name" : "component test - api search-artist",
+    "timeUsed" : "2025-12-18T13:53:04.9503335+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\component test - api search-artist"
+    }
+  }, {
+    "name" : "api related",
+    "timeUsed" : "2025-12-18T15:26:43.3941749+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "COMPONENT",
+      "relativePath" : "music-data\\api related"
+    }
+  }, {
+    "name" : "Component test - api artist",
+    "timeUsed" : "2025-12-18T15:31:33.400356+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\Component test - api artist"
+    }
+  }, {
     "name" : "api artist",
-    "timeUsed" : "2025-12-09T15:37:02.1579444+01:00",
+    "timeUsed" : "2025-12-18T15:43:15.7909775+01:00",
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
       "projectType" : "COMPONENT",
       "relativePath" : "music-data\\api artist"
+    }
+  }, {
+    "name" : "allmusic-artist",
+    "timeUsed" : "2025-12-18T15:57:06.2352371+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\allmusic-artist"
     }
   } ]
 }

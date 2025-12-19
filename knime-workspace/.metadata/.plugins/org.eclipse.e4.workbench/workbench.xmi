@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_8vNUoLITEe6DUOgUlvB7Eg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_8vNUobITEe6DUOgUlvB7Eg" bindingContexts="_8vOjhrITEe6DUOgUlvB7Eg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/music-data/allmusic-search-artist/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/music-data/allmusic-search-artist/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/music-data/api%20artist/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/music-data/api%20artist/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/music-data/allmusic-artist/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/music-data/allmusic-artist/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/music-data/api%20artist%202/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/music-data/api%20artist%202/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/music-data/Component%20test%20-%20api%20artist/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/music-data/Component%20test%20-%20api%20artist/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/music-data/api%20related/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/music-data/api%20related/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/music-data/test/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/music-data/test/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/music-data/component%20test%20-%20api%20search-artist/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/music-data/component%20test%20-%20api%20search-artist/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/music-data/allmusic-search-artist/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/music-data/allmusic-search-artist/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_8vNUobITEe6DUOgUlvB7Eg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_8vNUorITEe6DUOgUlvB7Eg" x="1147" y="-764" width="1024" height="759">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_8vNUobITEe6DUOgUlvB7Eg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_8vNUorITEe6DUOgUlvB7Eg" x="-57" y="162" width="1278" height="750">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -61,7 +61,7 @@
           <tags>persp.viewSC:com.knime.workbench.hubview</tags>
           <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo</tags>
           <tags>persp.actionSet:org.eclipse.ui.actionSet.openFiles</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_ODEzsbIVEe6VlpY5idvs7Q" selectedElement="_ODEzurIVEe6VlpY5idvs7Q" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_ODEzsbIVEe6VlpY5idvs7Q" selectedElement="_ODEzsrIVEe6VlpY5idvs7Q" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_ODEzsrIVEe6VlpY5idvs7Q" containerData="3000" selectedElement="_ODEzs7IVEe6VlpY5idvs7Q">
               <children xsi:type="basic:PartStack" xmi:id="_ODEzs7IVEe6VlpY5idvs7Q" elementId="org.knime.workbench.explorer.viewMStack" containerData="3000" selectedElement="_ODEztLIVEe6VlpY5idvs7Q">
                 <children xsi:type="advanced:Placeholder" xmi:id="_ODEztLIVEe6VlpY5idvs7Q" elementId="org.knime.workbench.explorer.view" ref="_OC-tELIVEe6VlpY5idvs7Q" closeable="true">
@@ -99,7 +99,7 @@
                   </children>
                 </children>
               </children>
-              <children xsi:type="basic:PartSashContainer" xmi:id="_ODEzwLIVEe6VlpY5idvs7Q" containerData="3000" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_ODEzwLIVEe6VlpY5idvs7Q" containerData="3000" selectedElement="_ODEzwbIVEe6VlpY5idvs7Q" horizontal="true">
                 <children xsi:type="basic:PartStack" xmi:id="_ODEzwbIVEe6VlpY5idvs7Q" elementId="org.eclipse.ui.views.ContentOutlineMStack" containerData="3000" selectedElement="_ODEzwrIVEe6VlpY5idvs7Q">
                   <children xsi:type="advanced:Placeholder" xmi:id="_ODEzwrIVEe6VlpY5idvs7Q" elementId="org.eclipse.ui.views.ContentOutline" ref="_ODBwYbIVEe6VlpY5idvs7Q" closeable="true">
                     <tags>View</tags>
@@ -153,6 +153,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_OC-tELIVEe6VlpY5idvs7Q" elementId="org.knime.workbench.explorer.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="KNIME Explorer" iconURI="platform:/plugin/org.knime.workbench.explorer.view/icons/knime_explorer.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewBundle" value="org.knime.workbench.explorer.view"/>
       <persistedState key="originalCompatibilityViewClass" value="org.knime.workbench.explorer.view.ExplorerView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view>&#xD;&#xA;&lt;content expandedElements=&quot;LOCAL|LOCAL&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:KNIME Views</tags>
       <menus xmi:id="_OGTt4LIVEe6VlpY5idvs7Q" elementId="org.knime.workbench.explorer.view">
@@ -164,6 +165,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_ODBJULIVEe6VlpY5idvs7Q" elementId="org.knime.workbench.repository.view.RepositoryView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Node Repository" iconURI="platform:/plugin/org.knime.workbench.repository/icons/node_repository.png" tooltip="This contains all known nodes, grouped into categories, that can be used to model&#xA;a data &quot;workflow&quot;" closeable="true">
       <persistedState key="originalCompatibilityViewBundle" value="org.knime.workbench.repository"/>
       <persistedState key="originalCompatibilityViewClass" value="org.knime.workbench.repository.view.DefaultRepositoryView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:KNIME Views</tags>
       <menus xmi:id="_OJHxULIVEe6VlpY5idvs7Q" elementId="org.knime.workbench.repository.view.RepositoryView">
@@ -175,6 +177,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_ODBwYLIVEe6VlpY5idvs7Q" elementId="org.eclipse.ui.console.ConsoleView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Console" iconURI="platform:/plugin/org.eclipse.ui.console/icons/full/cview16/console_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.console"/>
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.console.ConsoleView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_ORcm4LIVEe6VlpY5idvs7Q" elementId="org.eclipse.ui.console.ConsoleView">
@@ -186,6 +189,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_ODBwYbIVEe6VlpY5idvs7Q" elementId="org.eclipse.ui.views.ContentOutline" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Outline" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/outline_co.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.views"/>
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.views.contentoutline.ContentOutline"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_OQ3YELIVEe6VlpY5idvs7Q" elementId="org.eclipse.ui.views.ContentOutline">
@@ -197,6 +201,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_ODCXcLIVEe6VlpY5idvs7Q" elementId="org.knime.workbench.helpview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Description" iconURI="platform:/plugin/org.knime.workbench.editor/icons/node_description.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewBundle" value="org.knime.workbench.editor"/>
       <persistedState key="originalCompatibilityViewClass" value="org.knime.workbench.descriptionview.DescriptionView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:KNIME Views</tags>
       <menus xmi:id="_OKS2ALIVEe6VlpY5idvs7Q" elementId="org.knime.workbench.helpview">
@@ -208,6 +213,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_ODC-gLIVEe6VlpY5idvs7Q" elementId="org.knime.workbench.workflowcoach.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Workflow Coach" iconURI="platform:/plugin/org.knime.workbench.workflowcoach/icons/workflow-coach.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewBundle" value="org.knime.workbench.workflowcoach"/>
       <persistedState key="originalCompatibilityViewClass" value="org.knime.workbench.workflowcoach.ui.WorkflowCoachView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:KNIME Views</tags>
       <menus xmi:id="_OIWVQLIVEe6VlpY5idvs7Q" elementId="org.knime.workbench.workflowcoach.view">
