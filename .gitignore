@@ -11,5 +11,6 @@ Example Workflows
 .env
 .env.togodo
 .env.remi-HP-ProBook-650-G4
+.env.dev
 
 data/postgres
