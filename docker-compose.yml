@@ -69,10 +69,10 @@ services:
       - traefik_web
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.whoami.rule=Host(`biconou.freeboxos.fr`)"
-      - "traefik.http.routers.whoami.entrypoints=allmusicgrabber-api"
-      - "traefik.http.routers.whoami.tls=true"
-      - "traefik.http.routers.whoami.tls.certresolver=leresolver"
+      - "traefik.http.routers.allmusicgrabber.rule=Host(`biconou.freeboxos.fr`)"
+      - "traefik.http.routers.allmusicgrabber.entrypoints=allmusicgrabber-api"
+      - "traefik.http.routers.allmusicgrabber.tls=true"
+      - "traefik.http.routers.allmusicgrabber.tls.certresolver=leresolver"
       - "traefik.docker.network=traefik_web"
 
 
