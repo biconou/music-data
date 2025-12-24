@@ -60,6 +60,14 @@ services:
       - "5000:5000"
     environment:
       - FLASK_ENV=development
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.whoami.rule=Host(`biconou.freeboxos.fr`)"
+      - "traefik.http.routers.whoami.entrypoints=allmusicgrabber-api"
+      - "traefik.http.routers.whoami.tls=true"
+      - "traefik.http.routers.whoami.tls.certresolver=leresolver"
+      - "traefik.docker.network=traefik_web"
+
 
 networks:
   default:
