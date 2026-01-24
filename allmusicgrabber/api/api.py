@@ -5,6 +5,45 @@ from allmusicgrabber.globals import fetch_allmusic_html_content
 
 app = Flask(__name__)
 
+@app.route('/find-artist', methods=['GET'])
+def find_artist():
+    query = None
+    # Try to get the JSON body
+    if request.is_json:
+        query = request.get_json().get('query')
+        query = urllib.parse.quote(query)
+
+    # If 'query' is None or not found in the JSON body, look for a query parameter in the URL
+    if query is None:
+        query = request.args.get('query')
+
+    # If 'query' is still None, return an error response
+    if query is None:
+        return jsonify({'error': 'Query parameter is missing'}), 400
+
+    search_artist_url = compute_allmusic_search_artist_url(query)
+    html_content = fetch_allmusic_html_content(search_artist_url)
+    foundArtist = parse_search_artist(html_content)
+    artistId = foundArtist['artistId']
+    #
+    artist_url = compute_allmusic_artist_url(artistId)
+    html_content = fetch_allmusic_html_content(artist_url)
+    artist = parse_artist(artistId, html_content)
+    #
+    discography_url = compute_allmusic_discography_url(artistId)
+    html_content = fetch_allmusic_html_content(discography_url, referer=compute_allmusic_artist_url(artistId))
+    discography = parse_discography(artistId,html_content)
+    #
+    related_url = compute_allmusic_related_url(artistId)
+    html_content = fetch_allmusic_html_content(related_url, referer=compute_allmusic_artist_url(artistId))
+    related = parse_related(artistId,html_content)
+
+    artist.update(discography)
+    artist.update(related)
+
+    return jsonify(artist)
+
+
 @app.route('/search-artist', methods=['GET'])
 def search_artist():
     query = None
@@ -38,16 +77,16 @@ def discography(artist_id):
     discography_url = compute_allmusic_discography_url(artist_id)
     print(discography_url)
     html_content = fetch_allmusic_html_content(discography_url, referer=compute_allmusic_artist_url(artist_id))
-    artist = parse_discography(artist_id,html_content)
-    return jsonify(artist)
+    discography = parse_discography(artist_id,html_content)
+    return jsonify(discography)
 
 @app.route('/related/<string:artist_id>', methods=['GET'])
 def related(artist_id):
     related_url = compute_allmusic_related_url(artist_id)
     print(related_url)
     html_content = fetch_allmusic_html_content(related_url, referer=compute_allmusic_artist_url(artist_id))
-    artist = parse_related(artist_id,html_content)
-    return jsonify(artist)
+    related = parse_related(artist_id,html_content)
+    return jsonify(related)
 
 
 if __name__ == '__main__':
