@@ -7,6 +7,13 @@ from allmusicgrabber.globals import fetch_allmusic_html_content
 
 app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
 
+def json_response(payload, status_code: int = 200) -> func.HttpResponse:
+    return func.HttpResponse(
+        json.dumps(payload, sort_keys=False, indent=4),
+        status_code=status_code,
+        mimetype="application/json"
+    )
+
 @app.route(route="search-artist")
 def search_artist(req: func.HttpRequest) -> func.HttpResponse:
     query = None
@@ -27,18 +34,47 @@ def search_artist(req: func.HttpRequest) -> func.HttpResponse:
             mimetype="application/json"
         )
     try:
-        search_artist_url = compute_allmusic_search_artist_url(query)
-        html_content = fetch_allmusic_html_content(search_artist_url)
-        artist = parse_search_artist(html_content)
-        jsonArtist = json.dumps(artist, sort_keys=False, indent=4)
-        return func.HttpResponse(jsonArtist,status_code=200)
-    except ValueError as e:
-        return func.HttpResponse(
-            json.dumps({'error': str(e)}),
-            status_code=400,
-            mimetype="application/json"
+        # Appel de l’API externe
+        external_api_url = "https://biconou.freeboxos.fr:501/search-artist"
+        params = {"query": query}
+
+        logging.info(f"Calling external API: {external_api_url} with params={params}")
+        response = requests.get(external_api_url, params=params, timeout=10)
+
+        # Gestion des erreurs HTTP de l’API externe
+        if not response.ok:
+            logging.error(
+                f"External API returned status {response.status_code}: {response.text}"
+            )
+            return json_response(
+                {
+                    "error": "External API error",
+                    "status": response.status_code,
+                    "details": response.text[:500],
+                },
+                502,
+            )
+
+        # On suppose que l’API renvoie du JSON
+        data = response.json()
+
+        # Si besoin, tu peux transformer ici le JSON pour
+        # l’adapter à ton format de sortie
+        # ex: artist = transform_external_response(data)
+        artist = data
+
+        return json_response(artist, 200)
+    except requests.RequestException as e:
+        logging.error(f"HTTP error when calling external API: {e}")
+        return json_response(
+            {'error': 'Error while contacting external API'},
+            502
         )
-    
+    except Exception as e:
+        logging.exception("Unexpected error in search-artist")
+        return json_response({'error': 'Internal server error'}, 500)
+
+
 @app.route(route="artist/{artist_id}")
 def artist(req: func.HttpRequest) -> func.HttpResponse:
     artist_id = req.route_params.get("artist_id")
@@ -46,5 +82,5 @@ def artist(req: func.HttpRequest) -> func.HttpResponse:
     html_content = fetch_allmusic_html_content(artist_url)
     artist = parse_artist(artist_id,html_content)
     jsonArtist = json.dumps(artist, sort_keys=False, indent=4)
-    return func.HttpResponse(jsonArtist,status_code=200)
+    return json_response(jsonArtist, 500)
 

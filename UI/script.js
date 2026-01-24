@@ -1,29 +1,32 @@
-async function submitForm(event) {
-    event.preventDefault();
+new Vue({
+    el: '#app',
+    data: {
+        inputValue: '',
+        responseData: null,
+        errorMessage: ''
+    },
+    methods: {
+        async submitForm() {
+            const apiUrl = `https://allmusicgrabber.azurewebsites.net/api/search-artist?query=${encodeURIComponent(this.inputValue)}`;
+            try {
+                const response = await fetch(apiUrl, {
+                    method: 'GET',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                });
 
-    const inputField = document.getElementById('inputField');
-    const inputValue = inputField.value;
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
 
-    const apiUrl = `https://6qvqst6ja4.execute-api.eu-west-3.amazonaws.com/dev/search-artist?query=${encodeURIComponent(inputValue)}`;
-    try {
-        const response = await fetch(apiUrl, {
-            method: 'GET',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-        });
-
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
+                this.responseData = await response.json();
+                this.errorMessage = '';
+            } catch (error) {
+                console.error('Erreur lors de la requête API:', error);
+                this.errorMessage = 'Une erreur est survenue lors de la récupération des données.';
+                this.responseData = null;
+            }
         }
-
-        const responseData = await response.json();
-        console.log('Réponse de l\'API:', responseData);
-        //alert('Données récupérées avec succès !');
-        const resultDiv = document.getElementById('result');
-        resultDiv.innerHTML = `<pre>${JSON.stringify(responseData, null, 2)}</pre>`;
-    } catch (error) {
-        console.error('Erreur lors de la requête API:', error);
-        alert('Une erreur est survenue lors de la récupération des données.');
     }
-}
+});
