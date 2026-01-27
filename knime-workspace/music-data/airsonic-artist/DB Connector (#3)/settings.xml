@@ -909,34 +909,38 @@
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="CONFIGURED"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="WARNING"/>
+        <entry key="message" type="xstring" value="Selected database driver is deprecated."/>
+        <entry key="issue" type="xstring" value="The selected database driver is outdated and might contain security vulnerabilities. It will be moved to a separate extension that requires manual installation with one of the next releases."/>
+        <config key="resolutions">
+            <entry key="array-size" type="xint" value="1"/>
+            <entry key="0" type="xstring" value="Select a new version of the driver in the node dialog."/>
+        </config>
+    </config>
     <entry key="factory" type="xstring" value="org.knime.database.node.connector.generic.DBConnectorNodeFactory"/>
     <entry key="node-name" type="xstring" value="DB Connector"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME database nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.database.nodes"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.1.2.v202310091338"/>
+    <entry key="node-bundle-version" type="xstring" value="5.3.2.v202409010954"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Database"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.database.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.1.2.v202310091338"/>
+    <entry key="node-feature-version" type="xstring" value="5.3.2.v202409010954"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="DB Connector"/>
-    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
-            <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="PostgreSQL df4a6c82-aeb6-4447-afe2-8f4b1bb9bbbc"/>
-            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
-            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
-            <entry key="port_dir_location" type="xstring" value="port_1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="b9103541-1036-4b41-aed6-2de9cd6d5b60"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>

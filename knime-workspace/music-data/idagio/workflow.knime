@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="workflow.knime">
-    <entry key="created_by" type="xstring" value="5.1.2.v202310091347"/>
+    <entry key="created_by" type="xstring" value="5.3.3.v202411031102"/>
     <entry key="created_by_nightly" type="xboolean" value="false"/>
     <entry key="version" type="xstring" value="5.1.0"/>
     <entry key="name" type="xstring" isnull="true" value=""/>
     <config key="authorInformation">
         <entry key="authored-by" type="xstring" value="remi"/>
         <entry key="authored-when" type="xstring" value="2023-12-09 15:33:27 +0100"/>
-        <entry key="lastEdited-by" type="xstring" value="remi"/>
-        <entry key="lastEdited-when" type="xstring" value="2023-12-09 19:17:52 +0100"/>
+        <entry key="lastEdited-by" type="xstring" value="a541854"/>
+        <entry key="lastEdited-when" type="xstring" value="2026-01-27 16:38:03 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="IDLE"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="ERROR"/>
+        <entry key="message" type="xstring" value="Contains one node with execution failure (CSV Reader #1)"/>
+        <entry key="issue" type="xstring" value="CSV Reader #1: The specified file /data/albums.csv does not exist."/>
+    </config>
     <config key="workflow_credentials"/>
     <config key="nodes">
         <config key="node_1">
@@ -23,7 +28,7 @@
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="-1035"/>
+                    <entry key="0" type="xint" value="-1010"/>
                     <entry key="1" type="xint" value="-241"/>
                     <entry key="2" type="xint" value="-1"/>
                     <entry key="3" type="xint" value="-1"/>

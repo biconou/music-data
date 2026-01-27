@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="workflow.knime">
-    <entry key="created_by" type="xstring" value="5.3.1.v202408061929"/>
+    <entry key="created_by" type="xstring" value="5.3.3.v202411031102"/>
     <entry key="created_by_nightly" type="xboolean" value="false"/>
     <entry key="version" type="xstring" value="5.1.0"/>
     <entry key="name" type="xstring" isnull="true" value=""/>
     <config key="authorInformation">
         <entry key="authored-by" type="xstring" value="remi"/>
         <entry key="authored-when" type="xstring" value="2023-02-10 12:50:17 +0100"/>
-        <entry key="lastEdited-by" type="xstring" value="remi"/>
-        <entry key="lastEdited-when" type="xstring" value="2024-08-16 20:34:57 +0200"/>
+        <entry key="lastEdited-by" type="xstring" value="a541854"/>
+        <entry key="lastEdited-when" type="xstring" value="2026-01-27 15:29:07 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="IDLE"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="ERROR"/>
+        <entry key="message" type="xstring" value="Contains an unconnected node (&quot;Row Filter #54&quot;)"/>
+        <config key="resolutions">
+            <entry key="array-size" type="xint" value="2"/>
+            <entry key="0" type="xstring" value="Properly connect the node(s)."/>
+            <entry key="1" type="xstring" value="Delete unconnected node(s) from inner workflow."/>
+        </config>
+    </config>
     <config key="workflow_variables">
         <config key="Var_0">
             <entry key="name" type="xstring" value="DATA_DIR"/>
@@ -46,8 +55,8 @@
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="-870"/>
-                    <entry key="1" type="xint" value="39"/>
+                    <entry key="0" type="xint" value="-855"/>
+                    <entry key="1" type="xint" value="94"/>
                     <entry key="2" type="xint" value="74"/>
                     <entry key="3" type="xint" value="78"/>
                 </config>

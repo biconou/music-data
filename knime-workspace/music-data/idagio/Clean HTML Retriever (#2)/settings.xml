@@ -43,7 +43,11 @@
         <entry key="absoluteUrls" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="IDLE"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="WARNING"/>
+        <entry key="message" type="xstring" value="Node can't be executed - Node &quot;Clean HTML Retriever&quot; not available from extension &quot;MMI Data Analytics Nodes&quot; (provided by &quot;MMI Agency&quot;; plugin &quot;com.mmiagency.knime.nodes&quot; is not installed)"/>
+    </config>
     <entry key="factory" type="xstring" value="com.mmiagency.knime.nodes.html.CleanHtmlRetrieverNodeFactory"/>
     <entry key="node-name" type="xstring" value="Clean HTML Retriever"/>
     <entry key="node-bundle-name" type="xstring" value="MMI Data Analytics Node extensions for KNIME Workbench"/>
@@ -54,21 +58,19 @@
     <entry key="node-feature-symbolic-name" type="xstring" value="com.mmiagency.knime.feature.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="MMI Agency"/>
     <entry key="node-feature-version" type="xstring" value="1.0.100.v202311120437"/>
+    <entry key="factory-id-uniquifier" type="xstring" isnull="true" value=""/>
     <config key="factory_settings"/>
-    <entry key="name" type="xstring" value="Clean HTML Retriever"/>
-    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="name" type="xstring" value="MISSING Clean HTML Retriever"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 2, Cols: 4"/>
-            <entry key="port_dir_location" type="xstring" value="port_1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="b8885e2a-08cc-4ae7-9e71-1edc8eb5a60f"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>

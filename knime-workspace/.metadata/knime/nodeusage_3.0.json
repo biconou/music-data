@@ -7,8 +7,8 @@
                 "id": "org.knime.base.node.io.filehandling.linereader.LineReaderNodeFactory2",
                 "nodename": "Line Reader",
                 "nrexecs": 0,
-                "nrfails": 1,
-                "exectime": 93,
+                "nrfails": 2,
+                "exectime": 108,
                 "nrcreated": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
@@ -16,9 +16,9 @@
             {
                 "id": "org.knime.base.node.io.filehandling.csv.reader.CSVTableReaderNodeFactory",
                 "nodename": "CSV Reader",
-                "nrexecs": 41,
-                "nrfails": 1,
-                "exectime": 1987,
+                "nrexecs": 53,
+                "nrfails": 3,
+                "exectime": 2934,
                 "nrcreated": 0,
                 "successor": "org.knime.core.node.workflow.virtual.subnode.VirtualSubNodeOutputNodeFactory#Component Output",
                 "successornodename": "Component Output"
@@ -26,9 +26,9 @@
             {
                 "id": "org.knime.base.node.flowvariable.tablecoltovariable4.TableColumnToVariable4NodeFactory",
                 "nodename": "Table Column to Variable",
-                "nrexecs": 33,
+                "nrexecs": 44,
                 "nrfails": 0,
-                "exectime": 18,
+                "exectime": 23,
                 "nrcreated": 1,
                 "successor": "org.knime.core.node.workflow.virtual.subnode.VirtualSubNodeOutputNodeFactory#Component Output",
                 "successornodename": "Component Output"
@@ -36,9 +36,9 @@
             {
                 "id": "org.knime.core.node.workflow.virtual.subnode.VirtualSubNodeInputNodeFactory#Component Input",
                 "nodename": "Component Input",
-                "nrexecs": 58,
+                "nrexecs": 67,
                 "nrfails": 1,
-                "exectime": 70,
+                "exectime": 77,
                 "nrcreated": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
@@ -46,9 +46,9 @@
             {
                 "id": "org.knime.core.node.workflow.virtual.subnode.VirtualSubNodeOutputNodeFactory#Component Output",
                 "nodename": "Component Output",
-                "nrexecs": 49,
+                "nrexecs": 58,
                 "nrfails": 2,
-                "exectime": 3258,
+                "exectime": 3272,
                 "nrcreated": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
@@ -66,9 +66,9 @@
             {
                 "id": "org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory",
                 "nodename": "String Manipulation",
-                "nrexecs": 23,
+                "nrexecs": 27,
                 "nrfails": 9,
-                "exectime": 280,
+                "exectime": 386,
                 "nrcreated": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
@@ -76,9 +76,9 @@
             {
                 "id": "org.knime.rest.nodes.get.RestGetNodeFactory",
                 "nodename": "GET Request",
-                "nrexecs": 20,
+                "nrexecs": 22,
                 "nrfails": 3,
-                "exectime": 140117,
+                "exectime": 141390,
                 "nrcreated": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
@@ -86,9 +86,9 @@
             {
                 "id": "org.knime.json.node.jsonpath.multi.JSONPathNodeFactory",
                 "nodename": "JSON Path",
-                "nrexecs": 13,
+                "nrexecs": 15,
                 "nrfails": 0,
-                "exectime": 51,
+                "exectime": 56,
                 "nrcreated": 0,
                 "successor": "org.knime.base.node.io.filehandling.table.writer.TableWriterNodeFactory",
                 "successornodename": "Table Writer"
@@ -176,9 +176,9 @@
             {
                 "id": "org.knime.json.node.totable.JSONToTableNodeFactory",
                 "nodename": "JSON to Table",
-                "nrexecs": 1,
+                "nrexecs": 3,
                 "nrfails": 0,
-                "exectime": 90,
+                "exectime": 102,
                 "nrcreated": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
@@ -202,15 +202,45 @@
                 "nrcreated": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.flowvariable.tablerowtovariable3.TableToVariable3NodeFactory",
+                "nodename": "Table Row to Variable",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 3,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.flowvariable.variabletotablerow4.VariableToTable4NodeFactory",
+                "nodename": "Variable to Table Row",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 14,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.json.node.fromstring.StringToJSONNodeFactory",
+                "nodename": "String to JSON",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 9,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
             }
         ],
         "metaNodes": {
         },
         "wrappedNodes": {
             "nodename": "env",
-            "nrexecs": 33,
+            "nrexecs": 40,
             "nrfails": 16,
-            "exectime": 246097,
+            "exectime": 246479,
             "nrcreated": 0
         },
         "createdVia": {
@@ -218,8 +248,8 @@
             "WEB_UI_QUICK_INSERTION_RECOMMENDED": 1
         }
     },
-    "uptime": 5079394,
-    "workflowsOpened": 72,
+    "uptime": 4879945,
+    "workflowsOpened": 99,
     "remoteWorkflowsOpened": 0,
     "columnarStorageWorkflowsOpened": 0,
     "workflowsImported": 0,
@@ -227,9 +257,9 @@
     "webUIPerspectiveSwitches": 3,
     "javaUIPerspectiveSwitches": 3,
     "lastUsedPerspective": "none",
-    "launches": 7,
+    "launches": 9,
     "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
-    "timeSinceLastStart": 349675,
+    "timeSinceLastStart": 8140667,
     "crashes": 0,
     "properlyShutDown": true
 }
