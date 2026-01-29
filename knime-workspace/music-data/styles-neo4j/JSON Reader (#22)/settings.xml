@@ -7,14 +7,6 @@
     </config>
     <config key="model">
         <config key="settings">
-            <entry key="read_mode_Internals" type="xstring" value="LEGACY"/>
-            <entry key="column_name" type="xstring" value="neo4j-template"/>
-            <entry key="use_path" type="xboolean" value="true"/>
-            <entry key="json_path" type="xstring" value="$"/>
-            <entry key="fail_if_not_found" type="xboolean" value="false"/>
-            <entry key="allow_comments" type="xboolean" value="false"/>
-            <entry key="append_path_column_Internals" type="xboolean" value="false"/>
-            <entry key="path_column_name_Internals" type="xstring" value="Path"/>
             <config key="file_selection_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_ReaderFileChooser"/>
                 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -23,7 +15,7 @@
                 <config key="file_system_chooser__Internals">
                     <entry key="has_fs_port" type="xboolean" value="false"/>
                     <entry key="overwritten_by_variable" type="xboolean" value="false"/>
-                    <entry key="convenience_fs_category" type="xstring" value="MOUNTPOINT"/>
+                    <entry key="convenience_fs_category" type="xstring" value="RELATIVE"/>
                     <entry key="relative_to" type="xstring" value="knime.workflow.data"/>
                     <entry key="mountpoint" type="xstring" value="LOCAL"/>
                     <entry key="spaceId" type="xstring" value=""/>
@@ -33,9 +25,9 @@
                 </config>
                 <config key="path">
                     <entry key="location_present" type="xboolean" value="true"/>
-                    <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
-                    <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-                    <entry key="path" type="xstring" value="/neo4j/merge.json"/>
+                    <entry key="file_system_type" type="xstring" value="RELATIVE"/>
+                    <entry key="file_system_specifier" type="xstring" value="knime.workflow.data"/>
+                    <entry key="path" type="xstring" value="merge.json"/>
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -63,6 +55,14 @@
                     </config>
                 </config>
             </config>
+            <entry key="read_mode_Internals" type="xstring" value="LEGACY"/>
+            <entry key="column_name" type="xstring" value="neo4j-template"/>
+            <entry key="use_path" type="xboolean" value="true"/>
+            <entry key="json_path" type="xstring" value="$"/>
+            <entry key="fail_if_not_found" type="xboolean" value="false"/>
+            <entry key="allow_comments" type="xboolean" value="false"/>
+            <entry key="append_path_column_Internals" type="xboolean" value="false"/>
+            <entry key="path_column_name_Internals" type="xstring" value="Path"/>
         </config>
         <config key="limit_rows">
             <entry key="skip_data_rows" type="xboolean" value="false"/>
@@ -78,11 +78,11 @@
     <entry key="node-bundle-name" type="xstring" value="JSON related functionality for KNIME"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.json.filehandling"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.2.0.v202310301555"/>
+    <entry key="node-bundle-version" type="xstring" value="5.3.0.v202406101325"/>
     <entry key="node-feature-name" type="xstring" value="KNIME JSON-Processing"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.json.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.2.0.v202310301555"/>
+    <entry key="node-feature-version" type="xstring" value="5.3.0.v202406280759"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="File System Connection"/>
@@ -102,6 +102,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="8d11f14e-dcb9-44b1-b9e1-6b7041f257e9"/>
+        <entry key="file_store_id" type="xstring" value="4fd61eee-fd30-43f9-bb39-d3338a4388cf"/>
     </config>
 </config>

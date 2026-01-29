@@ -1,12 +1,12 @@
 {
   "version" : "5.3.3.v202411031102",
   "projects" : [ {
-    "name" : "styles-scan",
+    "name" : "styles-neo4j",
     "active" : true,
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
-      "relativePath" : "music-data\\styles-scan"
+      "relativePath" : "music-data\\styles-neo4j"
     }
   } ],
   "mostRecentlyUsedProjects" : [ {
@@ -91,24 +91,6 @@
       "relativePath" : "music-data\\components\\api artist"
     }
   }, {
-    "name" : "allmusic-list-search-artists",
-    "timeUsed" : "2026-01-27T15:25:39.0276709+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\allmusic-list-search-artists"
-    }
-  }, {
-    "name" : "jsonToMd",
-    "timeUsed" : "2026-01-27T15:43:02.4294996+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\jsonToMd"
-    }
-  }, {
     "name" : "env",
     "timeUsed" : "2026-01-27T16:32:21.0697268+01:00",
     "origin" : {
@@ -125,15 +107,6 @@
       "spaceId" : "local",
       "projectType" : "WORKFLOW",
       "relativePath" : "music-data\\discogs"
-    }
-  }, {
-    "name" : "idagio",
-    "timeUsed" : "2026-01-27T16:36:57.6530556+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\idagio"
     }
   }, {
     "name" : "airsonic-artist",
@@ -154,17 +127,26 @@
       "relativePath" : "music-data\\allmusic-artist"
     }
   }, {
-    "name" : "allmusic-search-artist",
-    "timeUsed" : "2026-01-27T17:18:38.3811496+01:00",
+    "name" : "styles-scan",
+    "timeUsed" : "2026-01-29T16:09:07.2659414+01:00",
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
       "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\allmusic-search-artist"
+      "relativePath" : "music-data\\styles-scan"
+    }
+  }, {
+    "name" : "idagio",
+    "timeUsed" : "2026-01-29T16:11:18.7655171+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\idagio"
     }
   }, {
     "name" : "styles-from-artist",
-    "timeUsed" : "2026-01-27T17:19:06.7470797+01:00",
+    "timeUsed" : "2026-01-29T16:11:31.6672923+01:00",
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
@@ -172,13 +154,22 @@
       "relativePath" : "music-data\\styles-from-artist"
     }
   }, {
-    "name" : "styles-scan",
-    "timeUsed" : "2026-01-27T17:19:20.0678867+01:00",
+    "name" : "allmusic-search-artist",
+    "timeUsed" : "2026-01-29T16:12:18.104313+01:00",
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
       "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\styles-scan"
+      "relativePath" : "music-data\\allmusic-search-artist"
+    }
+  }, {
+    "name" : "styles-neo4j",
+    "timeUsed" : "2026-01-29T16:12:42.7747121+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\styles-neo4j"
     }
   } ]
 }
