@@ -2,8 +2,6 @@ import azure.functions as func
 import logging
 import requests
 import json
-from allmusicgrabber.artist import *
-from allmusicgrabber.globals import fetch_allmusic_html_content
 
 app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
 
@@ -14,8 +12,8 @@ def json_response(payload, status_code: int = 200) -> func.HttpResponse:
         mimetype="application/json"
     )
 
-@app.route(route="search-artist")
-def search_artist(req: func.HttpRequest) -> func.HttpResponse:
+@app.route(route="find-artist")
+def find_artist(req: func.HttpRequest) -> func.HttpResponse:
     query = None
     try:
         # Check if the request has a JSON body
@@ -35,7 +33,7 @@ def search_artist(req: func.HttpRequest) -> func.HttpResponse:
         )
     try:
         # Appel de l’API externe
-        external_api_url = "https://biconou.freeboxos.fr:501/search-artist"
+        external_api_url = "https://biconou.freeboxos.fr:501/find-artist"
         params = {"query": query}
 
         logging.info(f"Calling external API: {external_api_url} with params={params}")

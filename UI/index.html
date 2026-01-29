@@ -6,29 +6,109 @@
     <title>App Vue.js avec Bootstrap</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
-    <script src="script.js" defer></script> <!-- Inclusion du fichier script.js -->
+    <script src="script.js" defer></script>
 </head>
 <body>
-    <div id="app" class="container mt-5">
-        <h1 class="text-center">Recherche d'Artiste</h1>
-        <form @submit.prevent="submitForm" class="mb-4">
-            <div class="form-group">
-                <input type="text" id="inputField" v-model="inputValue" class="form-control" placeholder="Rechercher un artiste" required>
+<div id="app" class="container mt-5">
+    <h1 class="text-center mb-4">Recherche d'Artiste</h1>
+
+    <form @submit.prevent="submitForm" class="mb-4">
+        <div class="form-row">
+            <div class="col-9 col-md-10">
+                <input
+                    type="text"
+                    v-model="inputValue"
+                    class="form-control"
+                    placeholder="Rechercher un artiste"
+                    required
+                >
             </div>
-            <button type="submit" class="btn btn-primary btn-block">Rechercher</button>
-        </form>
-        <div id="result" class="text-center">
-            <div v-if="responseData">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">Artiste ID: {{ responseData.artistId }}</h5>
-                        <p class="card-text">Nom: {{ responseData.name }}</p>
-                        <!-- Ajoutez d'autres éléments ici selon la structure de votre réponse -->
-                    </div>
+            <div class="col-3 col-md-2">
+                <button type="submit" class="btn btn-primary btn-block">
+                    Rechercher
+                </button>
+            </div>
+        </div>
+    </form>
+
+    <div id="result">
+        <div v-if="responseData">
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="card-title">{{ responseData.name }}</h3>
+                    <p class="mb-1"><strong>Période d’activité :</strong> {{ responseData.activeDates }}</p>
+                    <p class="mb-1"><strong>Origine :</strong> {{ responseData.birthPlace }}</p>
+                    <p class="mb-1"><strong>Année de formation :</strong> {{ responseData.birthDate }}</p>
                 </div>
             </div>
-            <div v-else-if="errorMessage" class="alert alert-danger mt-3">{{ errorMessage }}</div>
+
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">Styles</h5>
+                    <ul class="mb-0">
+                        <li v-for="style in responseData.styles" :key="style.name">
+                            <a :href="style.url" target="_blank">{{ style.name }}</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">Discographie</h5>
+                    <table class="table table-sm table-striped">
+                        <thead>
+                        <tr>
+                            <th>Album</th>
+                            <th>Année</th>
+                            <th>Note moyenne</th>
+                            <th>Note musique</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr v-for="album in responseData.discography" :key="album.albumTitle">
+                            <td>{{ album.albumTitle }}</td>
+                            <td>{{ album.albumYear }}</td>
+                            <td>{{ album.avgRating }}</td>
+                            <td>{{ album.musicRating || '-' }}</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">Artistes liés</h5>
+
+                    <p><strong>Associés :</strong></p>
+                    <ul>
+                        <li v-for="a in responseData.related.associatedwith" :key="a.ArtistId">
+                            {{ a.artist }}
+                        </li>
+                    </ul>
+
+                    <p><strong>Influences :</strong></p>
+                    <ul>
+                        <li v-for="a in responseData.related.influencers" :key="a.ArtistId">
+                            {{ a.artist }}
+                        </li>
+                    </ul>
+
+                    <p><strong>Similaires :</strong></p>
+                    <ul>
+                        <li v-for="a in responseData.related.similars" :key="a.ArtistId">
+                            {{ a.artist }}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div v-else-if="errorMessage" class="alert alert-danger">
+            {{ errorMessage }}
         </div>
     </div>
+</div>
 </body>
 </html>

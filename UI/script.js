@@ -7,7 +7,7 @@ new Vue({
     },
     methods: {
         async submitForm() {
-            const apiUrl = `https://allmusicgrabber.azurewebsites.net/api/search-artist?query=${encodeURIComponent(this.inputValue)}`;
+            const apiUrl = `https://allmusicgrabber.azurewebsites.net/api/find-artist?query=${encodeURIComponent(this.inputValue)}`;
             try {
                 const response = await fetch(apiUrl, {
                     method: 'GET',
