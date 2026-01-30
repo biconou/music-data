@@ -23586,3 +23586,135 @@ org.knime.core.node.InvalidSettingsException: The path must be relative.
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.base/java.lang.Thread.run(Unknown Source)
+2026-01-30 13:16:36,689 : ERROR : KNIME-Worker-11-JSON Reader 3:22 :  : Node : JSON Reader : 3:22 : Execute failed: The specified file merge.json does not exist.
+org.knime.core.node.InvalidSettingsException: The specified file merge.json does not exist.
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:273)
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:223)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getRootPath(AbstractFileChooserPathAccessor.java:318)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getFSPaths(AbstractFileChooserPathAccessor.java:225)
+	at org.knime.filehandling.core.node.table.reader.paths.PathSettings$1.getItems(PathSettings.java:105)
+	at org.knime.filehandling.core.node.table.reader.TableReaderNodeModel.getPaths(TableReaderNodeModel.java:195)
+	at org.knime.filehandling.core.node.table.reader.TableReaderNodeModel.execute(TableReaderNodeModel.java:158)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:592)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1286)
+	at org.knime.core.node.Node.execute(Node.java:1049)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:605)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:198)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2026-01-30 13:17:22,376 : ERROR : KNIME-Worker-14-CSV Reader 3:16 :  : Node : CSV Reader : 3:16 : Execute failed: The specified file styles.csv does not exist.
+org.knime.core.node.InvalidSettingsException: The specified file styles.csv does not exist.
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:273)
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:223)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getRootPath(AbstractFileChooserPathAccessor.java:318)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getFSPaths(AbstractFileChooserPathAccessor.java:225)
+	at org.knime.filehandling.core.node.table.reader.paths.PathSettings$1.getItems(PathSettings.java:105)
+	at org.knime.filehandling.core.node.table.reader.TableReaderNodeModel.getPaths(TableReaderNodeModel.java:195)
+	at org.knime.filehandling.core.node.table.reader.TableReaderNodeModel.execute(TableReaderNodeModel.java:158)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:592)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1286)
+	at org.knime.core.node.Node.execute(Node.java:1049)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:605)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:198)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2026-01-30 13:24:07,445 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: No such node ID: 3:32 valid [3:3, 3:4, 3:16, 3:17, 3:18, 3:20, 3:21, 3:22, 3:23, 3:24, 3:25, 3:26, 3:27, 3:28, 3:29, 3:31] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2026-01-30 13:24:07,445 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) Error: No such node ID: 3:32 valid [3:3, 3:4, 3:16, 3:17, 3:18, 3:20, 3:21, 3:22, 3:23, 3:24, 3:25, 3:26, 3:27, 3:28, 3:29, 3:31] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 22)
+2026-01-30 13:24:24,830 : WARN  : comm-pool-thread-6 :  : Node : String Manipulation : 3:32 : No expression has been set.
+2026-01-30 13:24:44,313 : WARN  : main :  : WrappedNodeDialog : String Manipulation : 3:32 : failed to apply settings: Empty expressions are not supported.
+org.knime.core.node.InvalidSettingsException: Empty expressions are not supported.
+	at org.knime.base.node.preproc.stringmanipulation.StringManipulationSettings.determineReturnType(StringManipulationSettings.java:347)
+	at org.knime.base.node.preproc.stringmanipulation.StringManipulationSettings.getJavaScriptingSettings(StringManipulationSettings.java:403)
+	at org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeDialog.saveSettingsTo(StringManipulationNodeDialog.java:417)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:553)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:792)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+2026-01-30 13:25:06,863 : WARN  : comm-pool-thread-7 :  : Node : String Manipulation : 3:32 : No expression has been set.
+2026-01-30 13:25:13,123 : WARN  : KNIME-Worker-17-Table Row to Variable 3:24 :  : Node : String Manipulation : 3:32 : No expression has been set.
+2026-01-30 13:25:16,908 : WARN  : KNIME-Worker-21-String Manipulation 3:27 :  : Node : String Manipulation : 3:32 : No expression has been set.
+2026-01-30 13:26:48,365 : WARN  : comm-pool-thread-7 :  : Node : POST Request : 3:21 : Input table required to execute. The node is configured to use a request body from the column 'neo4j-template' of the input table.
+2026-01-30 13:48:05,206 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 13:48:06,565 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 13:48:28,883 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 13:48:30,495 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 13:51:08,056 : ERROR : comm-pool-thread-23 :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:04:14,122 : WARN  : comm-pool-thread-26 :  : Node : POST Request : 3:21 : Errors loading flow variables into node : Errors overwriting node settings with flow variables: Unknown variable "NEO4J_USER"
+2026-01-30 14:04:16,117 : WARN  : comm-pool-thread-27 :  : Node : POST Request : 3:21 : Errors loading flow variables into node : Errors overwriting node settings with flow variables: Unknown variable "NEO4J_USER"
+2026-01-30 14:04:19,332 : WARN  : KNIME-Worker-83-CSV Reader 3:16 :  : Node : POST Request : 3:21 : Errors loading flow variables into node : Errors overwriting node settings with flow variables: Unknown variable "NEO4J_USER"
+2026-01-30 14:04:19,335 : ERROR : KNIME-Worker-85-Table Column to Variable 3:4 :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:04:19,341 : ERROR : KNIME-Worker-87-Table Row to Variable 3:24 :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:04:19,346 : ERROR : KNIME-Worker-88-Row Filter (deprecated) 3:18 :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:04:19,353 : ERROR : KNIME-Worker-84-String Manipulation 3:27 :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:04:19,357 : ERROR : KNIME-Worker-85-String Manipulation 3:32 :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:06:19,245 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:06:20,742 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:06:27,300 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:07:47,564 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:07:48,306 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:08:49,915 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:08:54,125 : ERROR : comm-pool-thread-29 :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:08:58,384 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:08:59,925 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:10:41,480 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:10:49,837 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:13:09,335 : ERROR : comm-pool-thread-32 :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:14:04,418 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:17:09,075 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:17:10,443 : ERROR : main :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.
+2026-01-30 14:27:37,765 : WARN  : comm-pool-thread-38 :  : Node : Variable to Credentials : 3:33 : Please select the username variable
+2026-01-30 14:28:19,220 : WARN  : main :  : WrappedNodeDialog : Variable to Credentials : 3:33 : failed to apply settings: Please enter a string value.
+org.knime.core.node.InvalidSettingsException: Please enter a string value.
+	at org.knime.core.node.defaultnodesettings.DialogComponentString.updateModel(DialogComponentString.java:244)
+	at org.knime.core.node.defaultnodesettings.DialogComponentString.validateSettingsBeforeSave(DialogComponentString.java:258)
+	at org.knime.core.node.defaultnodesettings.DialogComponent.saveSettingsTo(DialogComponent.java:198)
+	at org.knime.core.node.defaultnodesettings.DefaultNodeSettingsPane.saveSettingsTo(DefaultNodeSettingsPane.java:290)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:553)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:792)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+2026-01-30 14:29:14,665 : ERROR : comm-pool-thread-38 :  : VariableType : POST Request : 3:21 : Attempt to overwrite the password with config key 'password' failed. It's not possible to overwrite passwords with flow variables.

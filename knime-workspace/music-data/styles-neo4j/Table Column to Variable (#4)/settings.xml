@@ -6,25 +6,25 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="ALLMUSICGRABBER_API"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="http://localhost:5000"/>
+            <entry key="value" type="xstring" value="http://togodo:5000"/>
         </config>
         <config key="Variable_1">
             <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="discogs.key"/>
+            <entry key="name" type="xstring" value="NEO4J_URL"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="BIqHCSNxDnaIPhqCiZoc"/>
+            <entry key="value" type="xstring" value="http://togodo:7474"/>
         </config>
         <config key="Variable_2">
             <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="discogs.secret"/>
+            <entry key="name" type="xstring" value="NEO4J_USER"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="xYpdaTwFFISNXwMOlvuGVossTaRtnkHs"/>
+            <entry key="value" type="xstring" value="neo4j"/>
         </config>
         <config key="Variable_3">
             <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="DATA_DIR"/>
+            <entry key="name" type="xstring" value="NEO4J_PASSWD"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="C:\DATA\develop\music-data\data"/>
+            <entry key="value" type="xstring" value="0deConduite"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -50,10 +50,10 @@
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
     <entry key="node-bundle-version" type="xstring" value="5.3.3.v202410291553"/>
-    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
-    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
-    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.3.3.v202410301420"/>
+    <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-version" type="xstring" value="0.0.0"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Table Column to Variable"/>
     <entry key="hasContent" type="xboolean" value="true"/>
@@ -71,6 +71,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="3bd03fb3-5e6a-4e26-911b-ad25f5797bfc"/>
+        <entry key="file_store_id" type="xstring" value="9d835c7e-0578-452f-a01d-7c909ac43890"/>
     </config>
 </config>

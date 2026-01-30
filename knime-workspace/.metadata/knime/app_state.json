@@ -1,14 +1,6 @@
 {
   "version" : "5.3.3.v202411031102",
-  "projects" : [ {
-    "name" : "styles-neo4j",
-    "active" : true,
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "relativePath" : "music-data\\styles-neo4j"
-    }
-  } ],
+  "projects" : [ ],
   "mostRecentlyUsedProjects" : [ {
     "name" : "Component test - api discography",
     "timeUsed" : "2025-12-09T14:46:58.9057559+01:00",

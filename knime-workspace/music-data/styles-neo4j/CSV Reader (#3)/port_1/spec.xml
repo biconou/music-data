@@ -16,25 +16,25 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="http://localhost:5000"/>
+                        <entry key="StringCell" type="xstring" value="http://togodo:5000"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="BIqHCSNxDnaIPhqCiZoc"/>
+                        <entry key="StringCell" type="xstring" value="http://togodo:7474"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="xYpdaTwFFISNXwMOlvuGVossTaRtnkHs"/>
+                        <entry key="StringCell" type="xstring" value="neo4j"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="C:\DATA\develop\music-data\data"/>
+                        <entry key="StringCell" type="xstring" value="0deConduite"/>
                     </config>
                 </config>
             </config>
