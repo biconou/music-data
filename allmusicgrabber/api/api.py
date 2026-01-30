@@ -2,8 +2,35 @@ from flask import Flask, request, jsonify, Response
 import urllib.request
 from allmusicgrabber.artist import *
 from allmusicgrabber.globals import fetch_allmusic_html_content
+import os
+import json
+from datetime import datetime
 
 app = Flask(__name__)
+
+
+
+def save_artist_to_json(artist_id: str, artist_data: dict, base_dir: str = "/data/allmusic/artists"):
+    """
+    Save artist data to a local JSON file.
+
+    :param artist_id: AllMusic artist ID
+    :param artist_data: Final artist data to persist
+    :param base_dir: Base directory for JSON storage
+    """
+    os.makedirs(base_dir, exist_ok=True)
+
+    file_path = os.path.join(base_dir, f"{artist_id}.json")
+
+    payload = {
+        "artistId": artist_id,
+        "fetchedAt": datetime.utcnow().isoformat() + "Z",
+        "data": artist_data
+    }
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
 
 @app.route('/find-artist', methods=['GET'])
 def find_artist():
@@ -41,6 +68,8 @@ def find_artist():
     artist.update(discography)
     artist.update(related)
 
+    save_artist_to_json(artistId, artist)
+    
     return jsonify(artist)
 
 

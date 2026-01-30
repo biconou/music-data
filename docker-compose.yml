@@ -78,6 +78,8 @@ services:
       - "5000:5000"
     environment:
       - FLASK_ENV=development
+    volumes:
+      - ${DATA_DIR}:/data
     networks:
       - music-data
       - traefik_web
