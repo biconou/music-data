@@ -10,7 +10,7 @@ services:
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
       POSTGRES_DB: ${POSTGRES_DB}
     volumes:
-      - ${DATA_DIR}:/var/lib/postgresql/data
+      - ${DATA_DIR}/postgres:/var/lib/postgresql/data
     ports:
       - ${POSTGRES_PORT}:5432
     networks:
@@ -35,6 +35,20 @@ services:
       - postgres
     networks:
       - music-data
+
+  neo4j:
+    image: neo4j:latest
+    restart: unless-stopped
+    volumes:
+        - ${DATA_DIR}/neo4j/logs:/logs
+        - ${DATA_DIR}/neo4j/config:/config
+        - ${DATA_DIR}/neo4j/data:/data
+        - ${DATA_DIR}/neo4j/plugins:/plugins
+    environment:
+        - NEO4J_AUTH=neo4j/${NEO4J_PASSWD}
+    ports:
+      - "7474:7474"
+      - "7687:7687"
 
   # kong:
   #   image: kong:3.0
