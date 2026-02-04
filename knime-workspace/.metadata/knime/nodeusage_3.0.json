@@ -72,9 +72,9 @@
             {
                 "id": "org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory",
                 "nodename": "String Manipulation",
-                "nrexecs": 53,
+                "nrexecs": 54,
                 "nrfails": 9,
-                "exectime": 440,
+                "exectime": 444,
                 "nrcreated": 3,
                 "nrsettingsChanged": 2,
                 "successor": "org.knime.json.node.patch.apply.JSONPatchApplyNodeFactory",
@@ -94,13 +94,13 @@
             {
                 "id": "org.knime.json.node.jsonpath.multi.JSONPathNodeFactory",
                 "nodename": "JSON Path",
-                "nrexecs": 15,
+                "nrexecs": 16,
                 "nrfails": 0,
-                "exectime": 56,
-                "nrcreated": 0,
-                "nrsettingsChanged": 0,
-                "successor": "org.knime.base.node.io.filehandling.table.writer.TableWriterNodeFactory",
-                "successornodename": "Table Writer"
+                "exectime": 66,
+                "nrcreated": 1,
+                "nrsettingsChanged": 2,
+                "successor": "org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory",
+                "successornodename": "String Manipulation"
             },
             {
                 "id": "org.knime.base.node.io.tablecreator.TableCreator2NodeFactory",
@@ -347,11 +347,11 @@
             {
                 "id": "org.knime.rest.nodes.put.RestPutNodeFactory",
                 "nodename": "PUT Request",
-                "nrexecs": 4,
+                "nrexecs": 5,
                 "nrfails": 0,
-                "exectime": 8202,
+                "exectime": 11349,
                 "nrcreated": 1,
-                "nrsettingsChanged": 4,
+                "nrsettingsChanged": 6,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -372,7 +372,7 @@
                 "nrexecs": 0,
                 "nrfails": 0,
                 "exectime": 0,
-                "nrcreated": 2,
+                "nrcreated": 3,
                 "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
@@ -389,13 +389,13 @@
             "nrsettingsChanged": 0
         },
         "createdVia": {
-            "WEB_UI": 32,
-            "WEB_UI_QUICK_INSERTION_RECOMMENDED": 16,
+            "WEB_UI": 34,
+            "WEB_UI_QUICK_INSERTION_RECOMMENDED": 18,
             "WEB_UI_HUB": 4
         }
     },
-    "uptime": 5434372,
-    "workflowsOpened": 124,
+    "uptime": 5478924,
+    "workflowsOpened": 126,
     "remoteWorkflowsOpened": 0,
     "workflowsCreated": 0,
     "remoteWorkflowsCreated": 0,
@@ -407,7 +407,7 @@
     "lastUsedPerspective": "none",
     "launches": 18,
     "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
-    "timeSinceLastStart": 2710419,
+    "timeSinceLastStart": 3512352,
     "crashes": 0,
-    "properlyShutDown": false
+    "properlyShutDown": true
 }

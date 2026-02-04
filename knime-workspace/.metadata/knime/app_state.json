@@ -1,6 +1,14 @@
 {
   "version" : "5.9.0.v202512101359",
-  "projects" : [ ],
+  "projects" : [ {
+    "name" : "allmusic-index-artists",
+    "active" : true,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "music-data\\allmusic-index-artists"
+    }
+  } ],
   "mostRecentlyUsedProjects" : [ {
     "name" : "Component test - api discography",
     "timeUsed" : "2025-12-09T14:46:58.9057559+01:00",
@@ -92,15 +100,6 @@
       "relativePath" : "music-data\\components\\env"
     }
   }, {
-    "name" : "allmusic-search-artist",
-    "timeUsed" : "2026-01-30T18:07:36.1200303+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\allmusic-search-artist"
-    }
-  }, {
     "name" : "styles-neo4j",
     "timeUsed" : "2026-01-30T18:08:00.3691523+01:00",
     "origin" : {
@@ -128,24 +127,6 @@
       "relativePath" : "music-data\\styles-from-artist"
     }
   }, {
-    "name" : "allmusic-index-artists",
-    "timeUsed" : "2026-01-30T18:23:01.8410333+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\allmusic-index-artists"
-    }
-  }, {
-    "name" : "allmusic-artist",
-    "timeUsed" : "2026-01-30T20:27:14.3285651+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\allmusic-artist"
-    }
-  }, {
     "name" : "airsonic-artist",
     "timeUsed" : "2026-01-30T20:29:06.7058496+01:00",
     "origin" : {
@@ -171,6 +152,33 @@
       "spaceId" : "local",
       "projectType" : "WORKFLOW",
       "relativePath" : "music-data\\idagio"
+    }
+  }, {
+    "name" : "allmusic-artist",
+    "timeUsed" : "2026-02-04T20:21:02.1637201+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\allmusic-artist"
+    }
+  }, {
+    "name" : "allmusic-search-artist",
+    "timeUsed" : "2026-02-04T20:34:40.6195934+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\allmusic-search-artist"
+    }
+  }, {
+    "name" : "allmusic-index-artists",
+    "timeUsed" : "2026-02-04T20:34:50.8711486+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\allmusic-index-artists"
     }
   } ]
 }
