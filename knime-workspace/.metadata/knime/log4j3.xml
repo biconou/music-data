@@ -48,6 +48,9 @@
             -->
             <param name="ConversionPattern" value="%d{ISO8601} : %-5p : %t : %J : %c{1} : %N : %I : %m%n" />
         </layout>
+        <filter class="org.apache.log4j.varia.LevelRangeFilter">
+            <param name="levelMin" value="INFO" />
+        </filter>
     </appender>
     
     <appender name="knimeConsole" class="org.apache.log4j.varia.NullAppender">
@@ -86,6 +89,13 @@ if you want to enable debug message for a specific package or class, add somethi
     <appender-ref ref="debug"/>
 </logger>
 -->
+
+    <!-- Accepting all log messages from Eclipse packages being re-routed from the ".log" file to our "knime.log".
+    This also means that non-`org.eclipse` messages (originally to ".log") are only ERROR-logged in the KNIME log.
+    -->
+    <logger name="org.eclipse">
+        <level value="all" />
+    </logger>
 
     <logger name="org.knime">
         <level value="all" />

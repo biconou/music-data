@@ -1,5 +1,5 @@
 {
-  "version" : "5.3.3.v202411031102",
+  "version" : "5.9.0.v202512101359",
   "projects" : [ ],
   "mostRecentlyUsedProjects" : [ {
     "name" : "Component test - api discography",
@@ -92,62 +92,8 @@
       "relativePath" : "music-data\\components\\env"
     }
   }, {
-    "name" : "discogs",
-    "timeUsed" : "2026-01-27T16:33:44.732947+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\discogs"
-    }
-  }, {
-    "name" : "airsonic-artist",
-    "timeUsed" : "2026-01-27T16:45:24.5434907+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\airsonic-artist"
-    }
-  }, {
-    "name" : "allmusic-artist",
-    "timeUsed" : "2026-01-27T17:18:24.7352313+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\allmusic-artist"
-    }
-  }, {
-    "name" : "styles-scan",
-    "timeUsed" : "2026-01-29T16:09:07.2659414+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\styles-scan"
-    }
-  }, {
-    "name" : "idagio",
-    "timeUsed" : "2026-01-29T16:11:18.7655171+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\idagio"
-    }
-  }, {
-    "name" : "styles-from-artist",
-    "timeUsed" : "2026-01-29T16:11:31.6672923+01:00",
-    "origin" : {
-      "providerId" : "local",
-      "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\styles-from-artist"
-    }
-  }, {
     "name" : "allmusic-search-artist",
-    "timeUsed" : "2026-01-29T16:12:18.104313+01:00",
+    "timeUsed" : "2026-01-30T18:07:36.1200303+01:00",
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
@@ -156,12 +102,75 @@
     }
   }, {
     "name" : "styles-neo4j",
-    "timeUsed" : "2026-01-29T16:12:42.7747121+01:00",
+    "timeUsed" : "2026-01-30T18:08:00.3691523+01:00",
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
       "projectType" : "WORKFLOW",
       "relativePath" : "music-data\\styles-neo4j"
+    }
+  }, {
+    "name" : "styles-scan",
+    "timeUsed" : "2026-01-30T18:08:06.666479+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\styles-scan"
+    }
+  }, {
+    "name" : "styles-from-artist",
+    "timeUsed" : "2026-01-30T18:08:17.9213382+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\styles-from-artist"
+    }
+  }, {
+    "name" : "allmusic-index-artists",
+    "timeUsed" : "2026-01-30T18:23:01.8410333+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\allmusic-index-artists"
+    }
+  }, {
+    "name" : "allmusic-artist",
+    "timeUsed" : "2026-01-30T20:27:14.3285651+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\allmusic-artist"
+    }
+  }, {
+    "name" : "airsonic-artist",
+    "timeUsed" : "2026-01-30T20:29:06.7058496+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\airsonic-artist"
+    }
+  }, {
+    "name" : "discogs",
+    "timeUsed" : "2026-01-30T20:29:16.8382724+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\discogs"
+    }
+  }, {
+    "name" : "idagio",
+    "timeUsed" : "2026-01-30T20:29:25.3083819+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\idagio"
     }
   } ]
 }
