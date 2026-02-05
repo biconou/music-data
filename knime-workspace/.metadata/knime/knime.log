@@ -28409,3 +28409,172 @@ java.io.IOException: Can't read template directory C:\DATA\develop\music-data\kn
       padding: 2px 0.5em;
       [object Object] (source: https://org.knime.ui.java/assets/index-DGMdmAxP.js; line: 105)
 2026-02-05 11:02:16,578 : INFO  : KNIME shutdown hooks - org.knime.core.util.FileUtil$$Lambda/0x000001ec81515438 :  : FileUtil :  :  : Deleting 45 temporary files.
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : # Welcome to KNIME Analytics Platform v5.9.0.v202512101359 (Build December 10, 2025)    #
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : # Based on Eclipse, http://www.eclipse.org                                              #
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : # Copyright by KNIME AG, Zurich, Switzerland and others.                                #
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : # Website: http://www.knime.com                                                         #
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : # E-mail: contact@knime.com                                                             #
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : # For more details see the KNIME log file:                                              #
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : # C:\DATA\develop\music-data\knime-workspace\.metadata\knime\knime.log
+2026-02-05 13:31:14,705 : INFO  : main :  : NodeLogger :  :  : #---------------------------------------------------------------------------------------#
+2026-02-05 13:31:14,720 : INFO  : main :  : NodeLogger :  :  : # logging date=jeu. févr. 05 13:31:14 CET 2026
+2026-02-05 13:31:14,720 : INFO  : main :  : NodeLogger :  :  : # java.version=21.0.9
+2026-02-05 13:31:14,720 : INFO  : main :  : NodeLogger :  :  : # java.vm.version=21.0.9+10-LTS
+2026-02-05 13:31:14,720 : INFO  : main :  : NodeLogger :  :  : # java.vendor=Eclipse Adoptium
+2026-02-05 13:31:14,720 : INFO  : main :  : NodeLogger :  :  : # os.name=Windows 11
+2026-02-05 13:31:14,720 : INFO  : main :  : NodeLogger :  :  : # os.arch=amd64
+2026-02-05 13:31:14,720 : INFO  : main :  : NodeLogger :  :  : # number of CPUs=24
+2026-02-05 13:31:14,720 : INFO  : main :  : NodeLogger :  :  : # assertions=off
+2026-02-05 13:31:14,728 : INFO  : main :  : NodeLogger :  :  : # host=remi-tower
+2026-02-05 13:31:14,750 : INFO  : main :  : NodeLogger :  :  : # username=glate
+2026-02-05 13:31:14,750 : INFO  : main :  : NodeLogger :  :  : # max mem=31552MB
+2026-02-05 13:31:14,750 : INFO  : main :  : NodeLogger :  :  : # application=org.knime.product.KNIME_APPLICATION
+2026-02-05 13:31:14,770 : INFO  : main :  : NodeLogger :  :  : # KNID=11-355930d03364515a-01-4381d46577e2f39f
+2026-02-05 13:31:14,770 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-05 13:31:18,210 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_database_drivers.txt' does not exist.
+2026-02-05 13:31:18,210 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_database_urls.txt' does not exist.
+2026-02-05 13:31:18,406 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_string2date-formats.txt' does not exist.
+2026-02-05 13:31:23,493 : INFO  : main :  : ProcessWatchdog :  :  : KNIME Process Watchdog memory limit not configured
+2026-02-05 13:31:23,493 : INFO  : main :  : ProcessWatchdog :  :  : External process memory watchdog is disabled, because the memory limit is set to -1
+2026-02-05 13:31:24,639 : INFO  : Node Repository Initializer :  : GroupByNodeFactory :  :  : Modern dialog for GroupBy node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-02-05 13:31:24,733 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_createFileNameHistoryKey.txt' does not exist.
+2026-02-05 13:31:24,847 : INFO  : main :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_org.knime.kerberos.name.txt' does not exist.
+2026-02-05 13:31:24,847 : INFO  : Node Repository Initializer :  : Pivot2NodeFactory :  :  : Modern dialog for Pivot node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-02-05 13:31:25,309 : INFO  : Thread-180 :  : KnimeBrowserView :  :  : %cinfo%c Injecting global logger 
+      background: #00BCD4;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      (source: https://org.knime.ui.java/assets/index-DGMdmAxP.js; line: 105)
+2026-02-05 13:31:25,912 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-02-05 13:31:25,956 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-02-05 13:31:25,974 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-02-05 13:31:25,981 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-02-05 13:31:25,985 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-02-05 13:31:25,985 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-02-05 13:31:30,951 : WARN  : ModalContext :  : Node : DB Connector : 3:3 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2026-02-05 13:31:30,957 : WARN  : ModalContext :  : Node : SMB Connector : 3:13 : Connection no longer available. Please re-execute the node.
+2026-02-05 13:33:11,237 : INFO  : KNIME-Worker-8-Row Sampler 3:10 :  : LocalNodeExecutionJob : Row Sampler : 3:10 : Row Sampler 3:10 End execute (0 secs)
+2026-02-05 13:33:31,563 : INFO  : KNIME-Worker-9-Column Filter 3:7 :  : LocalNodeExecutionJob : Column Filter : 3:7 : Column Filter 3:7 End execute (0 secs)
+2026-02-05 13:33:31,638 : INFO  : KNIME-Worker-10-Sorter 3:4 :  : LocalNodeExecutionJob : Sorter : 3:4 : Sorter 3:4 End execute (0 secs)
+2026-02-05 13:33:31,659 : INFO  : KNIME-Worker-11-String Manipulation 3:11 :  : LocalNodeExecutionJob : String Manipulation : 3:11 : String Manipulation 3:11 End execute (0 secs)
+2026-02-05 13:33:31,660 : INFO  : KNIME-Worker-12-Column Renamer 3:17 :  : LocalNodeExecutionJob : Column Renamer : 3:17 : Column Renamer 3:17 End execute (0 secs)
+2026-02-05 13:33:31,670 : INFO  : KNIME-Worker-13-GET Request 3:12 :  : RestNodeModel : GET Request : 3:12 : The KNIME-wide proxy settings are activated but none were specified. Defaulting to using no proxy.
+2026-02-05 13:33:31,675 : INFO  : KNIME-Worker-13-GET Request 3:12 :  : AbstractRequestExecutor : GET Request : 3:12 : Limiting concurrent REST Client node requests to 30 (default value, system property "org.knime.rest.maxConcurrentRequests" not set)
+2026-02-05 13:34:56,485 : WARN  : comm-pool-thread-3 :  : Node : CSV Reader : 3:22 : Please specify a file
+2026-02-05 13:34:56,494 : WARN  : comm-pool-thread-3 :  : Node : CSV Reader : 3:22 : Please specify a file
+2026-02-05 13:35:09,373 : ERROR : SwingWorker-pool-9-thread-6 :  : StatusSwingWorker : CSV Writer : 3:21 : Error while updating status message: No file system connection available. Execute connector node.
+java.lang.IllegalStateException: No file system connection available. Execute connector node.
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.lambda$0(AbstractFileChooserPathAccessor.java:160)
+	at java.base/java.util.Optional.orElseThrow(Unknown Source)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getConnection(AbstractFileChooserPathAccessor.java:159)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.initializeFileSystem(AbstractFileChooserPathAccessor.java:166)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getOutputPath(AbstractFileChooserPathAccessor.java:183)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.writer.DefaultWriterStatusMessageReporter.report(DefaultWriterStatusMessageReporter.java:122)
+	at org.knime.filehandling.core.defaultnodesettings.status.StatusSwingWorker.doInBackgroundWithContext(StatusSwingWorker.java:107)
+	at org.knime.filehandling.core.defaultnodesettings.status.StatusSwingWorker.doInBackgroundWithContext(StatusSwingWorker.java:1)
+	at org.knime.core.util.SwingWorkerWithContext.doInBackground(SwingWorkerWithContext.java:106)
+	at java.desktop/javax.swing.SwingWorker$1.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.desktop/javax.swing.SwingWorker.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+2026-02-05 13:35:29,312 : WARN  : main :  : Node : CSV Reader : 3:22 : No connection available. Execute the connector node first.
+2026-02-05 13:57:27,790 : INFO  : KNIME-Worker-13-GET Request 3:12 :  : LocalNodeExecutionJob : GET Request : 3:12 : GET Request 3:12 End execute (23 mins, 56 secs)
+2026-02-05 13:58:00,870 : INFO  : KNIME-Worker-12-JSON to Table 3:18 :  : LocalNodeExecutionJob : JSON to Table : 3:18 : JSON to Table 3:18 End execute (33 secs)
+2026-02-05 13:58:00,879 : WARN  : KNIME-Worker-12-JSON to Table 3:18 :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-05 13:58:00,886 : INFO  : KNIME-Worker-28-Column Filter 3:19 :  : LocalNodeExecutionJob : Column Filter : 3:19 : Column Filter 3:19 End execute (0 secs)
+2026-02-05 13:58:00,888 : INFO  : KNIME-Worker-25-Column Renamer 3:20 :  : LocalNodeExecutionJob : Column Renamer : 3:20 : Column Renamer 3:20 End execute (0 secs)
+2026-02-05 13:58:00,888 : WARN  : KNIME-Worker-25-Column Renamer 3:20 :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-05 13:58:00,894 : ERROR : KNIME-Worker-10-CSV Writer 3:21 :  : Node : CSV Writer : 3:21 : Execute failed: No file system connection available. Execute connector node.
+java.lang.IllegalStateException: No file system connection available. Execute connector node.
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.lambda$0(AbstractFileChooserPathAccessor.java:160)
+	at java.base/java.util.Optional.orElseThrow(Unknown Source)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getConnection(AbstractFileChooserPathAccessor.java:159)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.initializeFileSystem(AbstractFileChooserPathAccessor.java:166)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getOutputPath(AbstractFileChooserPathAccessor.java:183)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.execute(CSVWriter2NodeModel.java:142)
+	at org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeModel.execute(CSVWriter2NodeModel.java:1)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:605)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1331)
+	at org.knime.core.node.Node.execute(Node.java:1038)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:618)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:201)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:120)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:369)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:223)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:143)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:277)
+2026-02-05 13:58:00,895 : WARN  : KNIME-Worker-10-CSV Writer 3:21 :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-05 13:58:20,652 : WARN  : comm-pool-thread-3 :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-05 13:58:20,652 : WARN  : comm-pool-thread-3 :  : Node : CSV Reader : 3:22 : No connection available. Execute the connector node first.
+2026-02-05 13:58:22,407 : INFO  : KNIME-Worker-30-SMB Connector 3:13 :  : LocalNodeExecutionJob : SMB Connector : 3:13 : SMB Connector 3:13 End execute (0 secs)
+2026-02-05 13:58:25,177 : INFO  : KNIME-Worker-34-CSV Reader 3:22 :  : LocalNodeExecutionJob : CSV Reader : 3:22 : CSV Reader 3:22 End execute (0 secs)
+2026-02-05 13:58:36,232 : INFO  : KNIME-Worker-37-CSV Writer 3:21 :  : LocalNodeExecutionJob : CSV Writer : 3:21 : CSV Writer 3:21 End execute (8 secs)
+2026-02-05 13:59:05,317 : ERROR : Thread-13310 :  : KnimeBrowserView :  :  : %cerror%c RPC Client:: Error RPC request 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Failed to deactivate port data services
+ * Project for ID "airsonic-artist_8ba620d7-1e32-4984-bb08-655235a40e36" not found. (source: https://org.knime.ui.java/assets/index-DGMdmAxP.js; line: 105)
+2026-02-05 13:59:05,317 : ERROR : Thread-13312 :  : KnimeBrowserView :  :  : %cerror%c UIExtension Lifecycle :: failed deactivating data services during unmount 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      [object Object] (source: https://org.knime.ui.java/assets/index-DGMdmAxP.js; line: 105)
+2026-02-05 13:59:10,891 : WARN  : ModalContext :  : Node : Variable to Credentials : 3:10 : Selected username variable (SMB_USER) no longer available
+2026-02-05 13:59:10,892 : WARN  : ModalContext :  : Node : Variable to Credentials : 3:10 : Selected username variable (SMB_USER) no longer available
+2026-02-05 13:59:14,413 : INFO  : KNIME-Worker-16-CSV Reader 3:6 :  : LocalNodeExecutionJob : CSV Reader : 3:6 : CSV Reader 3:6 End execute (0 secs)
+2026-02-05 13:59:19,909 : INFO  : KNIME-Worker-29-Table Column to Variable 3:7 :  : LocalNodeExecutionJob : Table Column to Variable : 3:7 : Table Column to Variable 3:7 End execute (0 secs)
+2026-02-05 13:59:19,910 : WARN  : KNIME-Worker-29-Table Column to Variable 3:7 :  : Node : JSON Reader : 3:2 : No connection available. Execute the connector node first.
+2026-02-05 13:59:19,911 : INFO  : KNIME-Worker-19-Variable to Credentials 3:10 :  : LocalNodeExecutionJob : Variable to Credentials : 3:10 : Variable to Credentials 3:10 End execute (0 secs)
+2026-02-05 13:59:19,911 : WARN  : KNIME-Worker-19-Variable to Credentials 3:10 :  : Node : JSON Reader : 3:2 : No connection available. Execute the connector node first.
+2026-02-05 13:59:20,012 : INFO  : KNIME-Worker-35-SMB Connector 3:13 :  : LocalNodeExecutionJob : SMB Connector : 3:13 : SMB Connector 3:13 End execute (0 secs)
+2026-02-05 13:59:40,813 : INFO  : KNIME-Worker-46-JSON Reader 3:2 :  : LocalNodeExecutionJob : JSON Reader : 3:2 : JSON Reader 3:2 End execute (18 secs)
+2026-02-05 14:00:21,607 : INFO  : KNIME-Worker-47-JSON to Table 3:3 :  : LocalNodeExecutionJob : JSON to Table : 3:3 : JSON to Table 3:3 End execute (28 secs)
+2026-02-05 14:00:21,755 : INFO  : KNIME-Worker-26-Column Filter 3:4 :  : LocalNodeExecutionJob : Column Filter : 3:4 : Column Filter 3:4 End execute (0 secs)
+2026-02-05 14:00:29,619 : INFO  : KNIME-Worker-67-JSON Path 3:11 :  : LocalNodeExecutionJob : JSON Path : 3:11 : JSON Path 3:11 End execute (7 secs)
+2026-02-05 14:00:37,289 : INFO  : KNIME-Worker-46-String Manipulation 3:8 :  : LocalNodeExecutionJob : String Manipulation : 3:8 : String Manipulation 3:8 End execute (7 secs)
+2026-02-05 14:00:37,293 : INFO  : KNIME-Worker-58-PUT Request 3:9 :  : RestNodeModel : PUT Request : 3:9 : The KNIME-wide proxy settings are activated but none were specified. Defaulting to using no proxy.
+2026-02-05 14:01:02,125 : INFO  : KNIME-Worker-58-PUT Request 3:9 :  : LocalNodeExecutionJob : PUT Request : 3:9 : PUT Request 3:9 End execute (24 secs)
+2026-02-05 14:03:32,985 : ERROR : Thread-15093 :  : KnimeBrowserView :  :  : %cerror%c RPC Client:: Error RPC request 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Failed to deactivate port data services
+ * Project for ID "allmusic-index-artists_3f27886a-e05b-40e1-bcdc-2bbef83575ac" not found. (source: https://org.knime.ui.java/assets/index-DGMdmAxP.js; line: 105)
+2026-02-05 14:03:32,987 : ERROR : Thread-15095 :  : KnimeBrowserView :  :  : %cerror%c UIExtension Lifecycle :: failed deactivating data services during unmount 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      [object Object] (source: https://org.knime.ui.java/assets/index-DGMdmAxP.js; line: 105)
+2026-02-05 18:57:55,889 : WARN  : ModalContext :  : Node : DB Connector : 3:3 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2026-02-05 18:57:55,893 : WARN  : ModalContext :  : Node : SMB Connector : 3:13 : Connection no longer available. Please re-execute the node.
+2026-02-05 18:57:55,936 : WARN  : ModalContext :  : BufferedDataTable : JSON to Table : 3:18 : Table spec file is 13 MB large - this may result in increased memory consumption (path 'C:\DATA\develop\music-data\knime-workspace\music-data\airsonic-artist\JSON to Table (#18)\port_1\spec.xml')
+2026-02-05 18:58:02,320 : WARN  : comm-pool-thread-3 :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-05 18:58:02,321 : WARN  : comm-pool-thread-3 :  : Node : CSV Reader : 3:22 : No connection available. Execute the connector node first.
+2026-02-05 18:58:03,896 : INFO  : KNIME-Worker-82-SMB Connector 3:13 :  : LocalNodeExecutionJob : SMB Connector : 3:13 : SMB Connector 3:13 End execute (0 secs)
+2026-02-05 18:58:07,214 : INFO  : KNIME-Worker-83-CSV Reader 3:22 :  : LocalNodeExecutionJob : CSV Reader : 3:22 : CSV Reader 3:22 End execute (0 secs)
+2026-02-05 23:36:13,255 : INFO  : KNIME shutdown hooks - org.knime.core.util.FileUtil$$Lambda/0x00000238814ddad8 :  : FileUtil :  :  : Deleting 17 temporary files.

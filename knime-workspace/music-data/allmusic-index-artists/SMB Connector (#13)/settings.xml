@@ -82,7 +82,7 @@
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.ext.smb.filehandling.node.SmbConnectorNodeFactory"/>
     <entry key="node-name" type="xstring" value="SMB Connector"/>
     <entry key="node-bundle-name" type="xstring" value="SMB Connector extension"/>
@@ -95,16 +95,21 @@
     <entry key="node-feature-version" type="xstring" value="5.9.0.v202511141300"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="SMB Connector"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.filehandling.core.port.FileSystemPortObjectSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.filehandling.core.port.FileSystemPortObject"/>
+            <entry key="port_object_summary" type="xstring" value="SMB: 8fe751e9-761b-420f-9749-c1e966a0de37"/>
+            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="5a794b1f-e2c0-451c-8419-6242f8389118"/>
     </config>
 </config>

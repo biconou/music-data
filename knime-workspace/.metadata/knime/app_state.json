@@ -1,6 +1,14 @@
 {
   "version" : "5.9.0.v202512101359",
-  "projects" : [ ],
+  "projects" : [ {
+    "name" : "airsonic-artist",
+    "active" : true,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "music-data\\airsonic-artist"
+    }
+  } ],
   "mostRecentlyUsedProjects" : [ {
     "name" : "Component test - api discography",
     "timeUsed" : "2025-12-09T14:46:58.9057559+01:00",
@@ -156,7 +164,7 @@
     }
   }, {
     "name" : "allmusic-index-artists",
-    "timeUsed" : "2026-02-05T10:46:30.8499217+01:00",
+    "timeUsed" : "2026-02-05T13:59:10.9094856+01:00",
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
@@ -165,7 +173,7 @@
     }
   }, {
     "name" : "airsonic-artist",
-    "timeUsed" : "2026-02-05T10:50:21.8277024+01:00",
+    "timeUsed" : "2026-02-05T18:57:56.1289359+01:00",
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
