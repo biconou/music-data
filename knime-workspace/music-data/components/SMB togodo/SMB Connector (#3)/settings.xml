@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <entry key="connectionMode" type="xstring" value="fileserver"/>
+        <config key="fileserver.host_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="fileserver.host" type="xstring" value="192.168.0.29"/>
+        <config key="fileserver.port_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="fileserver.port" type="xint" value="445"/>
+        <config key="fileserver.share_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="fileserver.share" type="xstring" value="data"/>
+        <config key="domain.name_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="domain.name" type="xstring" value=""/>
+        <config key="domain.namespace_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="domain.namespace" type="xstring" value=""/>
+        <config key="workingDirectory_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="workingDirectory" type="xstring" value="\music-data-data\allmusic\artists"/>
+        <config key="timeout_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="timeout" type="xint" value="30"/>
+        <entry key="smbVersion" type="xstring" value="2.x"/>
+        <config key="useEncryption_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="useEncryption" type="xboolean" value="false"/>
+        <config key="auth">
+            <config key="type_Internals">
+                <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+                <entry key="EnabledStatus" type="xboolean" value="true"/>
+            </config>
+            <entry key="type" type="xstring" value="user_pwd"/>
+            <config key="guest"/>
+            <config key="anonymous"/>
+            <config key="user_pwd">
+                <config key="use_credentials_Internals">
+                    <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+                    <entry key="EnabledStatus" type="xboolean" value="true"/>
+                </config>
+                <entry key="use_credentials" type="xboolean" value="true"/>
+                <config key="credentials_Internals">
+                    <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+                    <entry key="EnabledStatus" type="xboolean" value="true"/>
+                </config>
+                <entry key="credentials" type="xstring" value="smbcred"/>
+                <config key="user_Internals">
+                    <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+                    <entry key="EnabledStatus" type="xboolean" value="false"/>
+                </config>
+                <entry key="user" type="xstring" value=""/>
+                <config key="password_Internals">
+                    <entry key="SettingsModelID" type="xstring" value="SMID_password"/>
+                    <entry key="EnabledStatus" type="xboolean" value="false"/>
+                </config>
+                <entry key="password" type="xpassword" value=""/>
+            </config>
+            <config key="kerberos"/>
+        </config>
+    </config>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="factory" type="xstring" value="org.knime.ext.smb.filehandling.node.SmbConnectorNodeFactory"/>
+    <entry key="node-name" type="xstring" value="SMB Connector"/>
+    <entry key="node-bundle-name" type="xstring" value="SMB Connector extension"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.smb.filehandling"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.9.0.v202511130854"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Basic File System Connectors"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.filehandling.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.9.0.v202511141300"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="SMB Connector"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+    </config>
+</config>

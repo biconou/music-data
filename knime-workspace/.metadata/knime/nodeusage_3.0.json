@@ -17,9 +17,9 @@
             {
                 "id": "org.knime.base.node.io.filehandling.csv.reader.CSVTableReaderNodeFactory",
                 "nodename": "CSV Reader",
-                "nrexecs": 66,
+                "nrexecs": 68,
                 "nrfails": 7,
-                "exectime": 3283,
+                "exectime": 3351,
                 "nrcreated": 0,
                 "nrsettingsChanged": 0,
                 "successor": "org.knime.core.node.workflow.virtual.subnode.VirtualSubNodeOutputNodeFactory#Component Output",
@@ -28,9 +28,9 @@
             {
                 "id": "org.knime.base.node.flowvariable.tablecoltovariable4.TableColumnToVariable4NodeFactory",
                 "nodename": "Table Column to Variable",
-                "nrexecs": 55,
+                "nrexecs": 57,
                 "nrfails": 0,
-                "exectime": 31,
+                "exectime": 32,
                 "nrcreated": 1,
                 "nrsettingsChanged": 0,
                 "successor": "org.knime.base.node.flowvariable.tablerowtovariable3.TableToVariable3NodeFactory",
@@ -72,31 +72,31 @@
             {
                 "id": "org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory",
                 "nodename": "String Manipulation",
-                "nrexecs": 54,
+                "nrexecs": 58,
                 "nrfails": 9,
-                "exectime": 444,
-                "nrcreated": 3,
-                "nrsettingsChanged": 2,
+                "exectime": 462,
+                "nrcreated": 4,
+                "nrsettingsChanged": 6,
                 "successor": "org.knime.json.node.patch.apply.JSONPatchApplyNodeFactory",
                 "successornodename": "JSON Transformer"
             },
             {
                 "id": "org.knime.rest.nodes.get.RestGetNodeFactory",
                 "nodename": "GET Request",
-                "nrexecs": 22,
+                "nrexecs": 26,
                 "nrfails": 3,
-                "exectime": 141390,
-                "nrcreated": 0,
-                "nrsettingsChanged": 0,
-                "successor": "n/a",
-                "successornodename": "n/a"
+                "exectime": 168658,
+                "nrcreated": 1,
+                "nrsettingsChanged": 1,
+                "successor": "org.knime.json.node.totable.JSONToTableNodeFactory",
+                "successornodename": "JSON to Table"
             },
             {
                 "id": "org.knime.json.node.jsonpath.multi.JSONPathNodeFactory",
                 "nodename": "JSON Path",
-                "nrexecs": 16,
+                "nrexecs": 18,
                 "nrfails": 0,
-                "exectime": 66,
+                "exectime": 93,
                 "nrcreated": 1,
                 "nrsettingsChanged": 2,
                 "successor": "org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory",
@@ -138,7 +138,7 @@
             {
                 "id": "org.knime.base.node.flowvariable.variabletocredentials.VariableToCredentialsNodeFactory",
                 "nodename": "Variable to Credentials",
-                "nrexecs": 3,
+                "nrexecs": 5,
                 "nrfails": 0,
                 "exectime": 1,
                 "nrcreated": 3,
@@ -182,9 +182,9 @@
             {
                 "id": "org.knime.json.node.filehandling.reader.JSONReaderNodeFactory",
                 "nodename": "JSON Reader",
-                "nrexecs": 8,
+                "nrexecs": 9,
                 "nrfails": 3,
-                "exectime": 780,
+                "exectime": 1033,
                 "nrcreated": 1,
                 "nrsettingsChanged": 2,
                 "successor": "org.knime.json.node.totable.JSONToTableNodeFactory",
@@ -193,11 +193,11 @@
             {
                 "id": "org.knime.json.node.totable.JSONToTableNodeFactory",
                 "nodename": "JSON to Table",
-                "nrexecs": 7,
+                "nrexecs": 10,
                 "nrfails": 0,
-                "exectime": 408,
-                "nrcreated": 1,
-                "nrsettingsChanged": 1,
+                "exectime": 1076,
+                "nrcreated": 2,
+                "nrsettingsChanged": 2,
                 "successor": "org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory",
                 "successornodename": "Column Filter"
             },
@@ -215,11 +215,11 @@
             {
                 "id": "org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory",
                 "nodename": "Column Filter",
-                "nrexecs": 10,
+                "nrexecs": 15,
                 "nrfails": 0,
-                "exectime": 14,
-                "nrcreated": 1,
-                "nrsettingsChanged": 1,
+                "exectime": 17,
+                "nrcreated": 2,
+                "nrsettingsChanged": 2,
                 "successor": "org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory",
                 "successornodename": "String Manipulation"
             },
@@ -248,9 +248,9 @@
             {
                 "id": "org.knime.json.node.fromstring.StringToJSONNodeFactory",
                 "nodename": "String to JSON",
-                "nrexecs": 2,
+                "nrexecs": 4,
                 "nrfails": 0,
-                "exectime": 9,
+                "exectime": 15,
                 "nrcreated": 0,
                 "nrsettingsChanged": 0,
                 "successor": "n/a",
@@ -281,13 +281,13 @@
             {
                 "id": "org.knime.base.node.preproc.column.renamer.ColumnRenamerNodeFactory",
                 "nodename": "Column Renamer",
-                "nrexecs": 3,
+                "nrexecs": 6,
                 "nrfails": 0,
-                "exectime": 1,
-                "nrcreated": 0,
-                "nrsettingsChanged": 0,
-                "successor": "n/a",
-                "successornodename": "n/a"
+                "exectime": 3,
+                "nrcreated": 2,
+                "nrsettingsChanged": 2,
+                "successor": "org.knime.rest.nodes.get.RestGetNodeFactory",
+                "successornodename": "GET Request"
             },
             {
                 "id": "org.knime.base.node.flowvariable.appendvariabletotable4.AppendVariableToTable4NodeFactory",
@@ -303,11 +303,11 @@
             {
                 "id": "org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeFactory",
                 "nodename": "CSV Writer",
-                "nrexecs": 3,
+                "nrexecs": 4,
                 "nrfails": 0,
-                "exectime": 19,
-                "nrcreated": 0,
-                "nrsettingsChanged": 0,
+                "exectime": 72,
+                "nrcreated": 1,
+                "nrsettingsChanged": 2,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -325,11 +325,11 @@
             {
                 "id": "org.knime.ext.smb.filehandling.node.SmbConnectorNodeFactory",
                 "nodename": "SMB Connector",
-                "nrexecs": 4,
+                "nrexecs": 7,
                 "nrfails": 10,
-                "exectime": 91215,
+                "exectime": 91596,
                 "nrcreated": 1,
-                "nrsettingsChanged": 23,
+                "nrsettingsChanged": 24,
                 "successor": "org.knime.filehandling.utility.nodes.listpaths.ListFilesAndFoldersNodeFactory",
                 "successornodename": "List Files/Folders"
             },
@@ -347,9 +347,9 @@
             {
                 "id": "org.knime.rest.nodes.put.RestPutNodeFactory",
                 "nodename": "PUT Request",
-                "nrexecs": 5,
+                "nrexecs": 6,
                 "nrfails": 0,
-                "exectime": 11349,
+                "exectime": 12992,
                 "nrcreated": 1,
                 "nrsettingsChanged": 6,
                 "successor": "n/a",
@@ -376,6 +376,72 @@
                 "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.database.node.connector.generic.DBConnectorNodeFactory",
+                "nodename": "DB Connector",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 4240,
+                "nrcreated": 0,
+                "nrsettingsChanged": 1,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.database.node.utility.tableselector.DBTableSelectNodeFactory",
+                "nodename": "DB Table Selector (deprecated)",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 13,
+                "nrcreated": 0,
+                "nrsettingsChanged": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.database.node.io.reader.DBReadNodeFactory",
+                "nodename": "DB Reader",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 115,
+                "nrcreated": 0,
+                "nrsettingsChanged": 0,
+                "successor": "org.knime.base.node.preproc.sample.SamplingNodeFactory",
+                "successornodename": "Row Sampler"
+            },
+            {
+                "id": "org.knime.base.node.preproc.sorter.SorterNodeFactory",
+                "nodename": "Sorter",
+                "nrexecs": 4,
+                "nrfails": 0,
+                "exectime": 153,
+                "nrcreated": 0,
+                "nrsettingsChanged": 0,
+                "successor": "org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory",
+                "successornodename": "String Manipulation"
+            },
+            {
+                "id": "org.knime.base.node.preproc.topk.TopKSelectorNodeFactory",
+                "nodename": "Top k Row Filter",
+                "nrexecs": 0,
+                "nrfails": 0,
+                "exectime": 0,
+                "nrcreated": 1,
+                "nrsettingsChanged": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.sample.SamplingNodeFactory",
+                "nodename": "Row Sampler",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 4,
+                "nrcreated": 1,
+                "nrsettingsChanged": 1,
+                "successor": "org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory",
+                "successornodename": "Column Filter"
             }
         ],
         "metaNodes": {
@@ -389,13 +455,13 @@
             "nrsettingsChanged": 0
         },
         "createdVia": {
-            "WEB_UI": 34,
-            "WEB_UI_QUICK_INSERTION_RECOMMENDED": 18,
+            "WEB_UI": 43,
+            "WEB_UI_QUICK_INSERTION_RECOMMENDED": 27,
             "WEB_UI_HUB": 4
         }
     },
-    "uptime": 5478924,
-    "workflowsOpened": 126,
+    "uptime": 6176670,
+    "workflowsOpened": 141,
     "remoteWorkflowsOpened": 0,
     "workflowsCreated": 0,
     "remoteWorkflowsCreated": 0,
@@ -405,9 +471,9 @@
     "webUIPerspectiveSwitches": 3,
     "javaUIPerspectiveSwitches": 3,
     "lastUsedPerspective": "none",
-    "launches": 18,
+    "launches": 19,
     "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
-    "timeSinceLastStart": 3512352,
+    "timeSinceLastStart": 18736116,
     "crashes": 0,
     "properlyShutDown": true
 }

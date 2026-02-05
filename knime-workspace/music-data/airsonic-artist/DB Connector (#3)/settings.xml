@@ -6,14 +6,6 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <config key="session_info">
-            <entry key="version" type="xint" value="4"/>
-            <entry key="db_type" type="xstring" value="postgres"/>
-            <entry key="db_dialect" type="xstring" value="postgres"/>
-            <entry key="db_driver" type="xstring" value="built-in-postgres-42.3.5"/>
-            <config key="attributes"/>
-            <entry key="db_url" type="xstring" value="jdbc:postgresql://togodo:5433/airsonic"/>
-        </config>
         <config key="authentication_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_authentication"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -23,6 +15,19 @@
             <entry key="username" type="xstring" value="airsonic"/>
             <entry key="password" type="xpassword" value="02CAAAAGMq_QxveL1vZ0EBj2lFe5j0VfZceU6Qew=="/>
             <entry key="selectedType" type="xstring" value="USER_PWD"/>
+        </config>
+        <config key="session_info">
+            <entry key="version" type="xint" value="7"/>
+            <entry key="db_type" type="xstring" value="postgres"/>
+            <entry key="db_dialect" type="xstring" value="postgres"/>
+            <entry key="db_driver" type="xstring" value="built-in-postgres-42.3.5"/>
+            <entry key="db_driver_latest" type="xboolean" value="false"/>
+            <config key="attributes">
+                <config key="java.lang.Boolean">
+                    <entry key="knime.db.connection.metadata.configure.enabled" type="xboolean" value="true"/>
+                </config>
+            </config>
+            <entry key="db_url" type="xstring" value="jdbc:postgresql://togodo:5433/airsonic"/>
         </config>
         <config key="external_to_knime_mapping_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_dataTypeMapping"/>
@@ -38,7 +43,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.def.BooleanCell$BooleanCellFactory.create(class java.lang.Boolean)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.lang.Boolean"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Boolean value"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Boolean"/>
                     <entry key="production_path_converter_name" type="xstring" value="Boolean"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="BOOLEAN-&gt;java.lang.Boolean"/>
@@ -55,7 +60,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.def.BooleanCell$BooleanCellFactory.create(class java.lang.Boolean)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.lang.Boolean"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Boolean value"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Boolean"/>
                     <entry key="production_path_converter_name" type="xstring" value="Boolean"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="BIT-&gt;java.lang.Boolean"/>
@@ -72,7 +77,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.def.IntCell$IntCellFactory.create(class java.lang.Integer)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.lang.Integer"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Number (integer)"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Number (Integer)"/>
                     <entry key="production_path_converter_name" type="xstring" value="Integer"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="TINYINT-&gt;java.lang.Integer"/>
@@ -89,7 +94,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.def.IntCell$IntCellFactory.create(class java.lang.Integer)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.lang.Integer"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Number (integer)"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Number (Integer)"/>
                     <entry key="production_path_converter_name" type="xstring" value="Integer"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="SMALLINT-&gt;java.lang.Integer"/>
@@ -106,7 +111,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.def.IntCell$IntCellFactory.create(class java.lang.Integer)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.lang.Integer"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Number (integer)"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Number (Integer)"/>
                     <entry key="production_path_converter_name" type="xstring" value="Integer"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="INTEGER-&gt;java.lang.Integer"/>
@@ -123,7 +128,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.def.LongCell$LongCellFactory.create(class java.lang.Long)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.lang.Long"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Number (long)"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Number (Long Integer)"/>
                     <entry key="production_path_converter_name" type="xstring" value="Long"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="BIGINT-&gt;java.lang.Long"/>
@@ -140,7 +145,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.def.DoubleCell$DoubleCellFactory.create(class java.lang.Float)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.lang.Float"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Number (double)"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Number (Float)"/>
                     <entry key="production_path_converter_name" type="xstring" value="Float"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="REAL-&gt;java.lang.Float"/>
@@ -157,7 +162,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.def.DoubleCell$DoubleCellFactory.create(class java.lang.Double)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.lang.Double"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Number (double)"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Number (Float)"/>
                     <entry key="production_path_converter_name" type="xstring" value="Double"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="FLOAT-&gt;java.lang.Double"/>
@@ -174,7 +179,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.def.DoubleCell$DoubleCellFactory.create(class java.lang.Double)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.lang.Double"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Number (double)"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Number (Float)"/>
                     <entry key="production_path_converter_name" type="xstring" value="Double"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="DOUBLE-&gt;java.lang.Double"/>
@@ -191,7 +196,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.def.DoubleCell$DoubleCellFactory.create(class java.lang.Double)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.lang.Double"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Number (double)"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Number (Float)"/>
                     <entry key="production_path_converter_name" type="xstring" value="Double"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="NUMERIC-&gt;java.lang.Double"/>
@@ -208,7 +213,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.def.DoubleCell$DoubleCellFactory.create(class java.lang.Double)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.lang.Double"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Number (double)"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Number (Float)"/>
                     <entry key="production_path_converter_name" type="xstring" value="Double"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="DECIMAL-&gt;java.lang.Double"/>
@@ -225,7 +230,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.time.localdate.LocalDateCellFactory.create(class java.time.LocalDate)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.time.LocalDate"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Local Date"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Date"/>
                     <entry key="production_path_converter_name" type="xstring" value="LocalDate"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="DATE-&gt;java.time.LocalDate"/>
@@ -242,7 +247,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.time.localtime.LocalTimeCellFactory.create(class java.time.LocalTime)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.time.LocalTime"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Local Time"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Time"/>
                     <entry key="production_path_converter_name" type="xstring" value="LocalTime"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="TIME-&gt;java.time.LocalTime"/>
@@ -259,7 +264,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.time.localdatetime.LocalDateTimeCellFactory.create(class java.time.LocalDateTime)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.time.LocalDateTime"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Local Date Time"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Date&amp;time (Local)"/>
                     <entry key="production_path_converter_name" type="xstring" value="LocalDateTime"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="TIMESTAMP-&gt;java.time.LocalDateTime"/>
@@ -293,7 +298,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.time.zoneddatetime.ZonedDateTimeCellFactory.create(class java.time.ZonedDateTime)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.time.ZonedDateTime"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Zoned Date Time"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Date&amp;time (Zoned)"/>
                     <entry key="production_path_converter_name" type="xstring" value="ZonedDateTime"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="TIMESTAMP_WITH_TIMEZONE-&gt;java.time.ZonedDateTime"/>
@@ -446,7 +451,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.blob.BinaryObjectCellFactory.create(class java.io.InputStream)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.io.InputStream"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Binary object"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Binary Object"/>
                     <entry key="production_path_converter_name" type="xstring" value="InputStream"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="BLOB-&gt;java.io.InputStream"/>
@@ -463,7 +468,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.blob.BinaryObjectCellFactory.create(class java.io.InputStream)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.io.InputStream"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Binary object"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Binary Object"/>
                     <entry key="production_path_converter_name" type="xstring" value="InputStream"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="BINARY-&gt;java.io.InputStream"/>
@@ -480,7 +485,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.blob.BinaryObjectCellFactory.create(class java.io.InputStream)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.io.InputStream"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Binary object"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Binary Object"/>
                     <entry key="production_path_converter_name" type="xstring" value="InputStream"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="VARBINARY-&gt;java.io.InputStream"/>
@@ -497,7 +502,7 @@
                     </config>
                     <entry key="production_path_converter" type="xstring" value="org.knime.core.data.blob.BinaryObjectCellFactory.create(class java.io.InputStream)"/>
                     <entry key="production_path_converter_src" type="xstring" value="java.io.InputStream"/>
-                    <entry key="production_path_converter_dst" type="xstring" value="Binary object"/>
+                    <entry key="production_path_converter_dst" type="xstring" value="Binary Object"/>
                     <entry key="production_path_converter_name" type="xstring" value="InputStream"/>
                     <config key="production_path_converter_config"/>
                     <entry key="production_path_producer" type="xstring" value="LONGVARBINARY-&gt;java.io.InputStream"/>
@@ -909,38 +914,34 @@
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="CONFIGURED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Selected database driver is deprecated."/>
-        <entry key="issue" type="xstring" value="The selected database driver is outdated and might contain security vulnerabilities. It will be moved to a separate extension that requires manual installation with one of the next releases."/>
-        <config key="resolutions">
-            <entry key="array-size" type="xint" value="1"/>
-            <entry key="0" type="xstring" value="Select a new version of the driver in the node dialog."/>
-        </config>
-    </config>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.database.node.connector.generic.DBConnectorNodeFactory"/>
     <entry key="node-name" type="xstring" value="DB Connector"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME database nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.database.nodes"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.3.2.v202409010954"/>
+    <entry key="node-bundle-version" type="xstring" value="5.9.0.v202511130854"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Database"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.database.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.3.2.v202409010954"/>
+    <entry key="node-feature-version" type="xstring" value="5.9.0.v202511130854"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="DB Connector"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBSessionPortObjectSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBSessionPortObject"/>
+            <entry key="port_object_summary" type="xstring" value="PostgreSQL 940a5fab-fcdf-4f85-9c55-029472691530"/>
+            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="e1faa19b-af7a-43f2-a1c4-c82b7c57d2c7"/>
     </config>
 </config>
