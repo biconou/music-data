@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <config key="column-filter">
+            <entry key="filter-type" type="xstring" value="STANDARD"/>
+            <config key="included_names">
+                <entry key="array-size" type="xint" value="4"/>
+                <entry key="0" type="xstring" value="airsonic-id"/>
+                <entry key="1" type="xstring" value="airsonic-name"/>
+                <entry key="2" type="xstring" value="allmusic_id"/>
+                <entry key="3" type="xstring" value="name"/>
+            </config>
+            <config key="excluded_names">
+                <entry key="array-size" type="xint" value="635"/>
+                <entry key="0" type="xstring" value="find-artist-url"/>
+                <entry key="1" type="xstring" value="Status"/>
+                <entry key="2" type="xstring" value="Content type"/>
+                <entry key="3" type="xstring" value="activeDates"/>
+                <entry key="4" type="xstring" value="birthDate"/>
+                <entry key="5" type="xstring" value="birthPlace"/>
+                <entry key="6" type="xstring" value="id"/>
+                <entry key="7" type="xstring" value="albumTitle"/>
+                <entry key="8" type="xstring" value="albumYear"/>
+                <entry key="9" type="xstring" value="avgRating"/>
+                <entry key="10" type="xstring" value="musicRating"/>
+                <entry key="11" type="xstring" value="albumTitle (#1)"/>
+                <entry key="12" type="xstring" value="albumYear (#1)"/>
+                <entry key="13" type="xstring" value="avgRating (#1)"/>
+                <entry key="14" type="xstring" value="musicRating (#1)"/>
+                <entry key="15" type="xstring" value="albumTitle (#2)"/>
+                <entry key="16" type="xstring" value="albumYear (#2)"/>
+                <entry key="17" type="xstring" value="avgRating (#2)"/>
+                <entry key="18" type="xstring" value="musicRating (#2)"/>
+                <entry key="19" type="xstring" value="albumTitle (#3)"/>
+                <entry key="20" type="xstring" value="albumYear (#3)"/>
+                <entry key="21" type="xstring" value="avgRating (#3)"/>
+                <entry key="22" type="xstring" value="musicRating (#3)"/>
+                <entry key="23" type="xstring" value="albumTitle (#4)"/>
+                <entry key="24" type="xstring" value="albumYear (#4)"/>
+                <entry key="25" type="xstring" value="avgRating (#4)"/>
+                <entry key="26" type="xstring" value="musicRating (#4)"/>
+                <entry key="27" type="xstring" value="albumTitle (#5)"/>
+                <entry key="28" type="xstring" value="albumYear (#5)"/>
+                <entry key="29" type="xstring" value="avgRating (#5)"/>
+                <entry key="30" type="xstring" value="musicRating (#5)"/>
+                <entry key="31" type="xstring" value="albumTitle (#6)"/>
+                <entry key="32" type="xstring" value="albumYear (#6)"/>
+                <entry key="33" type="xstring" value="avgRating (#6)"/>
+                <entry key="34" type="xstring" value="musicRating (#6)"/>
+                <entry key="35" type="xstring" value="albumTitle (#7)"/>
+                <entry key="36" type="xstring" value="albumYear (#7)"/>
+                <entry key="37" type="xstring" value="avgRating (#7)"/>
+                <entry key="38" type="xstring" value="musicRating (#7)"/>
+                <entry key="39" type="xstring" value="albumTitle (#8)"/>
+                <entry key="40" type="xstring" value="albumYear (#8)"/>
+                <entry key="41" type="xstring" value="avgRating (#8)"/>
+                <entry key="42" type="xstring" value="musicRating (#8)"/>
+                <entry key="43" type="xstring" value="albumTitle (#9)"/>
+                <entry key="44" type="xstring" value="albumYear (#9)"/>
+                <entry key="45" type="xstring" value="avgRating (#9)"/>
+                <entry key="46" type="xstring" value="musicRating (#9)"/>
+                <entry key="47" type="xstring" value="albumTitle (#10)"/>
+                <entry key="48" type="xstring" value="albumYear (#10)"/>
+                <entry key="49" type="xstring" value="avgRating (#10)"/>
+                <entry key="50" type="xstring" value="musicRating (#10)"/>
+                <entry key="51" type="xstring" value="associatedwith"/>
+                <entry key="52" type="xstring" value="followers"/>
+                <entry key="53" type="xstring" value="ArtistId"/>
+                <entry key="54" type="xstring" value="artist"/>
+                <entry key="55" type="xstring" value="ArtistId (#1)"/>
+                <entry key="56" type="xstring" value="artist (#1)"/>
+                <entry key="57" type="xstring" value="ArtistId (#2)"/>
+                <entry key="58" type="xstring" value="artist (#2)"/>
+                <entry key="59" type="xstring" value="ArtistId (#3)"/>
+                <entry key="60" type="xstring" value="artist (#3)"/>
+                <entry key="61" type="xstring" value="ArtistId (#4)"/>
+                <entry key="62" type="xstring" value="artist (#4)"/>
+                <entry key="63" type="xstring" value="ArtistId (#5)"/>
+                <entry key="64" type="xstring" value="artist (#5)"/>
+                <entry key="65" type="xstring" value="ArtistId (#6)"/>
+                <entry key="66" type="xstring" value="artist (#6)"/>
+                <entry key="67" type="xstring" value="ArtistId (#7)"/>
+                <entry key="68" type="xstring" value="artist (#7)"/>
+                <entry key="69" type="xstring" value="ArtistId (#8)"/>
+                <entry key="70" type="xstring" value="artist (#8)"/>
+                <entry key="71" type="xstring" value="ArtistId (#9)"/>
+                <entry key="72" type="xstring" value="artist (#9)"/>
+                <entry key="73" type="xstring" value="ArtistId (#10)"/>
+                <entry key="74" type="xstring" value="artist (#10)"/>
+                <entry key="75" type="xstring" value="ArtistId (#11)"/>
+                <entry key="76" type="xstring" value="artist (#11)"/>
+                <entry key="77" type="xstring" value="ArtistId (#12)"/>
+                <entry key="78" type="xstring" value="artist (#12)"/>
+                <entry key="79" type="xstring" value="ArtistId (#13)"/>
+                <entry key="80" type="xstring" value="artist (#13)"/>
+                <entry key="81" type="xstring" value="ArtistId (#14)"/>
+                <entry key="82" type="xstring" value="artist (#14)"/>
+                <entry key="83" type="xstring" value="ArtistId (#15)"/>
+                <entry key="84" type="xstring" value="artist (#15)"/>
+                <entry key="85" type="xstring" value="ArtistId (#16)"/>
+                <entry key="86" type="xstring" value="artist (#16)"/>
+                <entry key="87" type="xstring" value="ArtistId (#17)"/>
+                <entry key="88" type="xstring" value="artist (#17)"/>
+                <entry key="89" type="xstring" value="ArtistId (#18)"/>
+                <entry key="90" type="xstring" value="artist (#18)"/>
+                <entry key="91" type="xstring" value="ArtistId (#19)"/>
+                <entry key="92" type="xstring" value="artist (#19)"/>
+                <entry key="93" type="xstring" value="ArtistId (#20)"/>
+                <entry key="94" type="xstring" value="artist (#20)"/>
+                <entry key="95" type="xstring" value="ArtistId (#21)"/>
+                <entry key="96" type="xstring" value="artist (#21)"/>
+                <entry key="97" type="xstring" value="ArtistId (#22)"/>
+                <entry key="98" type="xstring" value="artist (#22)"/>
+                <entry key="99" type="xstring" value="ArtistId (#23)"/>
+                <entry key="100" type="xstring" value="artist (#23)"/>
+                <entry key="101" type="xstring" value="ArtistId (#24)"/>
+                <entry key="102" type="xstring" value="artist (#24)"/>
+                <entry key="103" type="xstring" value="ArtistId (#25)"/>
+                <entry key="104" type="xstring" value="artist (#25)"/>
+                <entry key="105" type="xstring" value="ArtistId (#26)"/>
+                <entry key="106" type="xstring" value="artist (#26)"/>
+                <entry key="107" type="xstring" value="ArtistId (#27)"/>
+                <entry key="108" type="xstring" value="artist (#27)"/>
+                <entry key="109" type="xstring" value="ArtistId (#28)"/>
+                <entry key="110" type="xstring" value="artist (#28)"/>
+                <entry key="111" type="xstring" value="ArtistId (#29)"/>
+                <entry key="112" type="xstring" value="artist (#29)"/>
+                <entry key="113" type="xstring" value="ArtistId (#30)"/>
+                <entry key="114" type="xstring" value="artist (#30)"/>
+                <entry key="115" type="xstring" value="ArtistId (#31)"/>
+                <entry key="116" type="xstring" value="artist (#31)"/>
+                <entry key="117" type="xstring" value="ArtistId (#32)"/>
+                <entry key="118" type="xstring" value="artist (#32)"/>
+                <entry key="119" type="xstring" value="ArtistId (#33)"/>
+                <entry key="120" type="xstring" value="artist (#33)"/>
+                <entry key="121" type="xstring" value="ArtistId (#34)"/>
+                <entry key="122" type="xstring" value="artist (#34)"/>
+                <entry key="123" type="xstring" value="ArtistId (#35)"/>
+                <entry key="124" type="xstring" value="artist (#35)"/>
+                <entry key="125" type="xstring" value="ArtistId (#36)"/>
+                <entry key="126" type="xstring" value="artist (#36)"/>
+                <entry key="127" type="xstring" value="ArtistId (#37)"/>
+                <entry key="128" type="xstring" value="artist (#37)"/>
+                <entry key="129" type="xstring" value="ArtistId (#38)"/>
+                <entry key="130" type="xstring" value="artist (#38)"/>
+                <entry key="131" type="xstring" value="ArtistId (#39)"/>
+                <entry key="132" type="xstring" value="artist (#39)"/>
+                <entry key="133" type="xstring" value="ArtistId (#40)"/>
+                <entry key="134" type="xstring" value="artist (#40)"/>
+                <entry key="135" type="xstring" value="ArtistId (#41)"/>
+                <entry key="136" type="xstring" value="artist (#41)"/>
+                <entry key="137" type="xstring" value="ArtistId (#42)"/>
+                <entry key="138" type="xstring" value="artist (#42)"/>
+                <entry key="139" type="xstring" value="ArtistId (#43)"/>
+                <entry key="140" type="xstring" value="artist (#43)"/>
+                <entry key="141" type="xstring" value="ArtistId (#44)"/>
+                <entry key="142" type="xstring" value="artist (#44)"/>
+                <entry key="143" type="xstring" value="ArtistId (#45)"/>
+                <entry key="144" type="xstring" value="artist (#45)"/>
+                <entry key="145" type="xstring" value="ArtistId (#46)"/>
+                <entry key="146" type="xstring" value="artist (#46)"/>
+                <entry key="147" type="xstring" value="ArtistId (#47)"/>
+                <entry key="148" type="xstring" value="artist (#47)"/>
+                <entry key="149" type="xstring" value="ArtistId (#48)"/>
+                <entry key="150" type="xstring" value="artist (#48)"/>
+                <entry key="151" type="xstring" value="ArtistId (#49)"/>
+                <entry key="152" type="xstring" value="artist (#49)"/>
+                <entry key="153" type="xstring" value="ArtistId (#50)"/>
+                <entry key="154" type="xstring" value="artist (#50)"/>
+                <entry key="155" type="xstring" value="ArtistId (#51)"/>
+                <entry key="156" type="xstring" value="artist (#51)"/>
+                <entry key="157" type="xstring" value="ArtistId (#52)"/>
+                <entry key="158" type="xstring" value="artist (#52)"/>
+                <entry key="159" type="xstring" value="ArtistId (#53)"/>
+                <entry key="160" type="xstring" value="artist (#53)"/>
+                <entry key="161" type="xstring" value="ArtistId (#54)"/>
+                <entry key="162" type="xstring" value="artist (#54)"/>
+                <entry key="163" type="xstring" value="ArtistId (#55)"/>
+                <entry key="164" type="xstring" value="artist (#55)"/>
+                <entry key="165" type="xstring" value="ArtistId (#56)"/>
+                <entry key="166" type="xstring" value="artist (#56)"/>
+                <entry key="167" type="xstring" value="ArtistId (#57)"/>
+                <entry key="168" type="xstring" value="artist (#57)"/>
+                <entry key="169" type="xstring" value="ArtistId (#58)"/>
+                <entry key="170" type="xstring" value="artist (#58)"/>
+                <entry key="171" type="xstring" value="ArtistId (#59)"/>
+                <entry key="172" type="xstring" value="artist (#59)"/>
+                <entry key="173" type="xstring" value="ArtistId (#60)"/>
+                <entry key="174" type="xstring" value="artist (#60)"/>
+                <entry key="175" type="xstring" value="ArtistId (#61)"/>
+                <entry key="176" type="xstring" value="artist (#61)"/>
+                <entry key="177" type="xstring" value="ArtistId (#62)"/>
+                <entry key="178" type="xstring" value="artist (#62)"/>
+                <entry key="179" type="xstring" value="ArtistId (#63)"/>
+                <entry key="180" type="xstring" value="artist (#63)"/>
+                <entry key="181" type="xstring" value="ArtistId (#64)"/>
+                <entry key="182" type="xstring" value="artist (#64)"/>
+                <entry key="183" type="xstring" value="ArtistId (#65)"/>
+                <entry key="184" type="xstring" value="artist (#65)"/>
+                <entry key="185" type="xstring" value="ArtistId (#66)"/>
+                <entry key="186" type="xstring" value="artist (#66)"/>
+                <entry key="187" type="xstring" value="ArtistId (#67)"/>
+                <entry key="188" type="xstring" value="artist (#67)"/>
+                <entry key="189" type="xstring" value="ArtistId (#68)"/>
+                <entry key="190" type="xstring" value="artist (#68)"/>
+                <entry key="191" type="xstring" value="ArtistId (#69)"/>
+                <entry key="192" type="xstring" value="artist (#69)"/>
+                <entry key="193" type="xstring" value="ArtistId (#70)"/>
+                <entry key="194" type="xstring" value="artist (#70)"/>
+                <entry key="195" type="xstring" value="ArtistId (#71)"/>
+                <entry key="196" type="xstring" value="artist (#71)"/>
+                <entry key="197" type="xstring" value="ArtistId (#72)"/>
+                <entry key="198" type="xstring" value="artist (#72)"/>
+                <entry key="199" type="xstring" value="ArtistId (#73)"/>
+                <entry key="200" type="xstring" value="artist (#73)"/>
+                <entry key="201" type="xstring" value="ArtistId (#74)"/>
+                <entry key="202" type="xstring" value="artist (#74)"/>
+                <entry key="203" type="xstring" value="name (#1)"/>
+                <entry key="204" type="xstring" value="url"/>
+                <entry key="205" type="xstring" value="name (#2)"/>
+                <entry key="206" type="xstring" value="url (#1)"/>
+                <entry key="207" type="xstring" value="name (#3)"/>
+                <entry key="208" type="xstring" value="url (#2)"/>
+                <entry key="209" type="xstring" value="name (#4)"/>
+                <entry key="210" type="xstring" value="url (#3)"/>
+                <entry key="211" type="xstring" value="name (#5)"/>
+                <entry key="212" type="xstring" value="url (#4)"/>
+                <entry key="213" type="xstring" value="albumTitle (#11)"/>
+                <entry key="214" type="xstring" value="albumYear (#11)"/>
+                <entry key="215" type="xstring" value="avgRating (#11)"/>
+                <entry key="216" type="xstring" value="musicRating (#11)"/>
+                <entry key="217" type="xstring" value="albumTitle (#12)"/>
+                <entry key="218" type="xstring" value="albumYear (#12)"/>
+                <entry key="219" type="xstring" value="avgRating (#12)"/>
+                <entry key="220" type="xstring" value="musicRating (#12)"/>
+                <entry key="221" type="xstring" value="albumTitle (#13)"/>
+                <entry key="222" type="xstring" value="albumYear (#13)"/>
+                <entry key="223" type="xstring" value="avgRating (#13)"/>
+                <entry key="224" type="xstring" value="musicRating (#13)"/>
+                <entry key="225" type="xstring" value="albumTitle (#14)"/>
+                <entry key="226" type="xstring" value="albumYear (#14)"/>
+                <entry key="227" type="xstring" value="avgRating (#14)"/>
+                <entry key="228" type="xstring" value="musicRating (#14)"/>
+                <entry key="229" type="xstring" value="albumTitle (#15)"/>
+                <entry key="230" type="xstring" value="albumYear (#15)"/>
+                <entry key="231" type="xstring" value="avgRating (#15)"/>
+                <entry key="232" type="xstring" value="musicRating (#15)"/>
+                <entry key="233" type="xstring" value="albumTitle (#16)"/>
+                <entry key="234" type="xstring" value="albumYear (#16)"/>
+                <entry key="235" type="xstring" value="avgRating (#16)"/>
+                <entry key="236" type="xstring" value="musicRating (#16)"/>
+                <entry key="237" type="xstring" value="albumTitle (#17)"/>
+                <entry key="238" type="xstring" value="albumYear (#17)"/>
+                <entry key="239" type="xstring" value="avgRating (#17)"/>
+                <entry key="240" type="xstring" value="musicRating (#17)"/>
+                <entry key="241" type="xstring" value="albumTitle (#18)"/>
+                <entry key="242" type="xstring" value="albumYear (#18)"/>
+                <entry key="243" type="xstring" value="avgRating (#18)"/>
+                <entry key="244" type="xstring" value="musicRating (#18)"/>
+                <entry key="245" type="xstring" value="albumTitle (#19)"/>
+                <entry key="246" type="xstring" value="albumYear (#19)"/>
+                <entry key="247" type="xstring" value="avgRating (#19)"/>
+                <entry key="248" type="xstring" value="musicRating (#19)"/>
+                <entry key="249" type="xstring" value="albumTitle (#20)"/>
+                <entry key="250" type="xstring" value="albumYear (#20)"/>
+                <entry key="251" type="xstring" value="avgRating (#20)"/>
+                <entry key="252" type="xstring" value="musicRating (#20)"/>
+                <entry key="253" type="xstring" value="albumTitle (#21)"/>
+                <entry key="254" type="xstring" value="albumYear (#21)"/>
+                <entry key="255" type="xstring" value="avgRating (#21)"/>
+                <entry key="256" type="xstring" value="musicRating (#21)"/>
+                <entry key="257" type="xstring" value="albumTitle (#22)"/>
+                <entry key="258" type="xstring" value="albumYear (#22)"/>
+                <entry key="259" type="xstring" value="avgRating (#22)"/>
+                <entry key="260" type="xstring" value="musicRating (#22)"/>
+                <entry key="261" type="xstring" value="albumTitle (#23)"/>
+                <entry key="262" type="xstring" value="albumYear (#23)"/>
+                <entry key="263" type="xstring" value="avgRating (#23)"/>
+                <entry key="264" type="xstring" value="musicRating (#23)"/>
+                <entry key="265" type="xstring" value="albumTitle (#24)"/>
+                <entry key="266" type="xstring" value="albumYear (#24)"/>
+                <entry key="267" type="xstring" value="avgRating (#24)"/>
+                <entry key="268" type="xstring" value="musicRating (#24)"/>
+                <entry key="269" type="xstring" value="albumTitle (#25)"/>
+                <entry key="270" type="xstring" value="albumYear (#25)"/>
+                <entry key="271" type="xstring" value="avgRating (#25)"/>
+                <entry key="272" type="xstring" value="musicRating (#25)"/>
+                <entry key="273" type="xstring" value="albumTitle (#26)"/>
+                <entry key="274" type="xstring" value="albumYear (#26)"/>
+                <entry key="275" type="xstring" value="avgRating (#26)"/>
+                <entry key="276" type="xstring" value="musicRating (#26)"/>
+                <entry key="277" type="xstring" value="albumTitle (#27)"/>
+                <entry key="278" type="xstring" value="albumYear (#27)"/>
+                <entry key="279" type="xstring" value="avgRating (#27)"/>
+                <entry key="280" type="xstring" value="musicRating (#27)"/>
+                <entry key="281" type="xstring" value="albumTitle (#28)"/>
+                <entry key="282" type="xstring" value="albumYear (#28)"/>
+                <entry key="283" type="xstring" value="avgRating (#28)"/>
+                <entry key="284" type="xstring" value="musicRating (#28)"/>
+                <entry key="285" type="xstring" value="albumTitle (#29)"/>
+                <entry key="286" type="xstring" value="albumYear (#29)"/>
+                <entry key="287" type="xstring" value="avgRating (#29)"/>
+                <entry key="288" type="xstring" value="musicRating (#29)"/>
+                <entry key="289" type="xstring" value="albumTitle (#30)"/>
+                <entry key="290" type="xstring" value="albumYear (#30)"/>
+                <entry key="291" type="xstring" value="avgRating (#30)"/>
+                <entry key="292" type="xstring" value="musicRating (#30)"/>
+                <entry key="293" type="xstring" value="albumTitle (#31)"/>
+                <entry key="294" type="xstring" value="albumYear (#31)"/>
+                <entry key="295" type="xstring" value="avgRating (#31)"/>
+                <entry key="296" type="xstring" value="musicRating (#31)"/>
+                <entry key="297" type="xstring" value="albumTitle (#32)"/>
+                <entry key="298" type="xstring" value="albumYear (#32)"/>
+                <entry key="299" type="xstring" value="avgRating (#32)"/>
+                <entry key="300" type="xstring" value="musicRating (#32)"/>
+                <entry key="301" type="xstring" value="albumTitle (#33)"/>
+                <entry key="302" type="xstring" value="albumYear (#33)"/>
+                <entry key="303" type="xstring" value="avgRating (#33)"/>
+                <entry key="304" type="xstring" value="musicRating (#33)"/>
+                <entry key="305" type="xstring" value="albumTitle (#34)"/>
+                <entry key="306" type="xstring" value="albumYear (#34)"/>
+                <entry key="307" type="xstring" value="avgRating (#34)"/>
+                <entry key="308" type="xstring" value="musicRating (#34)"/>
+                <entry key="309" type="xstring" value="albumTitle (#35)"/>
+                <entry key="310" type="xstring" value="albumYear (#35)"/>
+                <entry key="311" type="xstring" value="avgRating (#35)"/>
+                <entry key="312" type="xstring" value="musicRating (#35)"/>
+                <entry key="313" type="xstring" value="albumTitle (#36)"/>
+                <entry key="314" type="xstring" value="albumYear (#36)"/>
+                <entry key="315" type="xstring" value="avgRating (#36)"/>
+                <entry key="316" type="xstring" value="musicRating (#36)"/>
+                <entry key="317" type="xstring" value="albumTitle (#37)"/>
+                <entry key="318" type="xstring" value="albumYear (#37)"/>
+                <entry key="319" type="xstring" value="avgRating (#37)"/>
+                <entry key="320" type="xstring" value="musicRating (#37)"/>
+                <entry key="321" type="xstring" value="albumTitle (#38)"/>
+                <entry key="322" type="xstring" value="albumYear (#38)"/>
+                <entry key="323" type="xstring" value="avgRating (#38)"/>
+                <entry key="324" type="xstring" value="musicRating (#38)"/>
+                <entry key="325" type="xstring" value="albumTitle (#39)"/>
+                <entry key="326" type="xstring" value="albumYear (#39)"/>
+                <entry key="327" type="xstring" value="avgRating (#39)"/>
+                <entry key="328" type="xstring" value="musicRating (#39)"/>
+                <entry key="329" type="xstring" value="albumTitle (#40)"/>
+                <entry key="330" type="xstring" value="albumYear (#40)"/>
+                <entry key="331" type="xstring" value="avgRating (#40)"/>
+                <entry key="332" type="xstring" value="musicRating (#40)"/>
+                <entry key="333" type="xstring" value="albumTitle (#41)"/>
+                <entry key="334" type="xstring" value="albumYear (#41)"/>
+                <entry key="335" type="xstring" value="avgRating (#41)"/>
+                <entry key="336" type="xstring" value="musicRating (#41)"/>
+                <entry key="337" type="xstring" value="albumTitle (#42)"/>
+                <entry key="338" type="xstring" value="albumYear (#42)"/>
+                <entry key="339" type="xstring" value="avgRating (#42)"/>
+                <entry key="340" type="xstring" value="musicRating (#42)"/>
+                <entry key="341" type="xstring" value="albumTitle (#43)"/>
+                <entry key="342" type="xstring" value="albumYear (#43)"/>
+                <entry key="343" type="xstring" value="avgRating (#43)"/>
+                <entry key="344" type="xstring" value="musicRating (#43)"/>
+                <entry key="345" type="xstring" value="albumTitle (#44)"/>
+                <entry key="346" type="xstring" value="albumYear (#44)"/>
+                <entry key="347" type="xstring" value="avgRating (#44)"/>
+                <entry key="348" type="xstring" value="musicRating (#44)"/>
+                <entry key="349" type="xstring" value="albumTitle (#45)"/>
+                <entry key="350" type="xstring" value="albumYear (#45)"/>
+                <entry key="351" type="xstring" value="avgRating (#45)"/>
+                <entry key="352" type="xstring" value="musicRating (#45)"/>
+                <entry key="353" type="xstring" value="albumTitle (#46)"/>
+                <entry key="354" type="xstring" value="albumYear (#46)"/>
+                <entry key="355" type="xstring" value="avgRating (#46)"/>
+                <entry key="356" type="xstring" value="musicRating (#46)"/>
+                <entry key="357" type="xstring" value="albumTitle (#47)"/>
+                <entry key="358" type="xstring" value="albumYear (#47)"/>
+                <entry key="359" type="xstring" value="avgRating (#47)"/>
+                <entry key="360" type="xstring" value="musicRating (#47)"/>
+                <entry key="361" type="xstring" value="albumTitle (#48)"/>
+                <entry key="362" type="xstring" value="albumYear (#48)"/>
+                <entry key="363" type="xstring" value="avgRating (#48)"/>
+                <entry key="364" type="xstring" value="musicRating (#48)"/>
+                <entry key="365" type="xstring" value="albumTitle (#49)"/>
+                <entry key="366" type="xstring" value="albumYear (#49)"/>
+                <entry key="367" type="xstring" value="avgRating (#49)"/>
+                <entry key="368" type="xstring" value="musicRating (#49)"/>
+                <entry key="369" type="xstring" value="albumTitle (#50)"/>
+                <entry key="370" type="xstring" value="albumYear (#50)"/>
+                <entry key="371" type="xstring" value="avgRating (#50)"/>
+                <entry key="372" type="xstring" value="musicRating (#50)"/>
+                <entry key="373" type="xstring" value="albumTitle (#51)"/>
+                <entry key="374" type="xstring" value="albumYear (#51)"/>
+                <entry key="375" type="xstring" value="avgRating (#51)"/>
+                <entry key="376" type="xstring" value="musicRating (#51)"/>
+                <entry key="377" type="xstring" value="albumTitle (#52)"/>
+                <entry key="378" type="xstring" value="albumYear (#52)"/>
+                <entry key="379" type="xstring" value="avgRating (#52)"/>
+                <entry key="380" type="xstring" value="musicRating (#52)"/>
+                <entry key="381" type="xstring" value="albumTitle (#53)"/>
+                <entry key="382" type="xstring" value="albumYear (#53)"/>
+                <entry key="383" type="xstring" value="avgRating (#53)"/>
+                <entry key="384" type="xstring" value="musicRating (#53)"/>
+                <entry key="385" type="xstring" value="albumTitle (#54)"/>
+                <entry key="386" type="xstring" value="albumYear (#54)"/>
+                <entry key="387" type="xstring" value="avgRating (#54)"/>
+                <entry key="388" type="xstring" value="musicRating (#54)"/>
+                <entry key="389" type="xstring" value="albumTitle (#55)"/>
+                <entry key="390" type="xstring" value="albumYear (#55)"/>
+                <entry key="391" type="xstring" value="avgRating (#55)"/>
+                <entry key="392" type="xstring" value="musicRating (#55)"/>
+                <entry key="393" type="xstring" value="albumTitle (#56)"/>
+                <entry key="394" type="xstring" value="albumYear (#56)"/>
+                <entry key="395" type="xstring" value="avgRating (#56)"/>
+                <entry key="396" type="xstring" value="musicRating (#56)"/>
+                <entry key="397" type="xstring" value="albumTitle (#57)"/>
+                <entry key="398" type="xstring" value="albumYear (#57)"/>
+                <entry key="399" type="xstring" value="avgRating (#57)"/>
+                <entry key="400" type="xstring" value="musicRating (#57)"/>
+                <entry key="401" type="xstring" value="albumTitle (#58)"/>
+                <entry key="402" type="xstring" value="albumYear (#58)"/>
+                <entry key="403" type="xstring" value="avgRating (#58)"/>
+                <entry key="404" type="xstring" value="musicRating (#58)"/>
+                <entry key="405" type="xstring" value="albumTitle (#59)"/>
+                <entry key="406" type="xstring" value="albumYear (#59)"/>
+                <entry key="407" type="xstring" value="avgRating (#59)"/>
+                <entry key="408" type="xstring" value="musicRating (#59)"/>
+                <entry key="409" type="xstring" value="albumTitle (#60)"/>
+                <entry key="410" type="xstring" value="albumYear (#60)"/>
+                <entry key="411" type="xstring" value="avgRating (#60)"/>
+                <entry key="412" type="xstring" value="musicRating (#60)"/>
+                <entry key="413" type="xstring" value="albumTitle (#61)"/>
+                <entry key="414" type="xstring" value="albumYear (#61)"/>
+                <entry key="415" type="xstring" value="avgRating (#61)"/>
+                <entry key="416" type="xstring" value="musicRating (#61)"/>
+                <entry key="417" type="xstring" value="albumTitle (#62)"/>
+                <entry key="418" type="xstring" value="albumYear (#62)"/>
+                <entry key="419" type="xstring" value="avgRating (#62)"/>
+                <entry key="420" type="xstring" value="musicRating (#62)"/>
+                <entry key="421" type="xstring" value="albumTitle (#63)"/>
+                <entry key="422" type="xstring" value="albumYear (#63)"/>
+                <entry key="423" type="xstring" value="avgRating (#63)"/>
+                <entry key="424" type="xstring" value="musicRating (#63)"/>
+                <entry key="425" type="xstring" value="albumTitle (#64)"/>
+                <entry key="426" type="xstring" value="albumYear (#64)"/>
+                <entry key="427" type="xstring" value="avgRating (#64)"/>
+                <entry key="428" type="xstring" value="musicRating (#64)"/>
+                <entry key="429" type="xstring" value="albumTitle (#65)"/>
+                <entry key="430" type="xstring" value="albumYear (#65)"/>
+                <entry key="431" type="xstring" value="avgRating (#65)"/>
+                <entry key="432" type="xstring" value="musicRating (#65)"/>
+                <entry key="433" type="xstring" value="albumTitle (#66)"/>
+                <entry key="434" type="xstring" value="albumYear (#66)"/>
+                <entry key="435" type="xstring" value="avgRating (#66)"/>
+                <entry key="436" type="xstring" value="musicRating (#66)"/>
+                <entry key="437" type="xstring" value="albumTitle (#67)"/>
+                <entry key="438" type="xstring" value="albumYear (#67)"/>
+                <entry key="439" type="xstring" value="avgRating (#67)"/>
+                <entry key="440" type="xstring" value="musicRating (#67)"/>
+                <entry key="441" type="xstring" value="albumTitle (#68)"/>
+                <entry key="442" type="xstring" value="albumYear (#68)"/>
+                <entry key="443" type="xstring" value="avgRating (#68)"/>
+                <entry key="444" type="xstring" value="musicRating (#68)"/>
+                <entry key="445" type="xstring" value="albumTitle (#69)"/>
+                <entry key="446" type="xstring" value="albumYear (#69)"/>
+                <entry key="447" type="xstring" value="avgRating (#69)"/>
+                <entry key="448" type="xstring" value="musicRating (#69)"/>
+                <entry key="449" type="xstring" value="albumTitle (#70)"/>
+                <entry key="450" type="xstring" value="albumYear (#70)"/>
+                <entry key="451" type="xstring" value="avgRating (#70)"/>
+                <entry key="452" type="xstring" value="musicRating (#70)"/>
+                <entry key="453" type="xstring" value="albumTitle (#71)"/>
+                <entry key="454" type="xstring" value="albumYear (#71)"/>
+                <entry key="455" type="xstring" value="avgRating (#71)"/>
+                <entry key="456" type="xstring" value="musicRating (#71)"/>
+                <entry key="457" type="xstring" value="albumTitle (#72)"/>
+                <entry key="458" type="xstring" value="albumYear (#72)"/>
+                <entry key="459" type="xstring" value="avgRating (#72)"/>
+                <entry key="460" type="xstring" value="musicRating (#72)"/>
+                <entry key="461" type="xstring" value="albumTitle (#73)"/>
+                <entry key="462" type="xstring" value="albumYear (#73)"/>
+                <entry key="463" type="xstring" value="avgRating (#73)"/>
+                <entry key="464" type="xstring" value="musicRating (#73)"/>
+                <entry key="465" type="xstring" value="albumTitle (#74)"/>
+                <entry key="466" type="xstring" value="albumYear (#74)"/>
+                <entry key="467" type="xstring" value="avgRating (#74)"/>
+                <entry key="468" type="xstring" value="musicRating (#74)"/>
+                <entry key="469" type="xstring" value="albumTitle (#75)"/>
+                <entry key="470" type="xstring" value="albumYear (#75)"/>
+                <entry key="471" type="xstring" value="avgRating (#75)"/>
+                <entry key="472" type="xstring" value="musicRating (#75)"/>
+                <entry key="473" type="xstring" value="albumTitle (#76)"/>
+                <entry key="474" type="xstring" value="albumYear (#76)"/>
+                <entry key="475" type="xstring" value="avgRating (#76)"/>
+                <entry key="476" type="xstring" value="musicRating (#76)"/>
+                <entry key="477" type="xstring" value="albumTitle (#77)"/>
+                <entry key="478" type="xstring" value="albumYear (#77)"/>
+                <entry key="479" type="xstring" value="avgRating (#77)"/>
+                <entry key="480" type="xstring" value="musicRating (#77)"/>
+                <entry key="481" type="xstring" value="albumTitle (#78)"/>
+                <entry key="482" type="xstring" value="albumYear (#78)"/>
+                <entry key="483" type="xstring" value="avgRating (#78)"/>
+                <entry key="484" type="xstring" value="musicRating (#78)"/>
+                <entry key="485" type="xstring" value="albumTitle (#79)"/>
+                <entry key="486" type="xstring" value="albumYear (#79)"/>
+                <entry key="487" type="xstring" value="avgRating (#79)"/>
+                <entry key="488" type="xstring" value="musicRating (#79)"/>
+                <entry key="489" type="xstring" value="ArtistId (#75)"/>
+                <entry key="490" type="xstring" value="artist (#75)"/>
+                <entry key="491" type="xstring" value="ArtistId (#76)"/>
+                <entry key="492" type="xstring" value="artist (#76)"/>
+                <entry key="493" type="xstring" value="ArtistId (#77)"/>
+                <entry key="494" type="xstring" value="artist (#77)"/>
+                <entry key="495" type="xstring" value="ArtistId (#78)"/>
+                <entry key="496" type="xstring" value="artist (#78)"/>
+                <entry key="497" type="xstring" value="ArtistId (#79)"/>
+                <entry key="498" type="xstring" value="artist (#79)"/>
+                <entry key="499" type="xstring" value="ArtistId (#80)"/>
+                <entry key="500" type="xstring" value="artist (#80)"/>
+                <entry key="501" type="xstring" value="ArtistId (#81)"/>
+                <entry key="502" type="xstring" value="artist (#81)"/>
+                <entry key="503" type="xstring" value="ArtistId (#82)"/>
+                <entry key="504" type="xstring" value="artist (#82)"/>
+                <entry key="505" type="xstring" value="ArtistId (#83)"/>
+                <entry key="506" type="xstring" value="artist (#83)"/>
+                <entry key="507" type="xstring" value="ArtistId (#84)"/>
+                <entry key="508" type="xstring" value="artist (#84)"/>
+                <entry key="509" type="xstring" value="ArtistId (#85)"/>
+                <entry key="510" type="xstring" value="artist (#85)"/>
+                <entry key="511" type="xstring" value="ArtistId (#86)"/>
+                <entry key="512" type="xstring" value="artist (#86)"/>
+                <entry key="513" type="xstring" value="ArtistId (#87)"/>
+                <entry key="514" type="xstring" value="artist (#87)"/>
+                <entry key="515" type="xstring" value="ArtistId (#88)"/>
+                <entry key="516" type="xstring" value="artist (#88)"/>
+                <entry key="517" type="xstring" value="ArtistId (#89)"/>
+                <entry key="518" type="xstring" value="artist (#89)"/>
+                <entry key="519" type="xstring" value="ArtistId (#90)"/>
+                <entry key="520" type="xstring" value="artist (#90)"/>
+                <entry key="521" type="xstring" value="ArtistId (#91)"/>
+                <entry key="522" type="xstring" value="artist (#91)"/>
+                <entry key="523" type="xstring" value="ArtistId (#92)"/>
+                <entry key="524" type="xstring" value="artist (#92)"/>
+                <entry key="525" type="xstring" value="ArtistId (#93)"/>
+                <entry key="526" type="xstring" value="artist (#93)"/>
+                <entry key="527" type="xstring" value="ArtistId (#94)"/>
+                <entry key="528" type="xstring" value="artist (#94)"/>
+                <entry key="529" type="xstring" value="ArtistId (#95)"/>
+                <entry key="530" type="xstring" value="artist (#95)"/>
+                <entry key="531" type="xstring" value="ArtistId (#96)"/>
+                <entry key="532" type="xstring" value="artist (#96)"/>
+                <entry key="533" type="xstring" value="ArtistId (#97)"/>
+                <entry key="534" type="xstring" value="artist (#97)"/>
+                <entry key="535" type="xstring" value="ArtistId (#98)"/>
+                <entry key="536" type="xstring" value="artist (#98)"/>
+                <entry key="537" type="xstring" value="ArtistId (#99)"/>
+                <entry key="538" type="xstring" value="artist (#99)"/>
+                <entry key="539" type="xstring" value="ArtistId (#100)"/>
+                <entry key="540" type="xstring" value="artist (#100)"/>
+                <entry key="541" type="xstring" value="ArtistId (#101)"/>
+                <entry key="542" type="xstring" value="artist (#101)"/>
+                <entry key="543" type="xstring" value="ArtistId (#102)"/>
+                <entry key="544" type="xstring" value="artist (#102)"/>
+                <entry key="545" type="xstring" value="ArtistId (#103)"/>
+                <entry key="546" type="xstring" value="artist (#103)"/>
+                <entry key="547" type="xstring" value="ArtistId (#104)"/>
+                <entry key="548" type="xstring" value="artist (#104)"/>
+                <entry key="549" type="xstring" value="ArtistId (#105)"/>
+                <entry key="550" type="xstring" value="artist (#105)"/>
+                <entry key="551" type="xstring" value="ArtistId (#106)"/>
+                <entry key="552" type="xstring" value="artist (#106)"/>
+                <entry key="553" type="xstring" value="ArtistId (#107)"/>
+                <entry key="554" type="xstring" value="artist (#107)"/>
+                <entry key="555" type="xstring" value="ArtistId (#108)"/>
+                <entry key="556" type="xstring" value="artist (#108)"/>
+                <entry key="557" type="xstring" value="ArtistId (#109)"/>
+                <entry key="558" type="xstring" value="artist (#109)"/>
+                <entry key="559" type="xstring" value="ArtistId (#110)"/>
+                <entry key="560" type="xstring" value="artist (#110)"/>
+                <entry key="561" type="xstring" value="ArtistId (#111)"/>
+                <entry key="562" type="xstring" value="artist (#111)"/>
+                <entry key="563" type="xstring" value="ArtistId (#112)"/>
+                <entry key="564" type="xstring" value="artist (#112)"/>
+                <entry key="565" type="xstring" value="ArtistId (#113)"/>
+                <entry key="566" type="xstring" value="artist (#113)"/>
+                <entry key="567" type="xstring" value="ArtistId (#114)"/>
+                <entry key="568" type="xstring" value="artist (#114)"/>
+                <entry key="569" type="xstring" value="ArtistId (#115)"/>
+                <entry key="570" type="xstring" value="artist (#115)"/>
+                <entry key="571" type="xstring" value="ArtistId (#116)"/>
+                <entry key="572" type="xstring" value="artist (#116)"/>
+                <entry key="573" type="xstring" value="ArtistId (#117)"/>
+                <entry key="574" type="xstring" value="artist (#117)"/>
+                <entry key="575" type="xstring" value="ArtistId (#118)"/>
+                <entry key="576" type="xstring" value="artist (#118)"/>
+                <entry key="577" type="xstring" value="ArtistId (#119)"/>
+                <entry key="578" type="xstring" value="artist (#119)"/>
+                <entry key="579" type="xstring" value="ArtistId (#120)"/>
+                <entry key="580" type="xstring" value="artist (#120)"/>
+                <entry key="581" type="xstring" value="ArtistId (#121)"/>
+                <entry key="582" type="xstring" value="artist (#121)"/>
+                <entry key="583" type="xstring" value="ArtistId (#122)"/>
+                <entry key="584" type="xstring" value="artist (#122)"/>
+                <entry key="585" type="xstring" value="ArtistId (#123)"/>
+                <entry key="586" type="xstring" value="artist (#123)"/>
+                <entry key="587" type="xstring" value="ArtistId (#124)"/>
+                <entry key="588" type="xstring" value="artist (#124)"/>
+                <entry key="589" type="xstring" value="ArtistId (#125)"/>
+                <entry key="590" type="xstring" value="artist (#125)"/>
+                <entry key="591" type="xstring" value="ArtistId (#126)"/>
+                <entry key="592" type="xstring" value="artist (#126)"/>
+                <entry key="593" type="xstring" value="ArtistId (#127)"/>
+                <entry key="594" type="xstring" value="artist (#127)"/>
+                <entry key="595" type="xstring" value="ArtistId (#128)"/>
+                <entry key="596" type="xstring" value="artist (#128)"/>
+                <entry key="597" type="xstring" value="ArtistId (#129)"/>
+                <entry key="598" type="xstring" value="artist (#129)"/>
+                <entry key="599" type="xstring" value="ArtistId (#130)"/>
+                <entry key="600" type="xstring" value="artist (#130)"/>
+                <entry key="601" type="xstring" value="ArtistId (#131)"/>
+                <entry key="602" type="xstring" value="artist (#131)"/>
+                <entry key="603" type="xstring" value="ArtistId (#132)"/>
+                <entry key="604" type="xstring" value="artist (#132)"/>
+                <entry key="605" type="xstring" value="ArtistId (#133)"/>
+                <entry key="606" type="xstring" value="artist (#133)"/>
+                <entry key="607" type="xstring" value="ArtistId (#134)"/>
+                <entry key="608" type="xstring" value="artist (#134)"/>
+                <entry key="609" type="xstring" value="ArtistId (#135)"/>
+                <entry key="610" type="xstring" value="artist (#135)"/>
+                <entry key="611" type="xstring" value="ArtistId (#136)"/>
+                <entry key="612" type="xstring" value="artist (#136)"/>
+                <entry key="613" type="xstring" value="ArtistId (#137)"/>
+                <entry key="614" type="xstring" value="artist (#137)"/>
+                <entry key="615" type="xstring" value="ArtistId (#138)"/>
+                <entry key="616" type="xstring" value="artist (#138)"/>
+                <entry key="617" type="xstring" value="ArtistId (#139)"/>
+                <entry key="618" type="xstring" value="artist (#139)"/>
+                <entry key="619" type="xstring" value="ArtistId (#140)"/>
+                <entry key="620" type="xstring" value="artist (#140)"/>
+                <entry key="621" type="xstring" value="ArtistId (#141)"/>
+                <entry key="622" type="xstring" value="artist (#141)"/>
+                <entry key="623" type="xstring" value="ArtistId (#142)"/>
+                <entry key="624" type="xstring" value="artist (#142)"/>
+                <entry key="625" type="xstring" value="ArtistId (#143)"/>
+                <entry key="626" type="xstring" value="artist (#143)"/>
+                <entry key="627" type="xstring" value="ArtistId (#144)"/>
+                <entry key="628" type="xstring" value="artist (#144)"/>
+                <entry key="629" type="xstring" value="ArtistId (#145)"/>
+                <entry key="630" type="xstring" value="artist (#145)"/>
+                <entry key="631" type="xstring" value="ArtistId (#146)"/>
+                <entry key="632" type="xstring" value="artist (#146)"/>
+                <entry key="633" type="xstring" value="ArtistId (#147)"/>
+                <entry key="634" type="xstring" value="artist (#147)"/>
+            </config>
+            <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
+            <config key="name_pattern">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
+                <entry key="type" type="xstring" value="Wildcard"/>
+            </config>
+            <config key="datatype">
+                <config key="typelist"/>
+            </config>
+        </config>
+    </config>
+    <config key="variables"/>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="factory" type="xstring" value="org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory"/>
+    <entry key="node-name" type="xstring" value="Column Filter"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.9.0.v202511140634"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.9.0.v202511140634"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="Column Filter"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 1041, Cols: 4"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="8efe7f7b-c7cc-421c-ba6c-45af34b16ac2"/>
+    </config>
+</config>

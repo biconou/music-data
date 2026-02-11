@@ -28578,3 +28578,375 @@ java.lang.IllegalStateException: No file system connection available. Execute co
 2026-02-05 18:58:03,896 : INFO  : KNIME-Worker-82-SMB Connector 3:13 :  : LocalNodeExecutionJob : SMB Connector : 3:13 : SMB Connector 3:13 End execute (0 secs)
 2026-02-05 18:58:07,214 : INFO  : KNIME-Worker-83-CSV Reader 3:22 :  : LocalNodeExecutionJob : CSV Reader : 3:22 : CSV Reader 3:22 End execute (0 secs)
 2026-02-05 23:36:13,255 : INFO  : KNIME shutdown hooks - org.knime.core.util.FileUtil$$Lambda/0x00000238814ddad8 :  : FileUtil :  :  : Deleting 17 temporary files.
+2026-02-06 09:20:54,701 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-06 09:20:54,703 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : # Welcome to KNIME Analytics Platform v5.3.3.v202411031102 (Build November 05, 2024)    #
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : # Based on Eclipse, http://www.eclipse.org                                              #
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : # Copyright by KNIME AG, Zurich, Switzerland and others.                                #
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : # Website: http://www.knime.com                                                         #
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : # E-mail: contact@knime.com                                                             #
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : # For more details see the KNIME log file:                                              #
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : # C:\DATA\develop\music-data\knime-workspace\.metadata\knime\knime.log
+2026-02-06 09:20:54,704 : INFO  : main :  : NodeLogger :  :  : #---------------------------------------------------------------------------------------#
+2026-02-06 09:20:54,734 : INFO  : main :  : NodeLogger :  :  : # logging date=ven. févr. 06 09:20:54 CET 2026
+2026-02-06 09:20:54,735 : INFO  : main :  : NodeLogger :  :  : # java.version=17.0.5
+2026-02-06 09:20:54,735 : INFO  : main :  : NodeLogger :  :  : # java.vm.version=17.0.5+8
+2026-02-06 09:20:54,735 : INFO  : main :  : NodeLogger :  :  : # java.vendor=Eclipse Adoptium
+2026-02-06 09:20:54,735 : INFO  : main :  : NodeLogger :  :  : # os.name=Windows 11
+2026-02-06 09:20:54,735 : INFO  : main :  : NodeLogger :  :  : # os.arch=amd64
+2026-02-06 09:20:54,735 : INFO  : main :  : NodeLogger :  :  : # number of CPUs=14
+2026-02-06 09:20:54,735 : INFO  : main :  : NodeLogger :  :  : # assertions=off
+2026-02-06 09:20:54,741 : INFO  : main :  : NodeLogger :  :  : # host=FRLYONW88N5KD4
+2026-02-06 09:20:54,766 : INFO  : main :  : NodeLogger :  :  : # username=a541854
+2026-02-06 09:20:54,766 : INFO  : main :  : NodeLogger :  :  : # max mem=8192MB
+2026-02-06 09:20:54,767 : INFO  : main :  : NodeLogger :  :  : # application=org.knime.product.KNIME_APPLICATION
+2026-02-06 09:20:54,834 : INFO  : main :  : NodeLogger :  :  : # KNID=11-48185003a0dc7e3d-01-6baac192b6dcb400
+2026-02-06 09:20:54,834 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-06 09:20:51,136 : INFO  : main :  : ProfileManager :  :  : Downloading profiles from https://udp-knime-dev.volvogroup.net:8443/knime/rest/v4/profiles/contents?profiles=executor%2Cmountpoint%2Cdatabricks%2Cclient_update_sites
+2026-02-06 09:20:51,136 : ERROR : main :  : ProfileManager :  :  : Could not download profiles from https://udp-knime-dev.volvogroup.net:8443/knime/rest/v4/profiles/contents: Connect to udp-knime-dev.volvogroup.net:8443 [udp-knime-dev.volvogroup.net/10.132.36.28] failed: Connect timed out. No profiles will be applied.
+org.apache.http.conn.ConnectTimeoutException: Connect to udp-knime-dev.volvogroup.net:8443 [udp-knime-dev.volvogroup.net/10.132.36.28] failed: Connect timed out
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:151)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.knime.product.profiles.ProfileManager.downloadProfiles(ProfileManager.java:363)
+	at org.knime.product.profiles.ProfileManager.fetchProfileContents(ProfileManager.java:277)
+	at org.knime.product.profiles.ProfileManager.applyProfiles(ProfileManager.java:172)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:175)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: java.net.SocketTimeoutException: Connect timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 25 more
+2026-02-06 09:20:58,672 : INFO  : python-gateway-creator-0 :  : ExternalProcessMemoryWatchdog :  :  : KNIME External Process Watchdog memory limit not configured
+2026-02-06 09:20:58,673 : INFO  : python-gateway-creator-0 :  : ExternalProcessMemoryWatchdog :  :  : External process memory watchdog is disabled, because the memory limit is set to -1
+2026-02-06 09:20:59,327 : INFO  : main :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_database_drivers.txt' does not exist.
+2026-02-06 09:20:59,327 : INFO  : main :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_database_urls.txt' does not exist.
+2026-02-06 09:20:59,945 : INFO  : KNIME-Worker-6 :  : ExplorerMountTable :  :  : Mounted Explorer Temp Space 'knime-temp-space' - com.knime.explorer.tempspace
+2026-02-06 09:21:02,141 : INFO  : main :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_org.knime.kerberos.name.txt' does not exist.
+2026-02-06 09:21:04,142 : INFO  : main :  : KNIMECorePlugin :  :  : Setting console view log level to WARN
+2026-02-06 09:21:45,942 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_string2date-formats.txt' does not exist.
+2026-02-06 09:21:48,014 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_createFileNameHistoryKey.txt' does not exist.
+2026-02-06 09:21:50,160 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-02-06 09:21:51,546 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_jfc-date-formats.txt' does not exist.
+2026-02-06 09:21:51,630 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_mol_parser_types.txt' does not exist.
+2026-02-06 09:22:00,891 : INFO  : Worker-1: Workflow Coach loader :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.core.ui.workflowcoach.data.PrefsTripleProvider>
+2026-02-06 09:22:00,892 : INFO  : Worker-1: Workflow Coach loader :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.workbench.workflowcoach.data.CommunityTripleProvider>
+2026-02-06 09:22:00,892 : INFO  : Worker-1: Workflow Coach loader :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.workbench.workflowcoach.local.data.WorkspaceTripleProvider>
+2026-02-06 09:22:10,167 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=bigquery, name=Google BigQuery, description=Google BigQuery)
+2026-02-06 09:22:10,990 : INFO  : Node Repository Initializer :  : HyphenationPatternFactory :  :  : Registering Hyphenation Patterns ...
+2026-02-06 09:22:11,183 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.PartOfSpeechTag
+2026-02-06 09:22:11,185 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.BiomedicalNeTag
+2026-02-06 09:22:11,185 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.NamedEntityTag
+2026-02-06 09:22:11,185 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.MultiwordTermTag
+2026-02-06 09:22:11,186 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.OscarChemDefaultTag
+2026-02-06 09:22:11,187 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.PharmaDefaultTag
+2026-02-06 09:22:11,187 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.FrenchTreebankTag
+2026-02-06 09:22:11,188 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.STTSPartOfSpeechTag
+2026-02-06 09:22:11,189 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.SentimentTag
+2026-02-06 13:38:57,915 : INFO  : ModalContext :  : LoadWorkflowRunnable :  :  : Canceled workflow load due to incompatible version
+org.knime.core.node.workflow.UnsupportedWorkflowVersionException: Unable to load workflow, it was created with a future version of KNIME (5.9.0.v202512101359). You are running 5.3.3.v202411031102.
+	at org.knime.core.node.workflow.WorkflowLoadHelper.createTemplateLoadPersistor(WorkflowLoadHelper.java:383)
+	at org.knime.core.node.workflow.WorkflowLoadHelper.createLoadPersistor(WorkflowLoadHelper.java:306)
+	at org.knime.core.node.workflow.WorkflowManager.createLoadPersistor(WorkflowManager.java:8587)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8627)
+	at org.knime.core.node.workflow.WorkflowManager.loadProject(WorkflowManager.java:8474)
+	at org.knime.workbench.editor2.LoadWorkflowRunnable.run(LoadWorkflowRunnable.java:199)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+2026-02-06 13:39:04,154 : INFO  : ModalContext :  : LoadWorkflowRunnable :  :  : Canceled workflow load due to incompatible version
+org.knime.core.node.workflow.UnsupportedWorkflowVersionException: Unable to load workflow, it was created with a future version of KNIME (5.9.0.v202512101359). You are running 5.3.3.v202411031102.
+	at org.knime.core.node.workflow.WorkflowLoadHelper.createTemplateLoadPersistor(WorkflowLoadHelper.java:383)
+	at org.knime.core.node.workflow.WorkflowLoadHelper.createLoadPersistor(WorkflowLoadHelper.java:306)
+	at org.knime.core.node.workflow.WorkflowManager.createLoadPersistor(WorkflowManager.java:8587)
+	at org.knime.core.node.workflow.WorkflowManager.load(WorkflowManager.java:8627)
+	at org.knime.core.node.workflow.WorkflowManager.loadProject(WorkflowManager.java:8474)
+	at org.knime.workbench.editor2.LoadWorkflowRunnable.run(LoadWorkflowRunnable.java:199)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+2026-02-06 13:39:16,746 : WARN  : ModalContext :  : Node : GET Request : 3:14 : The configured URL column 'resource_url' is missing in the input table.
+2026-02-06 13:39:22,045 : WARN  : ModalContext :  : Node : CSV Reader : 3:1 : Execute failed: The specified file /data/albums.csv does not exist.
+2026-02-06 13:39:22,049 : WARN  : ModalContext :  : Node : MISSING Clean HTML Retriever : 3:2 : Node can't be executed - Node "Clean HTML Retriever" not available from extension "MMI Data Analytics Nodes" (provided by "MMI Agency"; plugin "com.mmiagency.knime.nodes" is not installed)
+2026-02-06 13:39:22,050 : WARN  : ModalContext :  : Node : MISSING Clean HTML Retriever : 3:2 : Node can't be executed - Node "Clean HTML Retriever" not available from extension "MMI Data Analytics Nodes" (provided by "MMI Agency"; plugin "com.mmiagency.knime.nodes" is not installed)
+2026-02-06 13:39:22,051 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  : Errors during load: Status: Error: idagio 3 loaded with errors
+2026-02-06 13:39:22,052 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :   Status: Error: idagio 3
+2026-02-06 13:39:22,052 : ERROR : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Error: Node "Clean HTML Retriever" not available from extension "MMI Data Analytics Nodes" (provided by "MMI Agency"; plugin "com.mmiagency.knime.nodes" is not installed)
+2026-02-06 13:41:45,797 : WARN  : ModalContext :  : Node : GET Request : 3:14 : The configured URL column 'resource_url' is missing in the input table.
+2026-02-06 13:42:09,759 : INFO  : main :  : KaiHandlerFactoryRegistry :  :  : No KaiHandlerFactory registered. The KNIME AI Assistant functionality is not available.
+2026-02-06 13:42:10,926 : INFO  : main :  : KnimeBrowserView :  :  : %cinfo%c Injecting global logger 
+      background: #00BCD4;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2026-02-06 13:42:45,617 : WARN  : ModalContext :  : Node : DB Connector : 3:3 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2026-02-06 13:42:45,637 : WARN  : ModalContext :  : Node : SMB Connector : 3:13 : Connection no longer available. Please re-execute the node.
+2026-02-06 13:42:45,670 : WARN  : ModalContext :  : Node : Row Sampling : 3:10 : Loading model settings failed: String for key "method" not found.
+2026-02-06 13:42:45,693 : WARN  : ModalContext :  : Node : GET Request : 3:12 : Loading model settings failed: Int for key "timeout" not found.
+2026-02-06 13:42:46,331 : WARN  : ModalContext :  : BufferedDataTable : JSON to Table : 3:18 : Table spec file is 13 MB large - this may result in increased memory consumption (path 'C:\DATA\develop\music-data\knime-workspace\music-data\airsonic-artist1\JSON to Table (#18)\port_1\spec.xml')
+2026-02-06 13:42:46,565 : WARN  : ModalContext :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-06 13:42:46,574 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  : Warnings during load: Status: Warning: airsonic-artist1 3 loaded with warnings
+2026-02-06 13:42:46,574 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :   Status: Warning: airsonic-artist1 3
+2026-02-06 13:42:46,574 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: Row Sampling 3:10
+2026-02-06 13:42:46,574 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: String for key "method" not found.
+2026-02-06 13:42:46,574 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: GET Request 3:12
+2026-02-06 13:42:46,574 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: Int for key "timeout" not found.
+2026-02-06 13:46:16,107 : WARN  : comm-pool-thread-3 :  : Node : Row Filter : 3:23 : At least one filter criterion is needed.
+2026-02-06 13:46:53,869 : INFO  : KNIME-Worker-19-Row Filter 3:23 :  : LocalNodeExecutionJob : Row Filter : 3:23 : Row Filter 3:23 End execute (18 secs)
+2026-02-06 13:52:01,713 : INFO  : KNIME-Worker-20-Duplicate Row Filter 3:24 :  : LocalNodeExecutionJob : Duplicate Row Filter : 3:24 : Duplicate Row Filter 3:24 End execute (1 min, 1 sec)
+2026-02-06 13:54:04,589 : WARN  : comm-pool-thread-10 :  : Node : Row Filter : 3:25 : At least one filter criterion is needed.
+2026-02-06 13:54:55,828 : INFO  : KNIME-Worker-27-Row Filter 3:25 :  : LocalNodeExecutionJob : Row Filter : 3:25 : Row Filter 3:25 End execute (17 secs)
+2026-02-06 13:55:20,004 : INFO  : KNIME-Worker-28-Duplicate Row Filter 3:24 :  : LocalNodeExecutionJob : Duplicate Row Filter : 3:24 : Duplicate Row Filter 3:24 End execute (0 secs)
+2026-02-06 13:57:01,909 : INFO  : KNIME-Worker-29-Duplicate Row Filter 3:24 :  : LocalNodeExecutionJob : Duplicate Row Filter : 3:24 : Duplicate Row Filter 3:24 End execute (0 secs)
+2026-02-06 13:57:12,415 : WARN  : comm-pool-thread-11 :  : Node : Row Filter : 3:26 : At least one filter criterion is needed.
+2026-02-06 13:57:31,909 : INFO  : KNIME-Worker-33-Row Filter 3:26 :  : LocalNodeExecutionJob : Row Filter : 3:26 : Row Filter 3:26 End execute (0 secs)
+2026-02-06 13:58:10,097 : INFO  : KNIME-Worker-34-Sorter 3:27 :  : LocalNodeExecutionJob : Sorter : 3:27 : Sorter 3:27 End execute (0 secs)
+2026-02-09 09:30:29,918 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-09 09:30:29,921 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : # Welcome to KNIME Analytics Platform v5.3.3.v202411031102 (Build November 05, 2024)    #
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : # Based on Eclipse, http://www.eclipse.org                                              #
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : # Copyright by KNIME AG, Zurich, Switzerland and others.                                #
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : # Website: http://www.knime.com                                                         #
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : # E-mail: contact@knime.com                                                             #
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : # For more details see the KNIME log file:                                              #
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : # C:\DATA\develop\music-data\knime-workspace\.metadata\knime\knime.log
+2026-02-09 09:30:29,922 : INFO  : main :  : NodeLogger :  :  : #---------------------------------------------------------------------------------------#
+2026-02-09 09:30:29,942 : INFO  : main :  : NodeLogger :  :  : # logging date=lun. févr. 09 09:30:29 CET 2026
+2026-02-09 09:30:29,942 : INFO  : main :  : NodeLogger :  :  : # java.version=17.0.5
+2026-02-09 09:30:29,942 : INFO  : main :  : NodeLogger :  :  : # java.vm.version=17.0.5+8
+2026-02-09 09:30:29,942 : INFO  : main :  : NodeLogger :  :  : # java.vendor=Eclipse Adoptium
+2026-02-09 09:30:29,942 : INFO  : main :  : NodeLogger :  :  : # os.name=Windows 11
+2026-02-09 09:30:29,943 : INFO  : main :  : NodeLogger :  :  : # os.arch=amd64
+2026-02-09 09:30:29,943 : INFO  : main :  : NodeLogger :  :  : # number of CPUs=14
+2026-02-09 09:30:29,943 : INFO  : main :  : NodeLogger :  :  : # assertions=off
+2026-02-09 09:30:29,949 : INFO  : main :  : NodeLogger :  :  : # host=FRLYONW88N5KD4
+2026-02-09 09:30:29,954 : INFO  : main :  : NodeLogger :  :  : # username=a541854
+2026-02-09 09:30:29,954 : INFO  : main :  : NodeLogger :  :  : # max mem=8192MB
+2026-02-09 09:30:29,955 : INFO  : main :  : NodeLogger :  :  : # application=org.knime.product.KNIME_APPLICATION
+2026-02-09 09:30:29,989 : INFO  : main :  : NodeLogger :  :  : # KNID=11-48185003a0dc7e3d-01-6baac192b6dcb400
+2026-02-09 09:30:29,989 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-09 09:30:27,532 : INFO  : main :  : ProfileManager :  :  : Downloading profiles from https://udp-knime-dev.volvogroup.net:8443/knime/rest/v4/profiles/contents?profiles=executor%2Cmountpoint%2Cdatabricks%2Cclient_update_sites
+2026-02-09 09:30:27,532 : ERROR : main :  : ProfileManager :  :  : Could not download profiles from https://udp-knime-dev.volvogroup.net:8443/knime/rest/v4/profiles/contents: Connect to udp-knime-dev.volvogroup.net:8443 [udp-knime-dev.volvogroup.net/10.132.36.28] failed: Connect timed out. No profiles will be applied.
+org.apache.http.conn.ConnectTimeoutException: Connect to udp-knime-dev.volvogroup.net:8443 [udp-knime-dev.volvogroup.net/10.132.36.28] failed: Connect timed out
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:151)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.knime.product.profiles.ProfileManager.downloadProfiles(ProfileManager.java:363)
+	at org.knime.product.profiles.ProfileManager.fetchProfileContents(ProfileManager.java:277)
+	at org.knime.product.profiles.ProfileManager.applyProfiles(ProfileManager.java:172)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:175)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: java.net.SocketTimeoutException: Connect timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 25 more
+2026-02-09 09:30:31,413 : INFO  : ForkJoinPool.commonPool-worker-10 :  : ExternalProcessMemoryWatchdog :  :  : KNIME External Process Watchdog memory limit not configured
+2026-02-09 09:30:31,414 : INFO  : ForkJoinPool.commonPool-worker-10 :  : ExternalProcessMemoryWatchdog :  :  : External process memory watchdog is disabled, because the memory limit is set to -1
+2026-02-09 09:30:32,538 : INFO  : main :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_database_drivers.txt' does not exist.
+2026-02-09 09:30:32,538 : INFO  : main :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_database_urls.txt' does not exist.
+2026-02-09 09:30:33,265 : INFO  : KNIME-Worker-1 :  : ExplorerMountTable :  :  : Mounted Explorer Temp Space 'knime-temp-space' - com.knime.explorer.tempspace
+2026-02-09 09:30:35,366 : INFO  : main :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_org.knime.kerberos.name.txt' does not exist.
+2026-02-09 09:30:37,306 : INFO  : main :  : KNIMECorePlugin :  :  : Setting console view log level to WARN
+2026-02-09 09:30:43,218 : INFO  : main :  : KaiHandlerFactoryRegistry :  :  : No KaiHandlerFactory registered. The KNIME AI Assistant functionality is not available.
+2026-02-09 09:30:46,363 : INFO  : main :  : KnimeBrowserView :  :  : %cinfo%c Injecting global logger 
+      background: #00BCD4;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2026-02-09 09:31:05,895 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_string2date-formats.txt' does not exist.
+2026-02-09 09:31:08,294 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_createFileNameHistoryKey.txt' does not exist.
+2026-02-09 09:31:08,833 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-02-09 09:31:10,381 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_jfc-date-formats.txt' does not exist.
+2026-02-09 09:31:10,389 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_mol_parser_types.txt' does not exist.
+2026-02-09 09:31:16,461 : INFO  : Worker-0: Workflow Coach loader :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.core.ui.workflowcoach.data.PrefsTripleProvider>
+2026-02-09 09:31:16,462 : INFO  : Worker-0: Workflow Coach loader :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.workbench.workflowcoach.data.CommunityTripleProvider>
+2026-02-09 09:31:16,462 : INFO  : Worker-0: Workflow Coach loader :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.workbench.workflowcoach.local.data.WorkspaceTripleProvider>
+2026-02-09 09:31:18,760 : WARN  : ModalContext :  : Node : DB Connector : 3:3 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2026-02-09 09:31:18,858 : WARN  : ModalContext :  : Node : SMB Connector : 3:13 : Connection no longer available. Please re-execute the node.
+2026-02-09 09:31:18,877 : WARN  : ModalContext :  : Node : Row Sampling : 3:10 : Loading model settings failed: String for key "method" not found.
+2026-02-09 09:31:18,967 : WARN  : ModalContext :  : Node : GET Request : 3:12 : Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:31:19,774 : WARN  : ModalContext :  : BufferedDataTable : JSON to Table : 3:18 : Table spec file is 13 MB large - this may result in increased memory consumption (path 'C:\DATA\develop\music-data\knime-workspace\music-data\airsonic-artist1\JSON to Table (#18)\port_1\spec.xml')
+2026-02-09 09:31:20,217 : WARN  : ModalContext :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-09 09:31:20,234 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  : Warnings during load: Status: Warning: airsonic-artist1 3 loaded with warnings
+2026-02-09 09:31:20,235 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :   Status: Warning: airsonic-artist1 3
+2026-02-09 09:31:20,235 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: Row Sampling 3:10
+2026-02-09 09:31:20,235 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: String for key "method" not found.
+2026-02-09 09:31:20,235 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: GET Request 3:12
+2026-02-09 09:31:20,235 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:31:21,072 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=bigquery, name=Google BigQuery, description=Google BigQuery)
+2026-02-09 09:31:21,623 : INFO  : Node Repository Initializer :  : HyphenationPatternFactory :  :  : Registering Hyphenation Patterns ...
+2026-02-09 09:31:21,727 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.PartOfSpeechTag
+2026-02-09 09:31:21,728 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.BiomedicalNeTag
+2026-02-09 09:31:21,728 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.NamedEntityTag
+2026-02-09 09:31:21,728 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.MultiwordTermTag
+2026-02-09 09:31:21,729 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.OscarChemDefaultTag
+2026-02-09 09:31:21,729 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.PharmaDefaultTag
+2026-02-09 09:31:21,729 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.FrenchTreebankTag
+2026-02-09 09:31:21,730 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.STTSPartOfSpeechTag
+2026-02-09 09:31:21,730 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.SentimentTag
+2026-02-09 09:32:03,881 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Workflow project for ID "airsonic-artist1 3" not found. (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2026-02-09 09:32:03,882 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) Error: Workflow project for ID "airsonic-artist1 3" not found. (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 22)
+2026-02-09 09:32:07,572 : WARN  : ModalContext :  : Node : DB Connector : 3:3 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2026-02-09 09:32:07,586 : WARN  : ModalContext :  : Node : SMB Connector : 3:13 : Connection no longer available. Please re-execute the node.
+2026-02-09 09:32:07,593 : WARN  : ModalContext :  : Node : Row Sampling : 3:10 : Loading model settings failed: String for key "method" not found.
+2026-02-09 09:32:07,630 : WARN  : ModalContext :  : Node : GET Request : 3:12 : Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:32:07,986 : WARN  : ModalContext :  : BufferedDataTable : JSON to Table : 3:18 : Table spec file is 13 MB large - this may result in increased memory consumption (path 'C:\DATA\develop\music-data\knime-workspace\music-data\airsonic-artist\JSON to Table (#18)\port_1\spec.xml')
+2026-02-09 09:32:08,136 : WARN  : ModalContext :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-09 09:32:08,137 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  : Warnings during load: Status: Warning: airsonic-artist 3 loaded with warnings
+2026-02-09 09:32:08,138 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :   Status: Warning: airsonic-artist 3
+2026-02-09 09:32:08,138 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: Row Sampling 3:10
+2026-02-09 09:32:08,138 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: String for key "method" not found.
+2026-02-09 09:32:08,138 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: GET Request 3:12
+2026-02-09 09:32:08,138 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:33:38,220 : WARN  : ModalContext :  : Node : DB Connector : 3:3 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2026-02-09 09:33:38,232 : WARN  : ModalContext :  : Node : SMB Connector : 3:13 : Connection no longer available. Please re-execute the node.
+2026-02-09 09:33:38,238 : WARN  : ModalContext :  : Node : Row Sampling : 3:10 : Loading model settings failed: String for key "method" not found.
+2026-02-09 09:33:38,257 : WARN  : ModalContext :  : Node : GET Request : 3:12 : Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:33:38,601 : WARN  : ModalContext :  : BufferedDataTable : JSON to Table : 3:18 : Table spec file is 13 MB large - this may result in increased memory consumption (path 'C:\DATA\develop\music-data\knime-workspace\music-data\airsonic-artist1\JSON to Table (#18)\port_1\spec.xml')
+2026-02-09 09:33:38,729 : WARN  : ModalContext :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-09 09:33:38,730 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  : Warnings during load: Status: Warning: airsonic-artist1 3 loaded with warnings
+2026-02-09 09:33:38,730 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :   Status: Warning: airsonic-artist1 3
+2026-02-09 09:33:38,730 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: Row Sampling 3:10
+2026-02-09 09:33:38,730 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: String for key "method" not found.
+2026-02-09 09:33:38,730 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: GET Request 3:12
+2026-02-09 09:33:38,730 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:35:04,126 : WARN  : ModalContext :  : Node : DB Connector : 3:3 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2026-02-09 09:35:04,130 : WARN  : ModalContext :  : Node : SMB Connector : 3:13 : Connection no longer available. Please re-execute the node.
+2026-02-09 09:35:04,136 : WARN  : ModalContext :  : Node : Row Sampling : 3:10 : Loading model settings failed: String for key "method" not found.
+2026-02-09 09:35:04,153 : WARN  : ModalContext :  : Node : GET Request : 3:12 : Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:35:04,488 : WARN  : ModalContext :  : BufferedDataTable : JSON to Table : 3:18 : Table spec file is 13 MB large - this may result in increased memory consumption (path 'C:\DATA\develop\music-data\knime-workspace\music-data\airsonic-artist1\JSON to Table (#18)\port_1\spec.xml')
+2026-02-09 09:35:04,678 : WARN  : ModalContext :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-09 09:35:04,679 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  : Warnings during load: Status: Warning: airsonic-artist1 3 loaded with warnings
+2026-02-09 09:35:04,679 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :   Status: Warning: airsonic-artist1 3
+2026-02-09 09:35:04,679 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: Row Sampling 3:10
+2026-02-09 09:35:04,679 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: String for key "method" not found.
+2026-02-09 09:35:04,679 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: GET Request 3:12
+2026-02-09 09:35:04,679 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:35:42,526 : WARN  : ModalContext :  : Node : DB Connector : 3:3 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2026-02-09 09:35:42,530 : WARN  : ModalContext :  : Node : SMB Connector : 3:13 : Connection no longer available. Please re-execute the node.
+2026-02-09 09:35:42,535 : WARN  : ModalContext :  : Node : Row Sampling : 3:10 : Loading model settings failed: String for key "method" not found.
+2026-02-09 09:35:42,538 : WARN  : ModalContext :  : Node : Row Sampling : 3:10 : Loading model settings failed: String for key "method" not found.
+2026-02-09 09:35:42,554 : WARN  : ModalContext :  : Node : GET Request : 3:12 : Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:35:42,556 : WARN  : ModalContext :  : Node : GET Request : 3:12 : Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:35:42,846 : WARN  : ModalContext :  : BufferedDataTable : JSON to Table : 3:18 : Table spec file is 13 MB large - this may result in increased memory consumption (path 'C:\DATA\develop\music-data\knime-workspace\music-data\airsonic-artist1\JSON to Table (#18)\port_1\spec.xml')
+2026-02-09 09:35:42,969 : WARN  : ModalContext :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-09 09:35:42,969 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  : Warnings during load: Status: Warning: airsonic-artist1 3 loaded with warnings
+2026-02-09 09:35:42,970 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :   Status: Warning: airsonic-artist1 3
+2026-02-09 09:35:42,970 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: Row Sampling 3:10
+2026-02-09 09:35:42,970 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: String for key "method" not found.
+2026-02-09 09:35:42,970 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: GET Request 3:12
+2026-02-09 09:35:42,970 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:36:52,540 : WARN  : comm-pool-thread-3 :  : Node : Row Filter : 3:23 : At least one filter criterion is needed.
+2026-02-09 09:37:17,459 : WARN  : comm-pool-thread-3 :  : Node : Row Filter : 3:24 : At least one filter criterion is needed.
+2026-02-09 09:37:49,675 : INFO  : KNIME-Worker-19-Row Filter 3:24 :  : LocalNodeExecutionJob : Row Filter : 3:24 : Row Filter 3:24 End execute (16 secs)
+2026-02-09 09:40:13,236 : INFO  : KNIME-Worker-27-Row Filter 3:23 :  : LocalNodeExecutionJob : Row Filter : 3:23 : Row Filter 3:23 End execute (17 secs)
+2026-02-09 09:40:27,371 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: No such node ID: 3:25 valid [3:2, 3:3, 3:4, 3:5, 3:7, 3:8, 3:9, 3:10, 3:11, 3:12, 3:13, 3:16, 3:17, 3:18, 3:19, 3:20, 3:21, 3:22, 3:23, 3:24] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2026-02-09 09:40:27,372 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) Error: No such node ID: 3:25 valid [3:2, 3:3, 3:4, 3:5, 3:7, 3:8, 3:9, 3:10, 3:11, 3:12, 3:13, 3:16, 3:17, 3:18, 3:19, 3:20, 3:21, 3:22, 3:23, 3:24] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 22)
+2026-02-09 09:40:53,394 : INFO  : KNIME-Worker-30-Duplicate Row Filter 3:25 :  : LocalNodeExecutionJob : Duplicate Row Filter : 3:25 : Duplicate Row Filter 3:25 End execute (0 secs)
+2026-02-09 09:41:34,701 : INFO  : KNIME-Worker-31-Duplicate Row Filter 3:25 :  : LocalNodeExecutionJob : Duplicate Row Filter : 3:25 : Duplicate Row Filter 3:25 End execute (0 secs)
+2026-02-09 09:41:51,214 : WARN  : comm-pool-thread-4 :  : Node : Row Filter : 3:26 : At least one filter criterion is needed.
+2026-02-09 09:42:06,978 : INFO  : KNIME-Worker-36-Row Filter 3:26 :  : LocalNodeExecutionJob : Row Filter : 3:26 : Row Filter 3:26 End execute (0 secs)
+2026-02-09 09:42:38,028 : INFO  : KNIME-Worker-37-Sorter 3:27 :  : LocalNodeExecutionJob : Sorter : 3:27 : Sorter 3:27 End execute (0 secs)
+2026-02-09 09:44:13,131 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Workflow project for ID "airsonic-artist1 3" not found. (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2026-02-09 09:44:13,131 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) Error: Workflow project for ID "airsonic-artist1 3" not found. (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 22)
+2026-02-09 09:44:15,047 : WARN  : ModalContext :  : Node : DB Connector : 3:3 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2026-02-09 09:44:15,052 : WARN  : ModalContext :  : Node : SMB Connector : 3:13 : Connection no longer available. Please re-execute the node.
+2026-02-09 09:44:15,056 : WARN  : ModalContext :  : Node : Row Sampling : 3:10 : Loading model settings failed: String for key "method" not found.
+2026-02-09 09:44:15,059 : WARN  : ModalContext :  : Node : Row Sampling : 3:10 : Loading model settings failed: String for key "method" not found.
+2026-02-09 09:44:15,079 : WARN  : ModalContext :  : Node : GET Request : 3:12 : Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:44:15,081 : WARN  : ModalContext :  : Node : GET Request : 3:12 : Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:44:15,381 : WARN  : ModalContext :  : BufferedDataTable : JSON to Table : 3:18 : Table spec file is 13 MB large - this may result in increased memory consumption (path 'C:\DATA\develop\music-data\knime-workspace\music-data\airsonic-artist1\JSON to Table (#18)\port_1\spec.xml')
+2026-02-09 09:44:15,549 : WARN  : ModalContext :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-09 09:44:15,558 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  : Warnings during load: Status: Warning: airsonic-artist1 3 loaded with warnings
+2026-02-09 09:44:15,558 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :   Status: Warning: airsonic-artist1 3
+2026-02-09 09:44:15,558 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: Row Sampling 3:10
+2026-02-09 09:44:15,558 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: String for key "method" not found.
+2026-02-09 09:44:15,558 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: GET Request 3:12
+2026-02-09 09:44:15,558 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:44:28,784 : WARN  : ModalContext :  : Node : DB Connector : 3:3 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2026-02-09 09:44:28,792 : WARN  : ModalContext :  : Node : SMB Connector : 3:13 : Connection no longer available. Please re-execute the node.
+2026-02-09 09:44:28,795 : WARN  : ModalContext :  : Node : Row Sampling : 3:10 : Loading model settings failed: String for key "method" not found.
+2026-02-09 09:44:28,797 : WARN  : ModalContext :  : Node : Row Sampling : 3:10 : Loading model settings failed: String for key "method" not found.
+2026-02-09 09:44:28,813 : WARN  : ModalContext :  : Node : GET Request : 3:12 : Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:44:28,816 : WARN  : ModalContext :  : Node : GET Request : 3:12 : Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:44:29,110 : WARN  : ModalContext :  : BufferedDataTable : JSON to Table : 3:18 : Table spec file is 13 MB large - this may result in increased memory consumption (path 'C:\DATA\develop\music-data\knime-workspace\music-data\airsonic-artist1\JSON to Table (#18)\port_1\spec.xml')
+2026-02-09 09:44:29,247 : WARN  : ModalContext :  : Node : CSV Writer : 3:21 : No connection available. Execute the connector node first.
+2026-02-09 09:44:29,255 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  : Warnings during load: Status: Warning: airsonic-artist1 3 loaded with warnings
+2026-02-09 09:44:29,255 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :   Status: Warning: airsonic-artist1 3
+2026-02-09 09:44:29,255 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: Row Sampling 3:10
+2026-02-09 09:44:29,255 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: String for key "method" not found.
+2026-02-09 09:44:29,255 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: GET Request 3:12
+2026-02-09 09:44:29,255 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: Int for key "timeout" not found.
+2026-02-09 09:44:39,960 : INFO  : KNIME shutdown hooks - org.knime.core.util.FileUtil$$Lambda$469/0x000000080102ea50 :  : FileUtil :  :  : Deleting 64 temporary files.

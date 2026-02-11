@@ -1,5 +1,5 @@
 {
-    "version": "5.9.0.v202512101359",
+    "version": "5.3.3.v202411031102",
     "created": "2024-01-13 13:11",
     "nodestats": {
         "nodes": [
@@ -10,7 +10,6 @@
                 "nrfails": 2,
                 "exectime": 108,
                 "nrcreated": 0,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -21,7 +20,6 @@
                 "nrfails": 7,
                 "exectime": 3667,
                 "nrcreated": 1,
-                "nrsettingsChanged": 1,
                 "successor": "org.knime.core.node.workflow.virtual.subnode.VirtualSubNodeOutputNodeFactory#Component Output",
                 "successornodename": "Component Output"
             },
@@ -32,7 +30,6 @@
                 "nrfails": 0,
                 "exectime": 33,
                 "nrcreated": 1,
-                "nrsettingsChanged": 0,
                 "successor": "org.knime.base.node.flowvariable.tablerowtovariable3.TableToVariable3NodeFactory",
                 "successornodename": "Table Row to Variable"
             },
@@ -43,7 +40,6 @@
                 "nrfails": 1,
                 "exectime": 81,
                 "nrcreated": 0,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -54,7 +50,6 @@
                 "nrfails": 2,
                 "exectime": 3273,
                 "nrcreated": 0,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -65,7 +60,6 @@
                 "nrfails": 0,
                 "exectime": 75,
                 "nrcreated": 0,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -76,7 +70,6 @@
                 "nrfails": 9,
                 "exectime": 8152,
                 "nrcreated": 4,
-                "nrsettingsChanged": 6,
                 "successor": "org.knime.json.node.patch.apply.JSONPatchApplyNodeFactory",
                 "successornodename": "JSON Transformer"
             },
@@ -87,7 +80,6 @@
                 "nrfails": 3,
                 "exectime": 1604787,
                 "nrcreated": 1,
-                "nrsettingsChanged": 1,
                 "successor": "org.knime.json.node.totable.JSONToTableNodeFactory",
                 "successornodename": "JSON to Table"
             },
@@ -98,7 +90,6 @@
                 "nrfails": 0,
                 "exectime": 7956,
                 "nrcreated": 1,
-                "nrsettingsChanged": 2,
                 "successor": "org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory",
                 "successornodename": "String Manipulation"
             },
@@ -109,7 +100,6 @@
                 "nrfails": 0,
                 "exectime": 0,
                 "nrcreated": 0,
-                "nrsettingsChanged": 0,
                 "successor": "org.knime.base.node.preproc.constantvalue.ConstantValueColumnNodeFactory",
                 "successornodename": "Constant Value Column"
             },
@@ -120,7 +110,6 @@
                 "nrfails": 0,
                 "exectime": 8,
                 "nrcreated": 2,
-                "nrsettingsChanged": 0,
                 "successor": "org.knime.base.node.preproc.constantvalue.ConstantValueColumnNodeFactory",
                 "successornodename": "Constant Value Column"
             },
@@ -131,7 +120,6 @@
                 "nrfails": 0,
                 "exectime": 3,
                 "nrcreated": 5,
-                "nrsettingsChanged": 0,
                 "successor": "org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory",
                 "successornodename": "String Manipulation"
             },
@@ -142,7 +130,6 @@
                 "nrfails": 0,
                 "exectime": 2,
                 "nrcreated": 3,
-                "nrsettingsChanged": 1,
                 "successor": "org.knime.ext.smb.filehandling.node.SmbConnectorNodeFactory",
                 "successornodename": "SMB Connector"
             },
@@ -153,7 +140,6 @@
                 "nrfails": 0,
                 "exectime": 0,
                 "nrcreated": 1,
-                "nrsettingsChanged": 0,
                 "successor": "org.knime.core.node.workflow.virtual.subnode.VirtualSubNodeInputNodeFactory#Component Input",
                 "successornodename": "Component Input"
             },
@@ -164,7 +150,6 @@
                 "nrfails": 0,
                 "exectime": 180025,
                 "nrcreated": 2,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -175,7 +160,6 @@
                 "nrfails": 0,
                 "exectime": 92,
                 "nrcreated": 0,
-                "nrsettingsChanged": 0,
                 "successor": "org.knime.core.node.workflow.SubNodeContainer",
                 "successornodename": "api artist"
             },
@@ -186,7 +170,6 @@
                 "nrfails": 3,
                 "exectime": 19141,
                 "nrcreated": 1,
-                "nrsettingsChanged": 2,
                 "successor": "org.knime.json.node.totable.JSONToTableNodeFactory",
                 "successornodename": "JSON to Table"
             },
@@ -197,7 +180,6 @@
                 "nrfails": 0,
                 "exectime": 62814,
                 "nrcreated": 2,
-                "nrsettingsChanged": 2,
                 "successor": "org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory",
                 "successornodename": "Column Filter"
             },
@@ -208,7 +190,6 @@
                 "nrfails": 0,
                 "exectime": 0,
                 "nrcreated": 1,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -219,7 +200,6 @@
                 "nrfails": 0,
                 "exectime": 29,
                 "nrcreated": 2,
-                "nrsettingsChanged": 2,
                 "successor": "org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory",
                 "successornodename": "String Manipulation"
             },
@@ -230,7 +210,6 @@
                 "nrfails": 0,
                 "exectime": 6,
                 "nrcreated": 0,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -241,7 +220,6 @@
                 "nrfails": 0,
                 "exectime": 23,
                 "nrcreated": 1,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -252,7 +230,6 @@
                 "nrfails": 0,
                 "exectime": 15,
                 "nrcreated": 0,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -263,7 +240,6 @@
                 "nrfails": 0,
                 "exectime": 0,
                 "nrcreated": 1,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -274,7 +250,6 @@
                 "nrfails": 0,
                 "exectime": 0,
                 "nrcreated": 1,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -285,7 +260,6 @@
                 "nrfails": 0,
                 "exectime": 5,
                 "nrcreated": 2,
-                "nrsettingsChanged": 2,
                 "successor": "org.knime.rest.nodes.get.RestGetNodeFactory",
                 "successornodename": "GET Request"
             },
@@ -296,7 +270,6 @@
                 "nrfails": 0,
                 "exectime": 9,
                 "nrcreated": 0,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -307,7 +280,6 @@
                 "nrfails": 1,
                 "exectime": 8500,
                 "nrcreated": 1,
-                "nrsettingsChanged": 2,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -318,7 +290,6 @@
                 "nrfails": 0,
                 "exectime": 0,
                 "nrcreated": 2,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -329,7 +300,6 @@
                 "nrfails": 10,
                 "exectime": 92236,
                 "nrcreated": 1,
-                "nrsettingsChanged": 24,
                 "successor": "org.knime.filehandling.utility.nodes.listpaths.ListFilesAndFoldersNodeFactory",
                 "successornodename": "List Files/Folders"
             },
@@ -340,7 +310,6 @@
                 "nrfails": 0,
                 "exectime": 84,
                 "nrcreated": 1,
-                "nrsettingsChanged": 1,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -351,7 +320,6 @@
                 "nrfails": 0,
                 "exectime": 37827,
                 "nrcreated": 1,
-                "nrsettingsChanged": 6,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -362,7 +330,6 @@
                 "nrfails": 0,
                 "exectime": 0,
                 "nrcreated": 1,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -373,7 +340,6 @@
                 "nrfails": 0,
                 "exectime": 0,
                 "nrcreated": 3,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -384,7 +350,6 @@
                 "nrfails": 0,
                 "exectime": 4240,
                 "nrcreated": 0,
-                "nrsettingsChanged": 1,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -395,7 +360,6 @@
                 "nrfails": 0,
                 "exectime": 13,
                 "nrcreated": 0,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -406,18 +370,16 @@
                 "nrfails": 0,
                 "exectime": 115,
                 "nrcreated": 0,
-                "nrsettingsChanged": 0,
                 "successor": "org.knime.base.node.preproc.sample.SamplingNodeFactory",
                 "successornodename": "Row Sampler"
             },
             {
                 "id": "org.knime.base.node.preproc.sorter.SorterNodeFactory",
                 "nodename": "Sorter",
-                "nrexecs": 5,
+                "nrexecs": 6,
                 "nrfails": 0,
-                "exectime": 229,
-                "nrcreated": 0,
-                "nrsettingsChanged": 0,
+                "exectime": 243,
+                "nrcreated": 1,
                 "successor": "org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory",
                 "successornodename": "String Manipulation"
             },
@@ -428,7 +390,6 @@
                 "nrfails": 0,
                 "exectime": 0,
                 "nrcreated": 1,
-                "nrsettingsChanged": 0,
                 "successor": "n/a",
                 "successornodename": "n/a"
             },
@@ -439,9 +400,28 @@
                 "nrfails": 0,
                 "exectime": 43,
                 "nrcreated": 1,
-                "nrsettingsChanged": 2,
                 "successor": "org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory",
                 "successornodename": "Column Filter"
+            },
+            {
+                "id": "org.knime.base.node.preproc.filter.row3.RowFilterNodeFactory",
+                "nodename": "Row Filter",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 33606,
+                "nrcreated": 5,
+                "successor": "org.knime.base.node.preproc.sorter.SorterNodeFactory",
+                "successornodename": "Sorter"
+            },
+            {
+                "id": "org.knime.base.node.preproc.duplicates.DuplicateRowFilterNodeFactory",
+                "nodename": "Duplicate Row Filter",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 100,
+                "nrcreated": 1,
+                "successor": "org.knime.base.node.preproc.filter.row3.RowFilterNodeFactory",
+                "successornodename": "Row Filter"
             }
         ],
         "metaNodes": {
@@ -451,29 +431,26 @@
             "nrexecs": 41,
             "nrfails": 16,
             "exectime": 246559,
-            "nrcreated": 0,
-            "nrsettingsChanged": 0
+            "nrcreated": 0
         },
         "createdVia": {
-            "WEB_UI": 44,
-            "WEB_UI_QUICK_INSERTION_RECOMMENDED": 28,
+            "WEB_UI": 51,
+            "WEB_UI_QUICK_INSERTION_RECOMMENDED": 35,
             "WEB_UI_HUB": 4
         }
     },
-    "uptime": 7682296,
-    "workflowsOpened": 144,
+    "uptime": 7742707,
+    "workflowsOpened": 155,
     "remoteWorkflowsOpened": 0,
-    "workflowsCreated": 0,
-    "remoteWorkflowsCreated": 0,
     "columnarStorageWorkflowsOpened": 0,
     "workflowsImported": 0,
     "workflowsExported": 0,
-    "webUIPerspectiveSwitches": 3,
+    "webUIPerspectiveSwitches": 5,
     "javaUIPerspectiveSwitches": 3,
-    "lastUsedPerspective": "none",
-    "launches": 20,
+    "lastUsedPerspective": "starter",
+    "launches": 22,
     "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
-    "timeSinceLastStart": 36289209,
-    "crashes": 0,
+    "timeSinceLastStart": 836571,
+    "crashes": 1,
     "properlyShutDown": true
 }

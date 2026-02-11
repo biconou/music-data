@@ -1,0 +1,217 @@
+{
+  "idagio-id": "https://app.idagio.com/fr/albums/scarlatti-12-sonatas",
+  "url": "https://app.idagio.com/fr/albums/scarlatti-12-sonatas",
+  "name": "Scarlatti: 12 Sonatas",
+  "datePublished": "2024-02-09",
+  "numTracks": 12,
+  "byArtist": [
+    "Lorenzo Micheli",
+    "Matteo Mela"
+  ],
+  "tracks": [
+    {
+      "name": "Sonata for Keyboard in A major K 24 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100211",
+      "duration": "PT6M13S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in A major K 24 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45100182",
+        "musicalKey": "A major",
+        "composer": "Domenico Scarlatti",
+        "datePublished": "1738"
+      }
+    },
+    {
+      "name": "Sonata for Keyboard in C minor K 99 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100226",
+      "duration": "PT5M47S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in C minor K 99 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45100158",
+        "musicalKey": "C minor",
+        "composer": "Domenico Scarlatti",
+        "datePublished": "1749"
+      }
+    },
+    {
+      "name": "Sonata for Keyboard in G major K 455 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100241",
+      "duration": "PT3M36S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in G major K 455 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45100134",
+        "musicalKey": "G major",
+        "composer": "Domenico Scarlatti",
+        "datePublished": null
+      }
+    },
+    {
+      "name": "Sonata for Keyboard in B minor K 87 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100256",
+      "duration": "PT4M36S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in B minor K 87 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45100112",
+        "musicalKey": "B minor",
+        "composer": "Domenico Scarlatti",
+        "datePublished": null
+      }
+    },
+    {
+      "name": "Sonata for Keyboard in E major K 162 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100271",
+      "duration": "PT6M3S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in E major K 162 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45100089",
+        "musicalKey": "E major",
+        "composer": "Domenico Scarlatti",
+        "datePublished": "1752"
+      }
+    },
+    {
+      "name": "Sonata for Keyboard in D minor K 32 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100286",
+      "duration": "PT2M19S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in D minor K 32 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45100068",
+        "musicalKey": null,
+        "composer": "Domenico Scarlatti",
+        "datePublished": null
+      }
+    },
+    {
+      "name": "Sonata for Keyboard in E major K 531 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100301",
+      "duration": "PT3M30S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in E major K 531 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45100046",
+        "musicalKey": "E major",
+        "composer": "Domenico Scarlatti",
+        "datePublished": "1757"
+      }
+    },
+    {
+      "name": "Sonata for Keyboard in F minor K 519 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100316",
+      "duration": "PT3M9S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in F minor K 519 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45100023",
+        "musicalKey": "F minor",
+        "composer": "Domenico Scarlatti",
+        "datePublished": null
+      }
+    },
+    {
+      "name": "Sonata for Keyboard in B flat major K 202 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100331",
+      "duration": "PT3M38S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in B flat major K 202 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45100000",
+        "musicalKey": "B flat major",
+        "composer": "Domenico Scarlatti",
+        "datePublished": null
+      }
+    },
+    {
+      "name": "Sonata for Keyboard in F minor K 466 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100346",
+      "duration": "PT6M49S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in F minor K 466 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45099977",
+        "musicalKey": "F minor",
+        "composer": "Domenico Scarlatti",
+        "datePublished": "1756"
+      }
+    },
+    {
+      "name": "Sonata for Keyboard in G minor K 8 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100361",
+      "duration": "PT3M56S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in G minor K 8 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45099949",
+        "musicalKey": "G minor",
+        "composer": "Domenico Scarlatti",
+        "datePublished": null
+      }
+    },
+    {
+      "name": "Sonata for Keyboard in F minor K 386 (Arr. for 2 Guitars) | Domenico Scarlatti | Lorenzo Micheli, Matteo Mela (2022)",
+      "url": "https://app.idagio.com/fr/recordings/45100376",
+      "duration": "PT2M58S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Lorenzo Micheli",
+        "Matteo Mela"
+      ],
+      "recordingOf": {
+        "name": "Sonata for Keyboard in F minor K 386 (Arr. for 2 Guitars) | Domenico Scarlatti",
+        "url": "https://app.idagio.com/fr/works/45099917",
+        "musicalKey": "F minor",
+        "composer": "Domenico Scarlatti",
+        "datePublished": null
+      }
+    }
+  ]
+}
