@@ -1,16 +1,15 @@
 {
   "version" : "5.3.3.v202411031102",
-  "projects" : [ ],
-  "mostRecentlyUsedProjects" : [ {
-    "name" : "Component test - api discography",
-    "timeUsed" : "2025-12-09T14:46:58.9057559+01:00",
+  "projects" : [ {
+    "name" : "idagio-album",
+    "active" : true,
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
-      "projectType" : "WORKFLOW",
-      "relativePath" : "music-data\\components\\Component test - api discography"
+      "relativePath" : "music-data\\idagio-album"
     }
-  }, {
+  } ],
+  "mostRecentlyUsedProjects" : [ {
     "name" : "api discography",
     "timeUsed" : "2025-12-09T14:47:18.8637267+01:00",
     "origin" : {
@@ -180,6 +179,15 @@
       "spaceId" : "local",
       "projectType" : "WORKFLOW",
       "relativePath" : "music-data\\airsonic-artist1"
+    }
+  }, {
+    "name" : "idagio-album",
+    "timeUsed" : "2026-02-11T11:37:47.2473543+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "music-data\\idagio-album"
     }
   } ]
 }

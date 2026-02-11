@@ -1,0 +1,81 @@
+{
+  "idagio-id": "https://app.idagio.com/fr/albums/archora-aion",
+  "url": "https://app.idagio.com/fr/albums/archora-aion",
+  "name": "ARCHORA / AIŌN",
+  "datePublished": "2023-05-26",
+  "numTracks": 4,
+  "byArtist": [
+    "Eva Ollikainen",
+    "Iceland Symphony Orchestra"
+  ],
+  "tracks": [
+    {
+      "name": "ARCHORA (2022) | Anna Þorvaldsdóttir | Eva Ollikainen, Iceland Symphony Orchestra (2022)",
+      "url": "https://app.idagio.com/fr/recordings/44147767",
+      "duration": "PT20M52S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Eva Ollikainen",
+        "Iceland Symphony Orchestra"
+      ],
+      "recordingOf": {
+        "name": "ARCHORA (2022) | Anna Þorvaldsdóttir",
+        "url": "https://app.idagio.com/fr/works/44147703",
+        "musicalKey": null,
+        "composer": "Anna Þorvaldsdóttir",
+        "datePublished": "2022"
+      }
+    },
+    {
+      "name": "AIŌN (2018) | Anna Þorvaldsdóttir | Eva Ollikainen, Iceland Symphony Orchestra (2022)",
+      "url": "https://app.idagio.com/fr/recordings/44147799",
+      "duration": "PT13M16S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Eva Ollikainen",
+        "Iceland Symphony Orchestra"
+      ],
+      "recordingOf": {
+        "name": "AIŌN (2018) | Anna Þorvaldsdóttir",
+        "url": "https://app.idagio.com/fr/works/44147729",
+        "musicalKey": null,
+        "composer": "Anna Þorvaldsdóttir",
+        "datePublished": "2018"
+      }
+    },
+    {
+      "name": "AIŌN (2018) | Anna Þorvaldsdóttir | Eva Ollikainen, Iceland Symphony Orchestra (2022)",
+      "url": "https://app.idagio.com/fr/recordings/44147799",
+      "duration": "PT16M48S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Eva Ollikainen",
+        "Iceland Symphony Orchestra"
+      ],
+      "recordingOf": {
+        "name": "AIŌN (2018) | Anna Þorvaldsdóttir",
+        "url": "https://app.idagio.com/fr/works/44147729",
+        "musicalKey": null,
+        "composer": "Anna Þorvaldsdóttir",
+        "datePublished": "2018"
+      }
+    },
+    {
+      "name": "AIŌN (2018) | Anna Þorvaldsdóttir | Eva Ollikainen, Iceland Symphony Orchestra (2022)",
+      "url": "https://app.idagio.com/fr/recordings/44147799",
+      "duration": "PT10M53S",
+      "datePublished": "2022",
+      "byArtist": [
+        "Eva Ollikainen",
+        "Iceland Symphony Orchestra"
+      ],
+      "recordingOf": {
+        "name": "AIŌN (2018) | Anna Þorvaldsdóttir",
+        "url": "https://app.idagio.com/fr/works/44147729",
+        "musicalKey": null,
+        "composer": "Anna Þorvaldsdóttir",
+        "datePublished": "2018"
+      }
+    }
+  ]
+}

@@ -3,5 +3,5 @@
     The metadata have moved to the `workflow-metadata.xml` file.-->
 <KNIMEMetaInfo nrOfElements="2" xmlns="http://www.knime.org/2.9/metainfo">
     <element form="multiline" name="Comments" read-only="false"/>
-    <element form="text" name="Last Edited" read-only="true">2023-12-09 15:33:27 +0100</element>
+    <element form="text" name="Last Edited" read-only="true">2026-02-11 11:37:46 +0100</element>
 </KNIMEMetaInfo>

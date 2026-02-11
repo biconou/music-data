@@ -28950,3 +28950,375 @@ Caused by: java.net.SocketTimeoutException: Connect timed out
 2026-02-09 09:44:29,255 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :     Status: Warning: GET Request 3:12
 2026-02-09 09:44:29,255 : WARN  : ModalContext :  : LoadWorkflowRunnable :  :  :       Status: Warning: Loading model settings failed: Int for key "timeout" not found.
 2026-02-09 09:44:39,960 : INFO  : KNIME shutdown hooks - org.knime.core.util.FileUtil$$Lambda$469/0x000000080102ea50 :  : FileUtil :  :  : Deleting 64 temporary files.
+2026-02-11 11:19:58,831 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-11 11:19:58,835 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : # Welcome to KNIME Analytics Platform v5.3.3.v202411031102 (Build November 05, 2024)    #
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : # Based on Eclipse, http://www.eclipse.org                                              #
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : # Copyright by KNIME AG, Zurich, Switzerland and others.                                #
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : # Website: http://www.knime.com                                                         #
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : # E-mail: contact@knime.com                                                             #
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : # For more details see the KNIME log file:                                              #
+2026-02-11 11:19:58,836 : INFO  : main :  : NodeLogger :  :  : # C:\DATA\develop\music-data\knime-workspace\.metadata\knime\knime.log
+2026-02-11 11:19:58,837 : INFO  : main :  : NodeLogger :  :  : #---------------------------------------------------------------------------------------#
+2026-02-11 11:19:58,856 : INFO  : main :  : NodeLogger :  :  : # logging date=mer. févr. 11 11:19:58 CET 2026
+2026-02-11 11:19:58,856 : INFO  : main :  : NodeLogger :  :  : # java.version=17.0.5
+2026-02-11 11:19:58,856 : INFO  : main :  : NodeLogger :  :  : # java.vm.version=17.0.5+8
+2026-02-11 11:19:58,857 : INFO  : main :  : NodeLogger :  :  : # java.vendor=Eclipse Adoptium
+2026-02-11 11:19:58,857 : INFO  : main :  : NodeLogger :  :  : # os.name=Windows 11
+2026-02-11 11:19:58,857 : INFO  : main :  : NodeLogger :  :  : # os.arch=amd64
+2026-02-11 11:19:58,857 : INFO  : main :  : NodeLogger :  :  : # number of CPUs=14
+2026-02-11 11:19:58,857 : INFO  : main :  : NodeLogger :  :  : # assertions=off
+2026-02-11 11:19:58,861 : INFO  : main :  : NodeLogger :  :  : # host=FRLYONW88N5KD4
+2026-02-11 11:19:58,865 : INFO  : main :  : NodeLogger :  :  : # username=a541854
+2026-02-11 11:19:58,865 : INFO  : main :  : NodeLogger :  :  : # max mem=8192MB
+2026-02-11 11:19:58,866 : INFO  : main :  : NodeLogger :  :  : # application=org.knime.product.KNIME_APPLICATION
+2026-02-11 11:19:58,900 : INFO  : main :  : NodeLogger :  :  : # KNID=11-48185003a0dc7e3d-01-6baac192b6dcb400
+2026-02-11 11:19:58,900 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-02-11 11:19:55,927 : INFO  : main :  : ProfileManager :  :  : Downloading profiles from https://udp-knime-dev.volvogroup.net:8443/knime/rest/v4/profiles/contents?profiles=executor%2Cmountpoint%2Cdatabricks%2Cclient_update_sites
+2026-02-11 11:19:55,927 : ERROR : main :  : ProfileManager :  :  : Could not download profiles from https://udp-knime-dev.volvogroup.net:8443/knime/rest/v4/profiles/contents: Connect to udp-knime-dev.volvogroup.net:8443 [udp-knime-dev.volvogroup.net/10.132.36.28] failed: Connect timed out. No profiles will be applied.
+org.apache.http.conn.ConnectTimeoutException: Connect to udp-knime-dev.volvogroup.net:8443 [udp-knime-dev.volvogroup.net/10.132.36.28] failed: Connect timed out
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:151)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.knime.product.profiles.ProfileManager.downloadProfiles(ProfileManager.java:363)
+	at org.knime.product.profiles.ProfileManager.fetchProfileContents(ProfileManager.java:277)
+	at org.knime.product.profiles.ProfileManager.applyProfiles(ProfileManager.java:172)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:175)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: java.net.SocketTimeoutException: Connect timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 25 more
+2026-02-11 11:20:01,006 : INFO  : python-gateway-creator-0 :  : ExternalProcessMemoryWatchdog :  :  : KNIME External Process Watchdog memory limit not configured
+2026-02-11 11:20:01,010 : INFO  : python-gateway-creator-0 :  : ExternalProcessMemoryWatchdog :  :  : External process memory watchdog is disabled, because the memory limit is set to -1
+2026-02-11 11:20:02,007 : INFO  : main :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_database_drivers.txt' does not exist.
+2026-02-11 11:20:02,007 : INFO  : main :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_database_urls.txt' does not exist.
+2026-02-11 11:20:02,792 : INFO  : KNIME-Worker-3 :  : ExplorerMountTable :  :  : Mounted Explorer Temp Space 'knime-temp-space' - com.knime.explorer.tempspace
+2026-02-11 11:20:05,753 : INFO  : main :  : KaiHandlerFactoryRegistry :  :  : No KaiHandlerFactory registered. The KNIME AI Assistant functionality is not available.
+2026-02-11 11:20:06,113 : INFO  : main :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_org.knime.kerberos.name.txt' does not exist.
+2026-02-11 11:20:06,479 : INFO  : main :  : KNIMECorePlugin :  :  : Setting console view log level to WARN
+2026-02-11 11:20:07,631 : INFO  : main :  : KnimeBrowserView :  :  : %cinfo%c Injecting global logger 
+      background: #00BCD4;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2026-02-11 11:20:25,161 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_string2date-formats.txt' does not exist.
+2026-02-11 11:20:28,260 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_createFileNameHistoryKey.txt' does not exist.
+2026-02-11 11:20:28,677 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-02-11 11:20:29,856 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_jfc-date-formats.txt' does not exist.
+2026-02-11 11:20:30,066 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file 'C:\DATA\develop\music-data\knime-workspace\.metadata\knime\history_mol_parser_types.txt' does not exist.
+2026-02-11 11:20:57,520 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=bigquery, name=Google BigQuery, description=Google BigQuery)
+2026-02-11 11:20:59,037 : INFO  : Node Repository Initializer :  : HyphenationPatternFactory :  :  : Registering Hyphenation Patterns ...
+2026-02-11 11:20:59,156 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.PartOfSpeechTag
+2026-02-11 11:20:59,158 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.BiomedicalNeTag
+2026-02-11 11:20:59,158 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.NamedEntityTag
+2026-02-11 11:20:59,159 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.MultiwordTermTag
+2026-02-11 11:20:59,160 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.OscarChemDefaultTag
+2026-02-11 11:20:59,161 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.PharmaDefaultTag
+2026-02-11 11:20:59,161 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.FrenchTreebankTag
+2026-02-11 11:20:59,162 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.STTSPartOfSpeechTag
+2026-02-11 11:20:59,162 : INFO  : Node Repository Initializer :  : TagFactory :  :  : Added TagBuilder: class org.knime.ext.textprocessing.data.SentimentTag
+2026-02-11 11:37:46,920 : INFO  : ModalContext :  : LoadWorkflowRunnable :  :  : New workflow created.
+2026-02-11 11:38:14,657 : INFO  : KNIME-Worker-11-CSV Reader 3:3 :  : LocalNodeExecutionJob : CSV Reader : 3:3 : CSV Reader 3:3 End execute (0 secs)
+2026-02-11 11:38:14,668 : INFO  : KNIME-Worker-12-Table Column to Variable 3:4 :  : LocalNodeExecutionJob : Table Column to Variable : 3:4 : Table Column to Variable 3:4 End execute (0 secs)
+2026-02-11 11:39:20,248 : WARN  : comm-pool-thread-3 :  : Node : JSON Reader : 3:5 : Please specify a file
+2026-02-11 11:44:11,303 : WARN  : comm-pool-thread-6 :  : Node : String Manipulation (Variable) : 3:6 : No expression has been set.
+2026-02-11 11:44:11,305 : WARN  : comm-pool-thread-6 :  : Node : String Manipulation (Variable) : 3:6 : No expression has been set.
+2026-02-11 11:45:05,786 : WARN  : main :  : WrappedNodeDialog : String Manipulation (Variable) : 3:6 : failed to apply settings: Unable to compile expression
+ERROR at line 66
+Syntax error, insert ")" to complete Expression
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+
+ERROR at line 66
+Syntax error, insert ";" to complete BlockStatements
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+org.knime.core.node.InvalidSettingsException: Unable to compile expression
+ERROR at line 66
+Syntax error, insert ")" to complete Expression
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+
+ERROR at line 66
+Syntax error, insert ";" to complete BlockStatements
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+	at org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeDialog.saveSettingsTo(StringManipulationNodeDialog.java:419)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:553)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:792)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: org.knime.ext.sun.nodes.script.compile.CompilationFailedException: Unable to compile expression
+ERROR at line 66
+Syntax error, insert ")" to complete Expression
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+
+ERROR at line 66
+Syntax error, insert ";" to complete BlockStatements
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+	at org.knime.ext.sun.nodes.script.compile.JavaCodeCompiler.compile(JavaCodeCompiler.java:333)
+	at org.knime.ext.sun.nodes.script.expression.Expression.<init>(Expression.java:220)
+	at org.knime.ext.sun.nodes.script.expression.Expression.compile(Expression.java:650)
+	at org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeDialog.saveSettingsTo(StringManipulationNodeDialog.java:417)
+	... 17 more
+2026-02-11 11:45:25,740 : WARN  : main :  : WrappedNodeDialog : String Manipulation (Variable) : 3:6 : failed to apply settings: Unable to compile expression
+ERROR at line 66
+Syntax error, insert ")" to complete Expression
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+
+ERROR at line 66
+Syntax error, insert ";" to complete BlockStatements
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+org.knime.core.node.InvalidSettingsException: Unable to compile expression
+ERROR at line 66
+Syntax error, insert ")" to complete Expression
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+
+ERROR at line 66
+Syntax error, insert ";" to complete BlockStatements
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+	at org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeDialog.saveSettingsTo(StringManipulationNodeDialog.java:419)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:553)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:792)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: org.knime.ext.sun.nodes.script.compile.CompilationFailedException: Unable to compile expression
+ERROR at line 66
+Syntax error, insert ")" to complete Expression
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+
+ERROR at line 66
+Syntax error, insert ";" to complete BlockStatements
+  Line : 65    public java.lang.String internalEvaluate() throws Abort {
+  Line : 66  return join(__variable_0,"/idagio/album);"
+	at org.knime.ext.sun.nodes.script.compile.JavaCodeCompiler.compile(JavaCodeCompiler.java:333)
+	at org.knime.ext.sun.nodes.script.expression.Expression.<init>(Expression.java:220)
+	at org.knime.ext.sun.nodes.script.expression.Expression.compile(Expression.java:650)
+	at org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeDialog.saveSettingsTo(StringManipulationNodeDialog.java:417)
+	... 17 more
+2026-02-11 11:45:41,276 : INFO  : KNIME-Worker-13-String Manipulation (Variable) 3:6 :  : LocalNodeExecutionJob : String Manipulation (Variable) : 3:6 : String Manipulation (Variable) 3:6 End execute (0 secs)
+2026-02-11 11:45:45,253 : WARN  : comm-pool-thread-8 :  : Node : JSON Reader : 3:5 : Please specify a file
+2026-02-11 11:50:18,136 : WARN  : comm-pool-thread-9 :  : Node : JSON Reader : 3:5 : Please specify a file
+2026-02-11 11:50:18,138 : WARN  : comm-pool-thread-9 :  : Node : JSON Reader : 3:5 : Please specify a file
+2026-02-11 11:50:32,983 : WARN  : main :  : Node : JSON Reader : 3:5 : Please specify a file
+2026-02-11 11:50:35,491 : INFO  : KNIME-Worker-14-String to Path (Variable) 3:7 :  : LocalNodeExecutionJob : String to Path (Variable) : 3:7 : String to Path (Variable) 3:7 End execute (0 secs)
+2026-02-11 11:50:35,492 : WARN  : KNIME-Worker-14-String to Path (Variable) 3:7 :  : Node : JSON Reader : 3:5 : Please specify a file
+2026-02-11 11:50:57,591 : ERROR : KNIME-Worker-15-JSON Reader 3:5 :  : Node : JSON Reader : 3:5 : Execute failed: C:\DATA\develop\music-data\data\idagio\album is a folder. Please specify a file.
+org.knime.core.node.InvalidSettingsException: C:\DATA\develop\music-data\data\idagio\album is a folder. Please specify a file.
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:273)
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:223)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.handleSinglePath(AbstractFileChooserPathAccessor.java:242)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getFSPaths(AbstractFileChooserPathAccessor.java:229)
+	at org.knime.filehandling.core.node.table.reader.paths.PathSettings$1.getItems(PathSettings.java:105)
+	at org.knime.filehandling.core.node.table.reader.TableReaderNodeModel.getPaths(TableReaderNodeModel.java:195)
+	at org.knime.filehandling.core.node.table.reader.TableReaderNodeModel.execute(TableReaderNodeModel.java:158)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:592)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1286)
+	at org.knime.core.node.Node.execute(Node.java:1049)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:605)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:198)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2026-02-11 11:51:39,174 : ERROR : KNIME-Worker-16-JSON Reader 3:5 :  : Node : JSON Reader : 3:5 : Execute failed: Unexpected character ('<' (code 60)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 2, column: 6]
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('<' (code 60)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 2, column: 6]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:2481)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:752)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:676)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleOddValue(ReaderBasedJsonParser.java:2088)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextToken(ReaderBasedJsonParser.java:812)
+	at com.fasterxml.jackson.databind.ObjectReader._initForReading(ObjectReader.java:357)
+	at com.fasterxml.jackson.databind.ObjectReader._bind(ObjectReader.java:2089)
+	at com.fasterxml.jackson.databind.ObjectReader.readValue(ObjectReader.java:1249)
+	at com.fasterxml.jackson.databind.ObjectReader.readValue(ObjectReader.java:1267)
+	at org.knime.core.data.json.internal.JSONNodeCellReader.readJSON(JSONNodeCellReader.java:143)
+	at org.knime.core.data.json.JSONCellContent.parse(JSONCellContent.java:224)
+	at org.knime.core.data.json.JSONCellContent.<init>(JSONCellContent.java:135)
+	at org.knime.core.data.json.JSONCellFactory.create(JSONCellFactory.java:214)
+	at org.knime.json.node.filehandling.reader.JSONBlobRead.next(JSONBlobRead.java:99)
+	at org.knime.filehandling.core.node.table.reader.read.CheckSameSizeRead.next(CheckSameSizeRead.java:78)
+	at org.knime.filehandling.core.node.table.reader.DefaultIndividualTableReader.fillOutputWithProgress(DefaultIndividualTableReader.java:143)
+	at org.knime.filehandling.core.node.table.reader.DefaultIndividualTableReader.fillOutput(DefaultIndividualTableReader.java:121)
+	at org.knime.filehandling.core.node.table.reader.DefaultMultiTableRead.fillRowOutput(DefaultMultiTableRead.java:200)
+	at org.knime.json.node.filehandling.reader.JSONMultiTableReadFactory$JSONMultiTableRead.fillRowOutput(JSONMultiTableReadFactory.java:196)
+	at org.knime.filehandling.core.node.table.reader.util.MultiTableRead.readTable(MultiTableRead.java:128)
+	at org.knime.filehandling.core.node.table.reader.MultiTableReader.readTable(MultiTableReader.java:178)
+	at org.knime.filehandling.core.node.table.reader.TableReaderNodeModel.execute(TableReaderNodeModel.java:160)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:592)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1286)
+	at org.knime.core.node.Node.execute(Node.java:1049)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:605)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:198)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2026-02-11 11:52:36,672 : INFO  : KNIME-Worker-17-JSON Reader 3:5 :  : LocalNodeExecutionJob : JSON Reader : 3:5 : JSON Reader 3:5 End execute (0 secs)
+2026-02-11 11:52:37,142 : ERROR : main :  : KnimeBrowserView :  :  : TypeError: Cannot read properties of null (reading 'shadowRoot') (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 14)
+2026-02-11 11:56:34,127 : WARN  : comm-pool-thread-12 :  : Node : JSON Path : 3:8 : No JSON path was specified, please enter at least one expression!
+2026-02-11 11:58:57,983 : INFO  : KNIME-Worker-18-JSON Path 3:8 :  : LocalNodeExecutionJob : JSON Path : 3:8 : JSON Path 3:8 End execute (0 secs)
+2026-02-11 12:00:27,165 : INFO  : KNIME-Worker-23-JSON Path 3:8 :  : LocalNodeExecutionJob : JSON Path : 3:8 : JSON Path 3:8 End execute (0 secs)
+2026-02-11 12:02:46,194 : INFO  : KNIME-Worker-28-JSON Path 3:8 :  : LocalNodeExecutionJob : JSON Path : 3:8 : JSON Path 3:8 End execute (0 secs)
+2026-02-11 12:03:01,105 : INFO  : KNIME-Worker-33-Ungroup 3:9 :  : LocalNodeExecutionJob : Ungroup : 3:9 : Ungroup 3:9 End execute (0 secs)
+2026-02-11 12:04:34,077 : INFO  : KNIME-Worker-34-JSON Path 3:8 :  : LocalNodeExecutionJob : JSON Path : 3:8 : JSON Path 3:8 End execute (0 secs)
+2026-02-11 12:04:44,028 : INFO  : KNIME-Worker-39-Ungroup 3:9 :  : LocalNodeExecutionJob : Ungroup : 3:9 : Ungroup 3:9 End execute (0 secs)
+2026-02-11 12:07:23,730 : INFO  : KNIME-Worker-40-JSON Path 3:8 :  : LocalNodeExecutionJob : JSON Path : 3:8 : JSON Path 3:8 End execute (0 secs)
+2026-02-11 12:07:32,753 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: No such node ID: 3:9 valid [3:3, 3:4, 3:5, 3:6, 3:7, 3:8] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2026-02-11 12:07:32,754 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) Error: No such node ID: 3:9 valid [3:3, 3:4, 3:5, 3:6, 3:7, 3:8] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 22)
+2026-02-11 12:09:34,577 : INFO  : KNIME-Worker-45-JSON Path 3:8 :  : LocalNodeExecutionJob : JSON Path : 3:8 : JSON Path 3:8 End execute (0 secs)
+2026-02-11 12:09:54,436 : INFO  : KNIME-Worker-50-JSON Path 3:8 :  : LocalNodeExecutionJob : JSON Path : 3:8 : JSON Path 3:8 End execute (0 secs)
+2026-02-11 12:10:04,067 : INFO  : KNIME-Worker-55-JSON to Table 3:9 :  : LocalNodeExecutionJob : JSON to Table : 3:9 : JSON to Table 3:9 End execute (0 secs)
+2026-02-11 12:10:46,498 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: No such node ID: 3:9 valid [3:3, 3:4, 3:5, 3:6, 3:7, 3:8] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2026-02-11 12:10:46,499 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) Error: No such node ID: 3:9 valid [3:3, 3:4, 3:5, 3:6, 3:7, 3:8] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 22)
+2026-02-11 12:11:01,111 : INFO  : KNIME-Worker-45-Ungroup 3:9 :  : LocalNodeExecutionJob : Ungroup : 3:9 : Ungroup 3:9 End execute (0 secs)
+2026-02-11 12:13:33,992 : INFO  : KNIME-Worker-56-JSON Path 3:8 :  : LocalNodeExecutionJob : JSON Path : 3:8 : JSON Path 3:8 End execute (0 secs)
+2026-02-11 12:13:38,254 : INFO  : KNIME-Worker-61-Ungroup 3:9 :  : LocalNodeExecutionJob : Ungroup : 3:9 : Ungroup 3:9 End execute (0 secs)
+2026-02-11 12:14:33,949 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error making RPC call 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: No such node ID: 3:10 valid [3:3, 3:4, 3:5, 3:6, 3:7, 3:8, 3:9] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 64)
+2026-02-11 12:14:33,950 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) Error: No such node ID: 3:10 valid [3:3, 3:4, 3:5, 3:6, 3:7, 3:8, 3:9] (source: http://org.knime.ui.java/assets/index-PyhZB-uQ.js; line: 22)
+2026-02-11 12:14:42,706 : WARN  : comm-pool-thread-25 :  : Node : Row Filter : 3:10 : At least one filter criterion is needed.
+2026-02-11 12:14:56,406 : INFO  : KNIME-Worker-65-Row Filter 3:10 :  : LocalNodeExecutionJob : Row Filter : 3:10 : Row Filter 3:10 End execute (0 secs)
+2026-02-11 12:15:20,383 : INFO  : KNIME-Worker-66-Duplicate Row Filter 3:11 :  : LocalNodeExecutionJob : Duplicate Row Filter : 3:11 : Duplicate Row Filter 3:11 End execute (0 secs)
+2026-02-11 12:15:48,921 : WARN  : comm-pool-thread-25 :  : Node : String Manipulation : 3:12 : No expression has been set.
+2026-02-11 12:18:07,837 : WARN  : main :  : WrappedNodeDialog : String Manipulation : 3:12 : failed to apply settings: No such column:  ,  (at line 1)
+org.knime.core.node.InvalidSettingsException: No such column:  ,  (at line 1)
+	at org.knime.ext.sun.nodes.script.expression.Expression.compile(Expression.java:613)
+	at org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeDialog.saveSettingsTo(StringManipulationNodeDialog.java:417)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:553)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:792)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+2026-02-11 12:18:25,597 : WARN  : main :  : WrappedNodeDialog : String Manipulation : 3:12 : failed to apply settings: No such column: 1); (at line 1)
+org.knime.core.node.InvalidSettingsException: No such column: 1); (at line 1)
+	at org.knime.ext.sun.nodes.script.expression.Expression.compile(Expression.java:613)
+	at org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeDialog.saveSettingsTo(StringManipulationNodeDialog.java:417)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:553)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:792)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+2026-02-11 12:18:42,107 : INFO  : KNIME-Worker-67-String Manipulation 3:12 :  : LocalNodeExecutionJob : String Manipulation : 3:12 : String Manipulation 3:12 End execute (0 secs)
+2026-02-11 12:20:33,366 : INFO  : KNIME-Worker-68-String Manipulation 3:12 :  : LocalNodeExecutionJob : String Manipulation : 3:12 : String Manipulation 3:12 End execute (0 secs)
+2026-02-11 12:20:41,362 : INFO  : KNIME-Worker-69-JSON Reader 3:5 :  : LocalNodeExecutionJob : JSON Reader : 3:5 : JSON Reader 3:5 End execute (0 secs)
+2026-02-11 12:20:41,380 : INFO  : KNIME-Worker-70-JSON Path 3:8 :  : LocalNodeExecutionJob : JSON Path : 3:8 : JSON Path 3:8 End execute (0 secs)
+2026-02-11 12:20:41,387 : INFO  : KNIME-Worker-76-Ungroup 3:9 :  : LocalNodeExecutionJob : Ungroup : 3:9 : Ungroup 3:9 End execute (0 secs)
+2026-02-11 12:20:41,399 : INFO  : KNIME-Worker-77-Row Filter 3:10 :  : LocalNodeExecutionJob : Row Filter : 3:10 : Row Filter 3:10 End execute (0 secs)
+2026-02-11 12:20:41,422 : INFO  : KNIME-Worker-78-Duplicate Row Filter 3:11 :  : LocalNodeExecutionJob : Duplicate Row Filter : 3:11 : Duplicate Row Filter 3:11 End execute (0 secs)
+2026-02-11 12:20:41,430 : INFO  : KNIME-Worker-68-String Manipulation 3:12 :  : LocalNodeExecutionJob : String Manipulation : 3:12 : String Manipulation 3:12 End execute (0 secs)
+2026-02-11 12:21:49,933 : INFO  : KNIME shutdown hooks - org.knime.core.util.FileUtil$$Lambda$471/0x000000080101e6e0 :  : FileUtil :  :  : Deleting 7 temporary files.
