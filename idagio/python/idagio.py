@@ -1,12 +1,15 @@
+from flask import Flask, request, jsonify
 import requests
 from bs4 import BeautifulSoup
 import json
 import os
 import re
 
-url = "https://app.idagio.com/fr/albums/594cdd9a-728e-4dcb-a751-80a8034d5cc4"
+app = Flask(__name__)
 
-headers = {
+# Configuration par défaut
+DEFAULT_OUTPUT_DIR = r"C:\DATA\develop\music-data\data\idagio\album"
+HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -72,31 +75,22 @@ def slugify(value: str) -> str:
     return value or "album"
 
 
-response = requests.get(url, headers=headers, verify=False)
+def scrape_idagio_album(url: str, output_dir: str | None = None, save_html: bool = False):
+    """
+    Fonction principale de scraping :
+    - télécharge la page
+    - extrait les albums depuis les scripts ld+json
+    - éventuellement sauvegarde les JSON et le HTML
+    - renvoie { "albums": [...] }
+    """
+    resp = requests.get(url, headers=HEADERS, verify=False, timeout=15)
+    if resp.status_code != 200:
+        raise RuntimeError(f"Erreur HTTP {resp.status_code} pour URL {url}")
 
-if response.status_code == 200:
-    html = response.text
+    html = resp.text
     soup = BeautifulSoup(html, "html.parser")
 
-    # Titre de la page
-    title = soup.find("title")
-    print("Titre de la page :", title.get_text(strip=True) if title else "Non trouvé")
-
-    # 1) Extraire toutes les balises <meta> sous forme de dicts
-    metas = []
-    for meta in soup.find_all("meta"):
-        meta_info = {}
-        for attr in ["name", "property", "content", "charset", "http-equiv"]:
-            if meta.has_attr(attr):
-                meta_info[attr] = meta[attr]
-        if meta_info:
-            metas.append(meta_info)
-
-    print("=== META TAGS (simples) ===")
-    for m in metas:
-        print(m)
-
-    # 2) Extraire le JSON des balises <script type="application/ld+json">
+    # 1) Extraire le JSON des balises <script type="application/ld+json">
     ld_json_blocks = []
     for script in soup.find_all("script", attrs={"type": "application/ld+json"}):
         raw = script.string
@@ -105,48 +99,83 @@ if response.status_code == 200:
         try:
             data = json.loads(raw)
         except json.JSONDecodeError:
-            print("JSON invalide dans un <script type='application/ld+json'>")
+            # On ignore les scripts invalides
             continue
         ld_json_blocks.append(data)
 
-    # 3) Utiliser la fonction factorisée pour construire albums[]
+    # 2) Construire albums[]
     albums = extract_albums_from_ld_json(ld_json_blocks)
-
-    # 4) Affichage global (optionnel)
     output = {"albums": albums}
-    print("\n=== LD+JSON ALBUMS ===")
-    print(json.dumps(output, ensure_ascii=False, indent=2))
 
-    # 5) Écrire chaque album dans un fichier "<name>__<artists>.json"
-    output_dir = r"C:\DATA\develop\music-data\data\idagio\album"
-    os.makedirs(output_dir, exist_ok=True)
+    # 3) Sauvegarde sur disque (optionnelle)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
 
-    for album in albums:
-        album_name = album.get("name", "album")
-        artists = album.get("byArtist", [])
+        # Sauvegarder chaque album en JSON
+        for album in albums:
+            album_name = album.get("name", "album")
+            artists = album.get("byArtist", [])
 
-        # construire une chaîne avec les artistes, ex: "lorenzo-micheli_matteo-mela"
-        if artists:
-            artists_str = "_".join(artists)
-            base_name = f"{album_name}__{artists_str}"
-        else:
-            base_name = album_name
+            if artists:
+                artists_str = "_".join(artists)
+                base_name = f"{album_name}__{artists_str}"
+            else:
+                base_name = album_name
 
-        safe_name = slugify(base_name)
-        file_path = os.path.join(output_dir, f"{safe_name}.json")
+            safe_name = slugify(base_name)
+            file_path = os.path.join(output_dir, f"{safe_name}.json")
 
-        with open(file_path, "w", encoding="utf-8") as f:
-            json.dump(album, f, ensure_ascii=False, indent=2)
+            with open(file_path, "w", encoding="utf-8") as f:
+                json.dump(album, f, ensure_ascii=False, indent=2)
 
-        print(f"Album sauvegardé dans '{file_path}'")
+        # Sauvegarder le HTML brut (si demandé)
+        if save_html:
+            html_path = os.path.join(output_dir, "idagio_album.html")
+            with open(html_path, "w", encoding="utf-8") as f:
+                f.write(html)
 
-    # 6) Sauvegarder le HTML pour debug
-    html_path = os.path.join(output_dir, "idagio_album.html")
-    with open(html_path, "w", encoding="utf-8") as f:
-        f.write(html)
-    print(f"HTML sauvegardé dans '{html_path}'")
+    return output
 
-else:
-    print("Erreur HTTP :", response.status_code)
-    print(response.headers)
-    print(response.text[:1_000])
+
+@app.route("/extract-album", methods=["POST"])
+def extract_album():
+    """
+    Endpoint POST /extract-album
+    Body JSON attendu :
+    {
+      "url": "https://app.idagio.com/fr/albums/archora-aion",
+      "save_to_disk": true,           # optionnel
+      "output_dir": "C:/chemin/...",  # optionnel
+      "save_html": false              # optionnel
+    }
+    """
+    data = request.get_json(silent=True) or {}
+    url = data.get("url")
+
+    if not url:
+        return jsonify({"error": "Champ 'url' requis dans le JSON d'entrée"}), 400
+
+    save_to_disk = data.get("save_to_disk", False)
+    save_html = data.get("save_html", False)
+    output_dir = data.get("output_dir") if save_to_disk else None
+
+    if save_to_disk and not output_dir:
+        # Si l'utilisateur veut sauvegarder mais ne précise pas de dossier,
+        # on utilise DEFAULT_OUTPUT_DIR
+        output_dir = DEFAULT_OUTPUT_DIR
+
+    try:
+        result = scrape_idagio_album(url, output_dir=output_dir, save_html=save_html)
+        return jsonify(result), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route("/health", methods=["GET"])
+def health():
+    return jsonify({"status": "ok"}), 200
+
+
+if __name__ == "__main__":
+    # Pour le dev uniquement. En prod, utilise gunicorn/uwsgi, etc.
+    app.run(host="0.0.0.0", port=5000, debug=True)
