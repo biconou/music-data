@@ -6,7 +6,9 @@ load_dotenv()
 
 idagio_bp = Blueprint("idagio", __name__, url_prefix="/idagio")
 
+VERIFY_SSL = os.getenv("VERIFY_SSL")
 DATA_DIR = os.getenv("DATA_DIR")
+OUTPUT_DIR = os.path.join(DATA_DIR, "idagio","album")
 
 @idagio_bp.route("/extract-album", methods=["POST"])
 def extract_album():
@@ -30,12 +32,13 @@ def extract_album():
     output_dir = data.get("output_dir") if save_to_disk else None
 
     if save_to_disk and not output_dir:
-        output_dir = os.path.join(DATA_DIR, "idagio","album")
+        output_dir = OUTPUT_DIR
 
     try:
         result = scrape_idagio_album(
             url,
             output_dir=output_dir,
+            verify=VERIFY_SSL,
             save_html=save_html
         )
         return jsonify(result), 200

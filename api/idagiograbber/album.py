@@ -12,7 +12,6 @@ HEADERS = {
     )
 }
 
-
 def extract_albums_from_ld_json(ld_json_blocks):
     """
     Prend une liste de blocs JSON (ld_json_blocks) et renvoie
@@ -70,7 +69,20 @@ def slugify(value: str) -> str:
     return value or "album"
 
 
-def scrape_idagio_album(url: str, output_dir: str | None = None, save_html: bool = False):
+def download_html_album_page(url, headers=HEADERS, verify=True, timeout=15, save_html: bool = False):
+    resp = requests.get(url, headers=HEADERS, verify=False, timeout=15)
+    if resp.status_code != 200:
+        raise RuntimeError(f"Erreur HTTP {resp.status_code} pour URL {url}")
+    html = resp.text
+    # Sauvegarder le HTML brut (si demandé)
+    if save_html:
+        html_path = os.path.join(output_dir, "idagio_album.html")
+        with open(html_path, "w", encoding="utf-8") as f:
+            f.write(html)
+
+    return html
+
+def scrape_idagio_album(url: str, output_dir: str | None = None, verify=True, save_html: bool = False):
     """
     Fonction principale de scraping :
     - télécharge la page
@@ -78,11 +90,7 @@ def scrape_idagio_album(url: str, output_dir: str | None = None, save_html: bool
     - éventuellement sauvegarde les JSON et le HTML
     - renvoie { "albums": [...] }
     """
-    resp = requests.get(url, headers=HEADERS, verify=False, timeout=15)
-    if resp.status_code != 200:
-        raise RuntimeError(f"Erreur HTTP {resp.status_code} pour URL {url}")
-
-    html = resp.text
+    html = download_html_album_page(url, headers=HEADERS, verify=verify, timeout=15, save_html=save_html)
     soup = BeautifulSoup(html, "html.parser")
 
     # 1) Extraire le JSON des balises <script type="application/ld+json">
@@ -123,43 +131,4 @@ def scrape_idagio_album(url: str, output_dir: str | None = None, save_html: bool
             with open(file_path, "w", encoding="utf-8") as f:
                 json.dump(album, f, ensure_ascii=False, indent=2)
 
-        # Sauvegarder le HTML brut (si demandé)
-        if save_html:
-            html_path = os.path.join(output_dir, "idagio_album.html")
-            with open(html_path, "w", encoding="utf-8") as f:
-                f.write(html)
-
     return output
-
-
-    """
-    Endpoint POST /extract-album
-    Body JSON attendu :
-    {
-      "url": "https://app.idagio.com/fr/albums/archora-aion",
-      "save_to_disk": true,           # optionnel
-      "output_dir": "C:/chemin/...",  # optionnel
-      "save_html": false              # optionnel
-    }
-    """
-    data = request.get_json(silent=True) or {}
-    url = data.get("url")
-
-    if not url:
-        return jsonify({"error": "Champ 'url' requis dans le JSON d'entrée"}), 400
-
-    save_to_disk = data.get("save_to_disk", False)
-    save_html = data.get("save_html", False)
-    output_dir = data.get("output_dir") if save_to_disk else None
-
-    if save_to_disk and not output_dir:
-        # Si l'utilisateur veut sauvegarder mais ne précise pas de dossier,
-        # on utilise DEFAULT_OUTPUT_DIR
-        output_dir = DEFAULT_OUTPUT_DIR
-
-    try:
-        result = scrape_idagio_album(url, output_dir=output_dir, save_html=save_html)
-        return jsonify(result), 200
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-
