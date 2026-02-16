@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 import re
+from playwright.sync_api import sync_playwright
 
 HEADERS = {
     "User-Agent": (
@@ -82,6 +83,27 @@ def download_html_album_page(url, headers=HEADERS, verify=True, timeout=15, save
 
     return html
 
+def download_with_browser(url, save_html: bool = False,output_dir: str | None = None):
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                       "AppleWebKit/537.36 (KHTML, like Gecko) "
+                       "Chrome/122.0.0.0 Safari/537.36"
+        )
+
+        page = context.new_page()
+        page.goto(url, wait_until="networkidle")
+
+        html = page.content()
+        browser.close()
+
+    # Sauvegarder le HTML brut (si demandé)
+    if save_html:
+        html_path = os.path.join(output_dir, "idagio_album.html")
+        with open(html_path, "w", encoding="utf-8") as f:
+            f.write(html)
+
 def scrape_idagio_album(url: str, output_dir: str | None = None, verify=True, save_html: bool = False):
     """
     Fonction principale de scraping :
@@ -90,7 +112,9 @@ def scrape_idagio_album(url: str, output_dir: str | None = None, verify=True, sa
     - éventuellement sauvegarde les JSON et le HTML
     - renvoie { "albums": [...] }
     """
-    html = download_html_album_page(url, headers=HEADERS, verify=verify, timeout=15, save_html=save_html)
+    #html = download_html_album_page(url, headers=HEADERS, verify=verify, timeout=15, save_html=save_html)
+    #html = download_with_browser(url)
+    html = download_with_browser(url=url, save_html=save_html, output_dir=output_dir)
     soup = BeautifulSoup(html, "html.parser")
 
     # 1) Extraire le JSON des balises <script type="application/ld+json">
