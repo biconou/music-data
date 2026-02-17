@@ -94,6 +94,7 @@ def download_with_browser(url, save_html: bool = False,output_dir: str | None = 
 
         page = context.new_page()
         page.goto(url, wait_until="networkidle")
+        page.locator("[data-test=\"cookie-banner.allow-all-btn\"]").click()
 
         html = page.content()
         browser.close()
