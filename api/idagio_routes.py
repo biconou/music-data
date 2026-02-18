@@ -10,37 +10,18 @@ VERIFY_SSL = os.getenv("VERIFY_SSL")
 DATA_DIR = os.getenv("DATA_DIR")
 OUTPUT_DIR = os.path.join(DATA_DIR, "idagio","album")
 
-@idagio_bp.route("/extract-album", methods=["POST"])
+@idagio_bp.route("/extract-album", methods=["GET"])
 def extract_album():
     """
-    Body JSON attendu :
-    {
-      "url": "https://app.idagio.com/fr/albums/archora-aion",
-      "save_to_disk": true,           # optionnel
-      "output_dir": "C:/chemin/...",  # optionnel
-      "save_html": false              # optionnel
-    }
+    Expects a query parameter:
+      /extract-album?album=<album_url_or_id>
     """
-    data = request.get_json(silent=True) or {}
-    url = data.get("url")
-
-    if not url:
-        return jsonify({"error": "Champ 'url' requis dans le JSON d'entrée"}), 400
-
-    save_to_disk = data.get("save_to_disk", False)
-    save_html = data.get("save_html", False)
-    output_dir = data.get("output_dir") if save_to_disk else None
-
-    if save_to_disk and not output_dir:
-        output_dir = OUTPUT_DIR
+    album = request.args.get("album")
+    if not album:
+        return jsonify({"error": "Query parameter 'album' is required"}), 400
 
     try:
-        result = scrape_idagio_album(
-            url,
-            output_dir=output_dir,
-            verify=VERIFY_SSL,
-            save_html=save_html
-        )
+        result = download_html_album_data_from_api(album, OUTPUT_DIR,VERIFY_SSL)
         return jsonify(result), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500

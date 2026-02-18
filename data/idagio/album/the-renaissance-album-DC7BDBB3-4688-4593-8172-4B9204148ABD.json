@@ -1,0 +1,5055 @@
+{
+  "result": {
+    "uuid": "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c",
+    "slug": "the-renaissance-album-DC7BDBB3-4688-4593-8172-4B9204148ABD",
+    "upc": "00028947757269",
+    "tags": null,
+    "copyright": "2005 Deutsche Grammophon Classics",
+    "copyrightYear": 2005,
+    "participants": [
+      {
+        "id": 13636394,
+        "type": "soloist",
+        "numOccurrences": 34,
+        "popularity": 0.0182586637,
+        "ensemble": null,
+        "_key": "Söllscher, Göran ~ 13636394",
+        "participation": 1,
+        "name": "Göran Söllscher",
+        "person": {
+          "_instrumentKey": "Guitar ~ 3316",
+          "instrument": "Guitar",
+          "instrumentId": 3316,
+          "forename": "Göran",
+          "surname": "Söllscher"
+        }
+      },
+      {
+        "id": 66721,
+        "type": "composer",
+        "numOccurrences": 3,
+        "popularity": 0.0002553847,
+        "ensemble": null,
+        "_key": "Mudarra, Alonso ~ 66721",
+        "participation": 0.08823529411764706,
+        "name": "Alonso Mudarra",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "Alonso",
+          "surname": "Mudarra"
+        }
+      },
+      {
+        "id": 11940727,
+        "type": "composer",
+        "numOccurrences": 2,
+        "popularity": 0.0002864725,
+        "ensemble": null,
+        "_key": "Philips, Peter ~ 11940727",
+        "participation": 0.058823529411764705,
+        "name": "Peter Philips",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "Peter",
+          "surname": "Philips"
+        }
+      },
+      {
+        "id": 11879342,
+        "type": "composer",
+        "numOccurrences": 5,
+        "popularity": 0.0003387477,
+        "ensemble": null,
+        "_key": "Milano, Francesco da ~ 11879342",
+        "participation": 0.14705882352941177,
+        "name": "Francesco da Milano",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "Francesco da",
+          "surname": "Milano"
+        }
+      },
+      {
+        "id": 66821,
+        "type": "composer",
+        "numOccurrences": 11,
+        "popularity": 0.0213538314,
+        "ensemble": null,
+        "_key": "Dowland, John ~ 66821",
+        "participation": 0.3235294117647059,
+        "name": "John Dowland",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "John",
+          "surname": "Dowland"
+        }
+      },
+      {
+        "id": 14224595,
+        "type": "composer",
+        "numOccurrences": 1,
+        "popularity": 1.09245e-05,
+        "ensemble": null,
+        "_key": "Schlick, Arnolt ~ 14224595",
+        "participation": 0.029411764705882353,
+        "name": "Arnolt Schlick",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "Arnolt",
+          "surname": "Schlick"
+        }
+      },
+      {
+        "id": 23214379,
+        "type": "composer",
+        "numOccurrences": 4,
+        "popularity": 3.87492e-05,
+        "ensemble": null,
+        "_key": "Neusiedler, Hans ~ 23214379",
+        "participation": 0.11764705882352941,
+        "name": "Hans Neusiedler",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "Hans",
+          "surname": "Neusiedler"
+        }
+      },
+      {
+        "id": 15246552,
+        "type": "composer",
+        "numOccurrences": 1,
+        "popularity": 8.01769e-05,
+        "ensemble": null,
+        "_key": "Molinaro, Simone ~ 15246552",
+        "participation": 0.029411764705882353,
+        "name": "Simone Molinaro",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "Simone",
+          "surname": "Molinaro"
+        }
+      },
+      {
+        "id": 10871823,
+        "type": "composer",
+        "numOccurrences": 2,
+        "popularity": 0.0004617596,
+        "ensemble": null,
+        "_key": "Milán, Luis de ~ 10871823",
+        "participation": 0.058823529411764705,
+        "name": "Luis de Milán",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "Luis de",
+          "surname": "Milán"
+        }
+      },
+      {
+        "id": 15651350,
+        "type": "composer",
+        "numOccurrences": 2,
+        "popularity": 0.000315795,
+        "ensemble": null,
+        "_key": "Narváez, Luis de ~ 15651350",
+        "participation": 0.058823529411764705,
+        "name": "Luis de Narváez",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "Luis de",
+          "surname": "Narváez"
+        }
+      },
+      {
+        "id": 10984271,
+        "type": "composer",
+        "numOccurrences": 2,
+        "popularity": 0.0006023129,
+        "ensemble": null,
+        "_key": "Holborne, Anthony ~ 10984271",
+        "participation": 0.058823529411764705,
+        "name": "Anthony Holborne",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "Anthony",
+          "surname": "Holborne"
+        }
+      },
+      {
+        "id": 12653701,
+        "type": "composer",
+        "numOccurrences": 1,
+        "popularity": 3.01904e-05,
+        "ensemble": null,
+        "_key": "Ballard, Robert ~ 12653701",
+        "participation": 0.029411764705882353,
+        "name": "Robert Ballard",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "Robert",
+          "surname": "Ballard"
+        }
+      }
+    ],
+    "publishDate": "2005-09-30",
+    "trackIds": [
+      "23214151",
+      "23214156",
+      "23214161",
+      "23214187",
+      "23214199",
+      "23214211",
+      "23214216",
+      "23214226",
+      "23214221",
+      "23214231",
+      "23214291",
+      "23214317",
+      "23214329",
+      "23214355",
+      "23214491",
+      "23214503",
+      "23214532",
+      "23416381",
+      "23214573",
+      "23214585",
+      "23214806",
+      "23214873",
+      "23214821",
+      "36343857",
+      "23214838",
+      "23214854",
+      "23214600",
+      "23214901",
+      "23214933",
+      "23214964",
+      "23214983",
+      "23214660",
+      "23214788",
+      "23214995"
+    ],
+    "bookletUrl": null,
+    "title": "The Renaissance Album",
+    "description": "",
+    "longDescription": "",
+    "interestGroupIds": [
+      "62",
+      "5",
+      "102",
+      "1006"
+    ],
+    "lastModified": "2020-02-03T13:05:50+00:00",
+    "id": "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c",
+    "imageUrl": "https://idagio-images.global.ssl.fastly.net/albums/00028947757269/main.jpg",
+    "tracks": [
+      {
+        "id": 23214151,
+        "isrcs": [
+          "DEN960530801"
+        ],
+        "duration": 110,
+        "position": 1,
+        "piece": {
+          "id": 20264422,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "I. Fantasía que contrahaze la harpa en la manera de Lud.",
+          "pieceName": null,
+          "descriptionName": "Fantasía que contrahaze la harpa en la manera de Lud.",
+          "number": null,
+          "workpart": {
+            "id": 20264421,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Lute music  Spain ~ 20264416",
+              "id": 20264416,
+              "defaultRecordingId": 23214143,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66721,
+                      "name": "Alonso Mudarra",
+                      "forename": "Alonso",
+                      "surname": "Mudarra"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66721,
+                "kind": "person",
+                "popularity": 0.0002553847,
+                "playEventCount": 732,
+                "_key": "Mudarra, Alonso ~ 66721",
+                "name": "Alonso Mudarra",
+                "alternativeNames": [],
+                "slugs": [
+                  "66721",
+                  "alonso-mudarra-66721",
+                  "alonso-mudarra"
+                ],
+                "forename": "Alonso",
+                "surname": "Mudarra"
+              },
+              "compositionYear": null,
+              "epoch": {},
+              "genre": {},
+              "subgenre": {},
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": "split in separate entries",
+              "subtitle": null,
+              "title": "Lute music - Spain"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067075314,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214143,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20264416
+          },
+          "interestGroups": [
+            62
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214156,
+        "isrcs": [
+          "DEN960530802"
+        ],
+        "duration": 57,
+        "position": 2,
+        "piece": {
+          "id": 20264425,
+          "popularTitle": null,
+          "position": 2,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "II. Pavana de Alexandre",
+          "pieceName": null,
+          "descriptionName": "Pavana de Alexandre",
+          "number": null,
+          "workpart": {
+            "id": 20264421,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Lute music  Spain ~ 20264416",
+              "id": 20264416,
+              "defaultRecordingId": 23214143,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66721,
+                      "name": "Alonso Mudarra",
+                      "forename": "Alonso",
+                      "surname": "Mudarra"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66721,
+                "kind": "person",
+                "popularity": 0.0002553847,
+                "playEventCount": 732,
+                "_key": "Mudarra, Alonso ~ 66721",
+                "name": "Alonso Mudarra",
+                "alternativeNames": [],
+                "slugs": [
+                  "66721",
+                  "alonso-mudarra-66721",
+                  "alonso-mudarra"
+                ],
+                "forename": "Alonso",
+                "surname": "Mudarra"
+              },
+              "compositionYear": null,
+              "epoch": {},
+              "genre": {},
+              "subgenre": {},
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": "split in separate entries",
+              "subtitle": null,
+              "title": "Lute music - Spain"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067075314,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214143,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20264416
+          },
+          "interestGroups": [
+            62
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214161,
+        "isrcs": [
+          "DEN960530803"
+        ],
+        "duration": 77,
+        "position": 3,
+        "piece": {
+          "id": 20264428,
+          "popularTitle": null,
+          "position": 3,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "III. Gallarda",
+          "pieceName": null,
+          "descriptionName": "Gallarda",
+          "number": null,
+          "workpart": {
+            "id": 20264421,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Lute music  Spain ~ 20264416",
+              "id": 20264416,
+              "defaultRecordingId": 23214143,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66721,
+                      "name": "Alonso Mudarra",
+                      "forename": "Alonso",
+                      "surname": "Mudarra"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66721,
+                "kind": "person",
+                "popularity": 0.0002553847,
+                "playEventCount": 732,
+                "_key": "Mudarra, Alonso ~ 66721",
+                "name": "Alonso Mudarra",
+                "alternativeNames": [],
+                "slugs": [
+                  "66721",
+                  "alonso-mudarra-66721",
+                  "alonso-mudarra"
+                ],
+                "forename": "Alonso",
+                "surname": "Mudarra"
+              },
+              "compositionYear": null,
+              "epoch": {},
+              "genre": {},
+              "subgenre": {},
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": "split in separate entries",
+              "subtitle": null,
+              "title": "Lute music - Spain"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067075314,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214143,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20264416
+          },
+          "interestGroups": [
+            62
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214187,
+        "isrcs": [
+          "DEN960530804"
+        ],
+        "duration": 238,
+        "position": 1,
+        "piece": {
+          "id": 20264542,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Chromatic Pavan (Arr. for Guitar)",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 20264541,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Chromatic Pavan Arr for Guitar ~ 20264536",
+              "id": 20264536,
+              "defaultRecordingId": 25776241,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 11940727,
+                      "name": "Peter Philips",
+                      "forename": "Peter",
+                      "surname": "Philips"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 11940727,
+                "kind": "person",
+                "popularity": 0.0002864725,
+                "playEventCount": 96,
+                "_key": "Philips, Peter ~ 11940727",
+                "name": "Peter Philips",
+                "alternativeNames": [],
+                "slugs": [
+                  "11940727",
+                  "peter-philips-11940727",
+                  "peter-philips"
+                ],
+                "forename": "Peter",
+                "surname": "Philips"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Chromatic Pavan (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067093902,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214179,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20264536
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214199,
+        "isrcs": [
+          "DEN960530805"
+        ],
+        "duration": 77,
+        "position": 1,
+        "piece": {
+          "id": 20264610,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Galliard to the Chromatic Pavan (Arr. for Guitar)",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 20264609,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Galliard to the Chromatic Pavan Arr for Guitar ~ 20264604",
+              "id": 20264604,
+              "defaultRecordingId": 23214191,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 11940727,
+                      "name": "Peter Philips",
+                      "forename": "Peter",
+                      "surname": "Philips"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 11940727,
+                "kind": "person",
+                "popularity": 0.0002864725,
+                "playEventCount": 96,
+                "_key": "Philips, Peter ~ 11940727",
+                "name": "Peter Philips",
+                "alternativeNames": [],
+                "slugs": [
+                  "11940727",
+                  "peter-philips-11940727",
+                  "peter-philips"
+                ],
+                "forename": "Peter",
+                "surname": "Philips"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Galliard to the Chromatic Pavan (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067122604,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214191,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20264604
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214211,
+        "isrcs": [
+          "DEN960530806"
+        ],
+        "duration": 62,
+        "position": 1,
+        "piece": {
+          "id": 20308705,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Fantasia XI in F",
+          "pieceName": null,
+          "descriptionName": "Fantasia XI in F",
+          "number": null,
+          "workpart": {
+            "id": 20308704,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Intavolatura di liuto ~ 20308699",
+              "id": 20308699,
+              "defaultRecordingId": 23214203,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 11879342,
+                      "name": "Francesco da Milano",
+                      "forename": "Francesco da",
+                      "surname": "Milano"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 11879342,
+                "kind": "person",
+                "popularity": 0.0003387477,
+                "playEventCount": 525,
+                "_key": "Milano, Francesco da ~ 11879342",
+                "name": "Francesco da Milano",
+                "alternativeNames": [
+                  "\r\nFrancesco Canova da Milano"
+                ],
+                "slugs": [
+                  "11879342",
+                  "francesco-da-milano-11879342",
+                  "francesco-da-milano"
+                ],
+                "forename": "Francesco da",
+                "surname": "Milano"
+              },
+              "compositionYear": "1546",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Intavolatura di liuto"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067143707,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214203,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20308699
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214216,
+        "isrcs": [
+          "DEN960530807"
+        ],
+        "duration": 185,
+        "position": 2,
+        "piece": {
+          "id": 20308708,
+          "popularTitle": null,
+          "position": 2,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Ricercare LVII in G minor",
+          "pieceName": null,
+          "descriptionName": "Ricercare LVII in G minor",
+          "number": null,
+          "workpart": {
+            "id": 20308704,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Intavolatura di liuto ~ 20308699",
+              "id": 20308699,
+              "defaultRecordingId": 23214203,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 11879342,
+                      "name": "Francesco da Milano",
+                      "forename": "Francesco da",
+                      "surname": "Milano"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 11879342,
+                "kind": "person",
+                "popularity": 0.0003387477,
+                "playEventCount": 525,
+                "_key": "Milano, Francesco da ~ 11879342",
+                "name": "Francesco da Milano",
+                "alternativeNames": [
+                  "\r\nFrancesco Canova da Milano"
+                ],
+                "slugs": [
+                  "11879342",
+                  "francesco-da-milano-11879342",
+                  "francesco-da-milano"
+                ],
+                "forename": "Francesco da",
+                "surname": "Milano"
+              },
+              "compositionYear": "1546",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Intavolatura di liuto"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067143707,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214203,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20308699
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214226,
+        "isrcs": [
+          "DEN960530808"
+        ],
+        "duration": 53,
+        "position": 4,
+        "piece": {
+          "id": 20308714,
+          "popularTitle": null,
+          "position": 4,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Fantasia in C",
+          "pieceName": null,
+          "descriptionName": "Fantasia in C",
+          "number": null,
+          "workpart": {
+            "id": 20308704,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Intavolatura di liuto ~ 20308699",
+              "id": 20308699,
+              "defaultRecordingId": 23214203,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 11879342,
+                      "name": "Francesco da Milano",
+                      "forename": "Francesco da",
+                      "surname": "Milano"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 11879342,
+                "kind": "person",
+                "popularity": 0.0003387477,
+                "playEventCount": 525,
+                "_key": "Milano, Francesco da ~ 11879342",
+                "name": "Francesco da Milano",
+                "alternativeNames": [
+                  "\r\nFrancesco Canova da Milano"
+                ],
+                "slugs": [
+                  "11879342",
+                  "francesco-da-milano-11879342",
+                  "francesco-da-milano"
+                ],
+                "forename": "Francesco da",
+                "surname": "Milano"
+              },
+              "compositionYear": "1546",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Intavolatura di liuto"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067143707,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214203,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20308699
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214221,
+        "isrcs": [
+          "DEN960530809"
+        ],
+        "duration": 44,
+        "position": 3,
+        "piece": {
+          "id": 20308711,
+          "popularTitle": null,
+          "position": 3,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Fantasia XXXV in C minor",
+          "pieceName": null,
+          "descriptionName": "Fantasia XXXV in C minor",
+          "number": null,
+          "workpart": {
+            "id": 20308704,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Intavolatura di liuto ~ 20308699",
+              "id": 20308699,
+              "defaultRecordingId": 23214203,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 11879342,
+                      "name": "Francesco da Milano",
+                      "forename": "Francesco da",
+                      "surname": "Milano"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 11879342,
+                "kind": "person",
+                "popularity": 0.0003387477,
+                "playEventCount": 525,
+                "_key": "Milano, Francesco da ~ 11879342",
+                "name": "Francesco da Milano",
+                "alternativeNames": [
+                  "\r\nFrancesco Canova da Milano"
+                ],
+                "slugs": [
+                  "11879342",
+                  "francesco-da-milano-11879342",
+                  "francesco-da-milano"
+                ],
+                "forename": "Francesco da",
+                "surname": "Milano"
+              },
+              "compositionYear": "1546",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Intavolatura di liuto"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067143707,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214203,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20308699
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214231,
+        "isrcs": [
+          "DEN960530810"
+        ],
+        "duration": 86,
+        "position": 5,
+        "piece": {
+          "id": 20308717,
+          "popularTitle": null,
+          "position": 5,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Fantasia VI in F",
+          "pieceName": null,
+          "descriptionName": "Fantasia VI in F",
+          "number": null,
+          "workpart": {
+            "id": 20308704,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Intavolatura di liuto ~ 20308699",
+              "id": 20308699,
+              "defaultRecordingId": 23214203,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 11879342,
+                      "name": "Francesco da Milano",
+                      "forename": "Francesco da",
+                      "surname": "Milano"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 11879342,
+                "kind": "person",
+                "popularity": 0.0003387477,
+                "playEventCount": 525,
+                "_key": "Milano, Francesco da ~ 11879342",
+                "name": "Francesco da Milano",
+                "alternativeNames": [
+                  "\r\nFrancesco Canova da Milano"
+                ],
+                "slugs": [
+                  "11879342",
+                  "francesco-da-milano-11879342",
+                  "francesco-da-milano"
+                ],
+                "forename": "Francesco da",
+                "surname": "Milano"
+              },
+              "compositionYear": "1546",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Intavolatura di liuto"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067143707,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214203,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20308699
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214291,
+        "isrcs": [
+          "DEN960530811"
+        ],
+        "duration": 83,
+        "position": 1,
+        "piece": {
+          "id": 7391492,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "My Lady Hunsdon's Puffe P. 54",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 7391487,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "My Lady Hunsdons Puffe P 54 ~ 7391480",
+              "id": 7391480,
+              "defaultRecordingId": 10929738,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66821,
+                      "name": "John Dowland",
+                      "forename": "John",
+                      "surname": "Dowland"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66821,
+                "kind": "person",
+                "popularity": 0.0213538314,
+                "playEventCount": 14215,
+                "_key": "Dowland, John ~ 66821",
+                "name": "John Dowland",
+                "alternativeNames": [],
+                "slugs": [
+                  "66821",
+                  "john-dowland-66821",
+                  "john-dowland"
+                ],
+                "forename": "John",
+                "surname": "Dowland"
+              },
+              "compositionYear": "1612",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "My Lady Hunsdon's Puffe P. 54"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067246711,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214283,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 7391480
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214317,
+        "isrcs": [
+          "DEN960530813"
+        ],
+        "duration": 48,
+        "position": 1,
+        "piece": {
+          "id": 20264706,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Almain in D major P. 51 \"A Piece without title\"",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 20264705,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Almain in D major P 51 ~ 20264700",
+              "id": 20264700,
+              "defaultRecordingId": 23214309,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66821,
+                      "name": "John Dowland",
+                      "forename": "John",
+                      "surname": "Dowland"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66821,
+                "kind": "person",
+                "popularity": 0.0213538314,
+                "playEventCount": 14215,
+                "_key": "Dowland, John ~ 66821",
+                "name": "John Dowland",
+                "alternativeNames": [],
+                "slugs": [
+                  "66821",
+                  "john-dowland-66821",
+                  "john-dowland"
+                ],
+                "forename": "John",
+                "surname": "Dowland"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {
+                "id": 2878,
+                "title": "D major",
+                "_key": "D major ~ 2878"
+              },
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": "A Piece without title",
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Almain in D major P. 51"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067433636,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214309,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20264700
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214329,
+        "isrcs": [
+          "DEN960530814"
+        ],
+        "duration": 67,
+        "position": 1,
+        "piece": {
+          "id": 12991400,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "The Shoemaker's Wife, a Toy P. 58",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 12991399,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "The Shoemakers Wife, a Toy P 58 ~ 12991394",
+              "id": 12991394,
+              "defaultRecordingId": 19692015,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66821,
+                      "name": "John Dowland",
+                      "forename": "John",
+                      "surname": "Dowland"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66821,
+                "kind": "person",
+                "popularity": 0.0213538314,
+                "playEventCount": 14215,
+                "_key": "Dowland, John ~ 66821",
+                "name": "John Dowland",
+                "alternativeNames": [],
+                "slugs": [
+                  "66821",
+                  "john-dowland-66821",
+                  "john-dowland"
+                ],
+                "forename": "John",
+                "surname": "Dowland"
+              },
+              "compositionYear": "1600",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "The Shoemaker's Wife, a Toy P. 58"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067449639,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214321,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 12991394
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214355,
+        "isrcs": [
+          "DEN960530815"
+        ],
+        "duration": 74,
+        "position": 2,
+        "piece": {
+          "id": 20264760,
+          "popularTitle": null,
+          "position": 2,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Wer gnad durch klaff",
+          "pieceName": null,
+          "descriptionName": "Wer gnad durch klaff",
+          "number": null,
+          "workpart": {
+            "id": 20264759,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Tabulaturen etlicher Lobgesang ~ 20264754",
+              "id": 20264754,
+              "defaultRecordingId": 23214346,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 14224595,
+                      "name": "Arnolt Schlick",
+                      "forename": "Arnolt",
+                      "surname": "Schlick"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 14224595,
+                "kind": "person",
+                "popularity": 1.09245e-05,
+                "playEventCount": 7,
+                "_key": "Schlick, Arnolt ~ 14224595",
+                "name": "Arnolt Schlick",
+                "alternativeNames": [],
+                "slugs": [
+                  "14224595",
+                  "arnolt-schlick-14224595",
+                  "arnolt-schlick"
+                ],
+                "forename": "Arnolt",
+                "surname": "Schlick"
+              },
+              "compositionYear": "1512",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Tabulaturen etlicher Lobgesang"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067484742,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214346,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20264754
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214491,
+        "isrcs": [
+          "DEN960530816"
+        ],
+        "duration": 58,
+        "position": 1,
+        "piece": {
+          "id": 23214420,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Der Königin tanzt (Eil Welischer tantz) (Arr. for Guitar)",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 23214419,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Der Königin tanzt Eil Welischer tantz Arr for Guitar ~ 23214414",
+              "id": 23214414,
+              "defaultRecordingId": 23214483,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 23214379,
+                      "name": "Hans Neusiedler",
+                      "forename": "Hans",
+                      "surname": "Neusiedler"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 23214379,
+                "kind": "person",
+                "popularity": 3.87492e-05,
+                "playEventCount": 24,
+                "_key": "Neusiedler, Hans ~ 23214379",
+                "name": "Hans Neusiedler",
+                "alternativeNames": [
+                  "Neusidler\r\nNewsidler"
+                ],
+                "slugs": [
+                  "23214379",
+                  "hans-neusiedler-23214379",
+                  "hans-neusiedler"
+                ],
+                "forename": "Hans",
+                "surname": "Neusiedler"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Der Königin tanzt (Eil Welischer tantz) (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067748465,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214483,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 23214414
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214503,
+        "isrcs": [
+          "DEN960530817"
+        ],
+        "duration": 102,
+        "position": 1,
+        "piece": {
+          "id": 23214437,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Ein newgeordent künstlich Lautenbuch: Elslein liebstes Elslein mein (Arr. for Guitar)",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 23214436,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Ein newgeordent künstlich Lautenbuch: Elslein liebstes Elslein mein Arr for Guitar ~ 23214431",
+              "id": 23214431,
+              "defaultRecordingId": 23214495,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 23214379,
+                      "name": "Hans Neusiedler",
+                      "forename": "Hans",
+                      "surname": "Neusiedler"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 23214379,
+                "kind": "person",
+                "popularity": 3.87492e-05,
+                "playEventCount": 24,
+                "_key": "Neusiedler, Hans ~ 23214379",
+                "name": "Hans Neusiedler",
+                "alternativeNames": [
+                  "Neusidler\r\nNewsidler"
+                ],
+                "slugs": [
+                  "23214379",
+                  "hans-neusiedler-23214379",
+                  "hans-neusiedler"
+                ],
+                "forename": "Hans",
+                "surname": "Neusiedler"
+              },
+              "compositionYear": "1536",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Ein newgeordent künstlich Lautenbuch: Elslein liebstes Elslein mein (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067765362,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214495,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 23214431
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214532,
+        "isrcs": [
+          "DEN960530818"
+        ],
+        "duration": 54,
+        "position": 1,
+        "piece": {
+          "id": 23214457,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Ein newgeordent künstlich Lautenbuch: In liebes brunst (Arr. for Guitar)",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 23214456,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Ein newgeordent künstlich Lautenbuch: In liebes brunst Arr for Guitar ~ 23214451",
+              "id": 23214451,
+              "defaultRecordingId": 23214524,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 23214379,
+                      "name": "Hans Neusiedler",
+                      "forename": "Hans",
+                      "surname": "Neusiedler"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 23214379,
+                "kind": "person",
+                "popularity": 3.87492e-05,
+                "playEventCount": 24,
+                "_key": "Neusiedler, Hans ~ 23214379",
+                "name": "Hans Neusiedler",
+                "alternativeNames": [
+                  "Neusidler\r\nNewsidler"
+                ],
+                "slugs": [
+                  "23214379",
+                  "hans-neusiedler-23214379",
+                  "hans-neusiedler"
+                ],
+                "forename": "Hans",
+                "surname": "Neusiedler"
+              },
+              "compositionYear": "1536",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Ein newgeordent künstlich Lautenbuch: In liebes brunst (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067787695,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214524,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 23214451
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23416381,
+        "isrcs": [
+          "DEN960530819"
+        ],
+        "duration": 91,
+        "position": 1,
+        "piece": {
+          "id": 17910061,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Wascha mesa (Arr. for Guitar)",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 17910060,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Wascha mesa Arr for Guitar ~ 17910055",
+              "id": 17910055,
+              "defaultRecordingId": 20261199,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 23214379,
+                      "name": "Hans Neusiedler",
+                      "forename": "Hans",
+                      "surname": "Neusiedler"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 23214379,
+                "kind": "person",
+                "popularity": 3.87492e-05,
+                "playEventCount": 24,
+                "_key": "Neusiedler, Hans ~ 23214379",
+                "name": "Hans Neusiedler",
+                "alternativeNames": [
+                  "Neusidler\r\nNewsidler"
+                ],
+                "slugs": [
+                  "23214379",
+                  "hans-neusiedler-23214379",
+                  "hans-neusiedler"
+                ],
+                "forename": "Hans",
+                "surname": "Neusiedler"
+              },
+              "compositionYear": "1536",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": "Passamezzo",
+              "subtitle": null,
+              "title": "Wascha mesa (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526712315288,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23416373,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 17910055
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214573,
+        "isrcs": [
+          "DEN960530820"
+        ],
+        "duration": 90,
+        "position": 1,
+        "piece": {
+          "id": 16233020,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Mr Dowland's Midnight P. 99",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 16233019,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Mr Dowlands Midnight P 99 ~ 16233014",
+              "id": 16233014,
+              "defaultRecordingId": 17151546,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66821,
+                      "name": "John Dowland",
+                      "forename": "John",
+                      "surname": "Dowland"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66821,
+                "kind": "person",
+                "popularity": 0.0213538314,
+                "playEventCount": 14215,
+                "_key": "Dowland, John ~ 66821",
+                "name": "John Dowland",
+                "alternativeNames": [],
+                "slugs": [
+                  "66821",
+                  "john-dowland-66821",
+                  "john-dowland"
+                ],
+                "forename": "John",
+                "surname": "Dowland"
+              },
+              "compositionYear": "1625",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Mr Dowland's Midnight P. 99"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067823522,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214565,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 16233014
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214585,
+        "isrcs": [
+          "DEN960530822"
+        ],
+        "duration": 143,
+        "position": 1,
+        "piece": {
+          "id": 17151149,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Sir John Smith, his Almain P. 47",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 17151148,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Sir John Smith, his Almain P 47 ~ 17151143",
+              "id": 17151143,
+              "defaultRecordingId": 19350107,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66821,
+                      "name": "John Dowland",
+                      "forename": "John",
+                      "surname": "Dowland"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66821,
+                "kind": "person",
+                "popularity": 0.0213538314,
+                "playEventCount": 14215,
+                "_key": "Dowland, John ~ 66821",
+                "name": "John Dowland",
+                "alternativeNames": [],
+                "slugs": [
+                  "66821",
+                  "john-dowland-66821",
+                  "john-dowland"
+                ],
+                "forename": "John",
+                "surname": "Dowland"
+              },
+              "compositionYear": "1626",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Sir John Smith, his Almain P. 47"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067837001,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214577,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 17151143
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214806,
+        "isrcs": [
+          "DEN960530823"
+        ],
+        "duration": 220,
+        "position": 8,
+        "piece": {
+          "id": 1719265,
+          "popularTitle": null,
+          "position": 8,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "8. Semper Dowland semper dolens",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 1719223,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Lachrimae, or Seven Teares ~ 1719213",
+              "id": 1719213,
+              "defaultRecordingId": 1718191,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66821,
+                      "name": "John Dowland",
+                      "forename": "John",
+                      "surname": "Dowland"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66821,
+                "kind": "person",
+                "popularity": 0.0213538314,
+                "playEventCount": 14215,
+                "_key": "Dowland, John ~ 66821",
+                "name": "John Dowland",
+                "alternativeNames": [],
+                "slugs": [
+                  "66821",
+                  "john-dowland-66821",
+                  "john-dowland"
+                ],
+                "forename": "John",
+                "surname": "Dowland"
+              },
+              "compositionYear": "1605",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2728,
+                "title": "Other Chamber Music",
+                "_key": "Other Chamber Music ~ 2728"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": "7 Variations for Lute Consort",
+              "subtitle": null,
+              "title": "Lachrimae, or Seven Teares"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526068205444,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214795,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 1719213
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1005
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214873,
+        "isrcs": [
+          "DEN960530824"
+        ],
+        "duration": 136,
+        "position": 1,
+        "piece": {
+          "id": 19472956,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Ballo detto Il conte Orlando / Saltarello",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 19472955,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Ballo detto Il conte Orlando / Saltarello ~ 19472950",
+              "id": 19472950,
+              "defaultRecordingId": 19488335,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 15246552,
+                      "name": "Simone Molinaro",
+                      "forename": "Simone",
+                      "surname": "Molinaro"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 15246552,
+                "kind": "person",
+                "popularity": 8.01769e-05,
+                "playEventCount": 91,
+                "_key": "Molinaro, Simone ~ 15246552",
+                "name": "Simone Molinaro",
+                "alternativeNames": [],
+                "slugs": [
+                  "15246552",
+                  "simone-molinaro-15246552",
+                  "simone-molinaro"
+                ],
+                "forename": "Simone",
+                "surname": "Molinaro"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Ballo detto Il conte Orlando / Saltarello"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526068607956,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214865,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 19472950
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214821,
+        "isrcs": [
+          "DEN960530825"
+        ],
+        "duration": 120,
+        "position": 1,
+        "piece": {
+          "id": 20264891,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Andante",
+          "pieceName": null,
+          "descriptionName": "Andante",
+          "number": null,
+          "workpart": {
+            "id": 20264890,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Fantasia de consonantes y redobles ~ 20264885",
+              "id": 20264885,
+              "defaultRecordingId": 23214813,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 10871823,
+                      "name": "Luis de Milán",
+                      "forename": "Luis de",
+                      "surname": "Milán"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 10871823,
+                "kind": "person",
+                "popularity": 0.0004617596,
+                "playEventCount": 377,
+                "_key": "Milán, Luis de ~ 10871823",
+                "name": "Luis de Milán",
+                "alternativeNames": [
+                  "Lluís del Milà",
+                  "Lluís Milà",
+                  "Luys Milán",
+                  "Luis Milán",
+                  "Luys de Milán"
+                ],
+                "slugs": [
+                  "10871823",
+                  "luis-de-milan-10871823",
+                  "luis-de-milan"
+                ],
+                "forename": "Luis de",
+                "surname": "Milán"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Fantasia de consonantes y redobles"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526068318888,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214813,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20264885
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 36343857,
+        "isrcs": [
+          "DEN960530826"
+        ],
+        "duration": 122,
+        "position": 7,
+        "piece": {
+          "id": 34911528,
+          "popularTitle": null,
+          "position": 7,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Pavana No. 5 in D major – Pavana No. 6 in D major",
+          "pieceName": null,
+          "descriptionName": "Pavana No. 5 in D major – Pavana No. 6 in D major",
+          "number": null,
+          "workpart": {
+            "id": 18492721,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "6 Pavanas for Vihuela ~ 18492716",
+              "id": 18492716,
+              "defaultRecordingId": 23136037,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 10871823,
+                      "name": "Luis de Milán",
+                      "forename": "Luis de",
+                      "surname": "Milán"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 10871823,
+                "kind": "person",
+                "popularity": 0.0004617596,
+                "playEventCount": 377,
+                "_key": "Milán, Luis de ~ 10871823",
+                "name": "Luis de Milán",
+                "alternativeNames": [
+                  "Lluís del Milà",
+                  "Lluís Milà",
+                  "Luys Milán",
+                  "Luis Milán",
+                  "Luys de Milán"
+                ],
+                "slugs": [
+                  "10871823",
+                  "luis-de-milan-10871823",
+                  "luis-de-milan"
+                ],
+                "forename": "Luis de",
+                "surname": "Milán"
+              },
+              "compositionYear": "1536",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "6 Pavanas for Vihuela"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1580731549717,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 36343860,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 18492716
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214838,
+        "isrcs": [
+          "DEN960530827"
+        ],
+        "duration": 166,
+        "position": 1,
+        "piece": {
+          "id": 20264923,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Mille Regretz 'La Canción del Emperador' for Vihuela",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 20264922,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Mille Regretz La Canción del Emperador for Vihuela ~ 20264917",
+              "id": 20264917,
+              "defaultRecordingId": 23214830,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 15651350,
+                      "name": "Luis de Narváez",
+                      "forename": "Luis de",
+                      "surname": "Narváez"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 15651350,
+                "kind": "person",
+                "popularity": 0.000315795,
+                "playEventCount": 544,
+                "_key": "Narváez, Luis de ~ 15651350",
+                "name": "Luis de Narváez",
+                "alternativeNames": [
+                  "Luys de Narvaez"
+                ],
+                "slugs": [
+                  "15651350",
+                  "luis-de-narvaez-15651350",
+                  "luis-de-narvaez"
+                ],
+                "forename": "Luis de",
+                "surname": "Narváez"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Mille Regretz 'La Canción del Emperador' for Vihuela"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526068413374,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214830,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20264917
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214854,
+        "isrcs": [
+          "DEN960530828"
+        ],
+        "duration": 74,
+        "position": 1,
+        "piece": {
+          "id": 16107583,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "1. —",
+          "pieceName": null,
+          "descriptionName": "—",
+          "number": null,
+          "workpart": {
+            "id": 16107582,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Diferencias sobre Guárdame las vacas ~ 16107577",
+              "id": 16107577,
+              "defaultRecordingId": 26505157,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 15651350,
+                      "name": "Luis de Narváez",
+                      "forename": "Luis de",
+                      "surname": "Narváez"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 15651350,
+                "kind": "person",
+                "popularity": 0.000315795,
+                "playEventCount": 544,
+                "_key": "Narváez, Luis de ~ 15651350",
+                "name": "Luis de Narváez",
+                "alternativeNames": [
+                  "Luys de Narvaez"
+                ],
+                "slugs": [
+                  "15651350",
+                  "luis-de-narvaez-15651350",
+                  "luis-de-narvaez"
+                ],
+                "forename": "Luis de",
+                "surname": "Narváez"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 13329633,
+                "title": "Mixed Duo",
+                "_key": "Mixed Duo ~ 13329633"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": "Variations for Vihuela",
+              "subtitle": null,
+              "title": "Diferencias sobre 'Guárdame las vacas'"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526068499731,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214846,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 16107577
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1005
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214600,
+        "isrcs": [
+          "DEN960530829"
+        ],
+        "duration": 250,
+        "position": 1,
+        "piece": {
+          "id": 7391526,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Forlorne Hope Fancye P. 2",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 7391521,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Forlorne Hope Fancye P 2 ~ 7391514",
+              "id": 7391514,
+              "defaultRecordingId": 7400696,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66821,
+                      "name": "John Dowland",
+                      "forename": "John",
+                      "surname": "Dowland"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66821,
+                "kind": "person",
+                "popularity": 0.0213538314,
+                "playEventCount": 14215,
+                "_key": "Dowland, John ~ 66821",
+                "name": "John Dowland",
+                "alternativeNames": [],
+                "slugs": [
+                  "66821",
+                  "john-dowland-66821",
+                  "john-dowland"
+                ],
+                "forename": "John",
+                "surname": "Dowland"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Forlorne Hope Fancye P. 2"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067867594,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214592,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 7391514
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214901,
+        "isrcs": [
+          "DEN960530830"
+        ],
+        "duration": 54,
+        "position": 1,
+        "piece": {
+          "id": 20265357,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Honie-Suckle / Heart's Ease (Arr. for Guitar)",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 20265356,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "HonieSuckle / Hearts Ease Arr for Guitar ~ 20265351",
+              "id": 20265351,
+              "defaultRecordingId": 23214893,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 10984271,
+                      "name": "Anthony Holborne",
+                      "forename": "Anthony",
+                      "surname": "Holborne"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 10984271,
+                "kind": "person",
+                "popularity": 0.0006023129,
+                "playEventCount": 1012,
+                "_key": "Holborne, Anthony ~ 10984271",
+                "name": "Anthony Holborne",
+                "alternativeNames": [],
+                "slugs": [
+                  "10984271",
+                  "anthony-holborne-10984271",
+                  "anthony-holborne"
+                ],
+                "forename": "Anthony",
+                "surname": "Holborne"
+              },
+              "compositionYear": "1599",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Honie-Suckle / Heart's Ease (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526068648571,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214893,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20265351
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214933,
+        "isrcs": [
+          "DEN960530831"
+        ],
+        "duration": 87,
+        "position": 1,
+        "piece": {
+          "id": 20265417,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "The Fairie-Round (Galliard) (Arr. for Guitar)",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 20265416,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "The FairieRound Galliard Arr for Guitar ~ 20265411",
+              "id": 20265411,
+              "defaultRecordingId": 23214925,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 10984271,
+                      "name": "Anthony Holborne",
+                      "forename": "Anthony",
+                      "surname": "Holborne"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 10984271,
+                "kind": "person",
+                "popularity": 0.0006023129,
+                "playEventCount": 1012,
+                "_key": "Holborne, Anthony ~ 10984271",
+                "name": "Anthony Holborne",
+                "alternativeNames": [],
+                "slugs": [
+                  "10984271",
+                  "anthony-holborne-10984271",
+                  "anthony-holborne"
+                ],
+                "forename": "Anthony",
+                "surname": "Holborne"
+              },
+              "compositionYear": "1599",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "The Fairie-Round (Galliard) (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526068712364,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214925,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 20265411
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214964,
+        "isrcs": [
+          "DEN960530832"
+        ],
+        "duration": 266,
+        "position": 5,
+        "piece": {
+          "id": 14662640,
+          "popularTitle": null,
+          "position": 5,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Branles de village for Lute",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 14662639,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Branles de village for Lute ~ 14662634",
+              "id": 14662634,
+              "defaultRecordingId": 23214956,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 12653701,
+                      "name": "Robert Ballard",
+                      "forename": "Robert",
+                      "surname": "Ballard"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 12653701,
+                "kind": "person",
+                "popularity": 3.01904e-05,
+                "playEventCount": 11,
+                "_key": "Ballard, Robert ~ 12653701",
+                "name": "Robert Ballard",
+                "alternativeNames": [],
+                "slugs": [
+                  "12653701",
+                  "robert-ballard-12653701",
+                  "robert-ballard"
+                ],
+                "forename": "Robert",
+                "surname": "Ballard"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Branles de village for Lute"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526068731506,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214956,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 14662634
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214983,
+        "isrcs": [
+          "DEN960530833"
+        ],
+        "duration": 141,
+        "position": 1,
+        "piece": {
+          "id": 19692273,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "The Right Honourable Ferdinando Earle of Darby, his Galliard P. 44",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 19692272,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "The Right Honourable Ferdinando Earle of Darby, his Galliard P 44 ~ 19692267",
+              "id": 19692267,
+              "defaultRecordingId": 23214975,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66821,
+                      "name": "John Dowland",
+                      "forename": "John",
+                      "surname": "Dowland"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66821,
+                "kind": "person",
+                "popularity": 0.0213538314,
+                "playEventCount": 14215,
+                "_key": "Dowland, John ~ 66821",
+                "name": "John Dowland",
+                "alternativeNames": [],
+                "slugs": [
+                  "66821",
+                  "john-dowland-66821",
+                  "john-dowland"
+                ],
+                "forename": "John",
+                "surname": "Dowland"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "The Right Honourable Ferdinando Earle of Darby, his Galliard P. 44"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526068854057,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214975,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 19692267
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214660,
+        "isrcs": [
+          "DEN960530834"
+        ],
+        "duration": 75,
+        "position": 1,
+        "piece": {
+          "id": 7391373,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "The Most Sacred Queen Elizabeth, Her Gaillard P. 41",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 7391368,
+            "isOverture": false,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "The Most Sacred Queen Elizabeth, Her Gaillard P 41 ~ 7391361",
+              "id": 7391361,
+              "defaultRecordingId": 19344887,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66821,
+                      "name": "John Dowland",
+                      "forename": "John",
+                      "surname": "Dowland"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66821,
+                "kind": "person",
+                "popularity": 0.0213538314,
+                "playEventCount": 14215,
+                "_key": "Dowland, John ~ 66821",
+                "name": "John Dowland",
+                "alternativeNames": [],
+                "slugs": [
+                  "66821",
+                  "john-dowland-66821",
+                  "john-dowland"
+                ],
+                "forename": "John",
+                "surname": "Dowland"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "The Most Sacred Queen Elizabeth, Her Gaillard P. 41"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526067930736,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214652,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 7391361
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214788,
+        "isrcs": [
+          "DEN960530835"
+        ],
+        "duration": 247,
+        "position": 1,
+        "piece": {
+          "id": 12991567,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "Fantasie P. 1",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 12991566,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "Fantasie P 1 ~ 12991561",
+              "id": 12991561,
+              "defaultRecordingId": 17299261,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66821,
+                      "name": "John Dowland",
+                      "forename": "John",
+                      "surname": "Dowland"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66821,
+                "kind": "person",
+                "popularity": 0.0213538314,
+                "playEventCount": 14215,
+                "_key": "Dowland, John ~ 66821",
+                "name": "John Dowland",
+                "alternativeNames": [],
+                "slugs": [
+                  "66821",
+                  "john-dowland-66821",
+                  "john-dowland"
+                ],
+                "forename": "John",
+                "surname": "Dowland"
+              },
+              "compositionYear": "1600",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "Fantasie P. 1"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526068144687,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214778,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 12991561
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 23214995,
+        "isrcs": [
+          "DEN960530836"
+        ],
+        "duration": 116,
+        "position": 1,
+        "piece": {
+          "id": 15080857,
+          "popularTitle": null,
+          "position": 1,
+          "structuralSubtitle": null,
+          "subtitle": null,
+          "title": "My Lord Chamberlain his Galliard P. 37",
+          "pieceName": null,
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 15080856,
+            "isOverture": null,
+            "position": 1,
+            "title": null,
+            "work": {
+              "_key": "My Lord Chamberlain his Galliard P 37 ~ 15080851",
+              "id": 15080851,
+              "defaultRecordingId": 23214987,
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 66821,
+                      "name": "John Dowland",
+                      "forename": "John",
+                      "surname": "Dowland"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 66821,
+                "kind": "person",
+                "popularity": 0.0213538314,
+                "playEventCount": 14215,
+                "_key": "Dowland, John ~ 66821",
+                "name": "John Dowland",
+                "alternativeNames": [],
+                "slugs": [
+                  "66821",
+                  "john-dowland-66821",
+                  "john-dowland"
+                ],
+                "forename": "John",
+                "surname": "Dowland"
+              },
+              "compositionYear": "1597",
+              "epoch": {
+                "id": 2482,
+                "title": "Renaissance",
+                "_key": "2 ~ 2482"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 13329633,
+                "title": "Mixed Duo",
+                "_key": "Mixed Duo ~ 13329633"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": "",
+              "popularTitle": null,
+              "structuralSubtitle": null,
+              "subtitle": null,
+              "title": "My Lord Chamberlain his Galliard P. 37"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1526068890351,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "4eb69b98-b36f-4ce7-b0f7-94cd2b05aa1c"
+          ],
+          "id": 23214987,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": null,
+          "recordingDate": {
+            "fromKeyword": "℗",
+            "from": "2005",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Göran Söllscher",
+          "soloists": [
+            {
+              "person": {
+                "id": 13636394,
+                "kind": "person",
+                "popularity": 0.0182586637,
+                "playEventCount": 2379,
+                "_key": "Söllscher, Göran ~ 13636394",
+                "name": "Göran Söllscher",
+                "alternativeNames": [],
+                "slugs": [
+                  "13636394",
+                  "goran-sollscher-13636394",
+                  "goran-sollscher"
+                ],
+                "forename": "Göran",
+                "surname": "Söllscher"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": 14,
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 15080851
+          },
+          "interestGroups": [
+            5,
+            62,
+            102,
+            1005
+          ],
+          "tags": []
+        }
+      }
+    ]
+  }
+}

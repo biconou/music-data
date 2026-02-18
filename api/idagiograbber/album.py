@@ -5,6 +5,9 @@ import os
 import re
 from playwright.sync_api import sync_playwright
 
+
+#https://api.idagio.com/v2.0/albums/archora-aion
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -68,6 +71,26 @@ def slugify(value: str) -> str:
     value = re.sub(r"\s+", "-", value)
     value = re.sub(r"[^a-z0-9\-_.]", "", value)
     return value or "album"
+
+
+def download_html_album_data_from_api(album_url_id,output_dir, verify=True):
+    url = f"https://api.idagio.com/v2.0/albums/{album_url_id}"
+    
+    resp = requests.get(url, headers=HEADERS, verify=False, timeout=15)
+    if resp.status_code != 200:
+        raise RuntimeError(f"Erreur HTTP {resp.status_code} pour URL {url}")
+    try:
+        data = resp.json()
+    except json.JSONDecodeError:
+        data = json.loads(resp.text)
+
+    #os.makedirs(output_dir, exist_ok=True)
+
+    file_path = os.path.join(output_dir, f"{album_url_id}.json")
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    return data
 
 
 def download_html_album_page(url, headers=HEADERS, verify=True, timeout=15, save_html: bool = False):
