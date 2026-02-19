@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="workflow.knime">
-    <entry key="created_by" type="xstring" value="5.9.0.v202512101359"/>
+    <entry key="created_by" type="xstring" value="5.3.3.v202411031102"/>
     <entry key="created_by_nightly" type="xboolean" value="false"/>
     <entry key="version" type="xstring" value="5.1.0"/>
     <entry key="name" type="xstring" isnull="true" value=""/>
@@ -8,10 +8,10 @@
         <entry key="authored-by" type="xstring" value="glate"/>
         <entry key="authored-when" type="xstring" value="2026-01-30 18:10:26 +0100"/>
         <entry key="lastEdited-by" type="xstring" value="glate"/>
-        <entry key="lastEdited-when" type="xstring" value="2026-02-19 14:17:32 +0100"/>
+        <entry key="lastEdited-when" type="xstring" value="2026-02-19 14:58:05 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="CONFIGURED"/>
+    <entry key="state" type="xstring" value="IDLE"/>
     <config key="workflow_credentials"/>
     <config key="annotations">
         <config key="annotation_0">
