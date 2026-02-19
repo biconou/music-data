@@ -10,35 +10,47 @@
         </config>
         <config key="Variable_1">
             <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="DATA_DIR"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="x:\music-data-data"/>
+        </config>
+        <config key="Variable_2">
+            <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="NEO4J_URL"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="http://togodo:7474"/>
         </config>
-        <config key="Variable_2">
+        <config key="Variable_3">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="NEO4J_USER"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="neo4j"/>
         </config>
-        <config key="Variable_3">
+        <config key="Variable_4">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="NEO4J_PASSWD"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="0deConduite"/>
         </config>
-        <config key="Variable_4">
+        <config key="Variable_5">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="ELASTICSEARCH"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="http://togodo:9200"/>
         </config>
-        <config key="Variable_5">
+        <config key="Variable_6">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="STRAPI"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="http://localhost:1337"/>
+        </config>
+        <config key="Variable_7">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="SMB_USER"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="bi"/>
         </config>
-        <config key="Variable_6">
+        <config key="Variable_8">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="SMB_PASSWD"/>
             <entry key="class" type="xstring" value="STRING"/>
@@ -89,6 +101,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="63b0d0f3-71d3-421a-bff9-e254ad0526b1"/>
+        <entry key="file_store_id" type="xstring" value="63f0bd93-ad83-4ec8-9b02-7bf661264a8f"/>
     </config>
 </config>
