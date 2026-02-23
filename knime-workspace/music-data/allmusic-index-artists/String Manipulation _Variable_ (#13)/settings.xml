@@ -6,7 +6,7 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="allmusic_artist_dir"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="x:\music-data-data\allmusic\artists"/>
+            <entry key="value" type="xstring" value="C:\DATA\develop\music-data\data\allmusic\artists"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -49,6 +49,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e6b8269f-93f7-4d55-8c4b-d9f610ff83c5"/>
+        <entry key="file_store_id" type="xstring" value="0a9b49e1-58c3-47a3-86ef-8041619f089b"/>
     </config>
 </config>

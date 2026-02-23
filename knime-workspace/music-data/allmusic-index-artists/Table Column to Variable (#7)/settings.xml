@@ -6,55 +6,31 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="ALLMUSICGRABBER_API"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="http://togodo:5000"/>
+            <entry key="value" type="xstring" value="http://localhost:5000"/>
         </config>
         <config key="Variable_1">
             <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="DATA_DIR"/>
+            <entry key="name" type="xstring" value="discogs.key"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="x:\music-data-data"/>
+            <entry key="value" type="xstring" value="BIqHCSNxDnaIPhqCiZoc"/>
         </config>
         <config key="Variable_2">
             <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="NEO4J_URL"/>
+            <entry key="name" type="xstring" value="discogs.secret"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="http://togodo:7474"/>
+            <entry key="value" type="xstring" value="xYpdaTwFFISNXwMOlvuGVossTaRtnkHs"/>
         </config>
         <config key="Variable_3">
             <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="NEO4J_USER"/>
+            <entry key="name" type="xstring" value="DATA_DIR"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="neo4j"/>
+            <entry key="value" type="xstring" value="C:\DATA\develop\music-data\data"/>
         </config>
         <config key="Variable_4">
             <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="NEO4J_PASSWD"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="0deConduite"/>
-        </config>
-        <config key="Variable_5">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="ELASTICSEARCH"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="http://togodo:9200"/>
-        </config>
-        <config key="Variable_6">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="STRAPI"/>
+            <entry key="name" type="xstring" value="STRAPI_URL"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="http://localhost:1337"/>
-        </config>
-        <config key="Variable_7">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="SMB_USER"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="bi"/>
-        </config>
-        <config key="Variable_8">
-            <entry key="type" type="xstring" value="variable"/>
-            <entry key="name" type="xstring" value="SMB_PASSWD"/>
-            <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="biconou"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -101,6 +77,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="bf76105f-af46-481b-b459-c147ba4f53b4"/>
+        <entry key="file_store_id" type="xstring" value="cc7888b1-bb26-4875-8200-84123fd398aa"/>
     </config>
 </config>

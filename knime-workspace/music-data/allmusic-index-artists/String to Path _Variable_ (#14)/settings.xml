@@ -8,7 +8,7 @@
             <entry key="class" type="xstring" value="FSLocation"/>
             <entry key="location_present" type="xboolean" value="true"/>
             <entry key="file_system_type" type="xstring" value="LOCAL"/>
-            <entry key="path" type="xstring" value="x:\music-data-data\allmusic\artists"/>
+            <entry key="path" type="xstring" value="C:\DATA\develop\music-data\data\allmusic\artists"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -111,6 +111,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="7e35b8c3-c211-43f0-9c05-e168fdf57b82"/>
+        <entry key="file_store_id" type="xstring" value="e88a2576-fc04-4ac0-8251-38b263359626"/>
     </config>
 </config>

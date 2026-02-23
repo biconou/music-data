@@ -1,0 +1,650 @@
+{
+  "artistId": "accept-mn0000925837",
+  "fetchedAt": "2026-02-23T11:55:05.314796Z",
+  "data": {
+    "allmusic_id": "accept-mn0000925837",
+    "name": "Accept",
+    "activeDates": "1970s - 2020s",
+    "birthDate": "1976",
+    "birthPlace": "Solingen, Germany",
+    "styles": [
+      {
+        "name": "Heavy Metal",
+        "url": "https://www.allmusic.com/style/heavy-metal-ma0000002721"
+      },
+      {
+        "name": "Hard Rock",
+        "url": "https://www.allmusic.com/style/hard-rock-ma0000002636"
+      },
+      {
+        "name": "Power Metal",
+        "url": "https://www.allmusic.com/style/power-metal-ma0000011913"
+      }
+    ],
+    "id": "accept-mn0000925837",
+    "discography": [
+      {
+        "albumYear": "1979",
+        "albumTitle": "Accept",
+        "musicRating": "2",
+        "avgRating": "6-192"
+      },
+      {
+        "albumYear": "1980",
+        "albumTitle": "I'm a Rebel",
+        "musicRating": "3",
+        "avgRating": "6-185"
+      },
+      {
+        "albumYear": "1981",
+        "albumTitle": "Breaker",
+        "musicRating": "4",
+        "avgRating": "8-396"
+      },
+      {
+        "albumYear": "1983",
+        "albumTitle": "Restless and Wild",
+        "musicRating": "8",
+        "avgRating": "9-657"
+      },
+      {
+        "albumYear": "1984",
+        "albumTitle": "Balls to the Wall",
+        "musicRating": "8",
+        "avgRating": "9-751"
+      },
+      {
+        "albumYear": "1985",
+        "albumTitle": "Metal Heart",
+        "musicRating": "8",
+        "avgRating": "9-576"
+      },
+      {
+        "albumYear": "1986",
+        "albumTitle": "Kaizoku-Ban: Live In Japan",
+        "musicRating": "6",
+        "avgRating": "8-58"
+      },
+      {
+        "albumYear": "1986",
+        "albumTitle": "Russian Roulette",
+        "musicRating": "4",
+        "avgRating": "8-451"
+      },
+      {
+        "albumYear": "1989",
+        "albumTitle": "Eat the Heat",
+        "musicRating": "2",
+        "avgRating": "5-177"
+      },
+      {
+        "albumYear": "1990",
+        "albumTitle": "Staying a Life",
+        "musicRating": "6",
+        "avgRating": "10-278"
+      },
+      {
+        "albumYear": "1993",
+        "albumTitle": "Objection Overruled",
+        "musicRating": "5",
+        "avgRating": "9-322"
+      },
+      {
+        "albumYear": "1994",
+        "albumTitle": "Death Row",
+        "musicRating": "2",
+        "avgRating": "6-140"
+      },
+      {
+        "albumYear": "1997",
+        "albumTitle": "Predator",
+        "musicRating": "3",
+        "avgRating": "6-126"
+      },
+      {
+        "albumYear": "1998",
+        "albumTitle": "All Areas - Worldwide",
+        "musicRating": "6",
+        "avgRating": "7-30"
+      },
+      {
+        "albumYear": "2010",
+        "albumTitle": "Blood of the Nations",
+        "musicRating": "6",
+        "avgRating": "8-236"
+      },
+      {
+        "albumYear": "2012",
+        "albumTitle": "Stalingrad",
+        "musicRating": "6",
+        "avgRating": "7-262"
+      },
+      {
+        "albumYear": "2014",
+        "albumTitle": "Blind Rage",
+        "musicRating": "6",
+        "avgRating": "7-208"
+      },
+      {
+        "albumYear": "2017",
+        "albumTitle": "The Rise of Chaos",
+        "musicRating": "6",
+        "avgRating": "7-154"
+      },
+      {
+        "albumYear": "2021",
+        "albumTitle": "Too Mean to Die",
+        "musicRating": "",
+        "avgRating": "7-98"
+      },
+      {
+        "albumYear": "2024",
+        "albumTitle": "Humanoid",
+        "musicRating": "",
+        "avgRating": "7-56"
+      }
+    ],
+    "related": {
+      "similars": [
+        {
+          "artist": "Armored Saint",
+          "ArtistId": "armored-saint-mn0000505646"
+        },
+        {
+          "artist": "Grave Digger",
+          "ArtistId": "grave-digger-mn0000739916"
+        },
+        {
+          "artist": "Helloween",
+          "ArtistId": "helloween-mn0000957340"
+        },
+        {
+          "artist": "Sodom",
+          "ArtistId": "sodom-mn0000031324"
+        },
+        {
+          "artist": "Warlock",
+          "ArtistId": "warlock-mn0000234355"
+        },
+        {
+          "artist": "Doro",
+          "ArtistId": "doro-mn0000191159"
+        },
+        {
+          "artist": "Gamma Ray",
+          "ArtistId": "gamma-ray-mn0000190331"
+        },
+        {
+          "artist": "Iron Maiden",
+          "ArtistId": "iron-maiden-mn0000098465"
+        },
+        {
+          "artist": "Quiet Riot",
+          "ArtistId": "quiet-riot-mn0000859868"
+        },
+        {
+          "artist": "Ratt",
+          "ArtistId": "ratt-mn0000340152"
+        },
+        {
+          "artist": "Running Wild",
+          "ArtistId": "running-wild-mn0000302026"
+        },
+        {
+          "artist": "Saxon",
+          "ArtistId": "saxon-mn0000259800"
+        },
+        {
+          "artist": "Scorpions",
+          "ArtistId": "scorpions-mn0000299471"
+        },
+        {
+          "artist": "Thin Lizzy",
+          "ArtistId": "thin-lizzy-mn0000590479"
+        },
+        {
+          "artist": "Twisted Sister",
+          "ArtistId": "twisted-sister-mn0000165663"
+        },
+        {
+          "artist": "Whitesnake",
+          "ArtistId": "whitesnake-mn0000251595"
+        },
+        {
+          "artist": "A & B Karloff",
+          "ArtistId": "a-b-karloff-mn0001208921"
+        },
+        {
+          "artist": "Alcatrazz",
+          "ArtistId": "alcatrazz-mn0000515641"
+        },
+        {
+          "artist": "Angel Witch",
+          "ArtistId": "angel-witch-mn0000754879"
+        },
+        {
+          "artist": "Anvil",
+          "ArtistId": "anvil-mn0000925852"
+        },
+        {
+          "artist": "Autograph",
+          "ArtistId": "autograph-mn0000060012"
+        },
+        {
+          "artist": "Battle Beast",
+          "ArtistId": "battle-beast-mn0002677013"
+        },
+        {
+          "artist": "Bitch",
+          "ArtistId": "bitch-mn0000103764"
+        },
+        {
+          "artist": "Bruce Dickinson",
+          "ArtistId": "bruce-dickinson-mn0000527024"
+        },
+        {
+          "artist": "Budgie",
+          "ArtistId": "budgie-mn0000623985"
+        },
+        {
+          "artist": "Bulletboys",
+          "ArtistId": "bulletboys-mn0000626774"
+        },
+        {
+          "artist": "Exciter",
+          "ArtistId": "exciter-mn0000159561"
+        },
+        {
+          "artist": "Fight",
+          "ArtistId": "fight-mn0000177690"
+        },
+        {
+          "artist": "King Diamond",
+          "ArtistId": "king-diamond-mn0000770007"
+        },
+        {
+          "artist": "Krokus",
+          "ArtistId": "krokus-mn0000105685"
+        },
+        {
+          "artist": "Leatherwolf",
+          "ArtistId": "leatherwolf-mn0000784900"
+        },
+        {
+          "artist": "Manowar",
+          "ArtistId": "manowar-mn0000673208"
+        },
+        {
+          "artist": "Mercyful Fate",
+          "ArtistId": "mercyful-fate-mn0000343954"
+        },
+        {
+          "artist": "Michael Schenker",
+          "ArtistId": "michael-schenker-mn0000397545"
+        },
+        {
+          "artist": "Ozzy Osbourne",
+          "ArtistId": "ozzy-osbourne-mn0000424244"
+        },
+        {
+          "artist": "Primal Fear",
+          "ArtistId": "primal-fear-mn0000361245"
+        },
+        {
+          "artist": "Annihilator",
+          "ArtistId": "annihilator-mn0000588450"
+        },
+        {
+          "artist": "Avenger",
+          "ArtistId": "avenger-mn0001002079"
+        },
+        {
+          "artist": "Blitzkrieg",
+          "ArtistId": "blitzkrieg-mn0000051319"
+        },
+        {
+          "artist": "Cloven Hoof",
+          "ArtistId": "cloven-hoof-mn0000152763"
+        },
+        {
+          "artist": "Demon",
+          "ArtistId": "demon-mn0000200369"
+        },
+        {
+          "artist": "Diamond Head",
+          "ArtistId": "diamond-head-mn0000251604"
+        },
+        {
+          "artist": "Dio",
+          "ArtistId": "dio-mn0000263937"
+        },
+        {
+          "artist": "Dokken",
+          "ArtistId": "dokken-mn0000141681"
+        },
+        {
+          "artist": "Girlschool",
+          "ArtistId": "girlschool-mn0000553810"
+        },
+        {
+          "artist": "Grim Reaper",
+          "ArtistId": "grim-reaper-mn0000804635"
+        },
+        {
+          "artist": "Heathen",
+          "ArtistId": "heathen-mn0000951336"
+        },
+        {
+          "artist": "KK's Priest",
+          "ArtistId": "kks-priest-mn0004074941"
+        },
+        {
+          "artist": "Lizzy Borden",
+          "ArtistId": "lizzy-borden-mn0000269894"
+        },
+        {
+          "artist": "Malamorte",
+          "ArtistId": "malamorte-mn0003620406"
+        },
+        {
+          "artist": "Malice",
+          "ArtistId": "malice-mn0000953585"
+        },
+        {
+          "artist": "Metal Church",
+          "ArtistId": "metal-church-mn0000882431"
+        },
+        {
+          "artist": "Motörhead",
+          "ArtistId": "mot%C3%B6rhead-mn0000501407"
+        },
+        {
+          "artist": "Pretty Maids",
+          "ArtistId": "pretty-maids-mn0000360498"
+        },
+        {
+          "artist": "Quartz",
+          "ArtistId": "quartz-mn0000376304"
+        },
+        {
+          "artist": "Queensrÿche",
+          "ArtistId": "queensr%C3%BFche-mn0000315339"
+        },
+        {
+          "artist": "Raven",
+          "ArtistId": "raven-mn0000401166"
+        },
+        {
+          "artist": "Samson",
+          "ArtistId": "samson-mn0000834814"
+        },
+        {
+          "artist": "Savatage",
+          "ArtistId": "savatage-mn0000255347"
+        },
+        {
+          "artist": "Sinner",
+          "ArtistId": "sinner-mn0000017658"
+        },
+        {
+          "artist": "Sweet Savage",
+          "ArtistId": "sweet-savage-mn0000037380"
+        },
+        {
+          "artist": "Thor",
+          "ArtistId": "thor-mn0000470988"
+        },
+        {
+          "artist": "Triumph",
+          "ArtistId": "triumph-mn0000032401"
+        },
+        {
+          "artist": "Tygers of Pan Tang",
+          "ArtistId": "tygers-of-pan-tang-mn0000170228"
+        },
+        {
+          "artist": "UFO",
+          "ArtistId": "ufo-mn0000809999"
+        },
+        {
+          "artist": "Van Halen",
+          "ArtistId": "van-halen-mn0000260206"
+        },
+        {
+          "artist": "Vardis",
+          "ArtistId": "vardis-mn0000262914"
+        },
+        {
+          "artist": "Venom",
+          "ArtistId": "venom-mn0000315403"
+        },
+        {
+          "artist": "W.A.S.P.",
+          "ArtistId": "wasp-mn0000815090"
+        },
+        {
+          "artist": "Wolf",
+          "ArtistId": "wolf-mn0000955969"
+        },
+        {
+          "artist": "Wolfsbane",
+          "ArtistId": "wolfsbane-mn0000956513"
+        },
+        {
+          "artist": "Y&T",
+          "ArtistId": "y-t-mn0000682394"
+        },
+        {
+          "artist": "Rising Steel",
+          "ArtistId": "rising-steel-mn0003560743"
+        },
+        {
+          "artist": "Rose Tattoo",
+          "ArtistId": "rose-tattoo-mn0000288154"
+        }
+      ],
+      "influencers": [
+        {
+          "artist": "AC/DC",
+          "ArtistId": "ac-dc-mn0000574772"
+        },
+        {
+          "artist": "Iron Maiden",
+          "ArtistId": "iron-maiden-mn0000098465"
+        },
+        {
+          "artist": "Judas Priest",
+          "ArtistId": "judas-priest-mn0000246611"
+        },
+        {
+          "artist": "Deep Purple",
+          "ArtistId": "deep-purple-mn0000192382"
+        },
+        {
+          "artist": "Alice Cooper",
+          "ArtistId": "alice-cooper-mn0000005953"
+        },
+        {
+          "artist": "Black Sabbath",
+          "ArtistId": "black-sabbath-mn0000771438"
+        },
+        {
+          "artist": "Genesis",
+          "ArtistId": "genesis-mn0000199995"
+        },
+        {
+          "artist": "Jethro Tull",
+          "ArtistId": "jethro-tull-mn0000850692"
+        },
+        {
+          "artist": "Jimi Hendrix",
+          "ArtistId": "jimi-hendrix-mn0000354105"
+        },
+        {
+          "artist": "Kiss",
+          "ArtistId": "kiss-mn0000084209"
+        },
+        {
+          "artist": "Led Zeppelin",
+          "ArtistId": "led-zeppelin-mn0000139026"
+        },
+        {
+          "artist": "Pink Floyd",
+          "ArtistId": "pink-floyd-mn0000346336"
+        },
+        {
+          "artist": "Queen",
+          "ArtistId": "queen-mn0000858827"
+        },
+        {
+          "artist": "Rainbow",
+          "ArtistId": "rainbow-mn0000391933"
+        },
+        {
+          "artist": "Rush",
+          "ArtistId": "rush-mn0000203008"
+        },
+        {
+          "artist": "Styx",
+          "ArtistId": "styx-mn0000923033"
+        },
+        {
+          "artist": "T. Rex",
+          "ArtistId": "t-rex-mn0000005882"
+        },
+        {
+          "artist": "The Beatles",
+          "ArtistId": "the-beatles-mn0000754032"
+        },
+        {
+          "artist": "The Rolling Stones",
+          "ArtistId": "the-rolling-stones-mn0000894465"
+        },
+        {
+          "artist": "The Who",
+          "ArtistId": "the-who-mn0000577627"
+        },
+        {
+          "artist": "Thin Lizzy",
+          "ArtistId": "thin-lizzy-mn0000590479"
+        },
+        {
+          "artist": "Yes",
+          "ArtistId": "yes-mn0000685647"
+        },
+        {
+          "artist": "Blue Öyster Cult",
+          "ArtistId": "blue-%C3yster-cult-mn0000061938"
+        },
+        {
+          "artist": "Uriah Heep",
+          "ArtistId": "uriah-heep-mn0000835648"
+        }
+      ],
+      "followers": [
+        {
+          "artist": "Kreator",
+          "ArtistId": "kreator-mn0000103324"
+        },
+        {
+          "artist": "Mötley Crüe",
+          "ArtistId": "m%C3%B6tley-cr%C3%BCe-mn0000500992"
+        },
+        {
+          "artist": "Alice in Chains",
+          "ArtistId": "alice-in-chains-mn0000007920"
+        },
+        {
+          "artist": "Blind Guardian",
+          "ArtistId": "blind-guardian-mn0000059292"
+        },
+        {
+          "artist": "Exodus",
+          "ArtistId": "exodus-mn0000125822"
+        },
+        {
+          "artist": "Five Finger Death Punch",
+          "ArtistId": "five-finger-death-punch-mn0000640208"
+        },
+        {
+          "artist": "Gamma Ray",
+          "ArtistId": "gamma-ray-mn0000190331"
+        },
+        {
+          "artist": "Grave Digger",
+          "ArtistId": "grave-digger-mn0000739916"
+        },
+        {
+          "artist": "Guns N' Roses",
+          "ArtistId": "guns-n-roses-mn0000540883"
+        },
+        {
+          "artist": "Iced Earth",
+          "ArtistId": "iced-earth-mn0000769486"
+        },
+        {
+          "artist": "Lordi",
+          "ArtistId": "lordi-mn0000631830"
+        },
+        {
+          "artist": "Megadeth",
+          "ArtistId": "megadeth-mn0000406294"
+        },
+        {
+          "artist": "Metallica",
+          "ArtistId": "metallica-mn0000446509"
+        },
+        {
+          "artist": "Overkill",
+          "ArtistId": "overkill-mn0000420504"
+        },
+        {
+          "artist": "Pantera",
+          "ArtistId": "pantera-mn0000005441"
+        },
+        {
+          "artist": "Primal Fear",
+          "ArtistId": "primal-fear-mn0000361245"
+        },
+        {
+          "artist": "Rage",
+          "ArtistId": "rage-mn0000330061"
+        },
+        {
+          "artist": "Running Wild",
+          "ArtistId": "running-wild-mn0000302026"
+        },
+        {
+          "artist": "Sinner",
+          "ArtistId": "sinner-mn0000017658"
+        },
+        {
+          "artist": "Skid Row",
+          "ArtistId": "skid-row-mn0000026367"
+        },
+        {
+          "artist": "Slayer",
+          "ArtistId": "slayer-mn0000022124"
+        },
+        {
+          "artist": "Soundgarden",
+          "ArtistId": "soundgarden-mn0000001098"
+        },
+        {
+          "artist": "Twins Crew",
+          "ArtistId": "twins-crew-mn0001766539"
+        }
+      ],
+      "associatedwith": [
+        {
+          "artist": "U.D.O.",
+          "ArtistId": "udo-mn0000218895"
+        },
+        {
+          "artist": "Dirkschneider",
+          "ArtistId": "dirkschneider-mn0002145527"
+        }
+      ]
+    }
+  }
+}
