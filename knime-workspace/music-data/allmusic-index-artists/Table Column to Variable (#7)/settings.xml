@@ -10,23 +10,29 @@
         </config>
         <config key="Variable_1">
             <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="MUSIC_DATA_API"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="http://localhost:5000"/>
+        </config>
+        <config key="Variable_2">
+            <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="discogs.key"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="BIqHCSNxDnaIPhqCiZoc"/>
         </config>
-        <config key="Variable_2">
+        <config key="Variable_3">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="discogs.secret"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="xYpdaTwFFISNXwMOlvuGVossTaRtnkHs"/>
         </config>
-        <config key="Variable_3">
+        <config key="Variable_4">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="DATA_DIR"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="C:\DATA\develop\music-data\data"/>
         </config>
-        <config key="Variable_4">
+        <config key="Variable_5">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="STRAPI_URL"/>
             <entry key="class" type="xstring" value="STRING"/>
@@ -77,6 +83,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="cc7888b1-bb26-4875-8200-84123fd398aa"/>
+        <entry key="file_store_id" type="xstring" value="425fd923-5ad7-4093-8718-b76f33eb45f7"/>
     </config>
 </config>

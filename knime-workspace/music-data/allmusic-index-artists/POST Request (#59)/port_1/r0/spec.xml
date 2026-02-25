@@ -3,7 +3,7 @@
     <entry key="spec_name" type="xstring" value="default"/>
     <entry key="number_columns" type="xint" value="2"/>
     <config key="column_spec_0">
-        <entry key="column_name" type="xstring" value="json"/>
+        <entry key="column_name" type="xstring" value="allmusic-json"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -15,7 +15,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_1">
-        <entry key="column_name" type="xstring" value="artistId"/>
+        <entry key="column_name" type="xstring" value="post_url"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -28,7 +28,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="accept-mn0000925837"/>
+                        <entry key="StringCell" type="xstring" value="http://localhost:5000/masterdata/artist"/>
                     </config>
                 </config>
             </config>

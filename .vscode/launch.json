@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "name": "Python Debugger: api music-data",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "api/app.py",
+      "console": "integratedTerminal"
+    },
+    {
       "name": "Attach to Python Functions",
       "type": "debugpy",
       "request": "attach",

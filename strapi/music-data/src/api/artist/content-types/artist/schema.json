@@ -37,6 +37,9 @@
     },
     "discography_md": {
       "type": "richtext"
+    },
+    "allmusic_data": {
+      "type": "json"
     }
   }
 }

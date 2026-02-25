@@ -1,7 +1,9 @@
 from flask import Blueprint, request, jsonify
 from idagiograbber.album import *
 from dotenv import load_dotenv
-from masterdata.artist import check_artist_id, get_artist_by_allmusic_id, create_artist as create_artist_func
+from masterdata.artist import get_artist_by_allmusic_id
+from masterdata.artist import update_artist as update_artist_func
+from masterdata.artist import create_or_update_artist as create_or_update_artist_func
 
 load_dotenv()
 
@@ -23,10 +25,19 @@ def get_artist():
         return jsonify({"error": str(e)}), 500
     
 @masterdata_bp.route("/artist", methods=["POST"])    
-def create_artist():
+def create_or_update_artist():
     data = request.get_json()
     try:
-        result = create_artist_func(data)
+        result = create_or_update_artist_func(data)
+        return jsonify(result), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@masterdata_bp.route("/artist/<artistId>", methods=["PUT"])
+def update_artist(artistId):
+    data = request.get_json()
+    try:
+        result = update_artist_func(artistId, data)
         return jsonify(result), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500

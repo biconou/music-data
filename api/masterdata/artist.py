@@ -33,20 +33,41 @@ def get_artist_by_allmusic_id(artist_id):
         resp = requests.get(url)
         return resp.json()
 
-def generate_artist_data(any_json):
-    if any_json.get("data") is not None:
-        any_json = any_json["data"]
+def generate_artist_data(allmusic_json):
+    allmusic_data = allmusic_json
+    if allmusic_json.get("data") is not None:
+        allmusic_data = allmusic_json["data"]
     return {
         "data": {
-            "allmusic_id": any_json.get("allmusic_id"),
-            "name": any_json.get("name")
+            "allmusic_id": allmusic_data.get("allmusic_id"),
+            "name": allmusic_data.get("name"),
+            "discography": allmusic_data.get("discography"),
+            "allmusic_data": allmusic_data
         }
     }
 
-def create_artist(data):
+def create_or_update_artist(any_json):
+    artistId = any_json.get("allmusic_id")
+    if any_json.get("data") is not None:
+        artistId = any_json.get("data").get("allmusic_id")        
+    existing_ids = check_artist_id(artistId)
+    if existing_ids:
+        return update_artist(existing_ids[0], any_json)
+    else:
+        return create_artist(any_json)
+
+def create_artist(any_json):
     url = f"{STRAPI_URL}/api/artists"
     headers = {"Content-Type": "application/json"}
-    resp = requests.post(url, headers=headers, data=json.dumps(generate_artist_data(data)))
+    resp = requests.post(url, headers=headers, data=json.dumps(generate_artist_data(any_json)))
+    if resp.status_code != 200:
+        raise RuntimeError(f"Erreur HTTP {resp.status_code} pour URL {url}")
+    return resp.json()
+
+def update_artist(artistId,any_json):
+    url = f"{STRAPI_URL}/api/artists/{artistId}"
+    headers = {"Content-Type": "application/json"}
+    resp = requests.put(url, headers=headers, data=json.dumps(generate_artist_data(any_json)))
     if resp.status_code != 200:
         raise RuntimeError(f"Erreur HTTP {resp.status_code} pour URL {url}")
     return resp.json()
