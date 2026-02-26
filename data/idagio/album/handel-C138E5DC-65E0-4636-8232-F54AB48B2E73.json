@@ -1,0 +1,3463 @@
+{
+  "result" : {
+    "bookletUrl" : "https://booklets.idagio.com/886446247014.pdf",
+    "copyright" : "2017 Sony Music Entertainment Germany GmbH",
+    "copyrightYear" : 2017,
+    "description" : "",
+    "id" : "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501",
+    "imageUrl" : "https://idagio-images.global.ssl.fastly.net/albums/886446247014/main.jpg",
+    "interestGroupIds" : [ "66", "103", "1004" ],
+    "lastModified" : "2019-07-09T05:08:45+00:00",
+    "longDescription" : "",
+    "participants" : [ {
+      "_key" : "Mields, Dorothee ~ 11593844",
+      "ensemble" : null,
+      "id" : 11593844,
+      "name" : "Dorothee Mields",
+      "numOccurrences" : 14,
+      "participation" : 0.6363636363636364,
+      "person" : {
+        "_instrumentKey" : "Soprano ~ 3232",
+        "forename" : "Dorothee",
+        "instrument" : "Soprano",
+        "instrumentId" : 3232,
+        "surname" : "Mields"
+      },
+      "popularity" : 0.0290909802,
+      "type" : "soloist"
+    }, {
+      "_key" : "Perl, Hille ~ 11578302",
+      "ensemble" : null,
+      "id" : 11578302,
+      "name" : "Hille Perl",
+      "numOccurrences" : 21,
+      "participation" : 0.9545454545454546,
+      "person" : {
+        "_instrumentKey" : "Viola da Gamba ~ 3271",
+        "forename" : "Hille",
+        "instrument" : "Viola da Gamba",
+        "instrumentId" : 3271,
+        "surname" : "Perl"
+      },
+      "popularity" : 0.0130267306,
+      "type" : "soloist"
+    }, {
+      "_key" : "Müller, Robin ~ 18676032",
+      "ensemble" : null,
+      "id" : 18676032,
+      "name" : "Robin Müller",
+      "numOccurrences" : 1,
+      "participation" : 0.045454545454545456,
+      "person" : {
+        "_instrumentKey" : "Violin ~ 3265",
+        "forename" : "Robin",
+        "instrument" : "Violin",
+        "instrumentId" : 3265,
+        "surname" : "Müller"
+      },
+      "popularity" : 0.0007733313,
+      "type" : "soloist"
+    }, {
+      "_key" : "Santana, Lee ~ 17304713",
+      "ensemble" : null,
+      "id" : 17304713,
+      "name" : "Lee Santana",
+      "numOccurrences" : 6,
+      "participation" : 0.2727272727272727,
+      "person" : {
+        "_instrumentKey" : "Lute ~ 3319",
+        "forename" : "Lee",
+        "instrument" : "Lute",
+        "instrumentId" : 3319,
+        "surname" : "Santana"
+      },
+      "popularity" : 0.0061297256,
+      "type" : "soloist"
+    }, {
+      "_key" : "Comploi, Philipp ~ 18676059",
+      "ensemble" : null,
+      "id" : 18676059,
+      "name" : "Philipp Comploi",
+      "numOccurrences" : 4,
+      "participation" : 0.18181818181818182,
+      "person" : {
+        "_instrumentKey" : "Violoncello ~ 3277",
+        "forename" : "Philipp",
+        "instrument" : "Violoncello",
+        "instrumentId" : 3277,
+        "surname" : "Comploi"
+      },
+      "popularity" : 0.00043598,
+      "type" : "soloist"
+    }, {
+      "_key" : "Küppers, Andreas ~ 18676143",
+      "ensemble" : null,
+      "id" : 18676143,
+      "name" : "Andreas Küppers",
+      "numOccurrences" : 1,
+      "participation" : 0.045454545454545456,
+      "person" : {
+        "_instrumentKey" : "Fortepiano ~ 11248989",
+        "forename" : "Andreas",
+        "instrument" : "Fortepiano",
+        "instrumentId" : 11248989,
+        "surname" : "Küppers"
+      },
+      "popularity" : 0.002360102,
+      "type" : "soloist"
+    }, {
+      "_key" : "La Folia Barockorchester ~ 17241902",
+      "ensemble" : {
+        "function" : "orchestra"
+      },
+      "id" : 17241902,
+      "name" : "La Folia Barockorchester",
+      "numOccurrences" : 15,
+      "participation" : 0.6818181818181818,
+      "person" : null,
+      "popularity" : 0.046477875,
+      "type" : "ensemble"
+    }, {
+      "_key" : "Handel, George Frideric ~ 61214",
+      "ensemble" : null,
+      "id" : 61214,
+      "name" : "George Frideric Handel",
+      "numOccurrences" : 22,
+      "participation" : 1,
+      "person" : {
+        "_instrumentKey" : null,
+        "forename" : "George Frideric",
+        "instrument" : null,
+        "instrumentId" : null,
+        "surname" : "Handel"
+      },
+      "popularity" : 0.189557072,
+      "type" : "composer"
+    } ],
+    "publishDate" : "2017-10-06",
+    "slug" : "handel-C138E5DC-65E0-4636-8232-F54AB48B2E73",
+    "tags" : null,
+    "title" : "Händel",
+    "trackIds" : [ "24400697", "24400704", "24400711", "24400718", "24400725", "24400732", "24400748", "24358314", "24358482", "24358498", "24358505", "24358512", "24358519", "24358535", "24358542", "24358549", "24358563", "24358577", "24358584", "24358591", "24358606", "24358620" ],
+    "tracks" : [ {
+      "duration" : 354,
+      "id" : 24400697,
+      "isrcs" : [ "DEE471700328" ],
+      "piece" : {
+        "descriptionName" : "Aria 'Tra le fiamme'",
+        "id" : 11973238,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "No. 1 Aria 'Tra le fiamme'",
+        "workpart" : {
+          "id" : 11973237,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata Tra le fiamme Il consiglio  HWV 170 ~ 11973232",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            }, {
+              "authorType" : "Text",
+              "key" : "text",
+              "persons" : [ {
+                "forename" : "Benedetto",
+                "id" : 15407281,
+                "name" : "Benedetto Pamphili",
+                "surname" : "Pamphili"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1707",
+            "defaultRecordingId" : 13937976,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 11973232,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'Tra le fiamme' (Il consiglio)  HWV 170",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529855975752,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24400687,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 11973232
+        }
+      }
+    }, {
+      "duration" : 58,
+      "id" : 24400704,
+      "isrcs" : [ "DEE471700329" ],
+      "piece" : {
+        "descriptionName" : "Recitative 'Dedalo già le fortunate penne'",
+        "id" : 13937684,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 3,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Recitative 'Dedalo già le fortunate penne'",
+        "workpart" : {
+          "id" : 11973237,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata Tra le fiamme Il consiglio  HWV 170 ~ 11973232",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            }, {
+              "authorType" : "Text",
+              "key" : "text",
+              "persons" : [ {
+                "forename" : "Benedetto",
+                "id" : 15407281,
+                "name" : "Benedetto Pamphili",
+                "surname" : "Pamphili"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1707",
+            "defaultRecordingId" : 13937976,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 11973232,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'Tra le fiamme' (Il consiglio)  HWV 170",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 3,
+      "recording" : {
+        "albums" : [ "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529855975752,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24400687,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 11973232
+        }
+      }
+    }, {
+      "duration" : 308,
+      "id" : 24400711,
+      "isrcs" : [ "DEE471700330" ],
+      "piece" : {
+        "descriptionName" : "Aria 'Pien di nuovo e bel diletto'",
+        "id" : 13937689,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 5,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "No. 2 Aria 'Pien di nuovo e bel diletto'",
+        "workpart" : {
+          "id" : 11973237,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata Tra le fiamme Il consiglio  HWV 170 ~ 11973232",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            }, {
+              "authorType" : "Text",
+              "key" : "text",
+              "persons" : [ {
+                "forename" : "Benedetto",
+                "id" : 15407281,
+                "name" : "Benedetto Pamphili",
+                "surname" : "Pamphili"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1707",
+            "defaultRecordingId" : 13937976,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 11973232,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'Tra le fiamme' (Il consiglio)  HWV 170",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 5,
+      "recording" : {
+        "albums" : [ "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529855975752,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24400687,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 11973232
+        }
+      }
+    }, {
+      "duration" : 24,
+      "id" : 24400718,
+      "isrcs" : [ "DEE471700331" ],
+      "piece" : {
+        "descriptionName" : "Recitative 'Sì, sì, pur troppo è vero'",
+        "id" : 13937710,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 7,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Recitative 'Sì, sì, pur troppo è vero'",
+        "workpart" : {
+          "id" : 11973237,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata Tra le fiamme Il consiglio  HWV 170 ~ 11973232",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            }, {
+              "authorType" : "Text",
+              "key" : "text",
+              "persons" : [ {
+                "forename" : "Benedetto",
+                "id" : 15407281,
+                "name" : "Benedetto Pamphili",
+                "surname" : "Pamphili"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1707",
+            "defaultRecordingId" : 13937976,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 11973232,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'Tra le fiamme' (Il consiglio)  HWV 170",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 7,
+      "recording" : {
+        "albums" : [ "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529855975752,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24400687,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 11973232
+        }
+      }
+    }, {
+      "duration" : 162,
+      "id" : 24400725,
+      "isrcs" : [ "DEE471700332" ],
+      "piece" : {
+        "descriptionName" : "Aria 'Voli per l'aria'",
+        "id" : 13937751,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 9,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "No. 3 Aria 'Voli per l'aria'",
+        "workpart" : {
+          "id" : 11973237,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata Tra le fiamme Il consiglio  HWV 170 ~ 11973232",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            }, {
+              "authorType" : "Text",
+              "key" : "text",
+              "persons" : [ {
+                "forename" : "Benedetto",
+                "id" : 15407281,
+                "name" : "Benedetto Pamphili",
+                "surname" : "Pamphili"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1707",
+            "defaultRecordingId" : 13937976,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 11973232,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'Tra le fiamme' (Il consiglio)  HWV 170",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 9,
+      "recording" : {
+        "albums" : [ "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529855975752,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24400687,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 11973232
+        }
+      }
+    }, {
+      "duration" : 30,
+      "id" : 24400732,
+      "isrcs" : [ "DEE471700333" ],
+      "piece" : {
+        "descriptionName" : "Recitative 'L'uomo, che nacque per salire'",
+        "id" : 13937785,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 11,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Recitative 'L'uomo, che nacque per salire'",
+        "workpart" : {
+          "id" : 11973237,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata Tra le fiamme Il consiglio  HWV 170 ~ 11973232",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            }, {
+              "authorType" : "Text",
+              "key" : "text",
+              "persons" : [ {
+                "forename" : "Benedetto",
+                "id" : 15407281,
+                "name" : "Benedetto Pamphili",
+                "surname" : "Pamphili"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1707",
+            "defaultRecordingId" : 13937976,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 11973232,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'Tra le fiamme' (Il consiglio)  HWV 170",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 11,
+      "recording" : {
+        "albums" : [ "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529855975752,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24400687,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 11973232
+        }
+      }
+    }, {
+      "duration" : 160,
+      "id" : 24400748,
+      "isrcs" : [ "DEE471700334" ],
+      "piece" : {
+        "descriptionName" : "Aria 'Tra le fiamme'",
+        "id" : 11973238,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "No. 1 Aria 'Tra le fiamme'",
+        "workpart" : {
+          "id" : 11973237,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata Tra le fiamme Il consiglio  HWV 170 ~ 11973232",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            }, {
+              "authorType" : "Text",
+              "key" : "text",
+              "persons" : [ {
+                "forename" : "Benedetto",
+                "id" : 15407281,
+                "name" : "Benedetto Pamphili",
+                "surname" : "Pamphili"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1707",
+            "defaultRecordingId" : 24400738,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 11973232,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'Tra le fiamme' (Il consiglio)  HWV 170",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529855991836,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24400738,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 11973232
+        }
+      }
+    }, {
+      "duration" : 613,
+      "id" : 24358314,
+      "isrcs" : [ "DEE471700335" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 18721073,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Chaconne (Suite No. 2) for Harpsichord in G major HWV 435  (Arr. for Violin, Viola da gamba and Lute)",
+        "workpart" : {
+          "id" : 18721072,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Chaconne Suite No 2 for Harpsichord in G major HWV 435  Arr for Violin, Viola da gamba and Lute ~ 18721067",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1705",
+            "defaultRecordingId" : 24358304,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 18721067,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Trio ~ 11010682",
+              "id" : 11010682,
+              "title" : "Mixed Trio"
+            },
+            "subtitle" : null,
+            "title" : "Chaconne (Suite No. 2) for Harpsichord in G major HWV 435  (Arr. for Violin, Viola da gamba and Lute)",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749084261,
+        "ensembles" : [ ],
+        "id" : 24358304,
+        "interestGroups" : [ 5, 62, 66, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Violin ~ 3265",
+            "id" : 3265,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Violin"
+          },
+          "person" : {
+            "_key" : "Müller, Robin ~ 18676032",
+            "alternativeNames" : [ ],
+            "forename" : "Robin",
+            "id" : 18676032,
+            "kind" : "person",
+            "name" : "Robin Müller",
+            "playEventCount" : 26,
+            "popularity" : 0.0007733313,
+            "slugs" : [ "18676032", "robin-muller-18676032", "robin-muller" ],
+            "surname" : "Müller"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Lute ~ 3319",
+            "id" : 3319,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Lute"
+          },
+          "person" : {
+            "_key" : "Santana, Lee ~ 17304713",
+            "alternativeNames" : [ ],
+            "forename" : "Lee",
+            "id" : 17304713,
+            "kind" : "person",
+            "name" : "Lee Santana",
+            "playEventCount" : 486,
+            "popularity" : 0.0061297256,
+            "slugs" : [ "17304713", "lee-santana-17304713", "lee-santana" ],
+            "surname" : "Santana"
+          }
+        } ],
+        "summary" : "Robin Müller, Hille Perl, Lee Santana",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 18721067
+        }
+      }
+    }, {
+      "duration" : 199,
+      "id" : 24358482,
+      "isrcs" : [ "DEE471700336" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 18721153,
+        "number" : null,
+        "pieceName" : "Aria",
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "No. 3 Aria 'Nascermi sento al core' (Soprano)",
+        "workpart" : {
+          "id" : 18721152,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata La bianca Rosa HWV 160b Second version ~ 18721146",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1724",
+            "defaultRecordingId" : 24358472,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 18721146,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'La bianca Rosa' HWV 160b (Second version)",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749165958,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24358472,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 18721146
+        }
+      }
+    }, {
+      "duration" : 119,
+      "id" : 24358498,
+      "isrcs" : [ "DEE471700338" ],
+      "piece" : {
+        "descriptionName" : "Andante larghetto",
+        "id" : 14507270,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "I. Andante larghetto",
+        "workpart" : {
+          "id" : 14507269,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Viola da gamba and Basso continuo in G minor HWV 364b ~ 14507264",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1724",
+            "defaultRecordingId" : 23406286,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 14507264,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Other Chamber Music ~ 2728",
+              "id" : 2728,
+              "title" : "Other Chamber Music"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Viola da gamba and Basso continuo in G minor HWV 364b",
+            "tonality" : {
+              "_key" : "G minor ~ 2914",
+              "id" : 2914,
+              "title" : "G minor"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749170972,
+        "ensembles" : [ ],
+        "id" : 24358488,
+        "interestGroups" : [ 5, 62, 66, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Lute ~ 3319",
+            "id" : 3319,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Lute"
+          },
+          "person" : {
+            "_key" : "Santana, Lee ~ 17304713",
+            "alternativeNames" : [ ],
+            "forename" : "Lee",
+            "id" : 17304713,
+            "kind" : "person",
+            "name" : "Lee Santana",
+            "playEventCount" : 486,
+            "popularity" : 0.0061297256,
+            "slugs" : [ "17304713", "lee-santana-17304713", "lee-santana" ],
+            "surname" : "Santana"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Violoncello ~ 3277",
+            "id" : 3277,
+            "instrumentGroup1Id" : 1,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Violoncello"
+          },
+          "person" : {
+            "_key" : "Comploi, Philipp ~ 18676059",
+            "alternativeNames" : [ ],
+            "forename" : "Philipp",
+            "id" : 18676059,
+            "kind" : "person",
+            "name" : "Philipp Comploi",
+            "playEventCount" : 19,
+            "popularity" : 0.00043598,
+            "slugs" : [ "18676059", "philipp-comploi-18676059", "philipp-comploi" ],
+            "surname" : "Comploi"
+          }
+        } ],
+        "summary" : "Hille Perl, Lee Santana, Philipp Comploi",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 14507264
+        }
+      }
+    }, {
+      "duration" : 118,
+      "id" : 24358505,
+      "isrcs" : [ "DEE471700339" ],
+      "piece" : {
+        "descriptionName" : "Allegro",
+        "id" : 14507273,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 2,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "II. Allegro",
+        "workpart" : {
+          "id" : 14507269,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Viola da gamba and Basso continuo in G minor HWV 364b ~ 14507264",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1724",
+            "defaultRecordingId" : 23406286,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 14507264,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Other Chamber Music ~ 2728",
+              "id" : 2728,
+              "title" : "Other Chamber Music"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Viola da gamba and Basso continuo in G minor HWV 364b",
+            "tonality" : {
+              "_key" : "G minor ~ 2914",
+              "id" : 2914,
+              "title" : "G minor"
+            }
+          }
+        }
+      },
+      "position" : 2,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749170972,
+        "ensembles" : [ ],
+        "id" : 24358488,
+        "interestGroups" : [ 5, 62, 66, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Lute ~ 3319",
+            "id" : 3319,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Lute"
+          },
+          "person" : {
+            "_key" : "Santana, Lee ~ 17304713",
+            "alternativeNames" : [ ],
+            "forename" : "Lee",
+            "id" : 17304713,
+            "kind" : "person",
+            "name" : "Lee Santana",
+            "playEventCount" : 486,
+            "popularity" : 0.0061297256,
+            "slugs" : [ "17304713", "lee-santana-17304713", "lee-santana" ],
+            "surname" : "Santana"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Violoncello ~ 3277",
+            "id" : 3277,
+            "instrumentGroup1Id" : 1,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Violoncello"
+          },
+          "person" : {
+            "_key" : "Comploi, Philipp ~ 18676059",
+            "alternativeNames" : [ ],
+            "forename" : "Philipp",
+            "id" : 18676059,
+            "kind" : "person",
+            "name" : "Philipp Comploi",
+            "playEventCount" : 19,
+            "popularity" : 0.00043598,
+            "slugs" : [ "18676059", "philipp-comploi-18676059", "philipp-comploi" ],
+            "surname" : "Comploi"
+          }
+        } ],
+        "summary" : "Hille Perl, Lee Santana, Philipp Comploi",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 14507264
+        }
+      }
+    }, {
+      "duration" : 50,
+      "id" : 24358512,
+      "isrcs" : [ "DEE471700340" ],
+      "piece" : {
+        "descriptionName" : "Adagio",
+        "id" : 14507276,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 3,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "III. Adagio",
+        "workpart" : {
+          "id" : 14507269,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Viola da gamba and Basso continuo in G minor HWV 364b ~ 14507264",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1724",
+            "defaultRecordingId" : 23406286,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 14507264,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Other Chamber Music ~ 2728",
+              "id" : 2728,
+              "title" : "Other Chamber Music"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Viola da gamba and Basso continuo in G minor HWV 364b",
+            "tonality" : {
+              "_key" : "G minor ~ 2914",
+              "id" : 2914,
+              "title" : "G minor"
+            }
+          }
+        }
+      },
+      "position" : 3,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749170972,
+        "ensembles" : [ ],
+        "id" : 24358488,
+        "interestGroups" : [ 5, 62, 66, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Lute ~ 3319",
+            "id" : 3319,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Lute"
+          },
+          "person" : {
+            "_key" : "Santana, Lee ~ 17304713",
+            "alternativeNames" : [ ],
+            "forename" : "Lee",
+            "id" : 17304713,
+            "kind" : "person",
+            "name" : "Lee Santana",
+            "playEventCount" : 486,
+            "popularity" : 0.0061297256,
+            "slugs" : [ "17304713", "lee-santana-17304713", "lee-santana" ],
+            "surname" : "Santana"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Violoncello ~ 3277",
+            "id" : 3277,
+            "instrumentGroup1Id" : 1,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Violoncello"
+          },
+          "person" : {
+            "_key" : "Comploi, Philipp ~ 18676059",
+            "alternativeNames" : [ ],
+            "forename" : "Philipp",
+            "id" : 18676059,
+            "kind" : "person",
+            "name" : "Philipp Comploi",
+            "playEventCount" : 19,
+            "popularity" : 0.00043598,
+            "slugs" : [ "18676059", "philipp-comploi-18676059", "philipp-comploi" ],
+            "surname" : "Comploi"
+          }
+        } ],
+        "summary" : "Hille Perl, Lee Santana, Philipp Comploi",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 14507264
+        }
+      }
+    }, {
+      "duration" : 83,
+      "id" : 24358519,
+      "isrcs" : [ "DEE471700341" ],
+      "piece" : {
+        "descriptionName" : "Allegro",
+        "id" : 14507279,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 4,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "IV. Allegro",
+        "workpart" : {
+          "id" : 14507269,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Viola da gamba and Basso continuo in G minor HWV 364b ~ 14507264",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1724",
+            "defaultRecordingId" : 23406286,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 14507264,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Other Chamber Music ~ 2728",
+              "id" : 2728,
+              "title" : "Other Chamber Music"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Viola da gamba and Basso continuo in G minor HWV 364b",
+            "tonality" : {
+              "_key" : "G minor ~ 2914",
+              "id" : 2914,
+              "title" : "G minor"
+            }
+          }
+        }
+      },
+      "position" : 4,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749170972,
+        "ensembles" : [ ],
+        "id" : 24358488,
+        "interestGroups" : [ 5, 62, 66, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Lute ~ 3319",
+            "id" : 3319,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Lute"
+          },
+          "person" : {
+            "_key" : "Santana, Lee ~ 17304713",
+            "alternativeNames" : [ ],
+            "forename" : "Lee",
+            "id" : 17304713,
+            "kind" : "person",
+            "name" : "Lee Santana",
+            "playEventCount" : 486,
+            "popularity" : 0.0061297256,
+            "slugs" : [ "17304713", "lee-santana-17304713", "lee-santana" ],
+            "surname" : "Santana"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Violoncello ~ 3277",
+            "id" : 3277,
+            "instrumentGroup1Id" : 1,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Violoncello"
+          },
+          "person" : {
+            "_key" : "Comploi, Philipp ~ 18676059",
+            "alternativeNames" : [ ],
+            "forename" : "Philipp",
+            "id" : 18676059,
+            "kind" : "person",
+            "name" : "Philipp Comploi",
+            "playEventCount" : 19,
+            "popularity" : 0.00043598,
+            "slugs" : [ "18676059", "philipp-comploi-18676059", "philipp-comploi" ],
+            "surname" : "Comploi"
+          }
+        } ],
+        "summary" : "Hille Perl, Lee Santana, Philipp Comploi",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 14507264
+        }
+      }
+    }, {
+      "duration" : 169,
+      "id" : 24358535,
+      "isrcs" : [ "DEE471700343" ],
+      "piece" : {
+        "descriptionName" : "Aria 'No se emenderá jamás'",
+        "id" : 14349151,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "No. 1 Aria 'No se emenderá jamás'",
+        "workpart" : {
+          "id" : 14349150,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata Nò se emenderá jamás HWV 140 ~ 14349145",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1707",
+            "defaultRecordingId" : 24358525,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 14349145,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : "Cantata spagnuola a voce sola e Chitarra",
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'Nò se emenderá jamás' HWV 140",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749177699,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24358525,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 14349145
+        }
+      }
+    }, {
+      "duration" : 47,
+      "id" : 24358542,
+      "isrcs" : [ "DEE471700344" ],
+      "piece" : {
+        "descriptionName" : "Recitative 'Si del quereros es causa'",
+        "id" : 14349154,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 2,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Recitative 'Si del quereros es causa'",
+        "workpart" : {
+          "id" : 14349150,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata Nò se emenderá jamás HWV 140 ~ 14349145",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1707",
+            "defaultRecordingId" : 24358525,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 14349145,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : "Cantata spagnuola a voce sola e Chitarra",
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'Nò se emenderá jamás' HWV 140",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 2,
+      "recording" : {
+        "albums" : [ "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749177699,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24358525,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 14349145
+        }
+      }
+    }, {
+      "duration" : 131,
+      "id" : 24358549,
+      "isrcs" : [ "DEE471700345" ],
+      "piece" : {
+        "descriptionName" : "Aria 'Dizente mis ozos'",
+        "id" : 14349157,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 3,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "No. 2 Aria 'Dizente mis ozos'",
+        "workpart" : {
+          "id" : 14349150,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata Nò se emenderá jamás HWV 140 ~ 14349145",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1707",
+            "defaultRecordingId" : 24358525,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 14349145,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : "Cantata spagnuola a voce sola e Chitarra",
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'Nò se emenderá jamás' HWV 140",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 3,
+      "recording" : {
+        "albums" : [ "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749177699,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24358525,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 14349145
+        }
+      }
+    }, {
+      "duration" : 63,
+      "id" : 24358563,
+      "isrcs" : [ "DEE471700346" ],
+      "piece" : {
+        "descriptionName" : "(No tempo indication)",
+        "id" : 18721438,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "(No tempo indication)",
+        "workpart" : {
+          "id" : 18721437,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Air Hornpipe for Keyboard in D minor HWV 461 ~ 18721432",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1717",
+            "defaultRecordingId" : 24358555,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 18721432,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Other Keyboard Music Single Pieces ~ 2794",
+              "id" : 2794,
+              "title" : "Other Keyboard Music (Single Pieces)"
+            },
+            "subtitle" : null,
+            "title" : "Air (Hornpipe) for Keyboard in D minor HWV 461",
+            "tonality" : {
+              "_key" : "D minor ~ 814",
+              "id" : 814,
+              "title" : "D minor"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749180654,
+        "ensembles" : [ ],
+        "id" : 24358555,
+        "interestGroups" : [ 7, 51, 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Fortepiano ~ 11248989",
+            "id" : 11248989,
+            "instrumentGroup1Id" : 9,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Fortepiano"
+          },
+          "person" : {
+            "_key" : "Küppers, Andreas ~ 18676143",
+            "alternativeNames" : [ ],
+            "forename" : "Andreas",
+            "id" : 18676143,
+            "kind" : "person",
+            "name" : "Andreas Küppers",
+            "playEventCount" : 348,
+            "popularity" : 0.002360102,
+            "slugs" : [ "18676143", "andreas-kuppers-18676143", "andreas-kuppers" ],
+            "surname" : "Küppers"
+          }
+        } ],
+        "summary" : "Andreas Küppers",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 18721432
+        }
+      }
+    }, {
+      "duration" : 256,
+      "id" : 24358577,
+      "isrcs" : [ "DEE471700347" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 18721472,
+        "number" : null,
+        "pieceName" : "Aria",
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "No. 1 Aria 'Sei pur bella, pur vezzosa' (Soprano)",
+        "workpart" : {
+          "id" : 18721471,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata La bianca Rosa: Sei pur bella, pur vezzosa HWV 160c Third version ~ 18721466",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1724",
+            "defaultRecordingId" : 24358567,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 18721466,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'La bianca Rosa: Sei pur bella, pur vezzosa' HWV 160c (Third version)",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749186599,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24358567,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 18721466
+        }
+      }
+    }, {
+      "duration" : 54,
+      "id" : 24358584,
+      "isrcs" : [ "DEE471700348" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 18721475,
+        "number" : null,
+        "pieceName" : "Recitative",
+        "popularTitle" : null,
+        "position" : 2,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Recitative 'Se vien l'ape ingegnosa' (Soprano)",
+        "workpart" : {
+          "id" : 18721471,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata La bianca Rosa: Sei pur bella, pur vezzosa HWV 160c Third version ~ 18721466",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1724",
+            "defaultRecordingId" : 24358567,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 18721466,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'La bianca Rosa: Sei pur bella, pur vezzosa' HWV 160c (Third version)",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 2,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749186599,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24358567,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 18721466
+        }
+      }
+    }, {
+      "duration" : 156,
+      "id" : 24358591,
+      "isrcs" : [ "DEE471700349" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 18721478,
+        "number" : null,
+        "pieceName" : "Aria",
+        "popularTitle" : null,
+        "position" : 3,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "No. 2 Aria 'E certo allor sei la regina d'ogn'altro fior' (Soprano)",
+        "workpart" : {
+          "id" : 18721471,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata La bianca Rosa: Sei pur bella, pur vezzosa HWV 160c Third version ~ 18721466",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1724",
+            "defaultRecordingId" : 24358567,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Sacred Vocal ~ 2536",
+              "id" : 2536,
+              "title" : "Sacred Vocal"
+            },
+            "id" : 18721466,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo Cantata ~ 26634073",
+              "id" : 26634073,
+              "title" : "Solo Cantata"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'La bianca Rosa: Sei pur bella, pur vezzosa' HWV 160c (Third version)",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 3,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749186599,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24358567,
+        "interestGroups" : [ 66, 103, 1004 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Soprano ~ 3232",
+            "id" : 3232,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : null,
+            "instrumentGroup3Id" : null,
+            "title" : "Soprano"
+          },
+          "person" : {
+            "_key" : "Mields, Dorothee ~ 11593844",
+            "alternativeNames" : [ ],
+            "forename" : "Dorothee",
+            "id" : 11593844,
+            "kind" : "person",
+            "name" : "Dorothee Mields",
+            "playEventCount" : 2515,
+            "popularity" : 0.0290909802,
+            "slugs" : [ "11593844", "dorothee-mields-11593844", "dorothee-mields" ],
+            "surname" : "Mields"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Dorothee Mields, Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 18721466
+        }
+      }
+    }, {
+      "duration" : 354,
+      "id" : 24358606,
+      "isrcs" : [ "DEE471700350" ],
+      "piece" : {
+        "descriptionName" : "Col partir la bella Clori",
+        "id" : 18721561,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Col partir la bella Clori",
+        "workpart" : {
+          "id" : 18721560,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Cantata Ah! che pur troppo è vero HWV 77: Aria Col partir la bella Clori Arr for Viola da gamba and Lute ~ 18721555",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1707",
+            "defaultRecordingId" : 24358597,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 18721555,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "String Duo ~ 2671",
+              "id" : 2671,
+              "title" : "String Duo"
+            },
+            "subtitle" : null,
+            "title" : "Cantata 'Ah! che pur troppo è vero' HWV 77: Aria 'Col partir la bella Clori' (Arr. for Viola da gamba and Lute)",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749190440,
+        "ensembles" : [ ],
+        "id" : 24358597,
+        "interestGroups" : [ 5, 62, 66, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Lute ~ 3319",
+            "id" : 3319,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Lute"
+          },
+          "person" : {
+            "_key" : "Santana, Lee ~ 17304713",
+            "alternativeNames" : [ ],
+            "forename" : "Lee",
+            "id" : 17304713,
+            "kind" : "person",
+            "name" : "Lee Santana",
+            "playEventCount" : 486,
+            "popularity" : 0.0061297256,
+            "slugs" : [ "17304713", "lee-santana-17304713", "lee-santana" ],
+            "surname" : "Santana"
+          }
+        } ],
+        "summary" : "Hille Perl, Lee Santana",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 18721555
+        }
+      }
+    }, {
+      "duration" : 901,
+      "id" : 24358620,
+      "isrcs" : [ "DEE471700351" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 18721611,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Suite for Harpsichord No. 9 in G major (Prélude et Chaconne avec LXII Variations) HWV 442 (Arr. for Viola da gamba and Basso continuo)",
+        "workpart" : {
+          "id" : 18721610,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Suite for Harpsichord No 9 in G major Prélude et Chaconne avec LXII Variations HWV 442 Arr for Viola da gamba and Basso continuo ~ 18721605",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "George Frideric",
+                "id" : 61214,
+                "name" : "George Frideric Handel",
+                "surname" : "Handel"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Handel, George Frideric ~ 61214",
+              "alternativeNames" : [ "Handel Haendel\r\nGeorge Frideric (or Frederick) Handel" ],
+              "forename" : "George Frideric",
+              "id" : 61214,
+              "kind" : "person",
+              "name" : "George Frideric Handel",
+              "playEventCount" : 100030,
+              "popularity" : 0.189557072,
+              "slugs" : [ "61214", "georg-friedrich-handel-61214", "georg-friedrich-handel", "george-frideric-handel-61214", "george-frideric-handel" ],
+              "surname" : "Handel"
+            },
+            "compositionYear" : "1703",
+            "defaultRecordingId" : 24358611,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 18721605,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Solo instrument and Basso continuo ~ 15565986",
+              "id" : 15565986,
+              "title" : "Solo instrument and Basso continuo"
+            },
+            "subtitle" : null,
+            "title" : "Suite for Harpsichord No. 9 in G major (Prélude et Chaconne avec LXII Variations) HWV 442 (Arr. for Viola da gamba and Basso continuo)",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "4288d542-9efb-4a8a-ab2d-f7ed6f791306", "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501" ],
+        "conductor" : null,
+        "created_at" : 1529749193514,
+        "ensembles" : [ {
+          "_key" : "La Folia Barockorchester ~ 17241902",
+          "alternativeNames" : [ ],
+          "id" : 17241902,
+          "kind" : "ensemble",
+          "name" : "La Folia Barockorchester",
+          "playEventCount" : 4344,
+          "popularity" : 0.046477875,
+          "slugs" : [ "17241902", "la-folia-barockorchester-17241902", "la-folia-barockorchester" ]
+        } ],
+        "id" : 24358611,
+        "interestGroups" : [ 5, 66, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "2017",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Viola da Gamba ~ 3271",
+            "id" : 3271,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 10,
+            "instrumentGroup3Id" : null,
+            "title" : "Viola da Gamba"
+          },
+          "person" : {
+            "_key" : "Perl, Hille ~ 11578302",
+            "alternativeNames" : [ "Hildegard Perl" ],
+            "forename" : "Hille",
+            "id" : 11578302,
+            "kind" : "person",
+            "name" : "Hille Perl",
+            "playEventCount" : 1186,
+            "popularity" : 0.0130267306,
+            "slugs" : [ "11578302", "hille-perl-11578302", "hille-perl" ],
+            "surname" : "Perl"
+          }
+        } ],
+        "summary" : "Hille Perl, La Folia Barockorchester",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 18721605
+        }
+      }
+    } ],
+    "upc" : "886446247014",
+    "uuid" : "caa82b7d-f1f5-43b8-9ee4-de05c0f8a501"
+  }
+}

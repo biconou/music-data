@@ -1,0 +1,1890 @@
+{
+  "result" : {
+    "bookletUrl" : "https://booklets.idagio.com/3149028147360.pdf",
+    "copyright" : "2024 Evidence (LTR)",
+    "copyrightYear" : 2024,
+    "description" : "",
+    "id" : "fcbb7d67-e03f-404a-9951-7a98e709873f",
+    "imageUrl" : "https://idagio-images.global.ssl.fastly.net/albums/3149028147360/main.jpg",
+    "interestGroupIds" : [ "5", "62", "103", "1005" ],
+    "lastModified" : "2025-10-06T09:49:26+00:00",
+    "longDescription" : "",
+    "participants" : [ {
+      "_key" : "Micheli, Lorenzo ~ 11914637",
+      "ensemble" : null,
+      "id" : 11914637,
+      "name" : "Lorenzo Micheli",
+      "numOccurrences" : 12,
+      "participation" : 1,
+      "person" : {
+        "_instrumentKey" : "Guitar ~ 3316",
+        "forename" : "Lorenzo",
+        "instrument" : "Guitar",
+        "instrumentId" : 3316,
+        "surname" : "Micheli"
+      },
+      "popularity" : 0.0093318947,
+      "type" : "soloist"
+    }, {
+      "_key" : "Mela, Matteo ~ 11760816",
+      "ensemble" : null,
+      "id" : 11760816,
+      "name" : "Matteo Mela",
+      "numOccurrences" : 12,
+      "participation" : 1,
+      "person" : {
+        "_instrumentKey" : "Guitar ~ 3316",
+        "forename" : "Matteo",
+        "instrument" : "Guitar",
+        "instrumentId" : 3316,
+        "surname" : "Mela"
+      },
+      "popularity" : 0.0093928178,
+      "type" : "soloist"
+    }, {
+      "_key" : "Scarlatti, Domenico ~ 63281",
+      "ensemble" : null,
+      "id" : 63281,
+      "name" : "Domenico Scarlatti",
+      "numOccurrences" : 12,
+      "participation" : 1,
+      "person" : {
+        "_instrumentKey" : null,
+        "forename" : "Domenico",
+        "instrument" : null,
+        "instrumentId" : null,
+        "surname" : "Scarlatti"
+      },
+      "popularity" : 0.0474339108,
+      "type" : "composer"
+    } ],
+    "publishDate" : "2024-02-09",
+    "slug" : "scarlatti-12-sonatas",
+    "tags" : [ "recent-release" ],
+    "title" : "Scarlatti: 12 Sonatas",
+    "trackIds" : [ "45100207", "45100222", "45100237", "45100252", "45100267", "45100282", "45100297", "45100312", "45100327", "45100342", "45100357", "45100372" ],
+    "tracks" : [ {
+      "duration" : 373,
+      "id" : 45100207,
+      "isrcs" : [ "FROV62210701" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 45100193,
+        "number" : null,
+        "pieceName" : "Presto",
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Presto",
+        "workpart" : {
+          "id" : 45100188,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in A major K 24 Arr for 2 Guitars ~ 45100182",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : "1738",
+            "defaultRecordingId" : 45100211,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45100182,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in A major K 24 (Arr. for 2 Guitars)",
+            "tonality" : {
+              "_key" : "A major ~ 2845",
+              "id" : 2845,
+              "title" : "A major"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291049872,
+        "ensembles" : [ ],
+        "id" : 45100211,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45100182
+        }
+      }
+    }, {
+      "duration" : 347,
+      "id" : 45100222,
+      "isrcs" : [ "FROV62210702" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 45100169,
+        "number" : null,
+        "pieceName" : "Allegro",
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Allegro",
+        "workpart" : {
+          "id" : 45100164,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in C minor K 99 Arr for 2 Guitars ~ 45100158",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : "1749",
+            "defaultRecordingId" : 45100226,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45100158,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in C minor K 99 (Arr. for 2 Guitars)",
+            "tonality" : {
+              "_key" : "C minor ~ 811",
+              "id" : 811,
+              "title" : "C minor"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291051112,
+        "ensembles" : [ ],
+        "id" : 45100226,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45100158
+        }
+      }
+    }, {
+      "duration" : 216,
+      "id" : 45100237,
+      "isrcs" : [ "FROV62210703" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 45100145,
+        "number" : null,
+        "pieceName" : "Allegro",
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Allegro",
+        "workpart" : {
+          "id" : 45100140,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in G major K 455 Arr for 2 Guitars ~ 45100134",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 45100241,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45100134,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in G major K 455 (Arr. for 2 Guitars)",
+            "tonality" : {
+              "_key" : "G major ~ 2911",
+              "id" : 2911,
+              "title" : "G major"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291052352,
+        "ensembles" : [ ],
+        "id" : 45100241,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45100134
+        }
+      }
+    }, {
+      "duration" : 276,
+      "id" : 45100252,
+      "isrcs" : [ "FROV62210704" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 45100123,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Sonata for Keyboard in B minor K 87 (Arr. for Guitar)",
+        "workpart" : {
+          "id" : 45100118,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in B minor K 87 Arr for 2 Guitars ~ 45100112",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 45100256,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45100112,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in B minor K 87 (Arr. for 2 Guitars)",
+            "tonality" : {
+              "_key" : "B minor ~ 2926",
+              "id" : 2926,
+              "title" : "B minor"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291053597,
+        "ensembles" : [ ],
+        "id" : 45100256,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45100112
+        }
+      }
+    }, {
+      "duration" : 363,
+      "id" : 45100267,
+      "isrcs" : [ "FROV62210705" ],
+      "piece" : {
+        "descriptionName" : "Andante",
+        "id" : 45100100,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Andante",
+        "workpart" : {
+          "id" : 45100095,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in E major K 162 Arr for 2 Guitars ~ 45100089",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : "1752",
+            "defaultRecordingId" : 45100271,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45100089,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in E major K 162 (Arr. for 2 Guitars)",
+            "tonality" : {
+              "_key" : "E major ~ 2887",
+              "id" : 2887,
+              "title" : "E major"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291054835,
+        "ensembles" : [ ],
+        "id" : 45100271,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45100089
+        }
+      }
+    }, {
+      "duration" : 139,
+      "id" : 45100282,
+      "isrcs" : [ "FROV62210706" ],
+      "piece" : {
+        "descriptionName" : "Aria",
+        "id" : 45100078,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Aria",
+        "workpart" : {
+          "id" : 45100073,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in D minor K 32 Arr for 2 Guitars ~ 45100068",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 45100286,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45100068,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in D minor K 32 (Arr. for 2 Guitars)",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291056127,
+        "ensembles" : [ ],
+        "id" : 45100286,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45100068
+        }
+      }
+    }, {
+      "duration" : 210,
+      "id" : 45100297,
+      "isrcs" : [ "FROV62210707" ],
+      "piece" : {
+        "descriptionName" : "Allegro",
+        "id" : 45100057,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Allegro",
+        "workpart" : {
+          "id" : 45100052,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in E major K 531 Arr for 2 Guitars ~ 45100046",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : "1757",
+            "defaultRecordingId" : 45100301,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45100046,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in E major K 531 (Arr. for 2 Guitars)",
+            "tonality" : {
+              "_key" : "E major ~ 2887",
+              "id" : 2887,
+              "title" : "E major"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291057366,
+        "ensembles" : [ ],
+        "id" : 45100301,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45100046
+        }
+      }
+    }, {
+      "duration" : 189,
+      "id" : 45100312,
+      "isrcs" : [ "FROV62210708" ],
+      "piece" : {
+        "descriptionName" : "Allegro assai",
+        "id" : 45100034,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Allegro assai",
+        "workpart" : {
+          "id" : 45100029,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in F minor K 519 Arr for 2 Guitars ~ 45100023",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 45100316,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45100023,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in F minor K 519 (Arr. for 2 Guitars)",
+            "tonality" : {
+              "_key" : "F minor ~ 2902",
+              "id" : 2902,
+              "title" : "F minor"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291058608,
+        "ensembles" : [ ],
+        "id" : 45100316,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45100023
+        }
+      }
+    }, {
+      "duration" : 218,
+      "id" : 45100327,
+      "isrcs" : [ "FROV62210709" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 45100011,
+        "number" : null,
+        "pieceName" : "Allegro",
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Allegro",
+        "workpart" : {
+          "id" : 45100006,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in B flat major K 202 Arr for 2 Guitars ~ 45100000",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 45100331,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45100000,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in B flat major K 202 (Arr. for 2 Guitars)",
+            "tonality" : {
+              "_key" : "B flat major ~ 2860",
+              "id" : 2860,
+              "title" : "B flat major"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291059847,
+        "ensembles" : [ ],
+        "id" : 45100331,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45100000
+        }
+      }
+    }, {
+      "duration" : 409,
+      "id" : 45100342,
+      "isrcs" : [ "FROV62210710" ],
+      "piece" : {
+        "descriptionName" : "Andante moderato",
+        "id" : 45099988,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Andante moderato",
+        "workpart" : {
+          "id" : 45099983,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in F minor K 466 Arr for 2 Guitars ~ 45099977",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : "1756",
+            "defaultRecordingId" : 45100346,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45099977,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in F minor K 466 (Arr. for 2 Guitars)",
+            "tonality" : {
+              "_key" : "F minor ~ 2902",
+              "id" : 2902,
+              "title" : "F minor"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291061080,
+        "ensembles" : [ ],
+        "id" : 45100346,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45099977
+        }
+      }
+    }, {
+      "duration" : 236,
+      "id" : 45100357,
+      "isrcs" : [ "FROV62210711" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 45099961,
+        "number" : null,
+        "pieceName" : "Allegro",
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Allegro",
+        "workpart" : {
+          "id" : 45099956,
+          "isOverture" : true,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in G minor K 8 Arr for 2 Guitars ~ 45099949",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 45100361,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45099949,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in G minor K 8 (Arr. for 2 Guitars)",
+            "tonality" : {
+              "_key" : "G minor ~ 2914",
+              "id" : 2914,
+              "title" : "G minor"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291062309,
+        "ensembles" : [ ],
+        "id" : 45100361,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45099949
+        }
+      }
+    }, {
+      "duration" : 178,
+      "id" : 45100372,
+      "isrcs" : [ "FROV62210712" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 45099928,
+        "number" : null,
+        "pieceName" : "Presto",
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Presto",
+        "workpart" : {
+          "id" : 45099923,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Sonata for Keyboard in F minor K 386 Arr for 2 Guitars ~ 45099917",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Domenico",
+                "id" : 63281,
+                "name" : "Domenico Scarlatti",
+                "surname" : "Scarlatti"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Scarlatti, Domenico ~ 63281",
+              "alternativeNames" : [ ],
+              "forename" : "Domenico",
+              "id" : 63281,
+              "kind" : "person",
+              "name" : "Domenico Scarlatti",
+              "playEventCount" : 16704,
+              "popularity" : 0.0474339108,
+              "slugs" : [ "63281", "domenico-scarlatti-63281", "domenico-scarlatti" ],
+              "surname" : "Scarlatti"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 45100376,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 45099917,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Mixed Duo ~ 13329633",
+              "id" : 13329633,
+              "title" : "Mixed Duo"
+            },
+            "subtitle" : null,
+            "title" : "Sonata for Keyboard in F minor K 386 (Arr. for 2 Guitars)",
+            "tonality" : {
+              "_key" : "F minor ~ 2902",
+              "id" : 2902,
+              "title" : "F minor"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "fcbb7d67-e03f-404a-9951-7a98e709873f" ],
+        "conductor" : null,
+        "created_at" : 1701291063540,
+        "ensembles" : [ ],
+        "id" : 45100376,
+        "interestGroups" : [ 5, 62, 103, 1005 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 80014,
+          "name" : "Columbus"
+        },
+        "recordingDate" : {
+          "from" : "2022",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Micheli, Lorenzo ~ 11914637",
+            "alternativeNames" : [ ],
+            "forename" : "Lorenzo",
+            "id" : 11914637,
+            "kind" : "person",
+            "name" : "Lorenzo Micheli",
+            "playEventCount" : 486,
+            "popularity" : 0.0093318947,
+            "slugs" : [ "11914637", "lorenzo-micheli-11914637", "lorenzo-micheli" ],
+            "surname" : "Micheli"
+          }
+        }, {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Mela, Matteo ~ 11760816",
+            "alternativeNames" : [ ],
+            "forename" : "Matteo",
+            "id" : 11760816,
+            "kind" : "person",
+            "name" : "Matteo Mela",
+            "playEventCount" : 500,
+            "popularity" : 0.0093928178,
+            "slugs" : [ "11760816", "matteo-mela-11760816", "matteo-mela" ],
+            "surname" : "Mela"
+          }
+        } ],
+        "summary" : "Lorenzo Micheli, Matteo Mela",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 26967328,
+          "location" : {
+            "id" : 80014,
+            "name" : "Columbus"
+          },
+          "name" : "Legacy Hall"
+        },
+        "work" : {
+          "id" : 45099917
+        }
+      }
+    } ],
+    "upc" : "3149028147360",
+    "uuid" : "fcbb7d67-e03f-404a-9951-7a98e709873f"
+  }
+}

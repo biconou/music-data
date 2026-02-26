@@ -10,21 +10,33 @@
         </config>
         <config key="Variable_1">
             <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="MUSIC_DATA_API"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="http://localhost:5000"/>
+        </config>
+        <config key="Variable_2">
+            <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="discogs.key"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="BIqHCSNxDnaIPhqCiZoc"/>
         </config>
-        <config key="Variable_2">
+        <config key="Variable_3">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="discogs.secret"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="xYpdaTwFFISNXwMOlvuGVossTaRtnkHs"/>
         </config>
-        <config key="Variable_3">
+        <config key="Variable_4">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="DATA_DIR"/>
             <entry key="class" type="xstring" value="STRING"/>
             <entry key="value" type="xstring" value="C:\DATA\develop\music-data\data"/>
+        </config>
+        <config key="Variable_5">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="STRAPI_URL"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="http://localhost:1337"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -71,6 +83,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="12f27e94-b0e3-4af8-bb81-53a77fb32ee3"/>
+        <entry key="file_store_id" type="xstring" value="cf9cd9e6-5c1d-4ad6-abb7-e88dac9429bb"/>
     </config>
 </config>

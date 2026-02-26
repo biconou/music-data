@@ -1,0 +1,5294 @@
+{
+  "result" : {
+    "bookletUrl" : "https://booklets.idagio.com/3760195735572.pdf",
+    "copyright" : "2024 Arcana",
+    "copyrightYear" : 2024,
+    "description" : "",
+    "id" : "47e44a02-b461-4f29-b4e5-dea534b3aeec",
+    "imageUrl" : "https://idagio-images.global.ssl.fastly.net/albums/3760195735572/main.jpg",
+    "interestGroupIds" : [ "65", "103", "1006" ],
+    "lastModified" : "2026-01-09T14:41:44+00:00",
+    "longDescription" : "",
+    "participants" : [ {
+      "_key" : "Nuti, Giulia ~ 11757528",
+      "ensemble" : null,
+      "id" : 11757528,
+      "name" : "Giulia Nuti",
+      "numOccurrences" : 40,
+      "participation" : 1,
+      "person" : {
+        "_instrumentKey" : "Harpsichord ~ 3259",
+        "forename" : "Giulia",
+        "instrument" : "Harpsichord",
+        "instrumentId" : 3259,
+        "surname" : "Nuti"
+      },
+      "popularity" : 0.0024633339,
+      "type" : "soloist"
+    }, {
+      "_key" : "Bach, Johann Sebastian ~ 61217",
+      "ensemble" : null,
+      "id" : 61217,
+      "name" : "Johann Sebastian Bach",
+      "numOccurrences" : 40,
+      "participation" : 1,
+      "person" : {
+        "_instrumentKey" : null,
+        "forename" : "Johann Sebastian",
+        "instrument" : null,
+        "instrumentId" : null,
+        "surname" : "Bach"
+      },
+      "popularity" : 1,
+      "type" : "composer"
+    } ],
+    "publishDate" : "2024-01-19",
+    "slug" : "j-s-bach-the-six-partitas-989417F4-D907-4381-AE02-7ADF6604520F",
+    "tags" : [ "recent-release" ],
+    "title" : "J.S. Bach: The Six Partitas",
+    "trackIds" : [ "45149212", "45149216", "45149220", "45149224", "45149228", "45149232", "45149245", "45149249", "45149253", "45149257", "45149261", "45149265", "45149278", "45149282", "45149286", "45149290", "45149294", "45149298", "45149302", "45149315", "45149319", "45149323", "45149327", "45149331", "45149335", "45149339", "45149352", "45149356", "45149360", "45149364", "45149368", "45149372", "45149376", "45149389", "45149393", "45149397", "45149401", "45149405", "45149409", "45149413" ],
+    "tracks" : [ {
+      "duration" : 117,
+      "id" : 45149212,
+      "isrcs" : [ "FR46Y2155701" ],
+      "piece" : {
+        "descriptionName" : "Praeludium",
+        "id" : 10511583,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 2,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "I. Praeludium",
+        "workpart" : {
+          "id" : 10511578,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 1 in B flat major BWV 825 ~ 10511569",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11367641,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511569,
+            "number" : "1",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 1 in B flat major BWV 825",
+            "tonality" : {
+              "_key" : "B flat major ~ 2860",
+              "id" : 2860,
+              "title" : "B flat major"
+            }
+          }
+        }
+      },
+      "position" : 2,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035192052,
+        "ensembles" : [ ],
+        "id" : 45149235,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511569
+        }
+      }
+    }, {
+      "duration" : 286,
+      "id" : 45149216,
+      "isrcs" : [ "FR46Y2155702" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511588,
+        "number" : null,
+        "pieceName" : "Allemande",
+        "popularTitle" : null,
+        "position" : 3,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "II. Allemande",
+        "workpart" : {
+          "id" : 10511578,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 1 in B flat major BWV 825 ~ 10511569",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11367641,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511569,
+            "number" : "1",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 1 in B flat major BWV 825",
+            "tonality" : {
+              "_key" : "B flat major ~ 2860",
+              "id" : 2860,
+              "title" : "B flat major"
+            }
+          }
+        }
+      },
+      "position" : 3,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035192052,
+        "ensembles" : [ ],
+        "id" : 45149235,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511569
+        }
+      }
+    }, {
+      "duration" : 176,
+      "id" : 45149220,
+      "isrcs" : [ "FR46Y2155703" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511593,
+        "number" : null,
+        "pieceName" : "Corrente",
+        "popularTitle" : null,
+        "position" : 4,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "III. Corrente",
+        "workpart" : {
+          "id" : 10511578,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 1 in B flat major BWV 825 ~ 10511569",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11367641,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511569,
+            "number" : "1",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 1 in B flat major BWV 825",
+            "tonality" : {
+              "_key" : "B flat major ~ 2860",
+              "id" : 2860,
+              "title" : "B flat major"
+            }
+          }
+        }
+      },
+      "position" : 4,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035192052,
+        "ensembles" : [ ],
+        "id" : 45149235,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511569
+        }
+      }
+    }, {
+      "duration" : 347,
+      "id" : 45149224,
+      "isrcs" : [ "FR46Y2155704" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511598,
+        "number" : null,
+        "pieceName" : "Sarabande",
+        "popularTitle" : null,
+        "position" : 5,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "IV. Sarabande",
+        "workpart" : {
+          "id" : 10511578,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 1 in B flat major BWV 825 ~ 10511569",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11367641,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511569,
+            "number" : "1",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 1 in B flat major BWV 825",
+            "tonality" : {
+              "_key" : "B flat major ~ 2860",
+              "id" : 2860,
+              "title" : "B flat major"
+            }
+          }
+        }
+      },
+      "position" : 5,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035192052,
+        "ensembles" : [ ],
+        "id" : 45149235,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511569
+        }
+      }
+    }, {
+      "duration" : 202,
+      "id" : 45149228,
+      "isrcs" : [ "FR46Y2155705" ],
+      "piece" : {
+        "descriptionName" : "Menuet I – Menuett II – Menuet I (da capo)",
+        "id" : 10511603,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 6,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "V. Menuet I – Menuett II – Menuet I (da capo)",
+        "workpart" : {
+          "id" : 10511578,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 1 in B flat major BWV 825 ~ 10511569",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11367641,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511569,
+            "number" : "1",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 1 in B flat major BWV 825",
+            "tonality" : {
+              "_key" : "B flat major ~ 2860",
+              "id" : 2860,
+              "title" : "B flat major"
+            }
+          }
+        }
+      },
+      "position" : 6,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035192052,
+        "ensembles" : [ ],
+        "id" : 45149235,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511569
+        }
+      }
+    }, {
+      "duration" : 130,
+      "id" : 45149232,
+      "isrcs" : [ "FR46Y2155706" ],
+      "piece" : {
+        "descriptionName" : "Giga",
+        "id" : 10511608,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 13,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "VI. Giga",
+        "workpart" : {
+          "id" : 10511578,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 1 in B flat major BWV 825 ~ 10511569",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11367641,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511569,
+            "number" : "1",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 1 in B flat major BWV 825",
+            "tonality" : {
+              "_key" : "B flat major ~ 2860",
+              "id" : 2860,
+              "title" : "B flat major"
+            }
+          }
+        }
+      },
+      "position" : 13,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035192052,
+        "ensembles" : [ ],
+        "id" : 45149235,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511569
+        }
+      }
+    }, {
+      "duration" : 308,
+      "id" : 45149245,
+      "isrcs" : [ "FR46Y2155707" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511630,
+        "number" : null,
+        "pieceName" : "Sinfonia",
+        "popularTitle" : null,
+        "position" : 3,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "I. Sinfonia",
+        "workpart" : {
+          "id" : 10511625,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 2 in C minor BWV 826 ~ 10511616",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11368977,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511616,
+            "number" : "2",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : "from Clavier-Übung I",
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : null,
+            "title" : "Partita for Harpsichord No. 2 in C minor BWV 826",
+            "tonality" : {
+              "_key" : "C minor ~ 811",
+              "id" : 811,
+              "title" : "C minor"
+            }
+          }
+        }
+      },
+      "position" : 3,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035194739,
+        "ensembles" : [ ],
+        "id" : 45149268,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511616
+        }
+      }
+    }, {
+      "duration" : 401,
+      "id" : 45149249,
+      "isrcs" : [ "FR46Y2155708" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511635,
+        "number" : null,
+        "pieceName" : "Allemande",
+        "popularTitle" : null,
+        "position" : 4,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "II. Allemande",
+        "workpart" : {
+          "id" : 10511625,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 2 in C minor BWV 826 ~ 10511616",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11368977,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511616,
+            "number" : "2",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : "from Clavier-Übung I",
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : null,
+            "title" : "Partita for Harpsichord No. 2 in C minor BWV 826",
+            "tonality" : {
+              "_key" : "C minor ~ 811",
+              "id" : 811,
+              "title" : "C minor"
+            }
+          }
+        }
+      },
+      "position" : 4,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035194739,
+        "ensembles" : [ ],
+        "id" : 45149268,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511616
+        }
+      }
+    }, {
+      "duration" : 176,
+      "id" : 45149253,
+      "isrcs" : [ "FR46Y2155709" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511640,
+        "number" : null,
+        "pieceName" : "Courante",
+        "popularTitle" : null,
+        "position" : 5,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "III. Courante",
+        "workpart" : {
+          "id" : 10511625,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 2 in C minor BWV 826 ~ 10511616",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11368977,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511616,
+            "number" : "2",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : "from Clavier-Übung I",
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : null,
+            "title" : "Partita for Harpsichord No. 2 in C minor BWV 826",
+            "tonality" : {
+              "_key" : "C minor ~ 811",
+              "id" : 811,
+              "title" : "C minor"
+            }
+          }
+        }
+      },
+      "position" : 5,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035194739,
+        "ensembles" : [ ],
+        "id" : 45149268,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511616
+        }
+      }
+    }, {
+      "duration" : 247,
+      "id" : 45149257,
+      "isrcs" : [ "FR46Y2155710" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511645,
+        "number" : null,
+        "pieceName" : "Sarabande",
+        "popularTitle" : null,
+        "position" : 6,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "IV. Sarabande",
+        "workpart" : {
+          "id" : 10511625,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 2 in C minor BWV 826 ~ 10511616",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11368977,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511616,
+            "number" : "2",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : "from Clavier-Übung I",
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : null,
+            "title" : "Partita for Harpsichord No. 2 in C minor BWV 826",
+            "tonality" : {
+              "_key" : "C minor ~ 811",
+              "id" : 811,
+              "title" : "C minor"
+            }
+          }
+        }
+      },
+      "position" : 6,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035194739,
+        "ensembles" : [ ],
+        "id" : 45149268,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511616
+        }
+      }
+    }, {
+      "duration" : 89,
+      "id" : 45149261,
+      "isrcs" : [ "FR46Y2155711" ],
+      "piece" : {
+        "descriptionName" : "Rondeaux",
+        "id" : 10511650,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 8,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "V. Rondeaux",
+        "workpart" : {
+          "id" : 10511625,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 2 in C minor BWV 826 ~ 10511616",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11368977,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511616,
+            "number" : "2",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : "from Clavier-Übung I",
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : null,
+            "title" : "Partita for Harpsichord No. 2 in C minor BWV 826",
+            "tonality" : {
+              "_key" : "C minor ~ 811",
+              "id" : 811,
+              "title" : "C minor"
+            }
+          }
+        }
+      },
+      "position" : 8,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035194739,
+        "ensembles" : [ ],
+        "id" : 45149268,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511616
+        }
+      }
+    }, {
+      "duration" : 235,
+      "id" : 45149265,
+      "isrcs" : [ "FR46Y2155712" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511655,
+        "number" : null,
+        "pieceName" : "Capriccio",
+        "popularTitle" : null,
+        "position" : 9,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "VI. Capriccio",
+        "workpart" : {
+          "id" : 10511625,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 2 in C minor BWV 826 ~ 10511616",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11368977,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511616,
+            "number" : "2",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : "from Clavier-Übung I",
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : null,
+            "title" : "Partita for Harpsichord No. 2 in C minor BWV 826",
+            "tonality" : {
+              "_key" : "C minor ~ 811",
+              "id" : 811,
+              "title" : "C minor"
+            }
+          }
+        }
+      },
+      "position" : 9,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035194739,
+        "ensembles" : [ ],
+        "id" : 45149268,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511616
+        }
+      }
+    }, {
+      "duration" : 382,
+      "id" : 45149278,
+      "isrcs" : [ "FR46Y2155713" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 7860018,
+        "number" : null,
+        "pieceName" : "Toccata",
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "I. Toccata",
+        "workpart" : {
+          "id" : 7860013,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 6 in E minor BWV 830 ~ 7860002",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11188776,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7860002,
+            "number" : "6",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 6 in E minor BWV 830",
+            "tonality" : {
+              "_key" : "E minor ~ 2890",
+              "id" : 2890,
+              "title" : "E minor"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035197646,
+        "ensembles" : [ ],
+        "id" : 45149305,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7860002
+        }
+      }
+    }, {
+      "duration" : 291,
+      "id" : 45149282,
+      "isrcs" : [ "FR46Y2155714" ],
+      "piece" : {
+        "descriptionName" : "Allemanda",
+        "id" : 7860023,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 2,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "II. Allemanda",
+        "workpart" : {
+          "id" : 7860013,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 6 in E minor BWV 830 ~ 7860002",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11188776,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7860002,
+            "number" : "6",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 6 in E minor BWV 830",
+            "tonality" : {
+              "_key" : "E minor ~ 2890",
+              "id" : 2890,
+              "title" : "E minor"
+            }
+          }
+        }
+      },
+      "position" : 2,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035197646,
+        "ensembles" : [ ],
+        "id" : 45149305,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7860002
+        }
+      }
+    }, {
+      "duration" : 303,
+      "id" : 45149286,
+      "isrcs" : [ "FR46Y2155715" ],
+      "piece" : {
+        "descriptionName" : "Courante",
+        "id" : 7860028,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 3,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "III. Courante",
+        "workpart" : {
+          "id" : 7860013,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 6 in E minor BWV 830 ~ 7860002",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11188776,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7860002,
+            "number" : "6",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 6 in E minor BWV 830",
+            "tonality" : {
+              "_key" : "E minor ~ 2890",
+              "id" : 2890,
+              "title" : "E minor"
+            }
+          }
+        }
+      },
+      "position" : 3,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035197646,
+        "ensembles" : [ ],
+        "id" : 45149305,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7860002
+        }
+      }
+    }, {
+      "duration" : 75,
+      "id" : 45149290,
+      "isrcs" : [ "FR46Y2155716" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 7860033,
+        "number" : null,
+        "pieceName" : "Air",
+        "popularTitle" : null,
+        "position" : 4,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "IV. Air",
+        "workpart" : {
+          "id" : 7860013,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 6 in E minor BWV 830 ~ 7860002",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11188776,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7860002,
+            "number" : "6",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 6 in E minor BWV 830",
+            "tonality" : {
+              "_key" : "E minor ~ 2890",
+              "id" : 2890,
+              "title" : "E minor"
+            }
+          }
+        }
+      },
+      "position" : 4,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035197646,
+        "ensembles" : [ ],
+        "id" : 45149305,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7860002
+        }
+      }
+    }, {
+      "duration" : 428,
+      "id" : 45149294,
+      "isrcs" : [ "FR46Y2155717" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 7860038,
+        "number" : null,
+        "pieceName" : "Sarabande",
+        "popularTitle" : null,
+        "position" : 6,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "V. Sarabande",
+        "workpart" : {
+          "id" : 7860013,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 6 in E minor BWV 830 ~ 7860002",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11188776,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7860002,
+            "number" : "6",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 6 in E minor BWV 830",
+            "tonality" : {
+              "_key" : "E minor ~ 2890",
+              "id" : 2890,
+              "title" : "E minor"
+            }
+          }
+        }
+      },
+      "position" : 6,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035197646,
+        "ensembles" : [ ],
+        "id" : 45149305,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7860002
+        }
+      }
+    }, {
+      "duration" : 126,
+      "id" : 45149298,
+      "isrcs" : [ "FR46Y2155718" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 7860046,
+        "number" : null,
+        "pieceName" : "Tempo di Gavotta",
+        "popularTitle" : null,
+        "position" : 7,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "VI. Tempo di Gavotta",
+        "workpart" : {
+          "id" : 7860013,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 6 in E minor BWV 830 ~ 7860002",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11188776,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7860002,
+            "number" : "6",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 6 in E minor BWV 830",
+            "tonality" : {
+              "_key" : "E minor ~ 2890",
+              "id" : 2890,
+              "title" : "E minor"
+            }
+          }
+        }
+      },
+      "position" : 7,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035197646,
+        "ensembles" : [ ],
+        "id" : 45149305,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7860002
+        }
+      }
+    }, {
+      "duration" : 406,
+      "id" : 45149302,
+      "isrcs" : [ "FR46Y2155719" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 7860051,
+        "number" : null,
+        "pieceName" : "Gigue",
+        "popularTitle" : null,
+        "position" : 8,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "VII. Gigue",
+        "workpart" : {
+          "id" : 7860013,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 6 in E minor BWV 830 ~ 7860002",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11188776,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7860002,
+            "number" : "6",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 6 in E minor BWV 830",
+            "tonality" : {
+              "_key" : "E minor ~ 2890",
+              "id" : 2890,
+              "title" : "E minor"
+            }
+          }
+        }
+      },
+      "position" : 8,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035197646,
+        "ensembles" : [ ],
+        "id" : 45149305,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7860002
+        }
+      }
+    }, {
+      "duration" : 371,
+      "id" : 45149315,
+      "isrcs" : [ "FR46Y2155720" ],
+      "piece" : {
+        "descriptionName" : "Ouverture",
+        "id" : 10511727,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "I. Ouverture",
+        "workpart" : {
+          "id" : 10511722,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 4 in D major BWV 828 ~ 10511713",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11683575,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511713,
+            "number" : "4",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 4 in D major BWV 828",
+            "tonality" : {
+              "_key" : "D major ~ 2878",
+              "id" : 2878,
+              "title" : "D major"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035200548,
+        "ensembles" : [ ],
+        "id" : 45149342,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511713
+        }
+      }
+    }, {
+      "duration" : 661,
+      "id" : 45149319,
+      "isrcs" : [ "FR46Y2155721" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511732,
+        "number" : null,
+        "pieceName" : "Allemande",
+        "popularTitle" : null,
+        "position" : 2,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "II. Allemande",
+        "workpart" : {
+          "id" : 10511722,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 4 in D major BWV 828 ~ 10511713",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11683575,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511713,
+            "number" : "4",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 4 in D major BWV 828",
+            "tonality" : {
+              "_key" : "D major ~ 2878",
+              "id" : 2878,
+              "title" : "D major"
+            }
+          }
+        }
+      },
+      "position" : 2,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035200548,
+        "ensembles" : [ ],
+        "id" : 45149342,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511713
+        }
+      }
+    }, {
+      "duration" : 232,
+      "id" : 45149323,
+      "isrcs" : [ "FR46Y2155722" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511737,
+        "number" : null,
+        "pieceName" : "Courante",
+        "popularTitle" : null,
+        "position" : 3,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "III. Courante",
+        "workpart" : {
+          "id" : 10511722,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 4 in D major BWV 828 ~ 10511713",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11683575,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511713,
+            "number" : "4",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 4 in D major BWV 828",
+            "tonality" : {
+              "_key" : "D major ~ 2878",
+              "id" : 2878,
+              "title" : "D major"
+            }
+          }
+        }
+      },
+      "position" : 3,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035200548,
+        "ensembles" : [ ],
+        "id" : 45149342,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511713
+        }
+      }
+    }, {
+      "duration" : 124,
+      "id" : 45149327,
+      "isrcs" : [ "FR46Y2155723" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511742,
+        "number" : null,
+        "pieceName" : "Aria",
+        "popularTitle" : null,
+        "position" : 4,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "IV. Aria",
+        "workpart" : {
+          "id" : 10511722,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 4 in D major BWV 828 ~ 10511713",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11683575,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511713,
+            "number" : "4",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 4 in D major BWV 828",
+            "tonality" : {
+              "_key" : "D major ~ 2878",
+              "id" : 2878,
+              "title" : "D major"
+            }
+          }
+        }
+      },
+      "position" : 4,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035200548,
+        "ensembles" : [ ],
+        "id" : 45149342,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511713
+        }
+      }
+    }, {
+      "duration" : 431,
+      "id" : 45149331,
+      "isrcs" : [ "FR46Y2155724" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511747,
+        "number" : null,
+        "pieceName" : "Sarabande",
+        "popularTitle" : null,
+        "position" : 5,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "V. Sarabande",
+        "workpart" : {
+          "id" : 10511722,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 4 in D major BWV 828 ~ 10511713",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11683575,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511713,
+            "number" : "4",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 4 in D major BWV 828",
+            "tonality" : {
+              "_key" : "D major ~ 2878",
+              "id" : 2878,
+              "title" : "D major"
+            }
+          }
+        }
+      },
+      "position" : 5,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035200548,
+        "ensembles" : [ ],
+        "id" : 45149342,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511713
+        }
+      }
+    }, {
+      "duration" : 89,
+      "id" : 45149335,
+      "isrcs" : [ "FR46Y2155725" ],
+      "piece" : {
+        "descriptionName" : "Menuet",
+        "id" : 10511752,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 6,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "VI. Menuet",
+        "workpart" : {
+          "id" : 10511722,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 4 in D major BWV 828 ~ 10511713",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11683575,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511713,
+            "number" : "4",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 4 in D major BWV 828",
+            "tonality" : {
+              "_key" : "D major ~ 2878",
+              "id" : 2878,
+              "title" : "D major"
+            }
+          }
+        }
+      },
+      "position" : 6,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035200548,
+        "ensembles" : [ ],
+        "id" : 45149342,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511713
+        }
+      }
+    }, {
+      "duration" : 237,
+      "id" : 45149339,
+      "isrcs" : [ "FR46Y2155726" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511757,
+        "number" : null,
+        "pieceName" : "Gigue",
+        "popularTitle" : null,
+        "position" : 7,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "VII. Gigue",
+        "workpart" : {
+          "id" : 10511722,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 4 in D major BWV 828 ~ 10511713",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 11683575,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511713,
+            "number" : "4",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 4 in D major BWV 828",
+            "tonality" : {
+              "_key" : "D major ~ 2878",
+              "id" : 2878,
+              "title" : "D major"
+            }
+          }
+        }
+      },
+      "position" : 7,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035200548,
+        "ensembles" : [ ],
+        "id" : 45149342,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511713
+        }
+      }
+    }, {
+      "duration" : 152,
+      "id" : 45149352,
+      "isrcs" : [ "FR46Y2155727" ],
+      "piece" : {
+        "descriptionName" : "Fantasia",
+        "id" : 10511676,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "I. Fantasia",
+        "workpart" : {
+          "id" : 10511671,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 3 in A minor BWV 827 ~ 10511662",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 18837746,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511662,
+            "number" : "3",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 3 in A minor BWV 827",
+            "tonality" : {
+              "_key" : "A minor ~ 2848",
+              "id" : 2848,
+              "title" : "A minor"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035203476,
+        "ensembles" : [ ],
+        "id" : 45149379,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511662
+        }
+      }
+    }, {
+      "duration" : 249,
+      "id" : 45149356,
+      "isrcs" : [ "FR46Y2155728" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511681,
+        "number" : null,
+        "pieceName" : "Allemande",
+        "popularTitle" : null,
+        "position" : 2,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "II. Allemande",
+        "workpart" : {
+          "id" : 10511671,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 3 in A minor BWV 827 ~ 10511662",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 18837746,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511662,
+            "number" : "3",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 3 in A minor BWV 827",
+            "tonality" : {
+              "_key" : "A minor ~ 2848",
+              "id" : 2848,
+              "title" : "A minor"
+            }
+          }
+        }
+      },
+      "position" : 2,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035203476,
+        "ensembles" : [ ],
+        "id" : 45149379,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511662
+        }
+      }
+    }, {
+      "duration" : 178,
+      "id" : 45149360,
+      "isrcs" : [ "FR46Y2155729" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511686,
+        "number" : null,
+        "pieceName" : "Courante",
+        "popularTitle" : null,
+        "position" : 3,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "III. Courante",
+        "workpart" : {
+          "id" : 10511671,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 3 in A minor BWV 827 ~ 10511662",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 18837746,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511662,
+            "number" : "3",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 3 in A minor BWV 827",
+            "tonality" : {
+              "_key" : "A minor ~ 2848",
+              "id" : 2848,
+              "title" : "A minor"
+            }
+          }
+        }
+      },
+      "position" : 3,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035203476,
+        "ensembles" : [ ],
+        "id" : 45149379,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511662
+        }
+      }
+    }, {
+      "duration" : 293,
+      "id" : 45149364,
+      "isrcs" : [ "FR46Y2155730" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511691,
+        "number" : null,
+        "pieceName" : "Sarabande",
+        "popularTitle" : null,
+        "position" : 5,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "IV. Sarabande",
+        "workpart" : {
+          "id" : 10511671,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 3 in A minor BWV 827 ~ 10511662",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 18837746,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511662,
+            "number" : "3",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 3 in A minor BWV 827",
+            "tonality" : {
+              "_key" : "A minor ~ 2848",
+              "id" : 2848,
+              "title" : "A minor"
+            }
+          }
+        }
+      },
+      "position" : 5,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035203476,
+        "ensembles" : [ ],
+        "id" : 45149379,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511662
+        }
+      }
+    }, {
+      "duration" : 133,
+      "id" : 45149368,
+      "isrcs" : [ "FR46Y2155731" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511696,
+        "number" : null,
+        "pieceName" : "Burlesca",
+        "popularTitle" : null,
+        "position" : 6,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "V. Burlesca",
+        "workpart" : {
+          "id" : 10511671,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 3 in A minor BWV 827 ~ 10511662",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 18837746,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511662,
+            "number" : "3",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 3 in A minor BWV 827",
+            "tonality" : {
+              "_key" : "A minor ~ 2848",
+              "id" : 2848,
+              "title" : "A minor"
+            }
+          }
+        }
+      },
+      "position" : 6,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035203476,
+        "ensembles" : [ ],
+        "id" : 45149379,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511662
+        }
+      }
+    }, {
+      "duration" : 62,
+      "id" : 45149372,
+      "isrcs" : [ "FR46Y2155732" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511701,
+        "number" : null,
+        "pieceName" : "Scherzo",
+        "popularTitle" : null,
+        "position" : 7,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "VI. Scherzo",
+        "workpart" : {
+          "id" : 10511671,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 3 in A minor BWV 827 ~ 10511662",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 18837746,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511662,
+            "number" : "3",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 3 in A minor BWV 827",
+            "tonality" : {
+              "_key" : "A minor ~ 2848",
+              "id" : 2848,
+              "title" : "A minor"
+            }
+          }
+        }
+      },
+      "position" : 7,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035203476,
+        "ensembles" : [ ],
+        "id" : 45149379,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511662
+        }
+      }
+    }, {
+      "duration" : 222,
+      "id" : 45149376,
+      "isrcs" : [ "FR46Y2155733" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 10511706,
+        "number" : null,
+        "pieceName" : "Gigue",
+        "popularTitle" : null,
+        "position" : 8,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "VII. Gigue",
+        "workpart" : {
+          "id" : 10511671,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 3 in A minor BWV 827 ~ 10511662",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 18837746,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 10511662,
+            "number" : "3",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 3 in A minor BWV 827",
+            "tonality" : {
+              "_key" : "A minor ~ 2848",
+              "id" : 2848,
+              "title" : "A minor"
+            }
+          }
+        }
+      },
+      "position" : 8,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035203476,
+        "ensembles" : [ ],
+        "id" : 45149379,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 10511662
+        }
+      }
+    }, {
+      "duration" : 148,
+      "id" : 45149389,
+      "isrcs" : [ "FR46Y2155734" ],
+      "piece" : {
+        "descriptionName" : "Praeambulum",
+        "id" : 7859967,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "I. Praeambulum",
+        "workpart" : {
+          "id" : 7859962,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 5 in G major BWV 829 ~ 7859951",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 13802041,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7859951,
+            "number" : "5",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 5 in G major BWV 829",
+            "tonality" : {
+              "_key" : "G major ~ 2911",
+              "id" : 2911,
+              "title" : "G major"
+            }
+          }
+        }
+      },
+      "position" : 1,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035206380,
+        "ensembles" : [ ],
+        "id" : 45149416,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7859951
+        }
+      }
+    }, {
+      "duration" : 348,
+      "id" : 45149393,
+      "isrcs" : [ "FR46Y2155735" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 7859972,
+        "number" : null,
+        "pieceName" : "Allemande",
+        "popularTitle" : null,
+        "position" : 2,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "II. Allemande",
+        "workpart" : {
+          "id" : 7859962,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 5 in G major BWV 829 ~ 7859951",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 13802041,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7859951,
+            "number" : "5",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 5 in G major BWV 829",
+            "tonality" : {
+              "_key" : "G major ~ 2911",
+              "id" : 2911,
+              "title" : "G major"
+            }
+          }
+        }
+      },
+      "position" : 2,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035206380,
+        "ensembles" : [ ],
+        "id" : 45149416,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7859951
+        }
+      }
+    }, {
+      "duration" : 122,
+      "id" : 45149397,
+      "isrcs" : [ "FR46Y2155736" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 7859977,
+        "number" : null,
+        "pieceName" : "Courante",
+        "popularTitle" : null,
+        "position" : 3,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "III. Courante",
+        "workpart" : {
+          "id" : 7859962,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 5 in G major BWV 829 ~ 7859951",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 13802041,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7859951,
+            "number" : "5",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 5 in G major BWV 829",
+            "tonality" : {
+              "_key" : "G major ~ 2911",
+              "id" : 2911,
+              "title" : "G major"
+            }
+          }
+        }
+      },
+      "position" : 3,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035206380,
+        "ensembles" : [ ],
+        "id" : 45149416,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7859951
+        }
+      }
+    }, {
+      "duration" : 360,
+      "id" : 45149401,
+      "isrcs" : [ "FR46Y2155737" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 7859982,
+        "number" : null,
+        "pieceName" : "Sarabande",
+        "popularTitle" : null,
+        "position" : 4,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "IV. Sarabande",
+        "workpart" : {
+          "id" : 7859962,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 5 in G major BWV 829 ~ 7859951",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 13802041,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7859951,
+            "number" : "5",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 5 in G major BWV 829",
+            "tonality" : {
+              "_key" : "G major ~ 2911",
+              "id" : 2911,
+              "title" : "G major"
+            }
+          }
+        }
+      },
+      "position" : 4,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035206380,
+        "ensembles" : [ ],
+        "id" : 45149416,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7859951
+        }
+      }
+    }, {
+      "duration" : 103,
+      "id" : 45149405,
+      "isrcs" : [ "FR46Y2155738" ],
+      "piece" : {
+        "descriptionName" : "Tempo di Minuetta",
+        "id" : 7859987,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 5,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "V. Tempo di Minuetta",
+        "workpart" : {
+          "id" : 7859962,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 5 in G major BWV 829 ~ 7859951",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 13802041,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7859951,
+            "number" : "5",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 5 in G major BWV 829",
+            "tonality" : {
+              "_key" : "G major ~ 2911",
+              "id" : 2911,
+              "title" : "G major"
+            }
+          }
+        }
+      },
+      "position" : 5,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035206380,
+        "ensembles" : [ ],
+        "id" : 45149416,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7859951
+        }
+      }
+    }, {
+      "duration" : 110,
+      "id" : 45149409,
+      "isrcs" : [ "FR46Y2155739" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 7859992,
+        "number" : null,
+        "pieceName" : "Passepied",
+        "popularTitle" : null,
+        "position" : 6,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "VI. Passepied",
+        "workpart" : {
+          "id" : 7859962,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 5 in G major BWV 829 ~ 7859951",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 13802041,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7859951,
+            "number" : "5",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 5 in G major BWV 829",
+            "tonality" : {
+              "_key" : "G major ~ 2911",
+              "id" : 2911,
+              "title" : "G major"
+            }
+          }
+        }
+      },
+      "position" : 6,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035206380,
+        "ensembles" : [ ],
+        "id" : 45149416,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7859951
+        }
+      }
+    }, {
+      "duration" : 269,
+      "id" : 45149413,
+      "isrcs" : [ "FR46Y2155740" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 7859997,
+        "number" : null,
+        "pieceName" : "Gigue",
+        "popularTitle" : null,
+        "position" : 7,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "VII. Gigue",
+        "workpart" : {
+          "id" : 7859962,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Harpsichord No 5 in G major BWV 829 ~ 7859951",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 13802041,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Keyboard ~ 2533",
+              "id" : 2533,
+              "title" : "Keyboard"
+            },
+            "id" : 7859951,
+            "number" : "5",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Suite Keyboard ~ 2746",
+              "id" : 2746,
+              "title" : "Suite (Keyboard)"
+            },
+            "subtitle" : "from Clavier-Übung I",
+            "title" : "Partita for Harpsichord No. 5 in G major BWV 829",
+            "tonality" : {
+              "_key" : "G major ~ 2911",
+              "id" : 2911,
+              "title" : "G major"
+            }
+          }
+        }
+      },
+      "position" : 7,
+      "recording" : {
+        "albums" : [ "47e44a02-b461-4f29-b4e5-dea534b3aeec" ],
+        "conductor" : null,
+        "created_at" : 1702035206380,
+        "ensembles" : [ ],
+        "id" : 45149416,
+        "interestGroups" : [ 65, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : {
+          "id" : 4594,
+          "name" : "Bremen"
+        },
+        "recordingDate" : {
+          "from" : "2021",
+          "fromKeyword" : null,
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Harpsichord ~ 3259",
+            "id" : 3259,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 13,
+            "instrumentGroup3Id" : null,
+            "title" : "Harpsichord"
+          },
+          "person" : {
+            "_key" : "Nuti, Giulia ~ 11757528",
+            "alternativeNames" : [ ],
+            "forename" : "Giulia",
+            "id" : 11757528,
+            "kind" : "person",
+            "name" : "Giulia Nuti",
+            "playEventCount" : 211,
+            "popularity" : 0.0024633339,
+            "slugs" : [ "11757528", "giulia-nuti-11757528", "giulia-nuti" ],
+            "surname" : "Nuti"
+          }
+        } ],
+        "summary" : "Giulia Nuti",
+        "tags" : [ ],
+        "venue" : {
+          "id" : 11245079,
+          "location" : {
+            "id" : 4594,
+            "name" : "Bremen"
+          },
+          "name" : "Sendesaal Bremen"
+        },
+        "work" : {
+          "id" : 7859951
+        }
+      }
+    } ],
+    "upc" : "3760195735572",
+    "uuid" : "47e44a02-b461-4f29-b4e5-dea534b3aeec"
+  }
+}

@@ -24,47 +24,29 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="7"/>
+                <entry key="array-size" type="xint" value="4"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Anna Þorvaldsdóttir"/>
+                        <entry key="StringCell" type="xstring" value="{%%00013%%00010  &quot;_key&quot; : &quot;Bach, Johann Sebastian ~ 61217&quot;,%%00013%%00010  &quot;alternativeNames&quot; : [ ],%%00013%%00010  &quot;forename&quot; : &quot;Johann Sebastian&quot;,%%00013%%00010  &quot;id&quot; : 61217,%%00013%%00010  &quot;kind&quot; : &quot;person&quot;,%%00013%%00010  &quot;name&quot; : &quot;Johann Sebastian Bach&quot;,%%00013%%00010  &quot;playEventCount&quot; : 632645,%%00013%%00010  &quot;popularity&quot; : 1,%%00013%%00010  &quot;slugs&quot; : [ &quot;61217&quot;, &quot;johann-sebastian-bach-61217&quot;, &quot;johann-sebastian-bach&quot; ],%%00013%%00010  &quot;surname&quot; : &quot;Bach&quot;%%00013%%00010}"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Franz Schubert"/>
+                        <entry key="StringCell" type="xstring" value="{%%00013%%00010  &quot;_key&quot; : &quot;Sanz, Gaspar ~ 12069428&quot;,%%00013%%00010  &quot;alternativeNames&quot; : [ ],%%00013%%00010  &quot;forename&quot; : &quot;Gaspar&quot;,%%00013%%00010  &quot;id&quot; : 12069428,%%00013%%00010  &quot;kind&quot; : &quot;person&quot;,%%00013%%00010  &quot;name&quot; : &quot;Gaspar Sanz&quot;,%%00013%%00010  &quot;playEventCount&quot; : 579,%%00013%%00010  &quot;popularity&quot; : 0.0006242425,%%00013%%00010  &quot;slugs&quot; : [ &quot;12069428&quot;, &quot;gaspar-sanz-12069428&quot;, &quot;gaspar-sanz&quot; ],%%00013%%00010  &quot;surname&quot; : &quot;Sanz&quot;%%00013%%00010}"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Robert Schumann"/>
+                        <entry key="StringCell" type="xstring" value="{%%00013%%00010  &quot;_key&quot; : &quot;Handel, George Frideric ~ 61214&quot;,%%00013%%00010  &quot;alternativeNames&quot; : [ &quot;Handel Haendel\r\nGeorge Frideric (or Frederick) Handel&quot; ],%%00013%%00010  &quot;forename&quot; : &quot;George Frideric&quot;,%%00013%%00010  &quot;id&quot; : 61214,%%00013%%00010  &quot;kind&quot; : &quot;person&quot;,%%00013%%00010  &quot;name&quot; : &quot;George Frideric Handel&quot;,%%00013%%00010  &quot;playEventCount&quot; : 100030,%%00013%%00010  &quot;popularity&quot; : 0.189557072,%%00013%%00010  &quot;slugs&quot; : [ &quot;61214&quot;, &quot;georg-friedrich-handel-61214&quot;, &quot;georg-friedrich-handel&quot;, &quot;george-frideric-handel-61214&quot;, &quot;george-frideric-handel&quot; ],%%00013%%00010  &quot;surname&quot; : &quot;Handel&quot;%%00013%%00010}"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Franz Liszt"/>
-                    </config>
-                </config>
-                <config key="4">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Frédéric Chopin"/>
-                    </config>
-                </config>
-                <config key="5">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Johann Sebastian Bach"/>
-                    </config>
-                </config>
-                <config key="6">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Domenico Scarlatti"/>
+                        <entry key="StringCell" type="xstring" value="{%%00013%%00010  &quot;_key&quot; : &quot;Scarlatti, Domenico ~ 63281&quot;,%%00013%%00010  &quot;alternativeNames&quot; : [ ],%%00013%%00010  &quot;forename&quot; : &quot;Domenico&quot;,%%00013%%00010  &quot;id&quot; : 63281,%%00013%%00010  &quot;kind&quot; : &quot;person&quot;,%%00013%%00010  &quot;name&quot; : &quot;Domenico Scarlatti&quot;,%%00013%%00010  &quot;playEventCount&quot; : 16704,%%00013%%00010  &quot;popularity&quot; : 0.0474339108,%%00013%%00010  &quot;slugs&quot; : [ &quot;63281&quot;, &quot;domenico-scarlatti-63281&quot;, &quot;domenico-scarlatti&quot; ],%%00013%%00010  &quot;surname&quot; : &quot;Scarlatti&quot;%%00013%%00010}"/>
                     </config>
                 </config>
             </config>

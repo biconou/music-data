@@ -1,0 +1,425 @@
+{
+  "result" : {
+    "bookletUrl" : null,
+    "copyright" : "1986 Delos",
+    "copyrightYear" : 1986,
+    "description" : "",
+    "id" : "b5230f3d-aa69-4f83-abe6-f64e5efe0120",
+    "imageUrl" : "https://idagio-images.global.ssl.fastly.net/albums/013491100524/main.jpg",
+    "interestGroupIds" : [ "5", "62", "103", "1006" ],
+    "lastModified" : "2023-02-21T10:17:22+00:00",
+    "longDescription" : "",
+    "participants" : [ {
+      "_key" : "Romero, Celedonio ~ 11276277",
+      "ensemble" : null,
+      "id" : 11276277,
+      "name" : "Celedonio Romero",
+      "numOccurrences" : 3,
+      "participation" : 1,
+      "person" : {
+        "_instrumentKey" : "Guitar ~ 3316",
+        "forename" : "Celedonio",
+        "instrument" : "Guitar",
+        "instrumentId" : 3316,
+        "surname" : "Romero"
+      },
+      "popularity" : 0.005302275,
+      "type" : "soloist"
+    }, {
+      "_key" : "Bach, Johann Sebastian ~ 61217",
+      "ensemble" : null,
+      "id" : 61217,
+      "name" : "Johann Sebastian Bach",
+      "numOccurrences" : 2,
+      "participation" : 0.6666666666666666,
+      "person" : {
+        "_instrumentKey" : null,
+        "forename" : "Johann Sebastian",
+        "instrument" : null,
+        "instrumentId" : null,
+        "surname" : "Bach"
+      },
+      "popularity" : 1,
+      "type" : "composer"
+    }, {
+      "_key" : "Sanz, Gaspar ~ 12069428",
+      "ensemble" : null,
+      "id" : 12069428,
+      "name" : "Gaspar Sanz",
+      "numOccurrences" : 1,
+      "participation" : 0.3333333333333333,
+      "person" : {
+        "_instrumentKey" : null,
+        "forename" : "Gaspar",
+        "instrument" : null,
+        "instrumentId" : null,
+        "surname" : "Sanz"
+      },
+      "popularity" : 0.0006242425,
+      "type" : "composer"
+    } ],
+    "publishDate" : "1986-01-01",
+    "slug" : "bach-j-s-violin-partita-no-2-sanz-g-suite-espanola-arr-for-guitar",
+    "tags" : null,
+    "title" : "Bach, J.S.: Violin Partita No. 2 / Sanz, G.: Suite Española (Arr. for Guitar)",
+    "trackIds" : [ "12945060", "43672335", "43672346" ],
+    "tracks" : [ {
+      "duration" : 1676,
+      "id" : 12945060,
+      "isrcs" : [ "USASX0690501" ],
+      "piece" : {
+        "descriptionName" : "Ciaccona",
+        "id" : 13484310,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 5,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "V. Ciaccona",
+        "workpart" : {
+          "id" : 13484297,
+          "isOverture" : null,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Partita for Solo Violin No 2 in D minor BWV 1004 Arr for Guitar ~ 13484292",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 12945052,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 13484292,
+            "number" : "2",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Chamber Music  Solo Instrument ~ 2641",
+              "id" : 2641,
+              "title" : "Chamber Music - Solo Instrument"
+            },
+            "subtitle" : null,
+            "title" : "Partita for Solo Violin No. 2 in D minor BWV 1004 (Arr. for Guitar)",
+            "tonality" : {
+              "_key" : "D minor ~ 814",
+              "id" : 814,
+              "title" : "D minor"
+            }
+          }
+        }
+      },
+      "position" : 5,
+      "recording" : {
+        "albums" : [ "b5230f3d-aa69-4f83-abe6-f64e5efe0120" ],
+        "conductor" : null,
+        "created_at" : 1493576435558,
+        "ensembles" : [ ],
+        "id" : 12945052,
+        "interestGroups" : [ 5, 62, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "1986",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Romero, Celedonio ~ 11276277",
+            "alternativeNames" : [ ],
+            "forename" : "Celedonio",
+            "id" : 11276277,
+            "kind" : "person",
+            "name" : "Celedonio Romero",
+            "playEventCount" : 225,
+            "popularity" : 0.005302275,
+            "slugs" : [ "11276277", "celedonio-romero-11276277", "celedonio-romero" ],
+            "surname" : "Romero"
+          }
+        } ],
+        "summary" : "Celedonio Romero",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 13484292
+        }
+      }
+    }, {
+      "duration" : 1199,
+      "id" : 43672335,
+      "isrcs" : [ "USASX0690502" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 43672329,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 9,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Suite for Solo Violoncello No. 3 in C major BWV 1009 (Arr. for Guitar / Lute)",
+        "workpart" : {
+          "id" : 12810047,
+          "isOverture" : false,
+          "position" : 1,
+          "title" : null,
+          "work" : {
+            "_key" : "Suite for Solo Violoncello No 3 in C major BWV 1009 Arr for Guitar / Lute ~ 12810042",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Johann Sebastian",
+                "id" : 61217,
+                "name" : "Johann Sebastian Bach",
+                "surname" : "Bach"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Bach, Johann Sebastian ~ 61217",
+              "alternativeNames" : [ ],
+              "forename" : "Johann Sebastian",
+              "id" : 61217,
+              "kind" : "person",
+              "name" : "Johann Sebastian Bach",
+              "playEventCount" : 632645,
+              "popularity" : 1,
+              "slugs" : [ "61217", "johann-sebastian-bach-61217", "johann-sebastian-bach" ],
+              "surname" : "Bach"
+            },
+            "compositionYear" : "1717",
+            "defaultRecordingId" : 12810130,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 12810042,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Chamber Music  Solo Instrument ~ 2641",
+              "id" : 2641,
+              "title" : "Chamber Music - Solo Instrument"
+            },
+            "subtitle" : null,
+            "title" : "Suite for Solo Violoncello No. 3 in C major BWV 1009 (Arr. for Guitar / Lute)",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 9,
+      "recording" : {
+        "albums" : [ "b5230f3d-aa69-4f83-abe6-f64e5efe0120" ],
+        "conductor" : null,
+        "created_at" : 1676971040466,
+        "ensembles" : [ ],
+        "id" : 43672338,
+        "interestGroups" : [ 5, 62, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "1986",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Romero, Celedonio ~ 11276277",
+            "alternativeNames" : [ ],
+            "forename" : "Celedonio",
+            "id" : 11276277,
+            "kind" : "person",
+            "name" : "Celedonio Romero",
+            "playEventCount" : 225,
+            "popularity" : 0.005302275,
+            "slugs" : [ "11276277", "celedonio-romero-11276277", "celedonio-romero" ],
+            "surname" : "Romero"
+          }
+        } ],
+        "summary" : "Celedonio Romero",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 12810042
+        }
+      }
+    }, {
+      "duration" : 568,
+      "id" : 43672346,
+      "isrcs" : [ "USASX0690503" ],
+      "piece" : {
+        "descriptionName" : null,
+        "id" : 19866187,
+        "number" : null,
+        "pieceName" : null,
+        "popularTitle" : null,
+        "position" : 1,
+        "structuralSubtitle" : null,
+        "subtitle" : null,
+        "title" : "Suite Española (Arr. for Guitar)",
+        "workpart" : {
+          "id" : 26959116,
+          "isOverture" : false,
+          "position" : 2,
+          "title" : null,
+          "work" : {
+            "_key" : "Suite Española Arr for Guitar ~ 19599210",
+            "authors" : [ {
+              "authorType" : "Composer",
+              "key" : "composer",
+              "persons" : [ {
+                "forename" : "Gaspar",
+                "id" : 12069428,
+                "name" : "Gaspar Sanz",
+                "surname" : "Sanz"
+              } ]
+            } ],
+            "composer" : {
+              "_key" : "Sanz, Gaspar ~ 12069428",
+              "alternativeNames" : [ ],
+              "forename" : "Gaspar",
+              "id" : 12069428,
+              "kind" : "person",
+              "name" : "Gaspar Sanz",
+              "playEventCount" : 579,
+              "popularity" : 0.0006242425,
+              "slugs" : [ "12069428", "gaspar-sanz-12069428", "gaspar-sanz" ],
+              "surname" : "Sanz"
+            },
+            "compositionYear" : null,
+            "defaultRecordingId" : 43672349,
+            "epoch" : {
+              "_key" : "3 ~ 2488",
+              "id" : 2488,
+              "title" : "Baroque"
+            },
+            "genre" : {
+              "_key" : "Chamber ~ 2530",
+              "id" : 2530,
+              "title" : "Chamber"
+            },
+            "id" : 19599210,
+            "number" : "",
+            "opusNumber" : "",
+            "popularTitle" : null,
+            "structuralSubtitle" : null,
+            "subgenre" : {
+              "_key" : "Chamber Music  Solo Instrument ~ 2641",
+              "id" : 2641,
+              "title" : "Chamber Music - Solo Instrument"
+            },
+            "subtitle" : null,
+            "title" : "Suite Española (Arr. for Guitar)",
+            "tonality" : { }
+          }
+        }
+      },
+      "position" : 10,
+      "recording" : {
+        "albums" : [ "b5230f3d-aa69-4f83-abe6-f64e5efe0120" ],
+        "conductor" : null,
+        "created_at" : 1676971041992,
+        "ensembles" : [ ],
+        "id" : 43672349,
+        "interestGroups" : [ 5, 62, 103, 1006 ],
+        "isExclusive" : false,
+        "isPremium" : true,
+        "location" : null,
+        "recordingDate" : {
+          "from" : "1986",
+          "fromKeyword" : "℗",
+          "to" : null
+        },
+        "recordingType" : null,
+        "soloists" : [ {
+          "instrument" : {
+            "_key" : "Guitar ~ 3316",
+            "id" : 3316,
+            "instrumentGroup1Id" : null,
+            "instrumentGroup2Id" : 14,
+            "instrumentGroup3Id" : null,
+            "title" : "Guitar"
+          },
+          "person" : {
+            "_key" : "Romero, Celedonio ~ 11276277",
+            "alternativeNames" : [ ],
+            "forename" : "Celedonio",
+            "id" : 11276277,
+            "kind" : "person",
+            "name" : "Celedonio Romero",
+            "playEventCount" : 225,
+            "popularity" : 0.005302275,
+            "slugs" : [ "11276277", "celedonio-romero-11276277", "celedonio-romero" ],
+            "surname" : "Romero"
+          }
+        } ],
+        "summary" : "Celedonio Romero",
+        "tags" : [ ],
+        "venue" : null,
+        "work" : {
+          "id" : 19599210
+        }
+      }
+    } ],
+    "upc" : "013491100524",
+    "uuid" : "b5230f3d-aa69-4f83-abe6-f64e5efe0120"
+  }
+}

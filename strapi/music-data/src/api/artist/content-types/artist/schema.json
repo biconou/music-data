@@ -20,23 +20,11 @@
       "relation": "oneToMany",
       "target": "api::style.style"
     },
-    "genres": {
-      "type": "string"
-    },
-    "decades": {
-      "type": "string"
-    },
-    "url": {
-      "type": "string"
-    },
     "discography": {
       "type": "json"
     },
     "allmusic_id": {
       "type": "uid"
-    },
-    "discography_md": {
-      "type": "richtext"
     },
     "allmusic_data": {
       "type": "json"

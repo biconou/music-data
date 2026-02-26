@@ -10,6 +10,14 @@
             <entry key="file_system_type" type="xstring" value="LOCAL"/>
             <entry key="path" type="xstring" value="C:\DATA\develop\music-data\data\idagio\album"/>
         </config>
+        <config key="Variable_1">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="DATA_DIR_location"/>
+            <entry key="class" type="xstring" value="FSLocation"/>
+            <entry key="location_present" type="xboolean" value="true"/>
+            <entry key="file_system_type" type="xstring" value="LOCAL"/>
+            <entry key="path" type="xstring" value="C:\DATA\develop\music-data\data"/>
+        </config>
     </config>
     <config key="internal_node_subsettings">
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
@@ -18,15 +26,17 @@
         <config key="variable_filter">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
-                <entry key="array-size" type="xint" value="1"/>
+                <entry key="array-size" type="xint" value="2"/>
                 <entry key="0" type="xstring" value="IDAGIO_ALBUM_DIR"/>
+                <entry key="1" type="xstring" value="DATA_DIR"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="4"/>
-                <entry key="0" type="xstring" value="DATA_DIR"/>
+                <entry key="array-size" type="xint" value="5"/>
+                <entry key="0" type="xstring" value="STRAPI_URL"/>
                 <entry key="1" type="xstring" value="discogs.secret"/>
                 <entry key="2" type="xstring" value="discogs.key"/>
-                <entry key="3" type="xstring" value="ALLMUSICGRABBER_API"/>
+                <entry key="3" type="xstring" value="MUSIC_DATA_API"/>
+                <entry key="4" type="xstring" value="ALLMUSICGRABBER_API"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
             <config key="name_pattern">
@@ -107,6 +117,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="875805a6-de3d-4829-a836-0d09f45fc959"/>
+        <entry key="file_store_id" type="xstring" value="e37ae186-682e-4074-8059-0b921732a8e6"/>
     </config>
 </config>
