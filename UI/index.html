@@ -4,9 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>App Vue.js avec Bootstrap</title>
+
+    <!-- Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <!-- Vue -->
     <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+
+    <!-- D3 -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <!-- Ton script Vue -->
     <script src="script.js" defer></script>
+
+    <style>
+        /* Style simple pour le graphique */
+        .d3-line {
+            fill: none;
+            stroke: steelblue;
+            stroke-width: 2px;
+        }
+
+        .d3-circle {
+            fill: steelblue;
+        }
+
+        .d3-label {
+            font-size: 10px;
+        }
+
+        .d3-axis path,
+        .d3-axis line {
+            fill: none;
+            stroke: #000;
+            shape-rendering: crispEdges;
+        }
+    </style>
 </head>
 <body>
 <div id="app" class="container mt-5">
@@ -53,6 +86,7 @@
                 </div>
             </div>
 
+            <!-- Discographie -->
             <div class="card mb-4">
                 <div class="card-body">
                     <h5 class="card-title">Discographie</h5>
@@ -74,6 +108,15 @@
                         </tr>
                         </tbody>
                     </table>
+                </div>
+            </div>
+
+            <!-- NOUVELLE CARTE : Graphique D3 -->
+            <div class="card mb-4" v-if="responseData.discography && responseData.discography.length">
+                <div class="card-body">
+                    <h5 class="card-title">Évolution de la note musique</h5>
+                    <!-- Conteneur pour le graphique -->
+                    <div id="discography-chart"></div>
                 </div>
             </div>
 

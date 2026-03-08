@@ -52,16 +52,9 @@ def find_artist(req: func.HttpRequest) -> func.HttpResponse:
                 },
                 502,
             )
-
-        # On suppose que l’API renvoie du JSON
         data = response.json()
-
-        # Si besoin, tu peux transformer ici le JSON pour
-        # l’adapter à ton format de sortie
-        # ex: artist = transform_external_response(data)
-        artist = data
-
-        return json_response(artist, 200)
+        return json_response(data, 200)
+    
     except requests.RequestException as e:
         logging.error(f"HTTP error when calling external API: {e}")
         return json_response(
@@ -72,13 +65,4 @@ def find_artist(req: func.HttpRequest) -> func.HttpResponse:
         logging.exception("Unexpected error in search-artist")
         return json_response({'error': 'Internal server error'}, 500)
 
-
-@app.route(route="artist/{artist_id}")
-def artist(req: func.HttpRequest) -> func.HttpResponse:
-    artist_id = req.route_params.get("artist_id")
-    artist_url = compute_allmusic_artist_url(artist_id)
-    html_content = fetch_allmusic_html_content(artist_url)
-    artist = parse_artist(artist_id,html_content)
-    jsonArtist = json.dumps(artist, sort_keys=False, indent=4)
-    return json_response(jsonArtist, 500)
 
