@@ -70,14 +70,14 @@ services:
   #     - ./data/kong/db:/usr/local/kong/database
 
 
-  allmusicgrabber:
+  api:
     build:
-      context: ./allmusicgrabber
-    container_name: allmusicgrabber-api
+      context: ./api
+    container_name: api-music-data
     ports:
       - "5000:5000"
-    environment:
-      - FLASK_ENV=development
+   # environment:
+   #   - FLASK_ENV=development
     volumes:
       - ${DATA_DIR}:/data
     networks:
