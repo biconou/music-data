@@ -33,7 +33,7 @@ def find_artist(req: func.HttpRequest) -> func.HttpResponse:
         )
     try:
         # Appel de l’API externe
-        external_api_url = "https://biconou.freeboxos.fr:501/find-artist"
+        external_api_url = "https://biconou.freeboxos.fr:501/allmusic/find-artist"
         params = {"query": query}
 
         logging.info(f"Calling external API: {external_api_url} with params={params}")
