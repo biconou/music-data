@@ -99,7 +99,7 @@ new Vue({
                 .attr('transform', 'rotate(-90)')
                 .attr('x', -height / 2)
                 .attr('y', -margin.left + 15)
-                .text('Note musique');
+                .text('Note AllMusique');
 
             const line = d3.line()
                 .x(d => x(d.year))
