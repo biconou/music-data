@@ -4,5 +4,4 @@
 
 azure-functions
 requests
-bs4
 pip-system-certs

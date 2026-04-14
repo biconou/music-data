@@ -1,0 +1,2241 @@
+{
+  "result": {
+    "uuid": "2a088ecf-5f15-436d-890b-b237a14f133b",
+    "slug": "d-scarlatti-absconditus-15-sonatas-arr-for-guitar",
+    "upc": "0746160911250",
+    "tags": null,
+    "copyright": "2021 Da Vinci Classics",
+    "copyrightYear": 2021,
+    "participants": [
+      {
+        "id": 16870449,
+        "type": "soloist",
+        "numOccurrences": 15,
+        "popularity": 0.0048446068,
+        "ensemble": null,
+        "_key": "Attademo, Luigi ~ 16870449",
+        "participation": 1,
+        "name": "Luigi Attademo",
+        "person": {
+          "_instrumentKey": "Guitar ~ 3316",
+          "instrument": "Guitar",
+          "instrumentId": 3316,
+          "forename": "Luigi",
+          "surname": "Attademo"
+        }
+      },
+      {
+        "id": 63281,
+        "type": "composer",
+        "numOccurrences": 15,
+        "popularity": 0.0514413418,
+        "ensemble": null,
+        "_key": "Scarlatti, Domenico ~ 63281",
+        "participation": 1,
+        "name": "Domenico Scarlatti",
+        "person": {
+          "_instrumentKey": null,
+          "instrument": null,
+          "instrumentId": null,
+          "forename": "Domenico",
+          "surname": "Scarlatti"
+        }
+      }
+    ],
+    "publishDate": "2021-05-21",
+    "trackIds": [
+      "40459605",
+      "40459617",
+      "40459629",
+      "40459641",
+      "40459653",
+      "40459665",
+      "40459677",
+      "40459689",
+      "40459701",
+      "40459713",
+      "40459725",
+      "40459737",
+      "40459749",
+      "40459761",
+      "40459773"
+    ],
+    "bookletUrl": null,
+    "title": "D. Scarlatti: Absconditus, 15 Sonatas Arr. for Guitar",
+    "description": "",
+    "longDescription": "",
+    "interestGroupIds": [
+      "5",
+      "62",
+      "103",
+      "1006"
+    ],
+    "lastModified": "2021-05-21T00:00:00+00:00",
+    "id": "2a088ecf-5f15-436d-890b-b237a14f133b",
+    "imageUrl": "https://idagio-images.global.ssl.fastly.net/albums/0746160911250/main.jpg",
+    "tracks": [
+      {
+        "id": 40459605,
+        "duration": 236,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904296"
+        ],
+        "piece": {
+          "id": 40459218,
+          "position": 0,
+          "title": "Andante cantabile",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 40459213,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in D minor K 176 Arr for Guitar ~ 40459207",
+              "id": 40459207,
+              "defaultRecordingId": "40459608",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": "1749",
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {
+                "id": 814,
+                "title": "D minor",
+                "_key": "D minor ~ 814"
+              },
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in D minor K 176 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505813650,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459608,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 40459207
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459617,
+        "duration": 371,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904297"
+        ],
+        "piece": {
+          "id": 40459431,
+          "position": 0,
+          "title": "Allegro",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 40459426,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in C minor K 73 Arr for Guitar ~ 40459419",
+              "id": 40459419,
+              "defaultRecordingId": "40459620",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": "1742",
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {
+                "id": 811,
+                "title": "C minor",
+                "_key": "C minor ~ 811"
+              },
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in C minor K 73 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505814950,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459620,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 40459419
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459629,
+        "duration": 462,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904298"
+        ],
+        "piece": {
+          "id": 17428113,
+          "position": 0,
+          "title": "Andante",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 17428112,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in D minor K 213 Arr for Guitar ~ 17428107",
+              "id": 17428107,
+              "defaultRecordingId": "17428222",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in D minor K 213 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505816142,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459632,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 17428107
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459641,
+        "duration": 288,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904299"
+        ],
+        "piece": {
+          "id": 40459409,
+          "position": 0,
+          "title": "Andante moderato",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 40459404,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in D major K 164 Arr for Guitar ~ 40459398",
+              "id": 40459398,
+              "defaultRecordingId": "40459644",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": "1752",
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {
+                "id": 2878,
+                "title": "D major",
+                "_key": "D major ~ 2878"
+              },
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in D major K 164 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505817342,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459644,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 40459398
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459653,
+        "duration": 349,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904300"
+        ],
+        "piece": {
+          "id": 40459387,
+          "position": 0,
+          "title": "Cantabile",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 40459382,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in D major K 490 Arr for Guitar ~ 40459376",
+              "id": 40459376,
+              "defaultRecordingId": "40459656",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {
+                "id": 2878,
+                "title": "D major",
+                "_key": "D major ~ 2878"
+              },
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in D major K 490 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505818518,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459656,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 40459376
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459665,
+        "duration": 140,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904301"
+        ],
+        "piece": {
+          "id": 23208350,
+          "position": 0,
+          "title": "Minuet",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 23208349,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in B flat major K 440 Arr for Guitar ~ 23208344",
+              "id": 23208344,
+              "defaultRecordingId": "40459668",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": "1755",
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in B flat major K 440 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505819751,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459668,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 23208344
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459677,
+        "duration": 220,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904302"
+        ],
+        "piece": {
+          "id": 40459366,
+          "position": 0,
+          "title": "Andante",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 40459361,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in B minor K 408 Arr for Guitar ~ 40459354",
+              "id": 40459354,
+              "defaultRecordingId": "40459680",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": "1754",
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {
+                "id": 2926,
+                "title": "B minor",
+                "_key": "B minor ~ 2926"
+              },
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in B minor K 408 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505820910,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459680,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 40459354
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459689,
+        "duration": 87,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904303"
+        ],
+        "piece": {
+          "id": 40459343,
+          "position": 0,
+          "title": "Minuetto",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 40459338,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in C minor K 40 Arr for Guitar ~ 40459335",
+              "id": 40459335,
+              "defaultRecordingId": "40459692",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {
+                "id": 811,
+                "title": "C minor",
+                "_key": "C minor ~ 811"
+              },
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in C minor K 40 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505822144,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459692,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 40459335
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459701,
+        "duration": 298,
+        "position": 3,
+        "isrcs": [
+          "ITLF51904304"
+        ],
+        "piece": {
+          "id": 40459598,
+          "position": 2,
+          "title": "I. Moderato è cantabile – II. Minuet",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 17428279,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in D minor K 77 Arr for Guitar ~ 17428274",
+              "id": 17428274,
+              "defaultRecordingId": "17428306",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in D minor K 77 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505823384,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459704,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 17428274
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459713,
+        "duration": 310,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904305"
+        ],
+        "piece": {
+          "id": 17093722,
+          "position": 0,
+          "title": "Andante",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 17093721,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in E minor K 291 Arr for Guitar ~ 17093716",
+              "id": 17093716,
+              "defaultRecordingId": "17428093",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": "1753",
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in E minor K 291 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505824542,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459716,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 17093716
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459725,
+        "duration": 223,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904306"
+        ],
+        "piece": {
+          "id": 17093771,
+          "position": 0,
+          "title": "Allegro",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 17093770,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in E minor K 292 Arr for Guitar ~ 17093765",
+              "id": 17093765,
+              "defaultRecordingId": "17428081",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": "1753",
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in E minor K 292 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505825790,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459728,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 17093765
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459737,
+        "duration": 380,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904307"
+        ],
+        "piece": {
+          "id": 18954014,
+          "position": 0,
+          "title": "Andante comodo",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 18954013,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in E major K 380 Arr for Guitar ~ 18954008",
+              "id": 18954008,
+              "defaultRecordingId": "24024824",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": "1754",
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in E major K 380 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505826973,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459740,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 18954008
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459749,
+        "duration": 304,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904308"
+        ],
+        "piece": {
+          "id": 40459325,
+          "position": 0,
+          "title": "Andante",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 40459320,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in A major K 279 Arr for Guitar ~ 40459314",
+              "id": 40459314,
+              "defaultRecordingId": "40459752",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {
+                "id": 2845,
+                "title": "A major",
+                "_key": "A major ~ 2845"
+              },
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in A major K 279 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505828196,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459752,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 40459314
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459761,
+        "duration": 201,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904309"
+        ],
+        "piece": {
+          "id": 40459304,
+          "position": 0,
+          "title": "Sonata for Keyboard in G minor K 60 (Arr. for Guitar)",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 40459299,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in G minor K 60 Arr for Guitar ~ 40459293",
+              "id": 40459293,
+              "defaultRecordingId": "40459764",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": "1742",
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {
+                "id": 2914,
+                "title": "G minor",
+                "_key": "G minor ~ 2914"
+              },
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in G minor K 60 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505829335,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459764,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 40459293
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      },
+      {
+        "id": 40459773,
+        "duration": 202,
+        "position": 1,
+        "isrcs": [
+          "ITLF51904310"
+        ],
+        "piece": {
+          "id": 18954127,
+          "position": 0,
+          "title": "Allegro",
+          "descriptionName": null,
+          "number": null,
+          "workpart": {
+            "id": 18954126,
+            "isOverture": false,
+            "position": 0,
+            "title": "",
+            "work": {
+              "_key": "Sonata for Keyboard in A major K 322 Arr for Guitar ~ 18954120",
+              "id": 18954120,
+              "defaultRecordingId": "19859019",
+              "authors": [
+                {
+                  "key": "composer",
+                  "authorType": "Composer",
+                  "persons": [
+                    {
+                      "id": 63281,
+                      "name": "Domenico Scarlatti",
+                      "forename": "Domenico",
+                      "surname": "Scarlatti"
+                    }
+                  ]
+                }
+              ],
+              "composer": {
+                "id": 63281,
+                "kind": "person",
+                "popularity": 0.0514413418,
+                "playEventCount": 28551,
+                "_key": "Scarlatti, Domenico ~ 63281",
+                "name": "Domenico Scarlatti",
+                "alternativeNames": [],
+                "slugs": [
+                  "63281",
+                  "domenico-scarlatti-63281",
+                  "domenico-scarlatti"
+                ],
+                "forename": "Domenico",
+                "surname": "Scarlatti"
+              },
+              "compositionYear": null,
+              "epoch": {
+                "id": 2488,
+                "title": "Baroque",
+                "_key": "2 ~ 2488"
+              },
+              "genre": {
+                "id": 2530,
+                "title": "Chamber",
+                "_key": "Chamber ~ 2530"
+              },
+              "subgenre": {
+                "id": 2641,
+                "title": "Chamber Music - Solo Instrument",
+                "_key": "Chamber Music  Solo Instrument ~ 2641"
+              },
+              "tonality": {},
+              "opusNumber": "",
+              "number": null,
+              "popularTitle": "",
+              "structuralSubtitle": "",
+              "subtitle": null,
+              "title": "Sonata for Keyboard in A major K 322 (Arr. for Guitar)"
+            }
+          }
+        },
+        "recording": {
+          "created_at": 1621505830494,
+          "conductor": null,
+          "ensembles": [],
+          "albums": [
+            "2a088ecf-5f15-436d-890b-b237a14f133b"
+          ],
+          "id": 40459776,
+          "isLive": false,
+          "isRemastered": false,
+          "isExclusive": false,
+          "isPremium": true,
+          "location": {
+            "id": 11672322,
+            "name": "Weston"
+          },
+          "recordingDate": {
+            "fromKeyword": null,
+            "from": "2015",
+            "to": null
+          },
+          "recordingType": null,
+          "summary": "Luigi Attademo",
+          "soloists": [
+            {
+              "person": {
+                "id": 16870449,
+                "kind": "person",
+                "popularity": 0.0048446068,
+                "playEventCount": 672,
+                "_key": "Attademo, Luigi ~ 16870449",
+                "name": "Luigi Attademo",
+                "alternativeNames": [],
+                "slugs": [
+                  "16870449",
+                  "luigi-attademo-16870449",
+                  "luigi-attademo"
+                ],
+                "forename": "Luigi",
+                "surname": "Attademo"
+              },
+              "instrument": {
+                "id": 3316,
+                "title": "Guitar",
+                "_key": "Guitar ~ 3316",
+                "instrumentGroup1Id": null,
+                "instrumentGroup2Id": "14",
+                "instrumentGroup3Id": null
+              }
+            }
+          ],
+          "venue": null,
+          "work": {
+            "id": 18954120
+          },
+          "interestGroups": [
+            5,
+            62,
+            103,
+            1006
+          ],
+          "tags": []
+        }
+      }
+    ]
+  }
+}
