@@ -39,7 +39,7 @@ def extract_album_subdata(data):
     extract_data = {}
     extract_data |= { "id": extract_with_jsonpath(data,"$.result.id") }
     extract_data |= { "title": extract_with_jsonpath(data,"$.result.title") }
-    extract_data |= { "participants": extract_with_jsonpath(data,"$.result.participants[*].name") }
+    extract_data |= { "participants": extract_with_jsonpath(data,"$.result.participants[*].name", first=False) }
     return extract_data
 
 def download_html_album_data_from_api(album_url_id, output_dir, verify=True):
