@@ -6,9 +6,20 @@ load_dotenv()
 
 idagio_bp = Blueprint("idagio", __name__, url_prefix="/idagio")
 
-VERIFY_SSL = os.getenv("VERIFY_SSL")
+def str_to_bool(s: str, *, default=False) -> bool:
+    if s is None:
+        return default
+    v = s.strip().lower()
+    if v in {"1", "true", "yes", "y", "on", "oui", "o"}:
+        return True
+    if v in {"0", "false", "no", "n", "off", "non", ""}:
+        return False
+    raise ValueError(f"VERIFY_SSL invalide: {s!r}")
+
+VERIFY_SSL = str_to_bool(os.getenv("VERIFY_SSL"), default=True)
 DATA_DIR = os.getenv("DATA_DIR")
 OUTPUT_DIR = os.path.join(DATA_DIR, "idagio","album")
+
 
 @idagio_bp.route("/extract-album", methods=["GET"])
 def extract_album():

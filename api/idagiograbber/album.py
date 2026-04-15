@@ -1,12 +1,9 @@
 import requests
-from bs4 import BeautifulSoup
 import json
 import os
-import re
-from playwright.sync_api import sync_playwright
+from jsonpath_ng.ext import parse
 
 
-#https://api.idagio.com/v2.0/albums/archora-aion
 
 HEADERS = {
     "User-Agent": (
@@ -16,167 +13,44 @@ HEADERS = {
     )
 }
 
-def extract_albums_from_ld_json(ld_json_blocks):
-    """
-    Prend une liste de blocs JSON (ld_json_blocks) et renvoie
-    une liste d'albums normalisés (albums[]).
-    """
-    albums = []
-
-    for block in ld_json_blocks:
-        if isinstance(block, dict) and block.get("@type") and "MusicAlbum" in block["@type"]:
-            album_obj = {
-                "idagio-id": block.get("@id"),
-                "url": block.get("url"),
-                "name": block.get("name"),
-                "datePublished": block.get("datePublished"),
-                "numTracks": block.get("numTracks"),
-                "byArtist": [a.get("name") for a in block.get("byArtist", [])],
-                "tracks": []
-            }
-
-            for track in block.get("track", []):
-                recording_of = track.get("recordingOf", {}) or {}
-                composer = recording_of.get("composer", {}) or {}
-
-                track_obj = {
-                    "name": track.get("name"),
-                    "url": track.get("url"),
-                    "duration": track.get("duration"),
-                    "datePublished": track.get("datePublished"),
-                    "byArtist": [a.get("name") for a in track.get("byArtist", [])],
-                    "recordingOf": {
-                        "name": recording_of.get("name"),
-                        "url": recording_of.get("url"),
-                        "musicalKey": recording_of.get("musicalKey"),
-                        "composer": composer.get("name"),
-                        "datePublished": recording_of.get("datePublished"),
-                    }
-                }
-                album_obj["tracks"].append(track_obj)
-
-            albums.append(album_obj)
-
-    return albums
-
-
-def slugify(value: str) -> str:
-    """
-    Transforme une chaîne en nom de fichier sûr :
-    - minuscules
-    - remplace espaces par tirets
-    - supprime les caractères non autorisés
-    """
-    value = value.strip().lower()
-    value = re.sub(r"\s+", "-", value)
-    value = re.sub(r"[^a-z0-9\-_.]", "", value)
-    return value or "album"
-
-
-def download_html_album_data_from_api(album_url_id,output_dir, verify=True):
-    url = f"https://api.idagio.com/v2.0/albums/{album_url_id}"
-    
-    resp = requests.get(url, headers=HEADERS, verify=False, timeout=15)
-    if resp.status_code != 200:
-        raise RuntimeError(f"Erreur HTTP {resp.status_code} pour URL {url}")
-    try:
-        data = resp.json()
-    except json.JSONDecodeError:
-        data = json.loads(resp.text)
-
-    #os.makedirs(output_dir, exist_ok=True)
-
-    file_path = os.path.join(output_dir, f"{album_url_id}.json")
+def save_json_to_file(data, output_dir, filename, *, ensure_ascii=False, indent=2):
+    os.makedirs(output_dir, exist_ok=True)
+    file_path = os.path.join(output_dir, filename)
     with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(data, f, ensure_ascii=ensure_ascii, indent=indent)
+    return file_path
 
+def extract_with_jsonpath(data, jsonpath_expr, *, first=True, default=None):
+    """
+    Extract data using a JSONPath expression.
+
+    - first=True  -> returns first match (or default if none)
+    - first=False -> returns list of all matches (possibly empty)
+    """
+    expr = parse(jsonpath_expr)
+    matches = [m.value for m in expr.find(data)]
+
+    if not matches:
+        return default
+
+    return matches[0] if first else matches
+
+def extract_album_subdata(data):
+    extract_data = {}
+    extract_data |= { "id": extract_with_jsonpath(data,"$.result.id") }
+    extract_data |= { "title": extract_with_jsonpath(data,"$.result.title") }
+    extract_data |= { "participants": extract_with_jsonpath(data,"$.result.participants[*].name") }
+    return extract_data
+
+def download_html_album_data_from_api(album_url_id, output_dir, verify=True):
+    url = f"https://api.idagio.com/v2.0/albums/{album_url_id}"
+
+    resp = requests.get(url, headers=HEADERS, verify=verify, timeout=15)
+    resp.raise_for_status()
+
+    data = resp.json()
+
+    extracted = extract_album_subdata(data)
+    save_json_to_file(extracted, output_dir, f"{album_url_id}-extract.json")
+    save_json_to_file(data, output_dir, f"{album_url_id}.json")
     return data
-
-
-def download_html_album_page(url, headers=HEADERS, verify=True, timeout=15, save_html: bool = False):
-    resp = requests.get(url, headers=HEADERS, verify=False, timeout=15)
-    if resp.status_code != 200:
-        raise RuntimeError(f"Erreur HTTP {resp.status_code} pour URL {url}")
-    html = resp.text
-    # Sauvegarder le HTML brut (si demandé)
-    if save_html:
-        html_path = os.path.join(output_dir, "idagio_album.html")
-        with open(html_path, "w", encoding="utf-8") as f:
-            f.write(html)
-
-    return html
-
-def download_with_browser(url, save_html: bool = False,output_dir: str | None = None):
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                       "AppleWebKit/537.36 (KHTML, like Gecko) "
-                       "Chrome/122.0.0.0 Safari/537.36"
-        )
-
-        page = context.new_page()
-        page.goto(url, wait_until="networkidle")
-        page.locator("[data-test=\"cookie-banner.allow-all-btn\"]").click()
-
-        html = page.content()
-        browser.close()
-
-    # Sauvegarder le HTML brut (si demandé)
-    if save_html:
-        html_path = os.path.join(output_dir, "idagio_album.html")
-        with open(html_path, "w", encoding="utf-8") as f:
-            f.write(html)
-
-def scrape_idagio_album(url: str, output_dir: str | None = None, verify=True, save_html: bool = False):
-    """
-    Fonction principale de scraping :
-    - télécharge la page
-    - extrait les albums depuis les scripts ld+json
-    - éventuellement sauvegarde les JSON et le HTML
-    - renvoie { "albums": [...] }
-    """
-    #html = download_html_album_page(url, headers=HEADERS, verify=verify, timeout=15, save_html=save_html)
-    #html = download_with_browser(url)
-    html = download_with_browser(url=url, save_html=save_html, output_dir=output_dir)
-    soup = BeautifulSoup(html, "html.parser")
-
-    # 1) Extraire le JSON des balises <script type="application/ld+json">
-    ld_json_blocks = []
-    for script in soup.find_all("script", attrs={"type": "application/ld+json"}):
-        raw = script.string
-        if not raw:
-            continue
-        try:
-            data = json.loads(raw)
-        except json.JSONDecodeError:
-            # On ignore les scripts invalides
-            continue
-        ld_json_blocks.append(data)
-
-    # 2) Construire albums[]
-    albums = extract_albums_from_ld_json(ld_json_blocks)
-    output = {"albums": albums}
-
-    # 3) Sauvegarde sur disque (optionnelle)
-    if output_dir:
-        os.makedirs(output_dir, exist_ok=True)
-
-        # Sauvegarder chaque album en JSON
-        for album in albums:
-            album_name = album.get("name", "album")
-            artists = album.get("byArtist", [])
-
-            if artists:
-                artists_str = "_".join(artists)
-                base_name = f"{album_name}__{artists_str}"
-            else:
-                base_name = album_name
-
-            safe_name = slugify(base_name)
-            file_path = os.path.join(output_dir, f"{safe_name}.json")
-
-            with open(file_path, "w", encoding="utf-8") as f:
-                json.dump(album, f, ensure_ascii=False, indent=2)
-
-    return output
