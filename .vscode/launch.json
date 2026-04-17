@@ -2,21 +2,21 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Python Debugger: api music-data",
+      "name": "music-data api",
       "type": "debugpy",
       "request": "launch",
-      "program": "api/app.py",
-      "console": "integratedTerminal"
-    },
-    {
-      "name": "Attach to Python Functions",
-      "type": "debugpy",
-      "request": "attach",
-      "connect": {
-        "host": "localhost",
-        "port": 9091
+      "module": "flask",
+      "env": {
+        "FLASK_APP": "api\\app.py",
+        "FLASK_DEBUG": "1"
       },
-      "preLaunchTask": "func: host start"
+      "args": [
+        "run",
+        "--no-debugger",
+        "--no-reload"
+      ],
+      "jinja": true,
+      "autoStartBrowser": false
     }
   ]
 }

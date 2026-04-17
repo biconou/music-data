@@ -1,27 +1,18 @@
 from flask import Blueprint, Flask, request, jsonify, Response
-from dotenv import load_dotenv
-import os
-import discogs_client
-
-load_dotenv()
+from discogs.discogs import search as discogs_search
 
 discogs_bp = Blueprint("discogs", __name__, url_prefix="/discogs")
 
-consumer_key = os.getenv("DISCOGS_KEY")
-consumer_secret = os.getenv("DISCOGS_SECRET")
-
-d = discogs_client.Client(
-    'my_user_agent/1.0',
-    consumer_key= consumer_key,
-    consumer_secret= consumer_secret
-)
-
 @discogs_bp.route("/search", methods=["GET"])
 def search():
-    release = d.release(1293022)
-    #releases = d.search('iron maiden', type='artist')[0].releases
-    #print(json(releases))
-    return jsonify(release.data), 200
+    query = request.args.get("q", "")
+    search_type = request.args.get("type", None)
+    per_page = int(request.args.get("per_page", 10))
+    page = int(request.args.get("page", 1))
+    filters = {k: v for k, v in request.args.items() if k not in ("q", "type", "per_page", "page")}
+
+    data = discogs_search(query, search_type=search_type, per_page=per_page, page=page, **filters)
+    return jsonify(data), 200
 
 
 

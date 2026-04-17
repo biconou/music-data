@@ -1,20 +1,11 @@
 from flask import Blueprint, request, jsonify
 from idagiograbber.album import *
 from dotenv import load_dotenv
+from env_utils import str_to_bool
 
 load_dotenv()
 
 idagio_bp = Blueprint("idagio", __name__, url_prefix="/idagio")
-
-def str_to_bool(s: str, *, default=False) -> bool:
-    if s is None:
-        return default
-    v = s.strip().lower()
-    if v in {"1", "true", "yes", "y", "on", "oui", "o"}:
-        return True
-    if v in {"0", "false", "no", "n", "off", "non", ""}:
-        return False
-    raise ValueError(f"VERIFY_SSL invalide: {s!r}")
 
 VERIFY_SSL = str_to_bool(os.getenv("VERIFY_SSL"), default=True)
 DATA_DIR = os.getenv("DATA_DIR")
