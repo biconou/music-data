@@ -16,9 +16,10 @@ def str_to_bool(s: str | None, *, default: bool = False, var_name: str = "VERIFY
     raise ValueError(f"{var_name} invalide: {s!r}")
 
 
-def load_api_env() -> tuple[bool, str | None, str | None]:
+def load_api_env() -> tuple[bool, str | None, str | None, str | None]:
     load_dotenv()
     verify_ssl = str_to_bool(os.getenv("VERIFY_SSL"), default=True)
     discogs_key = os.getenv("DISCOGS_KEY")
     discogs_secret = os.getenv("DISCOGS_SECRET")
-    return verify_ssl, discogs_key, discogs_secret
+    data_dir = os.getenv("DATA_DIR")
+    return verify_ssl, discogs_key, discogs_secret, data_dir

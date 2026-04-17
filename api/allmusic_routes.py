@@ -5,13 +5,12 @@ from allmusicgrabber.globals import fetch_allmusic_html_content
 from datetime import datetime
 import os
 import json
-from dotenv import load_dotenv
-
-load_dotenv()
+from env_utils import load_api_env
 
 allmusic_bp = Blueprint("allmusic", __name__, url_prefix="/allmusic")
 
-DATA_DIR = os.getenv("DATA_DIR")
+_, _, _, DATA_DIR = load_api_env()
+
 OUTPUT_DIR = os.path.join(DATA_DIR, "allmusic","artists")
 
 def save_artist_to_json(artist_id: str, artist_data: dict, base_dir: str):

@@ -1,16 +1,14 @@
 from flask import Blueprint, request, jsonify
 from idagiograbber.album import *
-from dotenv import load_dotenv
+import os
+from env_utils import load_api_env
 from masterdata.artist import get_artist_by_allmusic_id
 from masterdata.artist import update_artist as update_artist_func
 from masterdata.artist import create_or_update_artist as create_or_update_artist_func
 
-load_dotenv()
-
 masterdata_bp = Blueprint("masterdata", __name__, url_prefix="/masterdata")
 
-VERIFY_SSL = os.getenv("VERIFY_SSL")
-DATA_DIR = os.getenv("DATA_DIR")
+VERIFY_SSL, _, _, DATA_DIR = load_api_env()
 
 @masterdata_bp.route("/artist", methods=["GET"])
 def get_artist():

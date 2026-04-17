@@ -1,14 +1,12 @@
 from flask import Blueprint, request, jsonify
 from idagiograbber.album import *
-from dotenv import load_dotenv
-from env_utils import str_to_bool
-
-load_dotenv()
+import os
+from env_utils import load_api_env
 
 idagio_bp = Blueprint("idagio", __name__, url_prefix="/idagio")
 
-VERIFY_SSL = str_to_bool(os.getenv("VERIFY_SSL"), default=True)
-DATA_DIR = os.getenv("DATA_DIR")
+VERIFY_SSL, _, _, DATA_DIR = load_api_env()
+
 OUTPUT_DIR = os.path.join(DATA_DIR, "idagio","album")
 
 

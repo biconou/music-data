@@ -6,7 +6,7 @@ from env_utils import load_api_env
 
 DISCOGS_API_BASE = "https://api.discogs.com"
 
-VERIFY_SSL, DISCOGS_KEY, DISCOGS_SECRET = load_api_env()
+VERIFY_SSL, DISCOGS_KEY, DISCOGS_SECRET, _ = load_api_env()
 
 def search(query, search_type=None, per_page=10, page=1, **filters):
     """
