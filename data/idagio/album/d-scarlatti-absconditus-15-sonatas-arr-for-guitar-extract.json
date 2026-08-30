@@ -4,5 +4,82 @@
   "participants": [
     "Luigi Attademo",
     "Domenico Scarlatti"
+  ],
+  "tracks": [
+    {
+      "title": "Andante cantabile",
+      "work_name": "Sonata for Keyboard in D minor K 176 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Allegro",
+      "work_name": "Sonata for Keyboard in C minor K 73 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Andante",
+      "work_name": "Sonata for Keyboard in D minor K 213 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Andante moderato",
+      "work_name": "Sonata for Keyboard in D major K 164 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Cantabile",
+      "work_name": "Sonata for Keyboard in D major K 490 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Minuet",
+      "work_name": "Sonata for Keyboard in B flat major K 440 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Andante",
+      "work_name": "Sonata for Keyboard in B minor K 408 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Minuetto",
+      "work_name": "Sonata for Keyboard in C minor K 40 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "I. Moderato è cantabile – II. Minuet",
+      "work_name": "Sonata for Keyboard in D minor K 77 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Andante",
+      "work_name": "Sonata for Keyboard in E minor K 291 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Allegro",
+      "work_name": "Sonata for Keyboard in E minor K 292 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Andante comodo",
+      "work_name": "Sonata for Keyboard in E major K 380 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Andante",
+      "work_name": "Sonata for Keyboard in A major K 279 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Sonata for Keyboard in G minor K 60 (Arr. for Guitar)",
+      "work_name": "Sonata for Keyboard in G minor K 60 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    },
+    {
+      "title": "Allegro",
+      "work_name": "Sonata for Keyboard in A major K 322 (Arr. for Guitar)",
+      "composer_name": "Domenico Scarlatti"
+    }
   ]
 }

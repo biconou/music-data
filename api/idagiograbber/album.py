@@ -35,11 +35,38 @@ def extract_with_jsonpath(data, jsonpath_expr, *, first=True, default=None):
 
     return matches[0] if first else matches
 
+def extract_track_work_and_composer(data):
+    track_items = extract_with_jsonpath(data, "$.result.tracks[*]", first=False, default=[]) or []
+    extracted_tracks = []
+
+    for track in track_items:
+        piece = track.get("piece", {}) if isinstance(track, dict) else {}
+        title = piece.get("title")
+
+        work_name = None
+        work_name = piece.get("workpart", {}).get("work").get("title") if isinstance(piece.get("workpart"), dict) else None
+
+        composer_name = None
+        if isinstance(piece.get("workpart"), dict):
+            composer_name = piece.get("workpart").get("work").get("composer", {}).get("name")       
+
+        extracted_tracks.append(
+            {
+                "title": title,
+                "work_name": work_name,
+                "composer_name": composer_name,
+            }
+        )
+
+    return extracted_tracks
+
 def extract_album_subdata(data):
     extract_data = {}
     extract_data |= { "id": extract_with_jsonpath(data,"$.result.id") }
     extract_data |= { "title": extract_with_jsonpath(data,"$.result.title") }
     extract_data |= { "participants": extract_with_jsonpath(data,"$.result.participants[*].name", first=False) }
+    extract_data |= { "tracks": extract_track_work_and_composer(data) }
+    
     return extract_data
 
 def download_html_album_data_from_api(album_url_id, output_dir, verify=True):
