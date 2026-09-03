@@ -46,7 +46,66 @@ def parse_artist(artistId,htmlContent):
             'url' : styleUrl
             }
         artist['styles'].append(style)
+    # Parse and add biography data
+    biography = parse_biography(artistId, htmlContent)
+    artist['biography'] = biography
     return artist
+
+# Biography
+def parse_biography(artistId, htmlContent):
+    try:
+        soup = BeautifulSoup(htmlContent, 'html.parser')
+        
+        biography_data = {
+            'id': artistId,
+            'author': '',
+            'text': '',
+            'summary': ''
+        }
+        
+        # Find the biography section
+        biography_section = soup.select("div#biography.artistContentSubModule")
+        
+        if biography_section:
+            biography_div = biography_section[0]
+            
+            # Extract author from the h3 tag
+            h3_tag = biography_div.select("h3")[0]
+            author_link = h3_tag.select("a.editorialAuthorLink")
+            if author_link:
+                biography_data['author'] = author_link[0].text.strip()
+            
+            # Extract biography text from all paragraphs
+            paragraphs = biography_div.select("p")
+            biography_text = []
+            
+            for para in paragraphs:
+                # Get text from paragraph, clean it up
+                para_text = para.get_text(separator=" ", strip=True)
+                if para_text:
+                    biography_text.append(para_text)
+            
+            # Join all paragraphs
+            biography_data['text'] = "\n".join(biography_text)
+            
+            # Extract first paragraph as summary (usually most relevant)
+            if biography_text:
+                biography_data['summary'] = biography_text[0]
+            
+            logging.debug(f"Extracted biography for artist {artistId}: {len(biography_data['text'])} characters")
+        else:
+            logging.warning(f"Biography section not found for artist {artistId}")
+        
+        return biography_data
+        
+    except Exception as e:
+        logging.error(f"Error parsing biography: {e}")
+        return {
+            'id': artistId,
+            'author': '',
+            'text': '',
+            'summary': ''
+        }
 
 # Discography
 def compute_allmusic_discography_url(artist_id):

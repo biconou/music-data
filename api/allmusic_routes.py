@@ -50,26 +50,43 @@ def find_artist():
     artistId = foundArtist['artistId']
 
     artist_url = compute_allmusic_artist_url(artistId)
-    html_content = fetch_allmusic_html_content(artist_url)
-    artist = parse_artist(artistId, html_content)
+    artist_html_content = fetch_allmusic_html_content(artist_url)
+    artist = parse_artist(artistId, artist_html_content)
 
-    discography_url = compute_allmusic_discography_url(artistId)
-    html_content = fetch_allmusic_html_content(
-        discography_url,
-        referer=compute_allmusic_artist_url(artistId)
-    )
-    discography = parse_discography(artistId, html_content)
+    # discography_url = compute_allmusic_discography_url(artistId)
+    # discography_html_content = fetch_allmusic_html_content(
+    #     discography_url,
+    #     referer=compute_allmusic_artist_url(artistId)
+    # )
+    # discography = parse_discography(artistId, discography_html_content)
+    discography = parse_discography(artistId, artist_html_content)
+    # count the nomber of albums in the discography
+    # raise an error if the discography count is zero
+    discography_count = len(discography.get('discography', []))
+    if discography_count == 0:
+        return jsonify({'error': 'No albums found in discography'}), 500
 
-    related_url = compute_allmusic_related_url(artistId)
-    html_content = fetch_allmusic_html_content(
-        related_url,
-        referer=compute_allmusic_artist_url(artistId)
-    )
-    related = parse_related(artistId, html_content)
+    # related_url = compute_allmusic_related_url(artistId)
+    # related_html_content = fetch_allmusic_html_content(
+    #     related_url,
+    #     referer=compute_allmusic_artist_url(artistId)
+    # )
+    # related = parse_related(artistId, related_html_content)
+    related = parse_related(artistId, artist_html_content)
+    # same test as for discography
+    related_count = len(related.get('related', []))
+    if related_count == 0:
+        return jsonify({'error': 'No related artists found'}), 500
+    
 
     artist.update(discography)
     artist.update(related)
 
+    # test if the artist data was correctly fetched and parsed
+    if not artist:
+        return jsonify({'error': 'Failed to fetch artist data'}), 500
+    
+    # save the artist data to a JSON file
     save_artist_to_json(artistId, artist, OUTPUT_DIR)
 
     return jsonify(artist)

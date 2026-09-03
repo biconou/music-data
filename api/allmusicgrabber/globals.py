@@ -38,12 +38,14 @@ def computeRelatedFileName(artistId):
 
 def fetch_allmusic_html_content(url,referer=None):
     try:
-        headers={"Accept" : '*/*',
+        headers={"Accept" : "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                  "Host" : "www.allmusic.com",
-                 "user-agent" : "curl/7.88.1",
-                 "referer" : "url"}
+                 "user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                 "Accept-Language": "en-US,en;q=0.5"}
         if referer is not None:
             headers['referer'] = referer
+        else:
+            headers['referer'] = "https://www.allmusic.com/"
 
         response = requests.get(url,headers=headers,verify=VERIFY_SSL)
         response.raise_for_status()

@@ -1,0 +1,576 @@
+{
+  "artistId": "tame-impala-mn0002014409",
+  "fetchedAt": "2026-09-02T14:50:58.644064Z",
+  "data": {
+    "allmusic_id": "tame-impala-mn0002014409",
+    "name": "Tame Impala",
+    "activeDates": "2000s - 2020s",
+    "birthDate": "2007",
+    "birthPlace": "Perth, Australia",
+    "styles": [
+      {
+        "name": "Alternative/Indie Rock",
+        "url": "https://www.allmusic.com/style/alternative-indie-rock-ma0000012230"
+      },
+      {
+        "name": "Indie Rock",
+        "url": "https://www.allmusic.com/style/indie-rock-ma0000004453"
+      },
+      {
+        "name": "Neo-Psychedelia",
+        "url": "https://www.allmusic.com/style/neo-psychedelia-ma0000012252"
+      },
+      {
+        "name": "Alternative Dance",
+        "url": "https://www.allmusic.com/style/alternative-dance-ma0000011883"
+      },
+      {
+        "name": "Left-Field Pop",
+        "url": "https://www.allmusic.com/style/left-field-pop-ma0000013523"
+      },
+      {
+        "name": "Neo-Disco",
+        "url": "https://www.allmusic.com/style/neo-disco-ma0000013411"
+      },
+      {
+        "name": "Pop",
+        "url": "https://www.allmusic.com/style/pop-ma0000012254"
+      }
+    ],
+    "id": "tame-impala-mn0002014409",
+    "discography": [
+      {
+        "albumYear": "2010",
+        "albumTitle": "Innerspeaker",
+        "musicRating": "8",
+        "avgRating": "9-1959"
+      },
+      {
+        "albumYear": "2012",
+        "albumTitle": "Lonerism",
+        "musicRating": "9",
+        "avgRating": "9-2832"
+      },
+      {
+        "albumYear": "2015",
+        "albumTitle": "Currents",
+        "musicRating": "5",
+        "avgRating": "9-2123"
+      },
+      {
+        "albumYear": "2020",
+        "albumTitle": "The Slow Rush",
+        "musicRating": "8",
+        "avgRating": "8-758"
+      },
+      {
+        "albumYear": "2025",
+        "albumTitle": "Deadbeat",
+        "musicRating": "6",
+        "avgRating": "8-116"
+      }
+    ],
+    "related": {
+      "similars": [
+        {
+          "artist": "Death and Vanilla",
+          "ArtistId": "death-and-vanilla-mn0002884240"
+        },
+        {
+          "artist": "Dungen",
+          "ArtistId": "dungen-mn0000611051"
+        },
+        {
+          "artist": "Pond",
+          "ArtistId": "pond-mn0002567474"
+        },
+        {
+          "artist": "Unknown Mortal Orchestra",
+          "ArtistId": "unknown-mortal-orchestra-mn0002608154"
+        },
+        {
+          "artist": "Altın Gün",
+          "ArtistId": "alt%B1n-g%C3%BCn-mn0003616207"
+        },
+        {
+          "artist": "Bed Rugs",
+          "ArtistId": "bed-rugs-mn0003107286"
+        },
+        {
+          "artist": "Bloody Beach",
+          "ArtistId": "bloody-beach-mn0002761516"
+        },
+        {
+          "artist": "Boogarins",
+          "ArtistId": "boogarins-mn0003145352"
+        },
+        {
+          "artist": "Brace/Choir",
+          "ArtistId": "brace-choir-mn0003213778"
+        },
+        {
+          "artist": "Jagwar Ma",
+          "ArtistId": "jagwar-ma-mn0003027314"
+        },
+        {
+          "artist": "King Gizzard & the Lizard Wizard",
+          "ArtistId": "king-gizzard-the-lizard-wizard-mn0003085959"
+        },
+        {
+          "artist": "Melody's Echo Chamber",
+          "ArtistId": "melodys-echo-chamber-mn0002932991"
+        },
+        {
+          "artist": "Talk in Tongues",
+          "ArtistId": "talk-in-tongues-mn0003327509"
+        },
+        {
+          "artist": "Temples",
+          "ArtistId": "temples-mn0003051049"
+        },
+        {
+          "artist": "Triptides",
+          "ArtistId": "triptides-mn0001258472"
+        },
+        {
+          "artist": "Au.Ra",
+          "ArtistId": "aura-mn0003158872"
+        },
+        {
+          "artist": "Claypool Lennon Delirium",
+          "ArtistId": "claypool-lennon-delirium-mn0003475083"
+        },
+        {
+          "artist": "Djo",
+          "ArtistId": "djo-mn0000137944"
+        },
+        {
+          "artist": "Jacco Gardner",
+          "ArtistId": "jacco-gardner-mn0002977526"
+        },
+        {
+          "artist": "Methyl Ethel",
+          "ArtistId": "methyl-ethel-mn0003504278"
+        },
+        {
+          "artist": "MGMT",
+          "ArtistId": "mgmt-mn0000536321"
+        },
+        {
+          "artist": "Moon Duo",
+          "ArtistId": "moon-duo-mn0002384394"
+        },
+        {
+          "artist": "Slam Donahue",
+          "ArtistId": "slam-donahue-mn0002675242"
+        },
+        {
+          "artist": "Sports",
+          "ArtistId": "sports-mn0003474579"
+        },
+        {
+          "artist": "Stardeath and White Dwarfs",
+          "ArtistId": "stardeath-and-white-dwarfs-mn0001041890"
+        },
+        {
+          "artist": "Syd Arthur",
+          "ArtistId": "syd-arthur-mn0003121508"
+        },
+        {
+          "artist": "The Coral",
+          "ArtistId": "the-coral-mn0000061041"
+        },
+        {
+          "artist": "The Holydrug Couple",
+          "ArtistId": "the-holydrug-couple-mn0002598079"
+        },
+        {
+          "artist": "Wunder Wunder",
+          "ArtistId": "wunder-wunder-mn0003234411"
+        },
+        {
+          "artist": "Yast",
+          "ArtistId": "yast-mn0002913815"
+        },
+        {
+          "artist": "Aloa Input",
+          "ArtistId": "aloa-input-mn0003145594"
+        },
+        {
+          "artist": "Charlie Boyer & the Voyeurs",
+          "ArtistId": "charlie-boyer-the-voyeurs-mn0003058345"
+        },
+        {
+          "artist": "Comets on Fire",
+          "ArtistId": "comets-on-fire-mn0000114090"
+        },
+        {
+          "artist": "Dot Hacker",
+          "ArtistId": "dot-hacker-mn0002893432"
+        },
+        {
+          "artist": "Electric Guest",
+          "ArtistId": "electric-guest-mn0002831504"
+        },
+        {
+          "artist": "Fever the Ghost",
+          "ArtistId": "fever-the-ghost-mn0003296212"
+        },
+        {
+          "artist": "Goat",
+          "ArtistId": "goat-mn0002982460"
+        },
+        {
+          "artist": "Islands",
+          "ArtistId": "islands-mn0000545345"
+        },
+        {
+          "artist": "Jadu Heart",
+          "ArtistId": "jadu-heart-mn0003633369"
+        },
+        {
+          "artist": "James Supercave",
+          "ArtistId": "james-supercave-mn0003386362"
+        },
+        {
+          "artist": "Kuroma",
+          "ArtistId": "kuroma-mn0003110445"
+        },
+        {
+          "artist": "LA Priest",
+          "ArtistId": "la-priest-mn0003368963"
+        },
+        {
+          "artist": "Low Hum",
+          "ArtistId": "low-hum-mn0003442486"
+        },
+        {
+          "artist": "Magic Trick",
+          "ArtistId": "magic-trick-mn0002754472"
+        },
+        {
+          "artist": "Niagara",
+          "ArtistId": "niagara-mn0003061665"
+        },
+        {
+          "artist": "Simon Doom",
+          "ArtistId": "simon-doom-mn0003609413"
+        },
+        {
+          "artist": "Spectral Park",
+          "ArtistId": "spectral-park-mn0003045565"
+        },
+        {
+          "artist": "Suns of Thyme",
+          "ArtistId": "suns-of-thyme-mn0003117777"
+        },
+        {
+          "artist": "The Amazing",
+          "ArtistId": "the-amazing-mn0000666885"
+        },
+        {
+          "artist": "The Butterscotch Cathedral",
+          "ArtistId": "the-butterscotch-cathedral-mn0003429206"
+        },
+        {
+          "artist": "The F16s",
+          "ArtistId": "the-f16s-mn0004140560"
+        },
+        {
+          "artist": "The John Steel Singers",
+          "ArtistId": "the-john-steel-singers-mn0002123316"
+        },
+        {
+          "artist": "The Long Eye",
+          "ArtistId": "the-long-eye-mn0003010323"
+        },
+        {
+          "artist": "The Silents",
+          "ArtistId": "the-silents-mn0001580615"
+        },
+        {
+          "artist": "The Skygreen Leopards",
+          "ArtistId": "the-skygreen-leopards-mn0000249478"
+        },
+        {
+          "artist": "The Smoking Trees",
+          "ArtistId": "the-smoking-trees-mn0003149765"
+        },
+        {
+          "artist": "Wampire",
+          "ArtistId": "wampire-mn0002605166"
+        },
+        {
+          "artist": "White Denim",
+          "ArtistId": "white-denim-mn0001009661"
+        },
+        {
+          "artist": "Yuno",
+          "ArtistId": "yuno-mn0001472854"
+        },
+        {
+          "artist": "Absolutely Free",
+          "ArtistId": "absolutely-free-mn0003190605"
+        },
+        {
+          "artist": "Candy Claws",
+          "ArtistId": "candy-claws-mn0002372872"
+        },
+        {
+          "artist": "Cheerleader",
+          "ArtistId": "cheerleader-mn0003389034"
+        },
+        {
+          "artist": "DARGZ",
+          "ArtistId": "dargz-mn0004440282"
+        },
+        {
+          "artist": "Dogpark",
+          "ArtistId": "dogpark-mn0004698818"
+        },
+        {
+          "artist": "Eli Smart",
+          "ArtistId": "eli-smart-mn0003617647"
+        },
+        {
+          "artist": "Elle Belle",
+          "ArtistId": "elle-belle-mn0003741104"
+        },
+        {
+          "artist": "Glass Animals",
+          "ArtistId": "glass-animals-mn0002984484"
+        },
+        {
+          "artist": "Hauskey",
+          "ArtistId": "hauskey-mn0003912784"
+        },
+        {
+          "artist": "HYMMJ",
+          "ArtistId": "hymmj-mn0003653266"
+        },
+        {
+          "artist": "Inner Wave",
+          "ArtistId": "inner-wave-mn0003463436"
+        },
+        {
+          "artist": "Julien Chang",
+          "ArtistId": "julien-chang-mn0003761609"
+        },
+        {
+          "artist": "Kid Bloom",
+          "ArtistId": "kid-bloom-mn0003523967"
+        },
+        {
+          "artist": "KiNG MALA",
+          "ArtistId": "king-mala-mn0004036364"
+        },
+        {
+          "artist": "Kit Sebastian",
+          "ArtistId": "kit-sebastian-mn0003826737"
+        },
+        {
+          "artist": "Leisure",
+          "ArtistId": "leisure-mn0003101238"
+        },
+        {
+          "artist": "Les Big Byrd",
+          "ArtistId": "les-big-byrd-mn0002769917"
+        },
+        {
+          "artist": "Luke Steele",
+          "ArtistId": "luke-steele-mn0000382107"
+        },
+        {
+          "artist": "MorMor",
+          "ArtistId": "mormor-mn0003825924"
+        },
+        {
+          "artist": "Neil Frances",
+          "ArtistId": "neil-frances-mn0003961363"
+        },
+        {
+          "artist": "Nell Smith",
+          "ArtistId": "nell-smith-mn0004153115"
+        },
+        {
+          "artist": "No Suits",
+          "ArtistId": "no-suits-mn0003669527"
+        },
+        {
+          "artist": "Parcels",
+          "ArtistId": "parcels-mn0003588620"
+        },
+        {
+          "artist": "Peel",
+          "ArtistId": "peel-mn0004607825"
+        },
+        {
+          "artist": "Prudence",
+          "ArtistId": "prudence-mn0003934684"
+        },
+        {
+          "artist": "Ruban Nielson",
+          "ArtistId": "ruban-nielson-mn0002950805"
+        },
+        {
+          "artist": "Sam Austins",
+          "ArtistId": "sam-austins-mn0003810629"
+        },
+        {
+          "artist": "Swim Mountain",
+          "ArtistId": "swim-mountain-mn0003296210"
+        },
+        {
+          "artist": "The Flaming Lips",
+          "ArtistId": "the-flaming-lips-mn0000065590"
+        },
+        {
+          "artist": "The Neighbourhood",
+          "ArtistId": "the-neighbourhood-mn0002690553"
+        },
+        {
+          "artist": "The Silence",
+          "ArtistId": "the-silence-mn0003345178"
+        },
+        {
+          "artist": "World Champion",
+          "ArtistId": "world-champion-mn0003462240"
+        },
+        {
+          "artist": "Zac Farro",
+          "ArtistId": "zac-farro-mn0000398445"
+        },
+        {
+          "artist": "The Sudden Death of Stars",
+          "ArtistId": "the-sudden-death-of-stars-mn0003112943"
+        }
+      ],
+      "influencers": [
+        {
+          "artist": "Dungen",
+          "ArtistId": "dungen-mn0000611051"
+        },
+        {
+          "artist": "Neu!",
+          "ArtistId": "neu%21-mn0000387815"
+        },
+        {
+          "artist": "Syd Barrett",
+          "ArtistId": "syd-barrett-mn0000044874"
+        },
+        {
+          "artist": "Can",
+          "ArtistId": "can-mn0000645612"
+        },
+        {
+          "artist": "Kevin Ayers",
+          "ArtistId": "kevin-ayers-mn0000080118"
+        },
+        {
+          "artist": "The Pretty Things",
+          "ArtistId": "the-pretty-things-mn0000489676"
+        },
+        {
+          "artist": "Baby Grandmothers",
+          "ArtistId": "baby-grandmothers-mn0000071339"
+        },
+        {
+          "artist": "Cream",
+          "ArtistId": "cream-mn0000112462"
+        },
+        {
+          "artist": "Spacemen 3",
+          "ArtistId": "spacemen-3-mn0000005251"
+        },
+        {
+          "artist": "The Nazz",
+          "ArtistId": "the-nazz-mn0000377892"
+        },
+        {
+          "artist": "The Smashing Pumpkins",
+          "ArtistId": "the-smashing-pumpkins-mn0000036521"
+        }
+      ],
+      "followers": [
+        {
+          "artist": "Pond",
+          "ArtistId": "pond-mn0002567474"
+        },
+        {
+          "artist": "Hookworms",
+          "ArtistId": "hookworms-mn0002822373"
+        },
+        {
+          "artist": "Paramore",
+          "ArtistId": "paramore-mn0000366681"
+        },
+        {
+          "artist": "Penelope Isles",
+          "ArtistId": "penelope-isles-mn0003809323"
+        },
+        {
+          "artist": "The Amazons",
+          "ArtistId": "the-amazons-mn0003493507"
+        },
+        {
+          "artist": "The Marías",
+          "ArtistId": "the-mar%C3%ADas-mn0003783309"
+        },
+        {
+          "artist": "KDA",
+          "ArtistId": "kda-mn0003417473"
+        },
+        {
+          "artist": "No Suits",
+          "ArtistId": "no-suits-mn0003669527"
+        },
+        {
+          "artist": "SZA",
+          "ArtistId": "sza-mn0003180568"
+        },
+        {
+          "artist": "Travis Scott",
+          "ArtistId": "travis-scott-mn0002998422"
+        },
+        {
+          "artist": "Yellow Days",
+          "ArtistId": "yellow-days-mn0003709478"
+        },
+        {
+          "artist": "Babe Rainbow",
+          "ArtistId": "babe-rainbow-mn0003653168"
+        },
+        {
+          "artist": "Chase Atlantic",
+          "ArtistId": "chase-atlantic-mn0003477828"
+        },
+        {
+          "artist": "Cruza",
+          "ArtistId": "cruza-mn0004337058"
+        },
+        {
+          "artist": "Temples",
+          "ArtistId": "temples-mn0003051049"
+        },
+        {
+          "artist": "Wave to Earth",
+          "ArtistId": "wave-to-earth-mn0004160423"
+        }
+      ],
+      "associatedwith": [
+        {
+          "artist": "Aquaserge",
+          "ArtistId": "aquaserge-mn0001716269"
+        },
+        {
+          "artist": "GUM",
+          "ArtistId": "gum-mn0003661175"
+        },
+        {
+          "artist": "Pond",
+          "ArtistId": "pond-mn0002567474"
+        }
+      ]
+    }
+  }
+}
