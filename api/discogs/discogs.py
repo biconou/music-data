@@ -1,6 +1,12 @@
 import os
+import sys
 import requests
 from urllib.parse import urlencode
+from pathlib import Path
+
+# Add parent directory to path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 from env_utils import load_api_env
 
 
@@ -35,6 +41,24 @@ def search(query, search_type=None, per_page=10, page=1, **filters):
     r = requests.get(url, params=params, headers=headers, timeout=30, verify=VERIFY_SSL)
     r.raise_for_status()
     return r.json()
+
+def find_artist(artist_name):
+    results = search(artist_name, search_type="artist")
+    if results.get("results"):
+        artist = results["results"][0]
+        # run an api call on discogs API to get full artist details
+        resource_url = artist.get("resource_url")
+        if resource_url:
+            r = requests.get(resource_url, params={"key": DISCOGS_KEY, "secret": DISCOGS_SECRET}, headers={"User-Agent": "MyDiscogsSearchApp/1.0 +https://example.com"}, timeout=30, verify=VERIFY_SSL)
+            r.raise_for_status()
+            artist = r.json()
+            # run an api call to get artist discography
+            discography_url = f"{resource_url}/releases"
+            r = requests.get(discography_url, params={"key": DISCOGS_KEY, "secret": DISCOGS_SECRET}, headers={"User-Agent": "MyDiscogsSearchApp/1.0 +https://example.com"}, timeout=30, verify=VERIFY_SSL)
+            r.raise_for_status()
+            artist["discography"] = r.json()
+        return artist
+    return None
 
 def print_results(data, max_items=10):
     results = data.get("results", [])[:max_items]

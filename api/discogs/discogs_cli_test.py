@@ -1,18 +1,23 @@
 #!/usr/bin/env python
 
 import os
+import sys
+from pathlib import Path
+
+# Add parent directory to path
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import discogs_client
 import json
+from env_utils import load_api_env
 
-DISCOGS_KEY=os.getenv('DISCOGS_KEY')
-DISCOGS_SECRET=os.getenv('DISCOGS_SECRET')
+VERIFY_SSL, DISCOGS_KEY, DISCOGS_SECRET, _ = load_api_env()
 
 def main():
     d = discogs_client.Client(
-        'my_user_agent/1.0',
         consumer_key=DISCOGS_KEY,
-        consumer_secret=DISCOGS_SECRET
+        consumer_secret=DISCOGS_SECRET,
+        user_agent='MyDiscogsApp/1.0 +https://example.com'
     )
     release = d.release(1293022)
     #print(json.dumps(release))

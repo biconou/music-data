@@ -14,5 +14,18 @@ def search():
     data = discogs_search(query, search_type=search_type, per_page=per_page, page=page, **filters)
     return jsonify(data), 200
 
+def find_artist():
+    artist_name = request.args.get("q", "")
+    if not artist_name:
+        return jsonify({"error": "Missing artist name"}), 400
 
+    from discogs.discogs import find_artist as discogs_find_artist
+    artist = discogs_find_artist(artist_name)
+    if artist:
+        return jsonify(artist), 200
+    return jsonify({"error": "Artist not found"}), 404
+
+@discogs_bp.route("/find-artist", methods=["GET"])
+def find_artist_route():
+    return find_artist()
 
