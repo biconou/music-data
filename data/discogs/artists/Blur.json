@@ -1,0 +1,1055 @@
+{
+  "artistId": "Blur",
+  "fetchedAt": "2026-09-16T14:43:28.057372Z",
+  "data": {
+    "name": "Blur",
+    "id": 7551,
+    "resource_url": "https://api.discogs.com/artists/7551",
+    "uri": "https://www.discogs.com/artist/7551-Blur",
+    "releases_url": "https://api.discogs.com/artists/7551/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/zaSWN-jXaqklDF3x3tvl1TL2RcS8g9bSGvvDE90LRq0/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTY4OTA2MTkxOS01/NjYzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/zaSWN-jXaqklDF3x3tvl1TL2RcS8g9bSGvvDE90LRq0/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTY4OTA2MTkxOS01/NjYzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hipL_b6wI8c1_OuDSdS9_PdN0rtT_rzjQUl_tDYJkig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTY4OTA2MTkxOS01/NjYzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 337
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/iR15_p5twiApqX5cPlGy0eOzefMo39k5XIbOXhgO450/rs:fit/g:sm/q:90/h:436/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTM5MTU5MDkxMi0y/MjU4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/iR15_p5twiApqX5cPlGy0eOzefMo39k5XIbOXhgO450/rs:fit/g:sm/q:90/h:436/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTM5MTU5MDkxMi0y/MjU4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/cLg7UnLAXJWTGKUUQexl1sUQOGsZ04W-R3BdwgSU1Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTM5MTU5MDkxMi0y/MjU4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 436
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TAH-RDsIiDngKgYiUoRXtDPcIq69EB828W3L30QO-1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTU3MDEwMjE1Ni00/NDU0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/TAH-RDsIiDngKgYiUoRXtDPcIq69EB828W3L30QO-1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTU3MDEwMjE1Ni00/NDU0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/TxBhmP03rGBlscaqBSV5KRe0JRNZDckPxcQK_2jVfKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTU3MDEwMjE1Ni00/NDU0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZL8U57fesucaUfMxCckwwY1LzMqExfK1oURNQODqpmE/rs:fit/g:sm/q:90/h:435/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTQ5MDMxMzcxMi0x/ODUxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/ZL8U57fesucaUfMxCckwwY1LzMqExfK1oURNQODqpmE/rs:fit/g:sm/q:90/h:435/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTQ5MDMxMzcxMi0x/ODUxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/LPNnw-lDNO0gzpkdI5RA4Swwt71eAhGwJrXnd9MikIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTQ5MDMxMzcxMi0x/ODUxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 435
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zDlml4S8IFkO30YuVrAy14RZbqniZbKk2e_DAjahKKI/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTQ5MDMxMzY4Ny0x/MDkyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/zDlml4S8IFkO30YuVrAy14RZbqniZbKk2e_DAjahKKI/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTQ5MDMxMzY4Ny0x/MDkyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5ebGClyKRJT4MwvullBfTTdwUQaH5AQ_RVUnQ7zFz0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTQ5MDMxMzY4Ny0x/MDkyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 337
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/20_bYGAqvgAcsaRucDiTzYhy-XmyFFIqMV9Gd6dG1YE/rs:fit/g:sm/q:90/h:461/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTEwNTMwMjk3OS5q/cGc.jpeg",
+        "resource_url": "https://i.discogs.com/20_bYGAqvgAcsaRucDiTzYhy-XmyFFIqMV9Gd6dG1YE/rs:fit/g:sm/q:90/h:461/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTEwNTMwMjk3OS5q/cGc.jpeg",
+        "uri150": "https://i.discogs.com/amM0s782ZxsijBfMhKO_RgWfVSzFE8HNl6-SCfyLhaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTEwNTMwMjk3OS5q/cGc.jpeg",
+        "width": 594,
+        "height": 461
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wt_8NBc5XjtEA3Np97hpz1_BasNxp-qU9rbOjHnuitA/rs:fit/g:sm/q:90/h:810/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTMxOTM1ODIzMC5q/cGVn.jpeg",
+        "resource_url": "https://i.discogs.com/wt_8NBc5XjtEA3Np97hpz1_BasNxp-qU9rbOjHnuitA/rs:fit/g:sm/q:90/h:810/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTMxOTM1ODIzMC5q/cGVn.jpeg",
+        "uri150": "https://i.discogs.com/sWbGx29nK2K1Jh0TCxHNZE6Lq-umGbRURCHkbpd7Nys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTMxOTM1ODIzMC5q/cGVn.jpeg",
+        "width": 567,
+        "height": 810
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fwnAOYFTnW_YFe25Sa1PX2n_0L5sMwe64h4TJKlKRmk/rs:fit/g:sm/q:90/h:459/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTMxOTM1ODIzOC5q/cGVn.jpeg",
+        "resource_url": "https://i.discogs.com/fwnAOYFTnW_YFe25Sa1PX2n_0L5sMwe64h4TJKlKRmk/rs:fit/g:sm/q:90/h:459/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTMxOTM1ODIzOC5q/cGVn.jpeg",
+        "uri150": "https://i.discogs.com/R_LOprKBMGV-d3HDal6dzmxd5v8zWFHmZAwpkQlcR_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTMxOTM1ODIzOC5q/cGVn.jpeg",
+        "width": 567,
+        "height": 459
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0QXzC8BwMBJ-ikyV9bT1g5qT-6pRNMA0Bx3nq_JTFs0/rs:fit/g:sm/q:90/h:401/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTMxOTM1ODI1MC5q/cGVn.jpeg",
+        "resource_url": "https://i.discogs.com/0QXzC8BwMBJ-ikyV9bT1g5qT-6pRNMA0Bx3nq_JTFs0/rs:fit/g:sm/q:90/h:401/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTMxOTM1ODI1MC5q/cGVn.jpeg",
+        "uri150": "https://i.discogs.com/YHbV-TknTurP_hr7E-DMLbsuotlIci7CiMM8n7_EaFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTMxOTM1ODI1MC5q/cGVn.jpeg",
+        "width": 567,
+        "height": 401
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Ne6XgoGyQw8QQvCnldrykafe58a7BXPdJuHoTnrGUwU/rs:fit/g:sm/q:90/h:337/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTI2MzY4MzA0MC5q/cGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Ne6XgoGyQw8QQvCnldrykafe58a7BXPdJuHoTnrGUwU/rs:fit/g:sm/q:90/h:337/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTI2MzY4MzA0MC5q/cGVn.jpeg",
+        "uri150": "https://i.discogs.com/1jlpeiZ90QBHq_5TC5LG4nWFF8Qq454nTRyG2Jr84Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1NTEt/MTI2MzY4MzA0MC5q/cGVn.jpeg",
+        "width": 512,
+        "height": 337
+      }
+    ],
+    "profile": "Indie rock / pop band with art school roots from London, England, composed of [a=Damon Albarn], [a=Graham Coxon] (1989-2002, 2008- ), [a=Alex James (2)], and [a=Dave Rowntree]. The band was formed in Colchester in December 1989 as [a=Seymour] but was renamed Blur in March 1990, after they'd signed for the Food label. Blur's early releases (the Leisure album and the singles off it) were considered indie or alternative rock, heavily influenced by the danceable rhythms of \"baggy\" bands from the Madchester scene and noisepop bands like [a=My Bloody Valentine], with strains of weirder ideas running throughout, at times reminding of Syd Barrett. Tthis was more readily apparent on several single B-sides where the group let loose a darker side.\r\n\r\nBy 1992, the group was keen on reinventing themselves with a newer, smarter sound and sense of purpose, returning to a retro spectrum of British rock and pop music (e.g. The Kinks or XTC) or even nostalgic music from World War II. Their 2nd album Modern Life Is Rubbish (1993) had moderate success but began attracting attention for its Britishness but in hindsight it rolled out the carpet for the Britpop cultural movement that would all but engulf the UK for two years, with groups like [a=Suede] early frontrunners too. In 1994 Blur released what was essentially seen by the general public as the Britpop flagship album: Parklife. 1995's The Great Escape was a vividly nervy and somewhat cartoonish version of the same formula. \r\n\r\nWhen the 5th studio album Blur came out in 1997, the group had reinvented their sound. They severed ties from Britpop and reincorporated the art rock experimentalism of their early years, only this time the music was informed by a broader range of influences (e.g. Pavement). The album's second song Song 2 was released as a single and became a hit on alternative dancefloors. Subsequent albums 13 and Think Tank further increased the group's distance from Britpop, eventually encompassing a great diversity of sounds and influences from all over the globe.\r\n\r\nAfter 13 and the subsequent tours, the band took a pause and its members pursued personal projects. In 1998 Albarn started the [a6378] project, Alex James engaged in [a120885] with Damien Hirst, and Graham Coxon released his first solo album the same year. Over the years Coxon had started struggling with alcoholism and when Blur started the recording sessions for Think Tank, it came to a point where they asked him to no longer be present. After its release in 2003 the band went on full hiatus until December 2008, when it was announced the band would reunite for concerts in London's Hyde Park (released as All The People) followed by a series of major concerts e.g. at Glastonbury 2009. The next year saw the release of a a documentary about the band ([url=https://www.discogs.com/master/898685-Blur-No-Distance-Left-To-Run]No Distance Left To Run[/url]) and of the [url=https://www.discogs.com/master/241338-Blur-Fools-Day]Fool's Day[/url] single for RSD 2010.\r\n\r\nIn July 2012 a career spanning box set was released titled [url=https://www.discogs.com/master/460605-Blur-Blur-21-The-Box]Blur 21[/url], and in August 2012 the band headlined a show in Hyde Park for the closing ceremony of the 2012 Summer Olympics (released as [url=https://www.discogs.com/master/500654-Blur-Parklive]Parklive[/url]). Earlier that year the band had tried to record a studio album with [a2728] as producer but that was aborted. In Autumn 2012 the band again paused its activities.\r\n\r\nEarly 2015, Blur made a surprise announcement that they'd finished a new album: The Magic Whip. It had been created in 5 days in Hong Kong after a Japan tour that was cancelled in 2013. Following the Magic Whip tour the band went into hiatus again ... resurfacing in 2023 with their 9th studio album The Ballad Of Darren and a series of concerts. In April 2024 Albarn stated that their performance at Coachella was probably the band’s “last gig”. On 19 July 2024 a second documentary titled To The End opened in UK and Irish cinemas, as directed by Toby L.\r\n\r\nNoteworthy live & session members:\r\n[a=Cara Tivey]: auxiliary keyboard player 1993-1995\r\n[a=Diana Gutkind]: auxiliary keyboard player 1995-2000\r\n[a=Wayne Hernandez]: primary vocalist with backing choirs since 1997\r\n[a=Simon Tong]: guitarist; replaced Coxon for the 2003-2004 tour\r\n[url=https://www.discogs.com/artist/343742-Mike-Smith-3]Mike Smith[/url]: auxiliary keyboard player, backing vocalist and saxophonist since 2003\r\n\r\nWhen marked as a copyright holder, use [l3337053].",
+    "urls": [
+      "https://www.blur.co.uk/",
+      "https://www.facebook.com/blur",
+      "https://www.imdb.com/name/nm1108526/",
+      "https://www.instagram.com/blurofficial/",
+      "https://myspace.com/blur",
+      "https://en.wikipedia.org/wiki/Blur_(band)",
+      "https://x.com/blurofficial",
+      "https://www.youtube.com/@blur"
+    ],
+    "namevariations": [
+      "Gold Frankincense And Blur",
+      "ブラー",
+      "布勒",
+      "布勒乐队",
+      "布勒合唱團",
+      "模糊樂隊",
+      "블러"
+    ],
+    "aliases": [
+      {
+        "id": 302413,
+        "name": "Seymour",
+        "resource_url": "https://api.discogs.com/artists/302413"
+      }
+    ],
+    "members": [
+      {
+        "id": 3882,
+        "name": "Damon Albarn",
+        "resource_url": "https://api.discogs.com/artists/3882",
+        "active": true
+      },
+      {
+        "id": 85365,
+        "name": "Graham Coxon",
+        "resource_url": "https://api.discogs.com/artists/85365",
+        "active": true
+      },
+      {
+        "id": 100676,
+        "name": "Dave Rowntree",
+        "resource_url": "https://api.discogs.com/artists/100676",
+        "active": true
+      },
+      {
+        "id": 263367,
+        "name": "Alex James (2)",
+        "resource_url": "https://api.discogs.com/artists/263367",
+        "active": true
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "discography": {
+      "pagination": {
+        "page": 1,
+        "pages": 40,
+        "per_page": 50,
+        "items": 1965,
+        "urls": {
+          "last": "https://api.discogs.com/artists/7551/releases?key=BIqHCSNxDnaIPhqCiZoc&secret=xYpdaTwFFISNXwMOlvuGVossTaRtnkHs&page=40&per_page=50",
+          "next": "https://api.discogs.com/artists/7551/releases?key=BIqHCSNxDnaIPhqCiZoc&secret=xYpdaTwFFISNXwMOlvuGVossTaRtnkHs&page=2&per_page=50"
+        }
+      },
+      "releases": [
+        {
+          "id": 46405,
+          "title": "She's So High / I Know",
+          "type": "master",
+          "main_release": 448677,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/46405",
+          "year": 1990,
+          "thumb": "https://i.discogs.com/P2rdXUNnc6VkH6hCiYFnV75k68IVtbteeeLPXdck49k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODY3/Ny0xNjAzNjU5NDgy/LTYwMTYuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 455,
+              "in_collection": 1182
+            }
+          }
+        },
+        {
+          "id": 559566,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Promo, Smplr",
+          "label": "EMI France, Food",
+          "title": "Untitled",
+          "resource_url": "https://api.discogs.com/releases/559566",
+          "role": "Main",
+          "artist": "Jesus Jones, Blur, Sensitize (2), Diesel Park West, Whirlpool (3)",
+          "year": 1991,
+          "thumb": "https://i.discogs.com/Onc_PdB-jAYMcdnkiEgJpqOS40jdTrmNHELvI8a6O6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTU2/Ni0xMTMxNTIwMzc0/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 20,
+              "in_collection": 27
+            }
+          }
+        },
+        {
+          "id": 835516,
+          "status": "Accepted",
+          "type": "release",
+          "format": "12\", Ltd, Promo",
+          "label": "Food, Parlophone",
+          "title": "High Cool (Easy Listening Mix) / Bad Day (Leisurely Mix)",
+          "resource_url": "https://api.discogs.com/releases/835516",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1991,
+          "thumb": "https://i.discogs.com/g1waa3oRpFncwETPXCP6ROekpPfn3m3EG4xCz4RaOzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTUx/Ni0xMzM3NTEzMjI1/LTM3MzguanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 217,
+              "in_collection": 142
+            }
+          }
+        },
+        {
+          "id": 13695669,
+          "status": "Accepted",
+          "type": "release",
+          "format": "Cass, S/Sided, Advance, Promo",
+          "label": "Abbey Road Studios",
+          "title": "5 Selections From \"Leisure\"",
+          "resource_url": "https://api.discogs.com/releases/13695669",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1991,
+          "thumb": "https://i.discogs.com/Gr07mnrswUK_GtFrjCiFZkUHZs0MOILDKaGRY48XAZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk1/NjY5LTE1NTkyMDk0/MTYtNDEwNC5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 18,
+              "in_collection": 1
+            }
+          }
+        },
+        {
+          "id": 94751,
+          "title": "Leisure",
+          "type": "master",
+          "main_release": 387046,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/94751",
+          "year": 1991,
+          "thumb": "https://i.discogs.com/5BUMmEIua0Bp9clSzj3WfFweNDqkLLC7MquoP1WfMfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzA0/Ni0xNTgyMzExNTc2/LTEwNjIuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 395,
+              "in_collection": 3818
+            }
+          }
+        },
+        {
+          "id": 46410,
+          "title": "There's No Other Way",
+          "type": "master",
+          "main_release": 462235,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/46410",
+          "year": 1991,
+          "thumb": "https://i.discogs.com/DtFW23oeYd8uPYrkoml2GMHFHVFD5oeKXCVJIsQeggY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjIz/NS0xMzQ5NzgxMzU5/LTY0NTkuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 489,
+              "in_collection": 1572
+            }
+          }
+        },
+        {
+          "id": 1136228,
+          "title": "Focusing In With Blur (Interview And Music)",
+          "type": "master",
+          "main_release": 1357945,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/1136228",
+          "year": 1991,
+          "thumb": "https://i.discogs.com/vj_2IKew22baqI8Xm2Wan2VQA8hyx9MhxT6ze8UNbc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc5/NDUtMTI1NzY2Njc5/NS5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 45,
+              "in_collection": 135
+            }
+          }
+        },
+        {
+          "id": 34472,
+          "title": "Bang",
+          "type": "master",
+          "main_release": 646141,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/34472",
+          "year": 1991,
+          "thumb": "https://i.discogs.com/_RxV8UnrcCf77jQvBeF67B1NTaAoeXAn95f9Qn92bFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjE0/MS0xNTkzNzIxODg3/LTI3NDYuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 334,
+              "in_collection": 1189
+            }
+          }
+        },
+        {
+          "id": 2533639,
+          "title": "Blur-ti-go",
+          "type": "master",
+          "main_release": 393764,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/2533639",
+          "year": 1992,
+          "thumb": "https://i.discogs.com/9IY6FltCo8kim_U4F0cyvmd8_jNqhScevPj4sz_GdRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc2/NC0xMzI2MTI0MTA5/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 133,
+              "in_collection": 246
+            }
+          }
+        },
+        {
+          "id": 1604032,
+          "title": "10th Anniversary Box Set",
+          "type": "master",
+          "main_release": 539977,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/1604032",
+          "year": 1992,
+          "thumb": "https://i.discogs.com/bHGfp2Z829bOvADUPCoXC9EBWK3qTD16d9EZhc-wAkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTk3/Ny0xNDc4MDUwODE5/LTU2NjAuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 306,
+              "in_collection": 935
+            }
+          }
+        },
+        {
+          "id": 94754,
+          "title": "Popscene",
+          "type": "master",
+          "main_release": 646142,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/94754",
+          "year": 1992,
+          "thumb": "https://i.discogs.com/YUWtjKYaqdqrVGXZI-cch25wneRTXOXSKD1XRaulUYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjE0/Mi0xNDc2OTExMjU3/LTMwNzcucG5n.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 512,
+              "in_collection": 930
+            }
+          }
+        },
+        {
+          "id": 2024371,
+          "title": "The Wassailing Song",
+          "type": "master",
+          "main_release": 541389,
+          "artist": "Gold Frankincense And Blur*",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/2024371",
+          "year": 1992,
+          "thumb": "https://i.discogs.com/jsQAnOS2fQ6ZrjvYkZjFih1NkG8a2iXfioigYYPkAfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTM4/OS0xNTAxNjQwNDE5/LTk5ODkuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 409,
+              "in_collection": 94
+            }
+          }
+        },
+        {
+          "id": 1547068,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Promo",
+          "label": "Food",
+          "title": "Basically Blur",
+          "resource_url": "https://api.discogs.com/releases/1547068",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1993,
+          "thumb": "https://i.discogs.com/K4K2KxPnjxOZPAYXdweplRUKsSrhuAZ9HR8zlY-O0ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDcw/NjgtMTYwNzgwMjQ2/OC01OTgwLmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 73,
+              "in_collection": 17
+            }
+          }
+        },
+        {
+          "id": 18727108,
+          "status": "Accepted",
+          "type": "release",
+          "format": "Cass",
+          "label": "Not On Label",
+          "title": "Demos ",
+          "resource_url": "https://api.discogs.com/releases/18727108",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1993,
+          "thumb": "https://i.discogs.com/cdqfAwbB698BocP-qw43NqO4VfyKLkP_fjba9HqLIo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzI3/MTA4LTE2MjEwMTUw/NzEtMzY4NC5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 25,
+              "in_collection": 0
+            }
+          }
+        },
+        {
+          "id": 139419,
+          "title": "Starshaped",
+          "type": "master",
+          "main_release": 4307645,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/139419",
+          "year": 1993,
+          "thumb": "https://i.discogs.com/Ue9zPynpKgbtVXB3SZjashJisMbltF94ZNH-jOFg2fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDc2/NDUtMTY4MDY2NzU0/OC00NTU0LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 33,
+              "in_collection": 50
+            }
+          }
+        },
+        {
+          "id": 1161752,
+          "title": "Untitled",
+          "type": "master",
+          "main_release": 1991934,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/1161752",
+          "year": 1993,
+          "thumb": "https://i.discogs.com/ArKPw85TycL98gbRnS6TkqH3v_gVJPO7I7O5hP3Mzxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTE5/MzQtMTI2NTA2NzIy/My5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 27,
+              "in_collection": 62
+            }
+          }
+        },
+        {
+          "id": 94758,
+          "title": "For Tomorrow",
+          "type": "master",
+          "main_release": 470378,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/94758",
+          "year": 1993,
+          "thumb": "https://i.discogs.com/Ov1U9H8vAE7f304vmScQsNWl3Sokrogq1-BlCgLTV3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDM3/OC0xNjE2MDM2NDE5/LTk1NzEuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 509,
+              "in_collection": 716
+            }
+          }
+        },
+        {
+          "id": 94760,
+          "title": "Sunday Sunday",
+          "type": "master",
+          "main_release": 1556996,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/94760",
+          "year": 1993,
+          "thumb": "https://i.discogs.com/j8PDuLX1uhNpDYIjjJm86NMVhs7EcXgyK0lxpII4Yy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/OTYtMTQ3NjkxMTU4/MC04OTk0LnBuZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 330,
+              "in_collection": 508
+            }
+          }
+        },
+        {
+          "id": 34643,
+          "title": "Chemical World",
+          "type": "master",
+          "main_release": 1301508,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/34643",
+          "year": 1993,
+          "thumb": "https://i.discogs.com/fBbwMRewhLVnzB-rQOlcTMYGjas60dnQyIMoGO3C50Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE1/MDgtMTUwMTY0MDky/MS0yNzc5LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 408,
+              "in_collection": 753
+            }
+          }
+        },
+        {
+          "id": 92102,
+          "title": "Modern Life Is Rubbish",
+          "type": "master",
+          "main_release": 2175780,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/92102",
+          "year": 1993,
+          "thumb": "https://i.discogs.com/XV3xD6ebC3hWEPfV-Y8EJxlaHvX-nJqniYJOcvTWf4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzU3/ODAtMTM3NjcyODA0/NS0xODI0LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 349,
+              "in_collection": 2332
+            }
+          }
+        },
+        {
+          "id": 1977319,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Promo",
+          "label": "SBK Records",
+          "title": "Tracy Jacks / Bank Holiday",
+          "resource_url": "https://api.discogs.com/releases/1977319",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/dJ01dr2H6khGWEfyVnukdShOYc_0Cu19EqSRa3Z0X8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzcz/MTktMTI1NjM0Mzk1/Ni5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 45,
+              "in_collection": 54
+            }
+          }
+        },
+        {
+          "id": 2292886,
+          "status": "Accepted",
+          "type": "release",
+          "format": "2xCD, Transcription",
+          "label": "Westwood One",
+          "title": "In Concert",
+          "resource_url": "https://api.discogs.com/releases/2292886",
+          "role": "Main",
+          "artist": "The Meat Puppets* / Blur",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/tD_GkOCOgyQK1sqrRt7abN_WHNS942bEcz_4xxAjhG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTI4/ODYtMTY3NzA5NDU5/NC05ODk4LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 60,
+              "in_collection": 6
+            }
+          }
+        },
+        {
+          "id": 4558872,
+          "status": "Accepted",
+          "type": "release",
+          "format": "7\", Promo",
+          "label": "EMI",
+          "title": "Girls & Boys (Pet Shop Boys Radio Edit) / Roll 'Em Up (Radio Version)",
+          "resource_url": "https://api.discogs.com/releases/4558872",
+          "role": "Main",
+          "artist": "Blur / Vanilla Ice",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/n5Zlf7gaJwe-qhTnRxu7oucduqvi2WPy6OgXKmtSlKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTg4/NzItMTM2ODU2NTQ4/MC04MjM2LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 124,
+              "in_collection": 51
+            }
+          }
+        },
+        {
+          "id": 14791567,
+          "status": "Accepted",
+          "type": "release",
+          "format": "Cass, Promo, Smplr",
+          "label": "EMI",
+          "title": "Park Life Album Promo - Medley",
+          "resource_url": "https://api.discogs.com/releases/14791567",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/xco-Gm85mnizWQT4uW6ChBETQdFSRNu-oIQOO-qxqNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkx/NTY3LTE1ODE2ODY2/NTUtNzkyOC5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 86,
+              "in_collection": 8
+            }
+          }
+        },
+        {
+          "id": 17316970,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Transcription",
+          "label": "BBC Transcription",
+          "title": "In Concert - 603",
+          "resource_url": "https://api.discogs.com/releases/17316970",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/f5CQT8NLoAqc63akheu1gXPyfLiHdkRNZZ5jQ7q8BJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzE2/OTcwLTE2MTI3ODU5/ODUtMTMwNy5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 33,
+              "in_collection": 4
+            }
+          }
+        },
+        {
+          "id": 17364562,
+          "status": "Accepted",
+          "type": "release",
+          "format": "Cass",
+          "label": "Not On Label",
+          "title": "Demos 94",
+          "resource_url": "https://api.discogs.com/releases/17364562",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/SU4GQuGTjOzEVDqAJ034gO86IZOJ9XxrzPNUizv20Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY0/NTYyLTE2MTMwNTQw/NTAtNDc1MS5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 24,
+              "in_collection": 0
+            }
+          }
+        },
+        {
+          "id": 33625191,
+          "status": "Accepted",
+          "type": "release",
+          "format": "2xCD, Transcription",
+          "label": "Westwood One",
+          "title": "In Concert: New Rock",
+          "resource_url": "https://api.discogs.com/releases/33625191",
+          "role": "Main",
+          "artist": "Cracker / Blur",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/bISi8ukT6YP8ptyjv3UxRUIuZRRN00knJ5zFfMckNiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjI1/MTkxLTE3NDM5ODkw/OTUtMTA0Ni5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 3,
+              "in_collection": 1
+            }
+          }
+        },
+        {
+          "id": 1583617,
+          "title": "Bet Bet Bet (The Mark Radcliffe Session)",
+          "type": "master",
+          "main_release": 2293041,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/1583617",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/c9pjLOE5SPiVTw4asQKOcnWB-HbYZdB7K4H0e7LVz0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTMw/NDEtMTYwNzgwMzEw/MS0yODMzLmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 84,
+              "in_collection": 63
+            }
+          }
+        },
+        {
+          "id": 94761,
+          "title": "Parklife",
+          "type": "master",
+          "main_release": 674311,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/94761",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/JYAzq_cTV8H1XIqkTr2ycNwqG9jJDcQ4y5gvohsAG_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDMx/MS0xNDE1NTQ4NjYz/LTg5OTYuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 4347,
+              "in_collection": 3956
+            }
+          }
+        },
+        {
+          "id": 94762,
+          "title": "Parklife",
+          "type": "master",
+          "main_release": 378846,
+          "artist": "Blur Starring Phil Daniels",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/94762",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/kw1E9NNydxgV8VYUv-rwYgMwWVI4_iexvkGfnIbrEb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODg0/Ni0xNjE5NzU2NDI2/LTE3OTUuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 643,
+              "in_collection": 990
+            }
+          }
+        },
+        {
+          "id": 94764,
+          "title": "To The End",
+          "type": "master",
+          "main_release": 1289083,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/94764",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/BUPDURJNNWkOuH8h8smWSZ7tt9nSL_wGQWqh0ZxJ6pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODkw/ODMtMTMwMTExNTAy/NC5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 64,
+              "in_collection": 457
+            }
+          }
+        },
+        {
+          "id": 1429210,
+          "title": "The Special Collectors Edition",
+          "type": "master",
+          "main_release": 25799362,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/1429210",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/QX_185IAerPmCspxoQW1ztgwXgwA01EOuuX4r6MYBs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzk5/MzYyLTE2NzQ1OTg1/MTgtOTA4Mi5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 26,
+              "in_collection": 33
+            }
+          }
+        },
+        {
+          "id": 34674,
+          "title": "Girls & Boys",
+          "type": "master",
+          "main_release": 1554458,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/34674",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/Rde5smcJwbzrufj-k3b7dU9HPGNc1GhuCgUODlqWHAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQ0/NTgtMTI5MDU1MjI4/Mi5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 115,
+              "in_collection": 470
+            }
+          }
+        },
+        {
+          "id": 34687,
+          "title": "End Of A Century",
+          "type": "master",
+          "main_release": 619689,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/34687",
+          "year": 1994,
+          "thumb": "https://i.discogs.com/xkXiQKYyicRHrY_LmW21hxWXzSSI67W7Hq2qAtkUAUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTY4/OS0xMTM5MzM5NTI5/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 78,
+              "in_collection": 559
+            }
+          }
+        },
+        {
+          "id": 864124,
+          "status": "Accepted",
+          "type": "release",
+          "format": "12\", S/Sided, Etch, Promo",
+          "label": "Virgin, Food",
+          "title": "Entertain Me (The Live It! Remix)",
+          "resource_url": "https://api.discogs.com/releases/864124",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/q40xxHq8TMkNptj8QGeZv8Gl78vZQ7zRKvZhyqMsvqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDEy/NC0xNDcyNDM1MTA0/LTI0MzkuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 104,
+              "in_collection": 233
+            }
+          }
+        },
+        {
+          "id": 1560012,
+          "status": "Accepted",
+          "type": "release",
+          "format": "Flexi, 7\", S/Sided, Promo",
+          "label": "The Bob Magazine",
+          "title": "One Born Every Minute / Pipe Bomb",
+          "resource_url": "https://api.discogs.com/releases/1560012",
+          "role": "Main",
+          "artist": "Blur / Scud Mt. Boys*",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/cS33XcEsFXFkDnikzOe_tii7UKS_MM2gakF2XMpmRbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjAw/MTItMTUwMTYzOTkz/NC0zMjcxLmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 96,
+              "in_collection": 161
+            }
+          }
+        },
+        {
+          "id": 1958860,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Single, Promo",
+          "label": "Food",
+          "title": "This Is A Low",
+          "resource_url": "https://api.discogs.com/releases/1958860",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/BEWo4sXvqIeI7MYtV9RFO-YwdxMSbsQdqvhCecSBL9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg4/NjAtMTMwMTExNjY2/Mi5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 100,
+              "in_collection": 70
+            }
+          }
+        },
+        {
+          "id": 4076370,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Album, RE + CD, Album, RE + Box, Comp, Ltd",
+          "label": "EMI France",
+          "title": "Coffret 2CD",
+          "resource_url": "https://api.discogs.com/releases/4076370",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/IKn4qpH7gTpEaxfdZ9PB5GX7tvbPDRyCNO99IZxGzH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzYz/NzAtMTM1NDQ0NTA5/NC03Nzk4LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 38,
+              "in_collection": 1
+            }
+          }
+        },
+        {
+          "id": 4253550,
+          "status": "Accepted",
+          "type": "release",
+          "format": "7\", Jukebox, Promo",
+          "label": "EMI",
+          "title": "Heaven For Everyone (Single Version) / The Universal",
+          "resource_url": "https://api.discogs.com/releases/4253550",
+          "role": "Main",
+          "artist": "Queen / Blur",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/gplOE9YurmB9EJYHf6dxIHF__EJfxFN-XWZFJgaScfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTM1/NTAtMTM1OTgxNjEz/MC03NjU1LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 111,
+              "in_collection": 46
+            }
+          }
+        },
+        {
+          "id": 4263415,
+          "status": "Accepted",
+          "type": "release",
+          "format": "7\", Promo",
+          "label": "EMI",
+          "title": "A Winter's Tale / Charmless Man",
+          "resource_url": "https://api.discogs.com/releases/4263415",
+          "role": "Main",
+          "artist": "Queen / Blur",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/2B77CQAAsVftsRo-AgJ9twF5ccLjFrskZ3RehYedsOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjM0/MTUtMTUyOTc2OTAy/Ni03OTUyLmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 118,
+              "in_collection": 30
+            }
+          }
+        },
+        {
+          "id": 4316408,
+          "status": "Accepted",
+          "type": "release",
+          "format": "7\", Jukebox, Promo",
+          "label": "EMI",
+          "title": "3 Is Family / Country House",
+          "resource_url": "https://api.discogs.com/releases/4316408",
+          "role": "Main",
+          "artist": "Dana Dawson / Blur",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/PFkd1WM4NrFzeSxl9CARSjGC_nVw33QgUSGU-kgqlCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTY0/MDgtMTM2MTU1NzQ0/OS03NTMyLmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 64,
+              "in_collection": 31
+            }
+          }
+        },
+        {
+          "id": 17318002,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Transcription",
+          "label": "BBC World Service, BBC Radio International",
+          "title": "In Concert - 649",
+          "resource_url": "https://api.discogs.com/releases/17318002",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/S40zM5x8-rHpYDZT6vfXoTpz1qCylvmxQB-fMV04FVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzE4/MDAyLTE2MTI3OTIw/NzktMzE5NS5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 27,
+              "in_collection": 5
+            }
+          }
+        },
+        {
+          "id": 17364487,
+          "status": "Accepted",
+          "type": "release",
+          "format": "Cass, S/Sided",
+          "label": "Not On Label",
+          "title": "Dan Abnormal / It Could Be You",
+          "resource_url": "https://api.discogs.com/releases/17364487",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/cerpyMNUlHCljlZ0DzcD5ODvKcMB7WzrFd7vmCxM0eY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY0/NDg3LTE2MTMwNTM1/NTktNzEyMy5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 12,
+              "in_collection": 1
+            }
+          }
+        },
+        {
+          "id": 94767,
+          "title": "The Great Escape",
+          "type": "master",
+          "main_release": 1289221,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/94767",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/EI9OY1nzn4cFQoTujGGNFGRlE9PncianuJ20pwiuuoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODky/MjEtMTM4NjYzMDMz/Mi0xNzc3LnBuZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 2239,
+              "in_collection": 2716
+            }
+          }
+        },
+        {
+          "id": 94769,
+          "title": "The Universal",
+          "type": "master",
+          "main_release": 619710,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/94769",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/-maScYuo4AC102v-SGLCTZhBrLbrCXAliZMB1Q4jvzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTcx/MC0xMjU5NzAwMTM1/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 75,
+              "in_collection": 986
+            }
+          }
+        },
+        {
+          "id": 3877951,
+          "title": "5 Song Sampler",
+          "type": "master",
+          "main_release": 14150583,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/3877951",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/EHu2w7yTYJwwP4U0DFBqFt-hScEsJ3GwIXUMZYVG51k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUw/NTgzLTE1Njg3NzM2/NzQtNzI4NC5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 14,
+              "in_collection": 7
+            }
+          }
+        },
+        {
+          "id": 194074,
+          "title": "Showtime",
+          "type": "master",
+          "main_release": 1990751,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/194074",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/CgY8uR4-O6wUEq62_0W41FkG-953ueVA0G7qMJiAZxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTA3/NTEtMTI1ODA4OTYx/OC5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 55,
+              "in_collection": 26
+            }
+          }
+        },
+        {
+          "id": 34523,
+          "title": "The Story Of A Charmless Man",
+          "type": "master",
+          "main_release": 619723,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/34523",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/y-2nHHBhMii9o3v_ANsR6T8bTD3tIesCmUfJUNYGF00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTcy/My0xMzE4MjIzOTIz/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 73,
+              "in_collection": 971
+            }
+          }
+        },
+        {
+          "id": 34589,
+          "title": "Blur's Country House",
+          "type": "master",
+          "main_release": 421422,
+          "artist": "Blur",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/34589",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/iFeYyx6acHcKsaLd8p2bgUfOsb5iT5gmhDenx7L1rO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTQy/Mi0xMjU5MTk5MTk4/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 86,
+              "in_collection": 991
+            }
+          }
+        },
+        {
+          "id": 863790,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Single, Promo",
+          "label": "Food, Parlophone, Blur FC",
+          "title": "Death Of A Party",
+          "resource_url": "https://api.discogs.com/releases/863790",
+          "role": "Main",
+          "artist": "Blur",
+          "year": 1996,
+          "thumb": "https://i.discogs.com/z1ZH8pAz2m7_xBddRl9hVuDJbL0866TBcTeEz4tK1ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mzc5/MC0xMzAxMTE3MDYx/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 115,
+              "in_collection": 222
+            }
+          }
+        }
+      ]
+    }
+  }
+}
