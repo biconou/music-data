@@ -12,7 +12,7 @@ def json_response(payload, status_code: int = 200) -> func.HttpResponse:
         mimetype="application/json"
     )
 
-@app.route(route="find-artist")
+@app.route(route="allmusic/find-artist")
 def find_artist(req: func.HttpRequest) -> func.HttpResponse:
     query = None
     try:
@@ -37,7 +37,7 @@ def find_artist(req: func.HttpRequest) -> func.HttpResponse:
         params = {"query": query}
 
         logging.info(f"Calling external API: {external_api_url} with params={params}")
-        response = requests.get(external_api_url, params=params, timeout=10)
+        response = requests.get(external_api_url, params=params, timeout=60)
 
         # Gestion des erreurs HTTP de l’API externe
         if not response.ok:
