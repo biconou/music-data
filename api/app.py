@@ -1,3 +1,6 @@
+import logging
+from concurrent.futures import ThreadPoolExecutor
+
 from flask import Flask, jsonify, request
 from allmusic_routes import allmusic_bp, find_artist as find_allmusic_artist
 from idagio_routes import idagio_bp
@@ -10,6 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = Flask(__name__)
+discogs_executor = ThreadPoolExecutor(max_workers=2, thread_name_prefix="discogs")
 
 app.register_blueprint(allmusic_bp)
 app.register_blueprint(idagio_bp)
@@ -22,16 +26,22 @@ def health():
     return jsonify({"status": "ok"}), 200
 
 
+def find_and_save_discogs_artist(query):
+    try:
+        artist = find_discogs_artist(query)
+        if artist:
+            save_discogs_artist(artist["name"], artist, DISCOGS_OUTPUT_DIR)
+    except Exception:
+        logging.exception("Background Discogs lookup failed for %r", query)
+
+
 @app.route("/find-artist", methods=["GET"])
 def find_artist():
     query = request.args.get("query", "").strip()
     if not query:
         return jsonify({"error": "Query parameter is missing"}), 400
 
-    discogs_artist = find_discogs_artist(query)
-    if discogs_artist:
-        save_discogs_artist(discogs_artist["name"], discogs_artist, DISCOGS_OUTPUT_DIR)
-
+    discogs_executor.submit(find_and_save_discogs_artist, query)
     return find_allmusic_artist()
 
 

@@ -1,0 +1,1177 @@
+{
+  "artistId": "Pere Ubu",
+  "fetchedAt": "2026-09-16T15:02:11.828515Z",
+  "data": {
+    "name": "Pere Ubu",
+    "id": 83071,
+    "resource_url": "https://api.discogs.com/artists/83071",
+    "uri": "https://www.discogs.com/artist/83071-Pere-Ubu",
+    "releases_url": "https://api.discogs.com/artists/83071/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/qzbR73GWT27oyk_3R02RlsGAZacx3THID9djl72QFtA/rs:fit/g:sm/q:90/h:433/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NjA0NTI3MTQt/OTIxOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/qzbR73GWT27oyk_3R02RlsGAZacx3THID9djl72QFtA/rs:fit/g:sm/q:90/h:433/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NjA0NTI3MTQt/OTIxOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/quYeSJf7xdeGCoUAgqPTCUXKK8isMLXQQTulJT_eU44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NjA0NTI3MTQt/OTIxOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 433
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9DJ-m40VCo1S4w3xK9kKaMTHVv-KdcF0fSXK2WMsYmE/rs:fit/g:sm/q:90/h:459/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NjA0NTI3MTQt/ODQ0My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/9DJ-m40VCo1S4w3xK9kKaMTHVv-KdcF0fSXK2WMsYmE/rs:fit/g:sm/q:90/h:459/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NjA0NTI3MTQt/ODQ0My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/85q5J5Ba3-BHLGeaznCi5Q-j0nbsG6SBBkEI3ObLguQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NjA0NTI3MTQt/ODQ0My5qcGVn.jpeg",
+        "width": 600,
+        "height": 459
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/x80TlaQQvhu2oFN7Fr2SlH4QpfJkfT_EL8SKO23esDQ/rs:fit/g:sm/q:90/h:404/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NjA0NTI3MTQt/NDMxOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/x80TlaQQvhu2oFN7Fr2SlH4QpfJkfT_EL8SKO23esDQ/rs:fit/g:sm/q:90/h:404/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NjA0NTI3MTQt/NDMxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/c2oy0QGNFgf3mKE8c3DLAGoQ0ZsVcr7PzCvxhMxWrxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NjA0NTI3MTQt/NDMxOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 404
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/48bPjC428HS0fXbOO62M3S8XOLIT2zjQNqwjgvvFm_c/rs:fit/g:sm/q:90/h:699/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQwNzQt/NjQ0Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/48bPjC428HS0fXbOO62M3S8XOLIT2zjQNqwjgvvFm_c/rs:fit/g:sm/q:90/h:699/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQwNzQt/NjQ0Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lJJuFEIgPJ3PV0_lIFIBCLdyCO16kbcFvtox901DwDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQwNzQt/NjQ0Ni5qcGVn.jpeg",
+        "width": 593,
+        "height": 699
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gU9m8MWxipYG9ckk2FRcA4eXzmkoOYZvfHaQfc5klDQ/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE0MzEzNzU2NDIt/MjM2My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/gU9m8MWxipYG9ckk2FRcA4eXzmkoOYZvfHaQfc5klDQ/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE0MzEzNzU2NDIt/MjM2My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/PN_3UeosCk5GhCvd-S5FtN_LTY9H0Kv-da6qnkVqvdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE0MzEzNzU2NDIt/MjM2My5qcGVn.jpeg",
+        "width": 600,
+        "height": 464
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SCixbWPrjWVdITvBJY632wO4SG8ozBUS9UrR3JSHs_w/rs:fit/g:sm/q:90/h:446/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQyMDct/MjA2NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SCixbWPrjWVdITvBJY632wO4SG8ozBUS9UrR3JSHs_w/rs:fit/g:sm/q:90/h:446/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQyMDct/MjA2NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4YTa_7LY00H5p0Iqn7BTGydQx8WL6TA93Kl0AVV__3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQyMDct/MjA2NC5qcGVn.jpeg",
+        "width": 585,
+        "height": 446
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jDLcWjqc52ShIoVD3eJT1SvR5LzDnmVEcrlbhyBTV_I/rs:fit/g:sm/q:90/h:770/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE0NTE3Nzk1OTUt/MTcyMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/jDLcWjqc52ShIoVD3eJT1SvR5LzDnmVEcrlbhyBTV_I/rs:fit/g:sm/q:90/h:770/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE0NTE3Nzk1OTUt/MTcyMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3TICE8HpSSNn-K_sH53PdOUtt8nguu7pHEv7WIeZ80Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE0NTE3Nzk1OTUt/MTcyMy5qcGVn.jpeg",
+        "width": 500,
+        "height": 770
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KPy-yIAi4dkMPWFvZZBWkwABmoo8WFn_WId6yPjiC7Q/rs:fit/g:sm/q:90/h:299/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQyMDEt/MzA3MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/KPy-yIAi4dkMPWFvZZBWkwABmoo8WFn_WId6yPjiC7Q/rs:fit/g:sm/q:90/h:299/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQyMDEt/MzA3MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/sgGsFCkwneHaAkbTL2e7IGo4gChw15qtXuaej39xoKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQyMDEt/MzA3MC5qcGVn.jpeg",
+        "width": 500,
+        "height": 299
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cQ7IT3S-6oNZ74ycLxHYzg553MPCGsSgdCRFtLoYq7o/rs:fit/g:sm/q:90/h:402/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQwNjYt/MzkwMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/cQ7IT3S-6oNZ74ycLxHYzg553MPCGsSgdCRFtLoYq7o/rs:fit/g:sm/q:90/h:402/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQwNjYt/MzkwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4nKFwnzKIPwdrBQ5zLXmTJtmwW900TwTG3n1FJl_aVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTEzNzg5OTQwNjYt/MzkwMC5qcGVn.jpeg",
+        "width": 582,
+        "height": 402
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/iZ6Y4MC25EjJOrXtcV_uB0QwV-vx2xCgMyOhyvV3E-I/rs:fit/g:sm/q:90/h:296/w:367/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTExMDgxMzY3NTku/anBn.jpeg",
+        "resource_url": "https://i.discogs.com/iZ6Y4MC25EjJOrXtcV_uB0QwV-vx2xCgMyOhyvV3E-I/rs:fit/g:sm/q:90/h:296/w:367/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTExMDgxMzY3NTku/anBn.jpeg",
+        "uri150": "https://i.discogs.com/YmZi_OU3qdPJIMRAIaud_LwCqbs33ZxpF0pJ2Akz5g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTExMDgxMzY3NTku/anBn.jpeg",
+        "width": 367,
+        "height": 296
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QzpG0fLYgM0KmxSkYGedarWWSeDgPk4NjJuTOIFqWzA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE2MTcwMjYyNDkt/NTkyOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/QzpG0fLYgM0KmxSkYGedarWWSeDgPk4NjJuTOIFqWzA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE2MTcwMjYyNDkt/NTkyOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GH6Je69JDc4cFVn4HWQfcLIqnOeIvqSL8BMiirGgXGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE2MTcwMjYyNDkt/NTkyOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sXOqex28HEBNjyKggmTPrDit06uKWzw-m0wqk3ek9x4/rs:fit/g:sm/q:90/h:781/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NTAyODE0NDgt/MTkyNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/sXOqex28HEBNjyKggmTPrDit06uKWzw-m0wqk3ek9x4/rs:fit/g:sm/q:90/h:781/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NTAyODE0NDgt/MTkyNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/DMMwSOe70lfBnwdZTBTc-WYtOZCVJP10WknHcCH3NZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMDcx/LTE3NTAyODE0NDgt/MTkyNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 781
+      }
+    ],
+    "profile": "Formed 1975, Cleveland Ohio.\r\nDavid Thomas (b.1953-2025), voc; Tom Herman (b.1949), gtr; Peter Laughner (d. 1977), gtr; Mayo Thompson (b. 1944), gtr; Jim Jones (d.2008), gtr; Allen Ravenstine (b.1950), synth; Dave Taylor, synth; Eric Drew Feldman, synth; Tim Wright (d.2013), bass; Tony Maimone (b.1952), bass; Scott Krauss (b.1950), drums; Anton Fier, drums; Chris Cutler (b. 1947), drums; Garo Yellin, cello; Michele Temple (b. 1959), bass; Robert Wheeler (b.1957), EML synthesizers & theremin; Scott Benedict, drums; Steve Mehlman (b.1971), drums; Wayne Kramer, gtr; Andy Diagram (b. 1959), trumpet.\r\n\r\nEvolving from Cleveland's Teutonic protopunks, [a252899], Pere Ubu was formed late in 1975 by Thomas (aka Crocus Behemoth) and guitarist Peter Laughner (who died in 1977). Ubu's classic early singles, \"Heart Of Darkness\" and \"Final Solution,\" oozed restless angst way before it became the domain of spoiled mallrats. By 1978's aggressive The Modern Dance and the wilder Dub Housing, Pere Ubu's subversions of rock were guided by superior musicianship and fallout from Thomas's Jehovah's Witness upbringing. Personality quirks split the band, and Thomas regrouped for three more self-indulgent albums through 1982, including the abstract stare-down of The Art Of Walking, all with some difficult sonic perversion to recommend them.\r\n\r\nAfter several Ubus found themselves onstage in Thomas's Wooden Birds, the band was revived for 1988's The Tenement Year. With newfound focus, Pere Ubu unleashed the ravishing funhouse pop experiment of 1989's Cloudland, which treated mainstream textures like found sounds. The sparkling pop, dented by Thomas's unique warble, continued with the gently peculiar Worlds In Collision. But Ubu tired of the total pop concept and returned to quirkier pursuits for Story Of My Life. Tim Kerr Records picked up the ball with 1995's full-bodied Ray Gun Suitcase--a mix of Ubu's vicious rock, luscious pop and art-damaged identities--and a series of multimedia-enhanced EPs, for which Thomas programmed the codes.\r\n\r\nSee also the label [l=Pere Ubu].",
+    "urls": [
+      "https://www.ubuprojex.net",
+      "http://users.rcn.com/obo/ubu/ubu_garage.html",
+      "https://www.ubudance.com",
+      "https://en.wikipedia.org/wiki/Pere_Ubu",
+      "https://pereubumusic.bandcamp.com/",
+      "https://www.imdb.com/name/nm3129109/"
+    ],
+    "namevariations": [
+      "P. Ubu",
+      "Pere Ube",
+      "Proto Ubu",
+      "Ubu",
+      "Ubu Projex"
+    ],
+    "aliases": [
+      {
+        "id": 2445489,
+        "name": "The U-Men",
+        "resource_url": "https://api.discogs.com/artists/2445489"
+      }
+    ],
+    "members": [
+      {
+        "id": 42283,
+        "name": "Andy Diagram",
+        "resource_url": "https://api.discogs.com/artists/42283",
+        "active": true
+      },
+      {
+        "id": 58286,
+        "name": "Anton Fier",
+        "resource_url": "https://api.discogs.com/artists/58286",
+        "active": false
+      },
+      {
+        "id": 96303,
+        "name": "Mayo Thompson",
+        "resource_url": "https://api.discogs.com/artists/96303",
+        "active": false
+      },
+      {
+        "id": 177209,
+        "name": "Chris Cutler",
+        "resource_url": "https://api.discogs.com/artists/177209",
+        "active": false
+      },
+      {
+        "id": 180278,
+        "name": "David Thomas (2)",
+        "resource_url": "https://api.discogs.com/artists/180278",
+        "active": true
+      },
+      {
+        "id": 223296,
+        "name": "Eric Drew Feldman",
+        "resource_url": "https://api.discogs.com/artists/223296",
+        "active": false
+      },
+      {
+        "id": 252898,
+        "name": "Peter Laughner",
+        "resource_url": "https://api.discogs.com/artists/252898",
+        "active": false
+      },
+      {
+        "id": 260076,
+        "name": "Garo Yellin",
+        "resource_url": "https://api.discogs.com/artists/260076",
+        "active": true
+      },
+      {
+        "id": 268622,
+        "name": "Jim Jones (3)",
+        "resource_url": "https://api.discogs.com/artists/268622",
+        "active": false
+      },
+      {
+        "id": 321545,
+        "name": "Tom Herman",
+        "resource_url": "https://api.discogs.com/artists/321545",
+        "active": false
+      },
+      {
+        "id": 321546,
+        "name": "Allen Ravenstine",
+        "resource_url": "https://api.discogs.com/artists/321546",
+        "active": false
+      },
+      {
+        "id": 336505,
+        "name": "Tony Maimone",
+        "resource_url": "https://api.discogs.com/artists/336505",
+        "active": false
+      },
+      {
+        "id": 338138,
+        "name": "Graham Dowdall",
+        "resource_url": "https://api.discogs.com/artists/338138",
+        "active": true
+      },
+      {
+        "id": 365052,
+        "name": "Scott Krauss",
+        "resource_url": "https://api.discogs.com/artists/365052",
+        "active": false
+      },
+      {
+        "id": 375635,
+        "name": "Tim Wright (2)",
+        "resource_url": "https://api.discogs.com/artists/375635",
+        "active": false
+      },
+      {
+        "id": 376466,
+        "name": "Steve Mehlman",
+        "resource_url": "https://api.discogs.com/artists/376466",
+        "active": true
+      },
+      {
+        "id": 421740,
+        "name": "Kristof Hahn",
+        "resource_url": "https://api.discogs.com/artists/421740",
+        "active": true
+      },
+      {
+        "id": 449768,
+        "name": "Dave Taylor (4)",
+        "resource_url": "https://api.discogs.com/artists/449768",
+        "active": false
+      },
+      {
+        "id": 515496,
+        "name": "Keith Moliné",
+        "resource_url": "https://api.discogs.com/artists/515496",
+        "active": true
+      },
+      {
+        "id": 602407,
+        "name": "Peter Ole Jørgensen",
+        "resource_url": "https://api.discogs.com/artists/602407",
+        "active": true
+      },
+      {
+        "id": 647467,
+        "name": "Michele Temple",
+        "resource_url": "https://api.discogs.com/artists/647467",
+        "active": true
+      },
+      {
+        "id": 647469,
+        "name": "Robert Wheeler",
+        "resource_url": "https://api.discogs.com/artists/647469",
+        "active": true
+      },
+      {
+        "id": 650017,
+        "name": "Scott Benedict",
+        "resource_url": "https://api.discogs.com/artists/650017",
+        "active": true
+      },
+      {
+        "id": 1919265,
+        "name": "Gary Siperko",
+        "resource_url": "https://api.discogs.com/artists/1919265",
+        "active": true
+      },
+      {
+        "id": 2062059,
+        "name": "Nadan Rojnić",
+        "resource_url": "https://api.discogs.com/artists/2062059",
+        "active": true
+      },
+      {
+        "id": 3208260,
+        "name": "Darryl Boon",
+        "resource_url": "https://api.discogs.com/artists/3208260",
+        "active": true
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "discography": {
+      "pagination": {
+        "page": 1,
+        "pages": 8,
+        "per_page": 50,
+        "items": 368,
+        "urls": {
+          "last": "https://api.discogs.com/artists/83071/releases?key=BIqHCSNxDnaIPhqCiZoc&secret=xYpdaTwFFISNXwMOlvuGVossTaRtnkHs&page=8&per_page=50",
+          "next": "https://api.discogs.com/artists/83071/releases?key=BIqHCSNxDnaIPhqCiZoc&secret=xYpdaTwFFISNXwMOlvuGVossTaRtnkHs&page=2&per_page=50"
+        }
+      },
+      "releases": [
+        {
+          "id": 457043,
+          "title": "30 Seconds Over Tokyo",
+          "type": "master",
+          "main_release": 1169403,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/457043",
+          "year": 1975,
+          "thumb": "https://i.discogs.com/AnecwnFC5tn8onVVro-LbMKt35rs9t_QAASxZ2K_fAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk0/MDMtMTE5Nzg0MzY5/Ni5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 676,
+              "in_collection": 232
+            }
+          }
+        },
+        {
+          "id": 1561243,
+          "title": "Street Waves / My Dark Ages (I Don't Get Around)",
+          "type": "master",
+          "main_release": 729934,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/1561243",
+          "year": 1976,
+          "thumb": "https://i.discogs.com/b1-DR9BNtApmtPIRD7XyO4DiuUeQhykZ3nO7lNkHzfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTkz/NC0xNjM4MTE1NzE0/LTYzOTkuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 351,
+              "in_collection": 378
+            }
+          }
+        },
+        {
+          "id": 493010,
+          "title": "Final Solution",
+          "type": "master",
+          "main_release": 1479143,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/493010",
+          "year": 1976,
+          "thumb": "https://i.discogs.com/8O7izQhrn-QG_VFl0SeM7eW2octFGDQllCukOva0fJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkx/NDMtMTU1MTQ1NjAx/Mi0xNjQzLmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 748,
+              "in_collection": 168
+            }
+          }
+        },
+        {
+          "id": 1561246,
+          "title": "The Modern Dance",
+          "type": "master",
+          "main_release": 1584873,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/1561246",
+          "year": 1977,
+          "thumb": "https://i.discogs.com/kzwP9E5l7piskrxLDLeVUPa27f2dlqXrBfXyY32HpVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ4/NzMtMTc2MzM5ODM4/MC0yMjI3LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 419,
+              "in_collection": 191
+            }
+          }
+        },
+        {
+          "id": 52557,
+          "title": "The Modern Dance",
+          "type": "master",
+          "main_release": 436909,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/52557",
+          "year": 1978,
+          "thumb": "https://i.discogs.com/JPsuzSs_jT-nUJOioRh0jTo3klYSKKwE_Q4NcOioQRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjkw/OS0xNDIyNjc4MTEz/LTI2ODIuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 1291,
+              "in_collection": 2352
+            }
+          }
+        },
+        {
+          "id": 52567,
+          "title": "Dub Housing",
+          "type": "master",
+          "main_release": 446360,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/52567",
+          "year": 1978,
+          "thumb": "https://i.discogs.com/SqK-eskxDsFqVSMsIyOCzeDv5o6b9hISKRxHB2m8UQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjM2/MC0xNDQ4Mjc0Mzk3/LTgyNTAuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 941,
+              "in_collection": 1730
+            }
+          }
+        },
+        {
+          "id": 228347,
+          "title": "Datapanik In The Year Zero",
+          "type": "master",
+          "main_release": 536140,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/228347",
+          "year": 1978,
+          "thumb": "https://i.discogs.com/pghymtz-r0LwUT2cEsLbZb3h6XevSoHDYtGYkiHz9dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjE0/MC0xMzA2MjI5NDQz/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 371,
+              "in_collection": 2448
+            }
+          }
+        },
+        {
+          "id": 1880847,
+          "status": "Accepted",
+          "type": "release",
+          "format": "7\"",
+          "label": "Chrysalis",
+          "title": "The Fabulous Sequel (Have Shoes Will Walk)",
+          "resource_url": "https://api.discogs.com/releases/1880847",
+          "role": "Main",
+          "artist": "Pere Ubu",
+          "year": 1979,
+          "thumb": "https://i.discogs.com/kumrikUpL2JOQEracVptR6TYji7z7V2uE7uoxmhfFIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODA4/NDctMTI3MDgzNTUz/MC5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 134,
+              "in_collection": 320
+            }
+          }
+        },
+        {
+          "id": 52581,
+          "title": "New Picnic Time",
+          "type": "master",
+          "main_release": 374019,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/52581",
+          "year": 1979,
+          "thumb": "https://i.discogs.com/a5Nd6ldKBiWyXEE5ZM0a62oR6Zle0e74-kyVwpj2Hyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDAx/OS0xNDAxNTU4Nzcy/LTUwNjIuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 435,
+              "in_collection": 1281
+            }
+          }
+        },
+        {
+          "id": 52593,
+          "title": "The Art Of Walking",
+          "type": "master",
+          "main_release": 837372,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/52593",
+          "year": 1980,
+          "thumb": "https://i.discogs.com/lgFAzM-_3l5TkZozqmbGt0kMTHGo1_ATH53pCOV6588/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzM3/Mi0xNzc5NDM1MjA0/LTYzNTUuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 255,
+              "in_collection": 912
+            }
+          }
+        },
+        {
+          "id": 979838,
+          "title": "Datapanik In The Year Zero-A",
+          "type": "master",
+          "main_release": 384415,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/979838",
+          "year": 1980,
+          "thumb": "https://i.discogs.com/wj9WgfVxpfQ4dqOL9TUoZinoC35l91vjDM282ufvn9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDQx/NS0xMjk3OTU3MTg2/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 166,
+              "in_collection": 880
+            }
+          }
+        },
+        {
+          "id": 4805,
+          "title": "The Art Of Walking / Unknown Pleasures",
+          "type": "master",
+          "main_release": 12404292,
+          "artist": "Pere Ubu / Joy Division",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/4805",
+          "year": 1981,
+          "thumb": "https://i.discogs.com/vqtgJfm7cPqsluPSjYsdRTve98ss56DXClCKrpu_VPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA0/MjkyLTE3NjEyMDY0/MjMtNTUwOC5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 849,
+              "in_collection": 65
+            }
+          }
+        },
+        {
+          "id": 141113,
+          "title": "390 Degrees Of Simulated Stereo. Ubu Live: Volume One",
+          "type": "master",
+          "main_release": 446372,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/141113",
+          "year": 1981,
+          "thumb": "https://i.discogs.com/Eh6fLe5SNF9u2N5M02tRuaNRE1MDSNw1kqxHlc3YnuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjM3/Mi0xMjU5OTYwNzUw/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 157,
+              "in_collection": 963
+            }
+          }
+        },
+        {
+          "id": 52607,
+          "title": "Song Of The Bailing Man",
+          "type": "master",
+          "main_release": 717426,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/52607",
+          "year": 1981,
+          "thumb": "https://i.discogs.com/tCMGfc7yCEjuxdbJ8H6ZAkzZujaf3_PHDcF2n489Z68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzQy/Ni0xNDAxNjI5NzI2/LTg2NjEuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 182,
+              "in_collection": 667
+            }
+          }
+        },
+        {
+          "id": 64946,
+          "title": "Not Happy",
+          "type": "master",
+          "main_release": 384432,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/64946",
+          "year": 1981,
+          "thumb": "https://i.discogs.com/HQRRTTvr1M2uZBBL4Y3P-UHMJZnvCPjs80Z1z_QqYzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDQz/Mi0xMjk3OTU3MzUw/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 97,
+              "in_collection": 586
+            }
+          }
+        },
+        {
+          "id": 64941,
+          "title": "Terminal Tower - An Archival Collection",
+          "type": "master",
+          "main_release": 2332322,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/64941",
+          "year": 1985,
+          "thumb": "https://i.discogs.com/D8O_MwpG4xnzButZfBn2O_ALr_55E630mMZ3RKFW254/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzIz/MjItMTcxMTgwNTY5/My03ODQ0LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 253,
+              "in_collection": 902
+            }
+          }
+        },
+        {
+          "id": 607610,
+          "status": "Accepted",
+          "type": "release",
+          "format": "Flexi, 6\", S/Sided, Single",
+          "label": "Reflex Magazine",
+          "title": "Talk To Me",
+          "resource_url": "https://api.discogs.com/releases/607610",
+          "role": "Main",
+          "artist": "Pere Ubu",
+          "year": 1988,
+          "thumb": "https://i.discogs.com/N-Bp7BWY0Uf9ZuMidKyYCNN-XnhSNz3stAZepWalp7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzYx/MC0xNDA2OTExMDM3/LTQ5MzguanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 35,
+              "in_collection": 106
+            }
+          }
+        },
+        {
+          "id": 53488,
+          "title": "We Have The Technology",
+          "type": "master",
+          "main_release": 507859,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/53488",
+          "year": 1988,
+          "thumb": "https://i.discogs.com/Vd0S1h59PX3n4rfBI3NCYFrqUw9xE0T8xw5n1jSoPQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzg1/OS0xNzQ2NDU0NDAx/LTk4MzUuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 13,
+              "in_collection": 84
+            }
+          }
+        },
+        {
+          "id": 1187168,
+          "title": "Non-alignment Pact",
+          "type": "master",
+          "main_release": 1292301,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/1187168",
+          "year": 1988,
+          "thumb": "https://i.discogs.com/LSjWQ6yxp6DhFBm12K7vkY6ju9No0Kc6lGIrl9rcejk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIz/MDEtMTI4ODIxMTIw/Ni5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 81,
+              "in_collection": 54
+            }
+          }
+        },
+        {
+          "id": 64966,
+          "title": "The Tenement Year",
+          "type": "master",
+          "main_release": 922815,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/64966",
+          "year": 1988,
+          "thumb": "https://i.discogs.com/L-JhfjSR7zRGtteaxqzgou5x8BX0p1CH9kydCUDzyLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjgx/NS0xMzIyMzM3ODQ1/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 65,
+              "in_collection": 219
+            }
+          }
+        },
+        {
+          "id": 5490734,
+          "status": "Accepted",
+          "type": "release",
+          "format": "Cass, Promo, Smplr",
+          "label": "Fontana, PolyGram Records",
+          "title": "Cloudland - Songs From",
+          "resource_url": "https://api.discogs.com/releases/5490734",
+          "role": "Main",
+          "artist": "Pere Ubu",
+          "year": 1989,
+          "thumb": "https://i.discogs.com/tTPul3ggmG1_F27e8b2R7KCqh7Pwaa-W9LjIZTHmGM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTA3/MzQtMTM5NDczNzU4/My01NDcyLmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 13,
+              "in_collection": 6
+            }
+          }
+        },
+        {
+          "id": 6587481,
+          "status": "Accepted",
+          "type": "release",
+          "format": "Cass, Promo, Smplr",
+          "label": "Vertigo, 4AD, Fontana",
+          "title": "Selections From Doolittle / Selections From Cloudland",
+          "resource_url": "https://api.discogs.com/releases/6587481",
+          "role": "Main",
+          "artist": "Pixies / Pere Ubu",
+          "year": 1989,
+          "thumb": "https://i.discogs.com/nz-a3Cwqi3nN1zR8o_hEfusq1it_DScKS_qlf3EyWZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODc0/ODEtMTQyMjU5NDYy/Mi04MzczLmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 84,
+              "in_collection": 5
+            }
+          }
+        },
+        {
+          "id": 242271,
+          "title": "One Man Drives While The Other Man Screams (Live, Volume Two: Pere Ubu On Tour)",
+          "type": "master",
+          "main_release": 2224136,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/242271",
+          "year": 1989,
+          "thumb": "https://i.discogs.com/XLC9t4vLzRw3j9BjtFiQDg0glT5aY2QH2olyQY2_VRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQx/MzYtMTI3MDgzMzA0/OS5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 72,
+              "in_collection": 236
+            }
+          }
+        },
+        {
+          "id": 3177144,
+          "title": "Cloudland (Compact Disc Sampler)",
+          "type": "master",
+          "main_release": 2881575,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/3177144",
+          "year": 1989,
+          "thumb": "https://i.discogs.com/NYWdiHqyFI9LxRDK_DFRqRhadc1ZMZSHJL4AYlFcEzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODE1/NzUtMTUyMjA4Nzk2/NS01NDY5LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 12,
+              "in_collection": 27
+            }
+          }
+        },
+        {
+          "id": 182554,
+          "title": "Waiting For Mary (What Are We Doing Here?)",
+          "type": "master",
+          "main_release": 1193224,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/182554",
+          "year": 1989,
+          "thumb": "https://i.discogs.com/yy5SlDnTUe6q1s4YVzspAoyhN9dyGthBDWuwDBf37Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTMy/MjQtMTQ4MzU2NjYz/MS0yNjY3LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 49,
+              "in_collection": 154
+            }
+          }
+        },
+        {
+          "id": 182556,
+          "title": "Love, Love, Love",
+          "type": "master",
+          "main_release": 507938,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/182556",
+          "year": 1989,
+          "thumb": "https://i.discogs.com/MlGmr7Xvjk3Z8bUFwaw0n7PVo1wKH6IuRl66XKbnkbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzkz/OC0xNzQ2NDU0NjA2/LTgxNjMuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 17,
+              "in_collection": 90
+            }
+          }
+        },
+        {
+          "id": 180176,
+          "title": "Breath (Don't Let's Talk About Tomorrow)",
+          "type": "master",
+          "main_release": 824176,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/180176",
+          "year": 1989,
+          "thumb": "https://i.discogs.com/Ey734t0_KI5Hd8xoGu2wXIfhr4RCwW3pyCh07RZKJd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDE3/Ni0xNDM1MzI1NDQ5/LTk1MjMuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 47,
+              "in_collection": 126
+            }
+          }
+        },
+        {
+          "id": 64980,
+          "title": "Cloudland",
+          "type": "master",
+          "main_release": 4590220,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/64980",
+          "year": 1989,
+          "thumb": "https://i.discogs.com/PBAJw1jIQJsBGMdjkwNu7XDObuddZrr-BABCGPV6c-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTAy/MjAtMTM4MDM5Mjc2/NS00NDMyLmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 150,
+              "in_collection": 430
+            }
+          }
+        },
+        {
+          "id": 228071,
+          "title": "I Hear They Smoke The Barbecue",
+          "type": "master",
+          "main_release": 794471,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/228071",
+          "year": 1990,
+          "thumb": "https://i.discogs.com/V4a8CvHmQvzVd47pfwCfuFCUz5js7dWaLwm41EJI2ZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDQ3/MS0xMTU5NDg3NDA5/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 39,
+              "in_collection": 136
+            }
+          }
+        },
+        {
+          "id": 7146076,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, EP, Promo",
+          "label": "Fontana, Mercury",
+          "title": "Worlds In Collision",
+          "resource_url": "https://api.discogs.com/releases/7146076",
+          "role": "Main",
+          "artist": "Pere Ubu",
+          "year": 1991,
+          "thumb": "https://i.discogs.com/x_ATtckBit-BXM2zau-h3QaLWBufmnLyxCXR-FK6WO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYw/NzYtMTcxMDY5NTQ1/NC03NDc5LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 15,
+              "in_collection": 43
+            }
+          }
+        },
+        {
+          "id": 32568654,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Transcription",
+          "label": "College Media, Inc., Neer Perfect Productions",
+          "title": "The TDK New Music Report: On The CMJ Radio Network Show #40",
+          "resource_url": "https://api.discogs.com/releases/32568654",
+          "role": "Main",
+          "artist": "Various / Pere Ubu",
+          "year": 1991,
+          "thumb": "https://i.discogs.com/D5lAjdaoNrKqeVkMJmmlTbgNLL5HNLrITirYxGIYmD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTY4/NjU0LTE3MzQyMjgw/MDEtOTEyMy5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 3,
+              "in_collection": 1
+            }
+          }
+        },
+        {
+          "id": 335205,
+          "title": "Oh Catherine",
+          "type": "master",
+          "main_release": 2294173,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/335205",
+          "year": 1991,
+          "thumb": "https://i.discogs.com/-3o-FTpoyAXVAJYu33S83VJnicIghEQilyHyimyEbqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTQx/NzMtMTI5Nzk1NjAw/OC5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 36,
+              "in_collection": 88
+            }
+          }
+        },
+        {
+          "id": 64988,
+          "title": "Worlds In Collision",
+          "type": "master",
+          "main_release": 681999,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/64988",
+          "year": 1991,
+          "thumb": "https://i.discogs.com/fPY_aD_WAokdMYRD72yA04uiFNTD2ckPoX2qUE1kN3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTk5/OS0xNDU1NjI0NjUw/LTE0MjAuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 144,
+              "in_collection": 553
+            }
+          }
+        },
+        {
+          "id": 64959,
+          "title": "Story Of My Life",
+          "type": "master",
+          "main_release": 931900,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/64959",
+          "year": 1992,
+          "thumb": "https://i.discogs.com/-v7vkihV4_RAFPFBiQSzU0IakcIgUSz8pbospGNWxq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTkw/MC0xMTc0MjUxMjM2/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 41,
+              "in_collection": 373
+            }
+          }
+        },
+        {
+          "id": 4620520,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Promo",
+          "label": "Imago (3)",
+          "title": "Kathleen",
+          "resource_url": "https://api.discogs.com/releases/4620520",
+          "role": "Main",
+          "artist": "Pere Ubu",
+          "year": 1993,
+          "thumb": "https://i.discogs.com/uLPW52m5VnOv1UquQCfoPMqSSWD7Mgfpz6brg8HNpFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjA1/MjAtMTM3MDE3NTU3/MS03OTA2LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 24,
+              "in_collection": 49
+            }
+          }
+        },
+        {
+          "id": 14352996,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Single, Promo",
+          "label": "Imago (3)",
+          "title": "Sleepwalk",
+          "resource_url": "https://api.discogs.com/releases/14352996",
+          "role": "Main",
+          "artist": "Pere Ubu",
+          "year": 1993,
+          "thumb": "https://i.discogs.com/42d6s1rpMHQbxNp8SkX1iJxbH0LGIhQlgTKkpzkSqds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUy/OTk2LTE1NzI4MDE1/MzQtNjk2MC5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 8,
+              "in_collection": 5
+            }
+          }
+        },
+        {
+          "id": 32416353,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Transcription",
+          "label": "Westwood One Radio Networks",
+          "title": "On The Edge",
+          "resource_url": "https://api.discogs.com/releases/32416353",
+          "role": "Main",
+          "artist": "X (5) / Pere Ubu / Daniel Lanois / Sarah Brightman",
+          "year": 1993,
+          "thumb": "https://i.discogs.com/6PyR842S-DHN5ESxT74sPtXJmjGg08w7SrMF3RZBpfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDE2/MzUzLTE3MzI3NTc2/MjQtOTMyMi5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 12,
+              "in_collection": 2
+            }
+          }
+        },
+        {
+          "id": 977294,
+          "title": "The Hearpen Singles",
+          "type": "master",
+          "main_release": 1098092,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/977294",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/21EAzPDCx73E12BpzeIGxPBGGh8WKFmGZv-fAVeE1kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgw/OTItMTQwMTUzMDkw/NC0yMjI2LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 356,
+              "in_collection": 829
+            }
+          }
+        },
+        {
+          "id": 241124,
+          "title": "Folly Of Youth See Dee +",
+          "type": "master",
+          "main_release": 1100254,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/241124",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/-YqBqPoQJ-2p9tI5AsR8BeH_dvddwNsKuoeT2pMsHZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAy/NTQtMTUyNzI2NDgw/MC00OTQ4LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 14,
+              "in_collection": 149
+            }
+          }
+        },
+        {
+          "id": 65000,
+          "title": "Ray Gun Suitcase",
+          "type": "master",
+          "main_release": 522705,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/65000",
+          "year": 1995,
+          "thumb": "https://i.discogs.com/CAUBZ2Jmz1rXjFIXaHmXCLEEuTjzyy-ZYqZo07NFKvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjcw/NS0xMjgxOTU4ODk2/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 66,
+              "in_collection": 625
+            }
+          }
+        },
+        {
+          "id": 1117280,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CD, Single, Enh",
+          "label": "Tim/Kerr Records, Tim/Kerr Records",
+          "title": "Beach Boys  See Dee +",
+          "resource_url": "https://api.discogs.com/releases/1117280",
+          "role": "Main",
+          "artist": "Pere Ubu",
+          "year": 1996,
+          "thumb": "https://i.discogs.com/NNUq-EjPf0vTizIbaMTKkVlKFt37q4htqPd72eIbL6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcy/ODAtMTM1Mjg0OTA1/Ny05OTUwLmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 18,
+              "in_collection": 223
+            }
+          }
+        },
+        {
+          "id": 217672,
+          "title": "Datapanik In The Year Zero",
+          "type": "master",
+          "main_release": 464353,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/217672",
+          "year": 1996,
+          "thumb": "https://i.discogs.com/Hi8pwoFwcO709l59QALAGe7krFsZ0bIifW2RwS4URO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDM1/My0xNzQ1NzgwMTg5/LTk4OTIuanBlZw.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 212,
+              "in_collection": 1164
+            }
+          }
+        },
+        {
+          "id": 583972,
+          "title": "Warning Bells Are Ringing (Pere Ubu Box Set Preview)",
+          "type": "master",
+          "main_release": 948348,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/583972",
+          "year": 1996,
+          "thumb": "https://i.discogs.com/I1XzW4ebxz0fvSNdvS917Ti5r2fAqQeJWtGFNiYnrnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODM0/OC0xMTc2MTk5MDU2/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 24,
+              "in_collection": 107
+            }
+          }
+        },
+        {
+          "id": 64994,
+          "title": "Pennsylvania",
+          "type": "master",
+          "main_release": 970105,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/64994",
+          "year": 1998,
+          "thumb": "https://i.discogs.com/rlXWKTdQoHf7MkCbKY9rt1YIfcNjKgWuBh3rM6wsbzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDEw/NS0xMTc5MTY0MjQ5/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 41,
+              "in_collection": 528
+            }
+          }
+        },
+        {
+          "id": 334239,
+          "title": "Apocalypse Now",
+          "type": "master",
+          "main_release": 2869710,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/334239",
+          "year": 1999,
+          "thumb": "https://i.discogs.com/x8onttT0zi3dRRI0VJ5HpX7LCV42fuVJ-O_Xeaj0Qys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njk3/MTAtMTcxNjIxMTMz/NS04ODE5LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 42,
+              "in_collection": 125
+            }
+          }
+        },
+        {
+          "id": 2290384,
+          "title": "The Shape Of Things",
+          "type": "master",
+          "main_release": 2189760,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/2290384",
+          "year": 2000,
+          "thumb": "https://i.discogs.com/FvbxUxtQDIWwflRSxtObEId9nRKZDVoHryLb01OCk9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODk3/NjAtMTI2ODg0ODU4/MS5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 77,
+              "in_collection": 232
+            }
+          }
+        },
+        {
+          "id": 3392923,
+          "title": "Slow Walking Daddy",
+          "type": "master",
+          "main_release": 559183,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/3392923",
+          "year": 2002,
+          "thumb": "https://i.discogs.com/kMzZH0lOxdfXqKmY-rm_QuhM9benJghEYbV07lzeQYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTE4/My0xMTMxNDc2MTIw/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 41,
+              "in_collection": 195
+            }
+          }
+        },
+        {
+          "id": 65004,
+          "title": "St. Arkansas",
+          "type": "master",
+          "main_release": 532279,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/65004",
+          "year": 2002,
+          "thumb": "https://i.discogs.com/ZvpXhmw_u0GD__eLyFN3_twjFupKedgUTh_8Qv6A3DE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjI3/OS0xMjYzMjM4NDky/LmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 45,
+              "in_collection": 437
+            }
+          }
+        },
+        {
+          "id": 26602616,
+          "status": "Accepted",
+          "type": "release",
+          "format": "CDr, Single",
+          "label": "Glitterhouse Records",
+          "title": "Caroleen",
+          "resource_url": "https://api.discogs.com/releases/26602616",
+          "role": "Main",
+          "artist": "Pere Ubu",
+          "year": 2006,
+          "thumb": "https://i.discogs.com/MNQ3fJYBGeaLrWRmhni7-1UfzeAjTUnlcDOZrr_ZW6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAy/NjE2LTE2ODAyNjAw/NjEtMzA4Ni5qcGVn.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 2,
+              "in_collection": 0
+            }
+          }
+        },
+        {
+          "id": 631113,
+          "title": "Why I Remix Women",
+          "type": "master",
+          "main_release": 5085723,
+          "artist": "Pere Ubu",
+          "role": "Main",
+          "resource_url": "https://api.discogs.com/masters/631113",
+          "year": 2006,
+          "thumb": "https://i.discogs.com/J28_QQushFwKcb_CED7SHTvWtP0ya2URKOerhnVRaPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODU3/MjMtMTU2MjM5OTE1/OS03MzIyLmpwZWc.jpeg",
+          "stats": {
+            "community": {
+              "in_wantlist": 29,
+              "in_collection": 88
+            }
+          }
+        }
+      ]
+    }
+  }
+}
