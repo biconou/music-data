@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <config key="columnsToClean">
+            <config key="selected_Internals">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="title"/>
+            </config>
+            <entry key="mode" type="xstring" value="MANUAL"/>
+            <config key="patternFilter">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="isCaseSensitive" type="xboolean" value="false"/>
+                <entry key="isInverted" type="xboolean" value="false"/>
+            </config>
+            <config key="manualFilter">
+                <config key="manuallySelected">
+                    <entry key="array-size" type="xint" value="1"/>
+                    <entry key="0" type="xstring" value="title"/>
+                </config>
+                <config key="manuallyDeselected">
+                    <entry key="array-size" type="xint" value="8"/>
+                    <entry key="0" type="xstring" value="artist"/>
+                    <entry key="1" type="xstring" value="type"/>
+                    <entry key="2" type="xstring" value="role"/>
+                    <entry key="3" type="xstring" value="status"/>
+                    <entry key="4" type="xstring" value="format"/>
+                    <entry key="5" type="xstring" value="label"/>
+                    <entry key="6" type="xstring" value="resourceUrl"/>
+                    <entry key="7" type="xstring" value="thumbnailUrl"/>
+                </config>
+                <entry key="includeUnknownColumns" type="xboolean" value="false"/>
+            </config>
+            <config key="typeFilter">
+                <config key="selectedTypes">
+                    <entry key="array-size" type="xint" value="0"/>
+                </config>
+            </config>
+        </config>
+        <entry key="removeAccents" type="xboolean" value="true"/>
+        <entry key="removeNonASCII" type="xboolean" value="true"/>
+        <entry key="removeNonPrintableChars" type="xboolean" value="true"/>
+        <entry key="removeLettersCategory" type="xstring" value="NONE"/>
+        <entry key="removeNumbers" type="xboolean" value="false"/>
+        <entry key="removePunctuation" type="xboolean" value="true"/>
+        <entry key="removeSymbols" type="xboolean" value="true"/>
+        <entry key="removeCustomCharactersString" type="xstring" value=""/>
+        <entry key="removeAllWhitespace" type="xboolean" value="true"/>
+        <entry key="removeLeadingWhitespace" type="xboolean" value="true"/>
+        <entry key="removeTrailingWhitespace" type="xboolean" value="true"/>
+        <entry key="removeDuplicateWhitespace" type="xboolean" value="true"/>
+        <entry key="replaceLinebreakStrategy" type="xstring" value="KEEP"/>
+        <entry key="replaceSpecialWhitespaceStrategy" type="xstring" value="REPLACE_WITH_STANDARDSPACE"/>
+        <entry key="changeCasing" type="xstring" value="UPPERCASE"/>
+        <entry key="changeCasingCapitalizeAfter" type="xstring" value="WHITESPACE"/>
+        <entry key="changeCasingCapitalizeAfterCharacters" type="xstring" value=""/>
+        <entry key="changeCasingCapitalizeFirstCharacter" type="xboolean" value="true"/>
+        <entry key="pad" type="xstring" value="NO"/>
+        <entry key="padMinimumStringLength" type="xint" value="1"/>
+        <entry key="padFillCharacter" type="xstring" value="_"/>
+        <entry key="output" type="xstring" value="APPEND"/>
+        <entry key="outputSuffix" type="xstring" value=" (Cleaned)"/>
+    </config>
+    <config key="variables"/>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="factory" type="xstring" value="org.knime.base.node.preproc.stringcleaner.StringCleanerNodeFactory"/>
+    <entry key="node-name" type="xstring" value="String Cleaner"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.3.3.v202410291553"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.3.3.v202410301420"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="String Cleaner"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 26, Cols: 15"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="2253a1fc-b217-4fdf-90b7-1600dcb8010f"/>
+    </config>
+</config>
